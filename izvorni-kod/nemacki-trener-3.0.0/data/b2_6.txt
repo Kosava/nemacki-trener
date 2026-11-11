@@ -1,0 +1,169 @@
+# Nivo B2 — deo 6
+
+## Opšti pridevi
+A | angemessen | | primeren | Der Preis ist angemessen. | Cena je primerena.
+A | unangemessen | | neprimeren | Sein Verhalten war unangemessen. | Njegovo ponašanje je bilo neprimereno.
+A | angewiesen | | upućen, zavisan (od) | Ich bin auf deine Hilfe angewiesen. | Zavisim od tvoje pomoći.
+A | bedeutend | | značajan | Das ist ein bedeutender Erfolg. | To je značajan uspeh.
+A | bemerkenswert | | vredan pažnje | Das ist eine bemerkenswerte Leistung. | To je izvanredno dostignuće.
+A | bewusst | | svestan; namerno | Das habe ich bewusst gemacht. | To sam namerno uradio.
+A | unbewusst | | nesvestan | Das passiert oft unbewusst. | To se često dešava nesvesno.
+A | eindrucksvoll | | impresivan | Die Landschaft ist eindrucksvoll. | Pejzaž je impresivan.
+A | eingeschränkt | | ograničen | Die Sicht ist eingeschränkt. | Vidljivost je ograničena.
+A | entsprechend | | odgovarajući | Bitte wählen Sie die entsprechende Option. | Molim izaberite odgovarajuću opciju.
+A | erfahren | | iskusan | Er ist ein erfahrener Lokführer. | On je iskusan mašinovođa.
+A | erstaunlich | | zapanjujući | Das Ergebnis ist erstaunlich. | Rezultat je zapanjujući.
+A | fortgeschritten | | napredan | Der Kurs ist für Fortgeschrittene. | Kurs je za napredne.
+A | gewaltig | | ogroman, silan | Das ist ein gewaltiger Unterschied. | To je ogromna razlika.
+A | gewohnt | | naviknut; uobičajen | Ich bin es gewohnt, früh aufzustehen. | Navikao sam da rano ustajem.
+A | gezielt | | ciljan, usmeren | Wir brauchen gezielte Maßnahmen. | Potrebne su nam ciljane mere.
+A | gleichwertig | | ravnopravan, iste vrednosti | Die Abschlüsse sind gleichwertig. | Diplome su iste vrednosti.
+A | heftig | | žestok | Es gab einen heftigen Streit. | Došlo je do žestoke svađe.
+A | hinreichend | | dovoljan | Es gibt keine hinreichenden Beweise. | Nema dovoljno dokaza.
+A | intensiv | | intenzivan | Wir arbeiten intensiv an dem Projekt. | Intenzivno radimo na projektu.
+A | kompliziert | | komplikovan | Die Situation ist kompliziert. | Situacija je komplikovana.
+A | konsequent | | dosledan | Man muss konsequent bleiben. | Treba ostati dosledan.
+A | kurzfristig | | kratkoročan; na brzinu | Der Termin wurde kurzfristig abgesagt. | Termin je otkazan u poslednjem trenutku.
+A | langfristig | | dugoročan | Wir planen langfristig. | Planiramo dugoročno.
+A | maßgeblich | | merodavan, odlučujući | Er war maßgeblich am Erfolg beteiligt. | Imao je ključnu ulogu u uspehu.
+A | mehrfach | | višestruk | Er wurde mehrfach ausgezeichnet. | Više puta je nagrađen.
+A | nachteilig | | nepovoljan, štetan | Das ist nachteilig für uns. | To je nepovoljno za nas.
+A | vorteilhaft | | povoljan, koristan | Die Lage ist sehr vorteilhaft. | Lokacija je veoma povoljna.
+A | offenbar | | očigledno | Er hat offenbar keine Zeit. | Očigledno nema vremena.
+A | regelrecht | | pravi, bukvalno | Das war ein regelrechtes Chaos. | To je bio pravi haos.
+A | sachkundig | | stručan | Wir brauchen eine sachkundige Beratung. | Potreban nam je stručan savet.
+A | schrittweise | | postepen | Die Reform wird schrittweise eingeführt. | Reforma se postepeno uvodi.
+A | spürbar | | osetan | Die Preise sind spürbar gestiegen. | Cene su osetno porasle.
+A | stabil | | stabilan | Die Lage ist stabil. | Situacija je stabilna.
+A | umfassend | | sveobuhvatan | Wir bieten eine umfassende Beratung. | Nudimo sveobuhvatno savetovanje.
+A | unerwartet | | neočekivan | Das kam völlig unerwartet. | To je došlo potpuno neočekivano.
+A | unzureichend | | nedovoljan | Die Informationen sind unzureichend. | Informacije su nedovoljne.
+A | verbindlich | | obavezujući | Die Anmeldung ist verbindlich. | Prijava je obavezujuća.
+A | unverbindlich | | neobavezujući | Das Angebot ist unverbindlich. | Ponuda je neobavezujuća.
+A | verlässlich | | pouzdan | Er ist ein verlässlicher Partner. | On je pouzdan partner.
+A | vielfältig | | raznolik | Das Angebot ist sehr vielfältig. | Ponuda je veoma raznolika.
+A | vorhanden | | postojeći, raspoloživ | Alle Unterlagen sind vorhanden. | Sva dokumentacija postoji.
+A | zeitgemäß | | savremen | Die Methode ist nicht mehr zeitgemäß. | Metoda više nije savremena.
+A | zielgerichtet | | usmeren ka cilju | Wir arbeiten zielgerichtet. | Radimo ciljano.
+A | zwangsläufig | | neminovno | Das führt zwangsläufig zu Problemen. | To neminovno dovodi do problema.
+A | aufwendig | | zahtevan, skup (trudom) | Die Reparatur ist sehr aufwendig. | Popravka je veoma zahtevna.
+A | gebräuchlich | | uobičajen (u upotrebi) | Dieses Wort ist nicht mehr gebräuchlich. | Ova reč više nije u upotrebi.
+A | geläufig | | poznat, uobičajen | Der Ausdruck ist mir nicht geläufig. | Taj izraz mi nije poznat.
+A | ungünstig | | nepovoljan | Der Zeitpunkt ist ungünstig. | Trenutak je nepovoljan.
+A | unübersichtlich | | nepregledan | Die Webseite ist unübersichtlich. | Veb-stranica je nepregledna.
+A | übersichtlich | | pregledan | Die Tabelle ist übersichtlich. | Tabela je pregledna.
+A | zumutbar | | prihvatljiv (razumno je očekivati) | Die Fahrzeit ist zumutbar. | Vreme putovanja je prihvatljivo.
+A | unzumutbar | | neprihvatljiv | Die Bedingungen sind unzumutbar. | Uslovi su neprihvatljivi.
+A | ausgelastet | | potpuno zauzet (kapacitet) | Die Werkstatt ist voll ausgelastet. | Radionica je potpuno zauzeta.
+A | überlastet | | preopterećen | Das Personal ist überlastet. | Osoblje je preopterećeno.
+A | sicherheitsrelevant | | bitan za bezbednost | Der Mangel ist sicherheitsrelevant. | Nedostatak je bitan za bezbednost.
+A | vorschriftsmäßig | | propisan, po propisu | Der Wagen wurde vorschriftsmäßig geprüft. | Vagon je pregledan po propisu.
+
+## Male reči
+W | angesichts | | s obzirom na (+ Gen) | Angesichts der Lage müssen wir handeln. | S obzirom na situaciju moramo da delujemo.
+W | aufgrund | | zbog, na osnovu (+ Gen) | Aufgrund des Wetters fällt das Spiel aus. | Zbog vremena utakmica se otkazuje.
+W | infolge | | usled (+ Gen) | Infolge des Unfalls war die Strecke gesperrt. | Usled nesreće pruga je bila zatvorena.
+W | anstelle | | umesto (+ Gen) | Anstelle des Chefs kam sein Vertreter. | Umesto šefa došao je njegov zamenik.
+W | hinsichtlich | | u pogledu (+ Gen) | Hinsichtlich der Kosten gibt es keine Probleme. | U pogledu troškova nema problema.
+W | zugunsten | | u korist (+ Gen) | Das Gericht entschied zugunsten des Klägers. | Sud je presudio u korist tužioca.
+W | ungeachtet | | bez obzira na (+ Gen) | Ungeachtet der Kritik machte er weiter. | Bez obzira na kritiku, nastavio je.
+W | dank | | zahvaljujući (+ Dat/Gen) | Dank deiner Hilfe haben wir es geschafft. | Zahvaljujući tvojoj pomoći, uspeli smo.
+W | gemäß | | prema, u skladu sa (+ Dat) | Gemäß den Vorschriften muss der Wagen geprüft werden. | Prema propisima, vagon mora biti pregledan.
+W | entsprechend | | u skladu sa (+ Dat) | Entsprechend Ihrem Wunsch haben wir den Termin verschoben. | U skladu sa vašom željom pomerili smo termin.
+W | zufolge | | prema (+ Dat, iza imenice) | Dem Bericht zufolge gab es keine Verletzten. | Prema izveštaju, nije bilo povređenih.
+W | seitens | | sa strane (+ Gen) | Seitens der Firma gibt es keine Einwände. | Sa strane firme nema primedbi.
+W | mittels | | pomoću (+ Gen) | Die Daten werden mittels eines Programms ausgewertet. | Podaci se obrađuju pomoću programa.
+W | zwecks | | radi (+ Gen) | Zwecks Prüfung schicken Sie bitte die Unterlagen. | Radi provere pošaljite dokumentaciju.
+W | sofern | | ukoliko | Sofern Sie Fragen haben, rufen Sie mich an. | Ukoliko imate pitanja, pozovite me.
+W | soweit | | koliko; ukoliko | Soweit ich weiß, ist er im Urlaub. | Koliko ja znam, on je na odmoru.
+W | sodass | | tako da | Es regnete stark, sodass wir zu Hause blieben. | Padala je jaka kiša, tako da smo ostali kod kuće.
+W | wohingegen | | dok (suprotno tome) | Er mag Kaffee, wohingegen sie Tee bevorzugt. | On voli kafu, dok ona više voli čaj.
+W | zumal | | utoliko više što | Ich bleibe zu Hause, zumal ich krank bin. | Ostajem kod kuće, utoliko više što sam bolestan.
+W | geschweige denn | | a kamoli | Ich kann kaum laufen, geschweige denn rennen. | Jedva hodam, a kamoli da trčim.
+W | dennoch | | ipak | Es war schwer, dennoch haben wir es geschafft. | Bilo je teško, ipak smo uspeli.
+W | demnach | | prema tome | Demnach hat er recht. | Prema tome, on je u pravu.
+W | folglich | | sledstveno, dakle | Er war nicht da, folglich wusste er nichts. | Nije bio tu, dakle ništa nije znao.
+W | somit | | time, dakle | Somit ist das Problem gelöst. | Time je problem rešen.
+W | infolgedessen | | usled toga | Infolgedessen wurde der Zug gestoppt. | Usled toga voz je zaustavljen.
+W | insofern | | utoliko | Insofern hast du recht. | Utoliko si u pravu.
+W | immerhin | | ipak, bar | Immerhin hat er sich entschuldigt. | Bar se izvinio.
+W | jedenfalls | | u svakom slučaju | Jedenfalls rufe ich dich morgen an. | U svakom slučaju, sutra ću te pozvati.
+W | ohnehin | | ionako | Ich war ohnehin in der Nähe. | Ionako sam bio u blizini.
+W | keinesfalls | | ni u kom slučaju | Das dürfen Sie keinesfalls tun. | To ni u kom slučaju ne smete da radite.
+W | unbedingt | | obavezno | Das musst du unbedingt sehen! | To obavezno moraš da vidiš!
+W | weitgehend | | uglavnom, u velikoj meri | Die Arbeiten sind weitgehend abgeschlossen. | Radovi su uglavnom završeni.
+W | überwiegend | | pretežno | Die Kunden sind überwiegend zufrieden. | Kupci su pretežno zadovoljni.
+W | vorwiegend | | pretežno | Wir arbeiten vorwiegend nachts. | Radimo pretežno noću.
+W | tatsächlich | | zaista, stvarno | Das ist tatsächlich passiert. | To se zaista dogodilo.
+W | vermutlich | | verovatno | Vermutlich kommt er später. | Verovatno će doći kasnije.
+W | angeblich | | navodno | Er ist angeblich krank. | On je navodno bolestan.
+W | zweifellos | | nesumnjivo | Das ist zweifellos die beste Lösung. | To je nesumnjivo najbolje rešenje.
+W | gewissermaßen | | u neku ruku | Das ist gewissermaßen ein Test. | To je u neku ruku test.
+W | einigermaßen | | donekle, prilično | Es geht mir einigermaßen gut. | Donekle sam dobro.
+W | vergeblich | | uzalud | Ich habe vergeblich gewartet. | Uzalud sam čekao.
+W | stets | | uvek | Er ist stets pünktlich. | On je uvek tačan.
+W | ehemals | | nekada, ranije | Das Gebäude war ehemals eine Fabrik. | Zgrada je nekada bila fabrika.
+W | beziehungsweise | | odnosno | Er wohnt in Wien beziehungsweise in der Nähe. | On živi u Beču, odnosno u blizini.
+W | nämlich | | naime | Ich komme nicht, ich bin nämlich krank. | Ne dolazim, naime bolestan sam.
+W | quasi | | takoreći | Das ist quasi dasselbe. | To je takoreći isto.
+W | sozusagen | | takoreći | Er ist sozusagen der Chef. | On je takoreći šef.
+
+## Posao i zanimanja
+N | die Arbeitssicherheit | — | bezbednost na radu | Arbeitssicherheit hat höchste Priorität. | Bezbednost na radu ima najviši prioritet.
+N | die Unfallverhütung | — | sprečavanje nesreća | Die Vorschriften zur Unfallverhütung sind streng. | Propisi o sprečavanju nesreća su strogi.
+N | die Schulung | die Schulungen | obuka | Alle Mitarbeiter müssen an der Schulung teilnehmen. | Svi zaposleni moraju da prisustvuju obuci.
+N | die Einweisung | die Einweisungen | instruktaža | Vor der Arbeit gibt es eine Einweisung. | Pre rada postoji instruktaža.
+N | die Dienstanweisung | die Dienstanweisungen | službeno uputstvo | Bitte beachten Sie die Dienstanweisung. | Molim poštujte službeno uputstvo.
+N | der Dienstplan | die Dienstpläne | raspored smena | Der Dienstplan hängt im Büro. | Raspored smena visi u kancelariji.
+N | die Bereitschaft | die Bereitschaften | dežurstvo; spremnost | Am Wochenende habe ich Bereitschaft. | Za vikend sam dežuran.
+N | der Bereitschaftsdienst | die Bereitschaftsdienste | dežurna služba | Der Bereitschaftsdienst ist rund um die Uhr erreichbar. | Dežurna služba je dostupna non-stop.
+N | die Störungsmeldung | die Störungsmeldungen | prijava kvara | Ich schreibe eine Störungsmeldung. | Pišem prijavu kvara.
+N | der Mängelbericht | die Mängelberichte | izveštaj o nedostacima | Der Wagenmeister erstellt einen Mängelbericht. | Pregledač kola sastavlja izveštaj o nedostacima.
+N | die Wartung | die Wartungen | održavanje | Die Wartung erfolgt alle drei Monate. | Održavanje se vrši svaka tri meseca.
+N | die Inspektion | die Inspektionen | inspekcija, pregled | Die Inspektion hat keine Mängel ergeben. | Pregled nije pokazao nedostatke.
+N | der Verschleiß | — | habanje | Die Teile zeigen starken Verschleiß. | Delovi pokazuju jako habanje.
+N | das Ersatzteil | die Ersatzteile | rezervni deo | Wir warten auf das Ersatzteil. | Čekamo rezervni deo.
+N | die Haftung | — | odgovornost (pravna) | Die Firma übernimmt keine Haftung. | Firma ne preuzima odgovornost.
+N | die Arbeitsunfähigkeitsbescheinigung | die Arbeitsunfähigkeitsbescheinigungen | doznaka za bolovanje | Schicken Sie uns die Arbeitsunfähigkeitsbescheinigung. | Pošaljite nam doznaku za bolovanje.
+N | der Personalausweis | die Personalausweise | lična karta | Bringen Sie Ihren Personalausweis mit. | Ponesite ličnu kartu.
+N | die Personalabteilung | die Personalabteilungen | kadrovska služba | Wenden Sie sich an die Personalabteilung. | Obratite se kadrovskoj službi.
+N | die Gehaltsabrechnung | die Gehaltsabrechnungen | platni listić | Die Gehaltsabrechnung kommt per E-Mail. | Platni listić stiže imejlom.
+N | das Bruttogehalt | die Bruttogehälter | bruto plata | Das Bruttogehalt beträgt 3500 Euro. | Bruto plata iznosi 3500 evra.
+N | das Nettogehalt | die Nettogehälter | neto plata | Netto bleiben etwa 2300 Euro. | Neto ostaje oko 2300 evra.
+N | der Zuschlag | die Zuschläge | dodatak (na platu) | Für Nachtarbeit gibt es einen Zuschlag. | Za noćni rad postoji dodatak.
+V | beanstanden | hat beanstandet | reklamirati, prijaviti nedostatak | Der Prüfer hat zwei Mängel beanstandet. | Kontrolor je prijavio dva nedostatka.
+V | dokumentieren | hat dokumentiert | dokumentovati | Jeder Schaden muss dokumentiert werden. | Svaka šteta mora biti dokumentovana.
+V | aussetzen | hat ausgesetzt | isključiti (iz saobraćaja); obustaviti | Der beschädigte Wagen wurde ausgesetzt. | Oštećeni vagon je isključen iz saobraćaja.
+V | freigeben | hat freigegeben | odobriti (za upotrebu) | Nach der Reparatur wurde der Wagen freigegeben. | Posle popravke vagon je pušten u saobraćaj.
+V | einweisen | hat eingewiesen | uvesti u posao, instruisati | Der Kollege weist mich in die Arbeit ein. | Kolega me uvodi u posao.
+V | sich abmelden | hat sich abgemeldet | odjaviti se | Vor der Pause melde ich mich ab. | Pre pauze se odjavljujem.
+V | ablösen | hat abgelöst | smeniti (smenu) | Um sechs löst mich mein Kollege ab. | U šest me kolega smenjuje.
+A | einsatzbereit | | spreman za upotrebu | Das Fahrzeug ist wieder einsatzbereit. | Vozilo je ponovo spremno za upotrebu.
+A | schadhaft | | oštećen, neispravan | Schadhafte Teile müssen ersetzt werden. | Oštećeni delovi moraju biti zamenjeni.
+A | dienstlich | | službeni | Ich bin dienstlich unterwegs. | Na službenom sam putu.
+S | Ich habe heute Nachtschicht. | Danas imam noćnu smenu.
+S | Der Wagen ist nicht betriebssicher. | Vagon nije bezbedan za saobraćaj.
+S | Bitte melden Sie alle Mängel sofort. | Molim odmah prijavite sve nedostatke.
+
+## Mediji, tehnika i komunikacija
+N | die Fachsprache | die Fachsprachen | stručni jezik | Die Fachsprache ist schwer zu verstehen. | Stručni jezik je teško razumeti.
+N | die Abkürzung | die Abkürzungen | skraćenica | Was bedeutet diese Abkürzung? | Šta znači ova skraćenica?
+N | der Fachbegriff | die Fachbegriffe | stručni termin | Erklären Sie bitte diesen Fachbegriff. | Molim objasnite ovaj stručni termin.
+N | die Rückmeldung | die Rückmeldungen | povratna informacija | Danke für die schnelle Rückmeldung. | Hvala na brzom odgovoru.
+N | die Rücksprache | die Rücksprachen | konsultacija | Nach Rücksprache mit dem Chef sage ich Ihnen Bescheid. | Posle konsultacije sa šefom javiću vam.
+N | die Anfrage | die Anfragen | upit | Vielen Dank für Ihre Anfrage. | Hvala na vašem upitu.
+N | die Auskunft | die Auskünfte | informacija, obaveštenje | Können Sie mir Auskunft geben? | Možete li mi dati informaciju?
+N | der Anhang | die Anhänge | prilog (u mejlu) | Im Anhang finden Sie die Rechnung. | U prilogu se nalazi račun.
+N | der Betreff | die Betreffe | predmet (mejla) | Schreiben Sie einen klaren Betreff. | Napišite jasan predmet.
+N | die Videokonferenz | die Videokonferenzen | video-konferencija | Die Besprechung findet als Videokonferenz statt. | Sastanak se održava kao video-konferencija.
+V | Bescheid sagen | hat Bescheid gesagt | javiti, obavestiti | Sag mir Bescheid, wenn du ankommst. | Javi mi kad stigneš.
+V | weiterleiten | hat weitergeleitet | proslediti | Ich leite Ihre E-Mail an den Kollegen weiter. | Prosleđujem vaš imejl kolegi.
+V | anhängen | hat angehängt | priložiti | Ich habe das Dokument angehängt. | Priložio sam dokument.
+V | sich melden bei | hat sich gemeldet | javiti se (+ Dat) | Ich melde mich morgen bei Ihnen. | Javiću vam se sutra.
+V | zurückrufen | hat zurückgerufen | uzvratiti poziv | Ich rufe Sie in einer Stunde zurück. | Pozvaću vas za sat vremena.
+V | ausrichten | hat ausgerichtet | preneti (poruku) | Können Sie ihm etwas ausrichten? | Možete li mu preneti poruku?
+V | erläutern | hat erläutert | objasniti (detaljno) | Er erläutert die neuen Regeln. | Objašnjava nova pravila.
+S | Im Anhang sende ich Ihnen … | U prilogu vam šaljem …
+S | Bezüglich Ihrer Anfrage teile ich Ihnen mit, dass … | U vezi sa vašim upitom obaveštavam vas da …
+S | Für Rückfragen stehe ich Ihnen gern zur Verfügung. | Za dodatna pitanja stojim vam na raspolaganju.
+S | Könnten Sie ihm bitte ausrichten, dass ich angerufen habe? | Da li biste mu preneli da sam zvao?

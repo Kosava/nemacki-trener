@@ -1,0 +1,132 @@
+# Nivo A1 — deo 3 (dopuna)
+
+## Lični podaci i porodica
+N | der Nachname | die Nachnamen | prezime | Mein Nachname ist Petrović. | Moje prezime je Petrović.
+N | das Geburtsdatum | die Geburtsdaten | datum rođenja | Wie ist Ihr Geburtsdatum? | Koji je vaš datum rođenja?
+N | der Erwachsene | die Erwachsenen | odrasla osoba | Zwei Erwachsene und ein Kind, bitte. | Dvoje odraslih i jedno dete, molim.
+
+## Hrana i piće
+N | die Schüssel | die Schüsseln | činija | Der Salat ist in der Schüssel. | Salata je u činiji.
+N | die Kanne | die Kannen | bokal; čajnik | Die Kanne ist voll. | Bokal je pun.
+N | der Pilz | die Pilze | pečurka | Ich esse gern Pilze. | Rado jedem pečurke.
+N | der Senf | — | senf | Möchtest du Senf zur Wurst? | Hoćeš li senf uz kobasicu?
+N | das Hackfleisch | — | mleveno meso | Ich kaufe ein Kilo Hackfleisch. | Kupujem kilo mlevenog mesa.
+N | das Müsli | die Müslis | musli | Zum Frühstück esse ich Müsli. | Za doručak jedem musli.
+N | die Torte | die Torten | torta | Die Torte schmeckt sehr gut. | Torta je veoma ukusna.
+N | das Bonbon | die Bonbons | bombona | Das Kind möchte ein Bonbon. | Dete želi bombonu.
+N | der Kaugummi | die Kaugummis | žvaka | Hast du einen Kaugummi? | Imaš li žvaku?
+N | das Mineralwasser | — | mineralna voda | Ein Mineralwasser, bitte. | Jednu mineralnu vodu, molim.
+N | der Kakao | — | kakao | Die Kinder trinken Kakao. | Deca piju kakao.
+N | die Soße | die Soßen | sos | Die Soße ist zu scharf. | Sos je previše ljut.
+N | die Kellnerin | die Kellnerinnen | konobarica | Die Kellnerin bringt die Speisekarte. | Konobarica donosi jelovnik.
+N | die Köchin | die Köchinnen | kuvarica | Meine Mutter ist Köchin. | Moja majka je kuvarica.
+A | reif | | zreo | Die Bananen sind noch nicht reif. | Banane još nisu zrele.
+
+## Stan i kuća
+N | die Kommode | die Kommoden | komoda | Die Socken sind in der Kommode. | Čarape su u komodi.
+N | die Matratze | die Matratzen | dušek | Die Matratze ist zu weich. | Dušek je previše mekan.
+N | der Briefkasten | die Briefkästen | poštansko sanduče | Der Brief ist im Briefkasten. | Pismo je u sandučetu.
+N | der Kamm | die Kämme | češalj | Wo ist mein Kamm? | Gde je moj češalj?
+N | die Bürste | die Bürsten | četka | Ich brauche eine Bürste. | Treba mi četka.
+N | das Putzmittel | die Putzmittel | sredstvo za čišćenje | Das Putzmittel ist unter der Spüle. | Sredstvo za čišćenje je ispod sudopere.
+N | das Taschentuch | die Taschentücher | maramica | Hast du ein Taschentuch? | Imaš li maramicu?
+V | abtrocknen | hat abgetrocknet | obrisati (sudove), osušiti | Ich trockne das Geschirr ab. | Brišem sudove.
+V | wischen | hat gewischt | brisati (pod, sto) | Ich wische den Boden. | Brišem pod.
+
+## Grad, saobraćaj i putovanje
+N | die Innenstadt | die Innenstädte | centar grada | Wir gehen in die Innenstadt. | Idemo u centar grada.
+N | die Bibliothek | die Bibliotheken | biblioteka | Die Bibliothek ist heute geschlossen. | Biblioteka je danas zatvorena.
+N | die Bar | die Bars | bar | Wir treffen uns in der Bar. | Nalazimo se u baru.
+N | der Kiosk | die Kioske | kiosk, trafika | Am Kiosk kaufe ich eine Zeitung. | Na kiosku kupujem novine.
+N | der Hafen | die Häfen | luka | Das Schiff ist im Hafen. | Brod je u luci.
+N | das Boot | die Boote | čamac | Wir fahren mit dem Boot. | Vozimo se čamcem.
+N | der Turm | die Türme | toranj, kula | Der Turm ist sehr hoch. | Toranj je veoma visok.
+N | der Spielplatz | die Spielplätze | igralište | Die Kinder sind auf dem Spielplatz. | Deca su na igralištu.
+N | der Marktplatz | die Marktplätze | pijačni trg | Das Café ist am Marktplatz. | Kafić je na trgu.
+N | der Busfahrer | die Busfahrer | vozač autobusa | Der Busfahrer ist sehr nett. | Vozač autobusa je veoma ljubazan.
+N | der Taxifahrer | die Taxifahrer | taksista | Der Taxifahrer kennt die Stadt gut. | Taksista dobro poznaje grad.
+N | die Landkarte | die Landkarten | geografska karta | Zeig mir das auf der Landkarte. | Pokaži mi to na karti.
+W | unterwegs | | na putu, usput | Ich bin gerade unterwegs. | Upravo sam na putu.
+
+## Kupovina i novac
+N | der Korb | die Körbe | korpa | Der Korb ist voll. | Korpa je puna.
+N | die Schachtel | die Schachteln | kutija | Eine Schachtel Pralinen, bitte. | Jednu kutiju bombonjera, molim.
+N | die Scheibe | die Scheiben | kriška; staklo (prozora) | Zwei Scheiben Käse, bitte. | Dve kriške sira, molim.
+N | die Handtasche | die Handtaschen | ženska tašna | Meine Handtasche ist neu. | Moja tašna je nova.
+N | der Geldbeutel | die Geldbeutel | novčanik | Ich habe meinen Geldbeutel vergessen. | Zaboravio sam novčanik.
+W | umsonst | | besplatno; uzalud | Das Wasser ist hier umsonst. | Voda je ovde besplatna.
+
+## Odeća
+N | der Knopf | die Knöpfe | dugme | An der Jacke fehlt ein Knopf. | Na jakni fali dugme.
+N | die Sandale | die Sandalen | sandala | Im Sommer trage ich Sandalen. | Leti nosim sandale.
+N | der Turnschuh | die Turnschuhe | patika | Ich brauche neue Turnschuhe. | Trebaju mi nove patike.
+N | der Hausschuh | die Hausschuhe | papuča | Wo sind meine Hausschuhe? | Gde su moje papuče?
+N | die Sonnenbrille | die Sonnenbrillen | naočare za sunce | Ich trage eine Sonnenbrille. | Nosim naočare za sunce.
+N | die Badehose | die Badehosen | kupaće gaće | Hast du deine Badehose dabei? | Jesi li poneo kupaće gaće?
+N | der Ohrring | die Ohrringe | minđuša | Sie trägt goldene Ohrringe. | Ona nosi zlatne minđuše.
+N | das Armband | die Armbänder | narukvica | Das Armband ist ein Geschenk. | Narukvica je poklon.
+
+## Telo i zdravlje
+N | die Lippe | die Lippen | usna | Meine Lippen sind trocken. | Usne su mi suve.
+N | die Zunge | die Zungen | jezik (u ustima) | Zeigen Sie bitte die Zunge. | Pokažite jezik, molim.
+N | der Daumen | die Daumen | palac | Mein Daumen tut weh. | Boli me palac.
+N | die Brust | die Brüste | grudi | Ich habe Schmerzen in der Brust. | Imam bolove u grudima.
+N | die Zehe | die Zehen | nožni prst | Meine Zehen sind kalt. | Hladni su mi prsti na nogama.
+N | die Bauchschmerzen | (samo mn.) | bol u stomaku | Das Kind hat Bauchschmerzen. | Dete ima bolove u stomaku.
+N | die Halsschmerzen | (samo mn.) | bol u grlu | Ich habe Halsschmerzen. | Boli me grlo.
+N | die Zahnschmerzen | (samo mn.) | zubobolja | Er hat starke Zahnschmerzen. | On ima jaku zubobolju.
+N | der Kinderarzt | die Kinderärzte | pedijatar | Wir gehen zum Kinderarzt. | Idemo kod pedijatra.
+V | baden | hat gebadet | kupati se | Das Kind badet jeden Abend. | Dete se kupa svake večeri.
+V | aufwachen | ist aufgewacht | probuditi se | Ich wache um sechs Uhr auf. | Budim se u šest sati.
+V | einschlafen | ist eingeschlafen | zaspati | Das Baby schläft schnell ein. | Beba brzo zaspi.
+V | träumen | hat geträumt | sanjati | Ich träume oft von zu Hause. | Često sanjam kuću.
+N | der Traum | die Träume | san (ono što se sanja) | Das war ein schöner Traum. | To je bio lep san.
+
+## Škola i učenje
+N | das Klassenzimmer | die Klassenzimmer | učionica | Das Klassenzimmer ist im ersten Stock. | Učionica je na prvom spratu.
+N | die Schultasche | die Schultaschen | školska torba | Die Schultasche ist schwer. | Školska torba je teška.
+N | der Stundenplan | die Stundenpläne | raspored časova | Hier ist der neue Stundenplan. | Evo novog rasporeda časova.
+N | das Lineal | die Lineale | lenjir | Ich brauche ein Lineal. | Treba mi lenjir.
+N | der Buntstift | die Buntstifte | drvena bojica | Das Kind malt mit Buntstiften. | Dete crta bojicama.
+N | der Sprachkurs | die Sprachkurse | kurs jezika | Ich mache einen Sprachkurs. | Idem na kurs jezika.
+V | zuhören | hat zugehört | slušati (pažljivo) | Hören Sie bitte gut zu. | Slušajte pažljivo, molim.
+
+## Slobodno vreme i sport
+N | der Spaziergang | die Spaziergänge | šetnja | Wir machen einen Spaziergang. | Idemo u šetnju.
+N | der Witz | die Witze | vic, šala | Er erzählt gern Witze. | On rado priča viceve.
+N | das Märchen | die Märchen | bajka | Oma liest ein Märchen vor. | Baka čita bajku.
+N | das Video | die Videos | video-snimak | Schau mal, ein lustiges Video! | Vidi, smešan video!
+V | grillen | hat gegrillt | roštiljati | Am Samstag grillen wir im Garten. | U subotu roštiljamo u bašti.
+V | zuschauen | hat zugeschaut | gledati, posmatrati | Die Eltern schauen beim Spiel zu. | Roditelji gledaju utakmicu.
+
+## Priroda, životinje i vreme
+N | das Futter | — | hrana za životinje | Der Hund braucht Futter. | Psu treba hrana.
+V | füttern | hat gefüttert | hraniti | Ich füttere die Katze. | Hranim mačku.
+V | bellen | hat gebellt | lajati | Der Hund bellt laut. | Pas glasno laje.
+N | der Schatten | die Schatten | senka, hlad | Wir sitzen im Schatten. | Sedimo u hladu.
+N | die Welle | die Wellen | talas | Die Wellen sind heute hoch. | Talasi su danas visoki.
+
+## Mediji, tehnika i komunikacija
+N | das Smartphone | die Smartphones | pametni telefon | Mein Smartphone ist kaputt. | Moj telefon je pokvaren.
+N | das WLAN | — | bežični internet (vaj-faj) | Gibt es hier WLAN? | Ima li ovde vaj-faj?
+N | der Anruf | die Anrufe | poziv (telefonski) | Ich warte auf einen Anruf. | Čekam poziv.
+N | der Kopfhörer | die Kopfhörer | slušalice | Ich höre Musik mit Kopfhörern. | Slušam muziku sa slušalicama.
+
+## Opšti glagoli
+V | anschauen | hat angeschaut | pogledati | Schau dir das Bild an. | Pogledaj sliku.
+V | anmachen | hat angemacht | upaliti, uključiti | Mach bitte das Licht an. | Upali svetlo, molim te.
+V | ausmachen | hat ausgemacht | ugasiti, isključiti | Mach bitte den Fernseher aus. | Ugasi televizor, molim te.
+V | einpacken | hat eingepackt | spakovati; upakovati | Ich packe den Koffer ein. | Pakujem kofer.
+V | klopfen | hat geklopft | kucati (na vrata) | Jemand klopft an die Tür. | Neko kuca na vrata.
+V | gucken | hat geguckt | gledati (razg.) | Guck mal! | Gledaj!
+V | schreien | hat geschrien | vikati, vrištati | Das Baby schreit. | Beba vrišti.
+
+## Opšti pridevi
+A | still | | tih, miran | Sei bitte still! | Budi tih, molim te!
+A | blöd | | glup (razg.) | Das ist eine blöde Idee. | To je glupa ideja.
+A | riesig | | ogroman | Das Haus ist riesig. | Kuća je ogromna.
+
+## Male reči
+W | lieber | | radije | Ich trinke lieber Tee. | Radije pijem čaj.
+W | vorbei | | prošlo, gotovo; pored | Der Sommer ist vorbei. | Leto je prošlo.
+W | nun | | sada | Was machen wir nun? | Šta sada da radimo?

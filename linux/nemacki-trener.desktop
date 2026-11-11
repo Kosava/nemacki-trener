@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Nemački Trener
+GenericName=Učenje nemačkog jezika
+Comment=Srpsko-nemački rečnik i vežbe po nivoima A1–B2
+Exec=nemacki-trener
+Icon=nemacki-trener
+Terminal=false
+Categories=Education;Languages;
+Keywords=nemački;deutsch;rečnik;učenje;
+StartupWMClass=nemacki-trener

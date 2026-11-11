@@ -1,0 +1,175 @@
+# Nivo B2 — deo 1
+# Kod glagola sa predlogom predlog je deo reči (npr. "sich freuen über"),
+# a padež je naveden u prevodu (+ Akk / + Dat).
+
+## Pozdravi i osnovni izrazi
+S | Ich möchte darauf hinweisen, dass … | Želeo bih da napomenem da …
+S | Ich gehe davon aus, dass … | Polazim od toga da …
+S | Es lässt sich nicht leugnen, dass … | Ne može se poreći da …
+S | Im Großen und Ganzen bin ich zufrieden. | Uglavnom sam zadovoljan.
+S | Das kommt für mich nicht in Frage. | To za mene ne dolazi u obzir.
+S | Das ist nicht meine Sache. | To nije moja stvar.
+S | Ich bin ganz Ihrer Meinung. | Potpuno se slažem sa vama.
+S | Da muss ich Ihnen widersprechen. | Tu moram da vam protivrečim.
+S | Ich verstehe Ihren Standpunkt, aber … | Razumem vaše stanovište, ali …
+S | Lassen Sie mich das kurz erklären. | Dozvolite da to ukratko objasnim.
+S | Wenn ich mich nicht irre, … | Ako se ne varam, …
+S | Soweit ich weiß, … | Koliko ja znam, …
+S | Was mich betrifft, … | Što se mene tiče, …
+S | Unter diesen Umständen … | Pod ovim okolnostima …
+S | Es kommt darauf an, wie man es sieht. | Zavisi kako se gleda na to.
+S | Das spielt keine Rolle. | To ne igra nikakvu ulogu.
+S | Ich habe nichts dagegen. | Nemam ništa protiv.
+S | Darauf kommt es an. | To je ono što je bitno.
+S | Ich würde vorschlagen, dass wir … | Predložio bih da …
+S | Könnten wir das auf nächste Woche verschieben? | Da li bismo mogli to da pomerimo za sledeću nedelju?
+S | Vielen Dank für Ihr Verständnis. | Hvala na razumevanju.
+S | Ich bitte um Ihr Verständnis. | Molim za razumevanje.
+S | Ich freue mich auf Ihre Antwort. | Radujem se vašem odgovoru.
+S | Zusammenfassend lässt sich sagen, dass … | Ukratko se može reći da …
+S | Abschließend möchte ich sagen, dass … | Na kraju bih želeo da kažem da …
+N | die Höflichkeit | die Höflichkeiten | učtivost | Höflichkeit kostet nichts. | Učtivost ništa ne košta.
+N | die Anrede | die Anreden | oslovljavanje | Im Brief ist die Anrede wichtig. | U pismu je oslovljavanje važno.
+N | das Missverständnis | die Missverständnisse | nesporazum | Das war ein Missverständnis. | To je bio nesporazum.
+N | die Zustimmung | die Zustimmungen | saglasnost | Ich brauche Ihre Zustimmung. | Potrebna mi je vaša saglasnost.
+N | die Ablehnung | die Ablehnungen | odbijanje | Die Ablehnung kam per Post. | Odbijenica je stigla poštom.
+N | die Bitte | die Bitten | molba | Ich habe eine Bitte an Sie. | Imam jednu molbu za vas.
+N | der Hinweis | die Hinweise | napomena, uputstvo | Danke für den Hinweis! | Hvala na napomeni!
+V | hinweisen auf | hat hingewiesen | ukazati na (+ Akk) | Er hat auf den Fehler hingewiesen. | Ukazao je na grešku.
+V | sich irren | hat sich geirrt | varati se | Da irren Sie sich. | Tu se varate.
+V | zugeben | hat zugegeben | priznati | Ich gebe zu, dass ich zu spät war. | Priznajem da sam zakasnio.
+V | ansprechen | hat angesprochen | osloviti; pokrenuti (temu) | Ich möchte ein Problem ansprechen. | Želim da pokrenem jedan problem.
+V | erwidern | hat erwidert | uzvratiti, odgovoriti | Sie erwiderte nichts. | Ništa nije odgovorila.
+V | sich äußern zu | hat sich geäußert | izjasniti se o (+ Dat) | Er wollte sich nicht dazu äußern. | Nije želeo da se izjasni o tome.
+V | betonen | hat betont | naglasiti | Sie betonte die Bedeutung der Bildung. | Naglasila je značaj obrazovanja.
+A | ausdrücklich | | izričit | Er hat das ausdrücklich verboten. | On je to izričito zabranio.
+A | sachlich | | objektivan, činjeničan | Bleiben wir bitte sachlich. | Ostanimo, molim, objektivni.
+W | selbstverständlich | | podrazumeva se, naravno | Selbstverständlich helfe ich Ihnen. | Naravno da ću vam pomoći.
+W | ausnahmsweise | | izuzetno, ovaj put | Ausnahmsweise darfst du heute länger bleiben. | Izuzetno danas smeš da ostaneš duže.
+W | keineswegs | | nikako | Das ist keineswegs sicher. | To nikako nije sigurno.
+W | durchaus | | svakako, sasvim | Das ist durchaus möglich. | To je sasvim moguće.
+
+## Lični podaci i porodica
+N | die Herkunft | — | poreklo | Seine Herkunft spielt keine Rolle. | Njegovo poreklo nije bitno.
+N | die Abstammung | — | poreklo, loza | Sie ist serbischer Abstammung. | Ona je srpskog porekla.
+N | der Lebensstil | die Lebensstile | stil života | Er hat einen gesunden Lebensstil. | On ima zdrav stil života.
+N | die Lebensweise | die Lebensweisen | način života | Unsere Lebensweise hat sich verändert. | Naš način života se promenio.
+N | die Selbstständigkeit | — | samostalnost | Kinder sollen Selbstständigkeit lernen. | Deca treba da uče samostalnost.
+N | die Unabhängigkeit | — | nezavisnost | Finanzielle Unabhängigkeit ist wichtig. | Finansijska nezavisnost je važna.
+N | die Partnerschaft | die Partnerschaften | partnerstvo, veza | Eine Partnerschaft braucht Vertrauen. | Vezi je potrebno poverenje.
+N | die Zuneigung | — | naklonost | Er zeigt ihr seine Zuneigung. | Pokazuje joj svoju naklonost.
+N | die Rücksicht | — | obzir | Nimm bitte Rücksicht auf die anderen! | Imaj obzira prema drugima!
+N | der Respekt | — | poštovanje | Kinder sollen Respekt vor Älteren haben. | Deca treba da poštuju starije.
+N | die Pubertät | — | pubertet | Mein Sohn ist in der Pubertät. | Moj sin je u pubertetu.
+N | der Konflikt | die Konflikte | sukob | Der Konflikt zwischen den Generationen ist normal. | Sukob generacija je normalan.
+N | die Auseinandersetzung | die Auseinandersetzungen | rasprava, sukob | Es gab eine heftige Auseinandersetzung. | Došlo je do žestoke rasprave.
+N | die Versöhnung | die Versöhnungen | pomirenje | Nach dem Streit kam die Versöhnung. | Posle svađe je usledilo pomirenje.
+N | das Vorbild | die Vorbilder | uzor | Mein Vater ist mein Vorbild. | Moj otac je moj uzor.
+N | die Lebenserfahrung | die Lebenserfahrungen | životno iskustvo | Großeltern haben viel Lebenserfahrung. | Bake i deke imaju mnogo životnog iskustva.
+N | der Ruhestand | — | penzija (stanje) | Mein Vater ist seit einem Jahr im Ruhestand. | Moj otac je godinu dana u penziji.
+N | das Pflegeheim | die Pflegeheime | dom za stare | Die Oma lebt in einem Pflegeheim. | Baka živi u domu za stare.
+N | die Adoption | die Adoptionen | usvajanje | Die Adoption dauert lange. | Usvajanje dugo traje.
+N | das Sorgerecht | — | starateljstvo | Die Mutter hat das Sorgerecht. | Majka ima starateljstvo.
+V | Rücksicht nehmen auf | hat Rücksicht genommen | imati obzira prema (+ Akk) | Wir nehmen Rücksicht auf die Nachbarn. | Imamo obzira prema komšijama.
+V | sich anpassen an | hat sich angepasst | prilagoditi se (+ Akk) | Er hat sich schnell an das neue Leben angepasst. | Brzo se prilagodio novom životu.
+V | sich durchsetzen | hat sich durchgesetzt | izboriti se, nametnuti se | Sie kann sich gut durchsetzen. | Ona ume dobro da se izbori.
+V | sich trennen von | hat sich getrennt | rastati se od (+ Dat) | Sie hat sich von ihrem Mann getrennt. | Rastala se od muža.
+V | verzeihen | hat verziehen | oprostiti | Kannst du mir verzeihen? | Možeš li da mi oprostiš?
+V | vertrauen auf | hat vertraut | uzdati se u (+ Akk) | Ich vertraue auf dein Urteil. | Uzdam se u tvoj sud.
+V | aufziehen | hat aufgezogen | odgajati | Die Großeltern haben das Kind aufgezogen. | Baka i deka su odgajili dete.
+V | sich entfremden | hat sich entfremdet | otuđiti se | Die Geschwister haben sich entfremdet. | Brat i sestra su se otuđili.
+V | prägen | hat geprägt | oblikovati, obeležiti | Die Kindheit hat ihn stark geprägt. | Detinjstvo ga je snažno obeležilo.
+A | unabhängig | | nezavisan | Sie ist finanziell unabhängig. | Ona je finansijski nezavisna.
+A | rücksichtsvoll | | obziran | Er ist sehr rücksichtsvoll. | On je veoma obziran.
+A | rücksichtslos | | bezobziran | Das war rücksichtslos. | To je bilo bezobzirno.
+A | anspruchsvoll | | zahtevan | Sie ist eine anspruchsvolle Person. | Ona je zahtevna osoba.
+A | belastbar | | otporan na stres | Er ist sehr belastbar. | On dobro podnosi stres.
+A | gewissenhaft | | savestan | Sie arbeitet gewissenhaft. | Ona radi savesno.
+A | zielstrebig | | uporan, odlučan (ka cilju) | Er ist sehr zielstrebig. | On je veoma odlučan.
+A | spontan | | spontan | Wir sind spontan ans Meer gefahren. | Spontano smo otišli na more.
+A | aufgeschlossen | | otvoren (za nove stvari) | Sie ist neuen Ideen gegenüber aufgeschlossen. | Otvorena je za nove ideje.
+A | konservativ | | konzervativan | Meine Eltern sind eher konservativ. | Moji roditelji su pre konzervativni.
+A | gleichberechtigt | | ravnopravan | Mann und Frau sind gleichberechtigt. | Muškarac i žena su ravnopravni.
+S | Wir haben uns aus den Augen verloren. | Izgubili smo se iz vida.
+S | Er ist mir sehr ans Herz gewachsen. | Mnogo mi je prirastao srcu.
+S | Wir sind auf derselben Wellenlänge. | Na istoj smo talasnoj dužini.
+
+## Brojevi, vreme i datumi
+N | der Zeitraum | die Zeiträume | vremenski period | In diesem Zeitraum war ich im Ausland. | U tom periodu sam bio u inostranstvu.
+N | der Zeitpunkt | die Zeitpunkte | trenutak (vremenski) | Der Zeitpunkt ist ungünstig. | Trenutak je nepovoljan.
+N | das Jahrzehnt | die Jahrzehnte | decenija | Das ist schon seit Jahrzehnten so. | To je tako već decenijama.
+N | die Epoche | die Epochen | epoha | Das war eine wichtige Epoche. | To je bila važna epoha.
+N | der Zeitplan | die Zeitpläne | vremenski plan | Wir sind im Zeitplan. | U okviru smo plana.
+N | die Verzögerung | die Verzögerungen | odlaganje, kašnjenje | Es gibt Verzögerungen beim Bau. | Ima kašnjenja u gradnji.
+N | der Abstand | die Abstände | razmak | Halten Sie Abstand! | Držite razmak!
+N | die Häufigkeit | die Häufigkeiten | učestalost | Die Häufigkeit der Unfälle ist gesunken. | Učestalost nesreća je opala.
+N | der Durchschnitt | die Durchschnitte | prosek | Im Durchschnitt verdient er 3000 Euro. | U proseku zarađuje 3000 evra.
+N | die Anzahl | — | broj (količina) | Die Anzahl der Teilnehmer ist gestiegen. | Broj učesnika je porastao.
+N | der Anteil | die Anteile | udeo | Der Anteil der Frauen beträgt 40 Prozent. | Udeo žena iznosi 40 odsto.
+N | die Mehrzahl | — | većina; množina | Die Mehrzahl der Befragten war zufrieden. | Većina ispitanih je bila zadovoljna.
+N | das Maß | die Maße | mera | Das geht über das normale Maß hinaus. | To prelazi normalnu meru.
+N | die Zunahme | die Zunahmen | porast | Es gibt eine Zunahme des Verkehrs. | Postoji porast saobraćaja.
+N | der Rückgang | die Rückgänge | pad, opadanje | Der Rückgang der Zahlen ist deutlich. | Pad brojeva je očigledan.
+V | sich verzögern | hat sich verzögert | odložiti se, kasniti | Die Lieferung verzögert sich. | Isporuka kasni.
+V | vorverlegen | hat vorverlegt | pomeriti na ranije | Der Termin wurde vorverlegt. | Termin je pomeren na ranije.
+V | befristen | hat befristet | ograničiti (rokom) | Der Vertrag ist auf ein Jahr befristet. | Ugovor je ograničen na godinu dana.
+V | sich erstrecken über | hat sich erstreckt | protezati se na (+ Akk) | Das Projekt erstreckt sich über drei Jahre. | Projekat se proteže na tri godine.
+V | sich verdoppeln | hat sich verdoppelt | udvostručiti se | Die Preise haben sich verdoppelt. | Cene su se udvostručile.
+V | schätzen | hat geschätzt | proceniti; ceniti | Ich schätze, es dauert zwei Stunden. | Procenjujem da traje dva sata.
+A | rechtzeitig | | blagovremen | Bitte melden Sie sich rechtzeitig an. | Molim prijavite se blagovremeno.
+A | vorübergehend | | privremen | Das Geschäft ist vorübergehend geschlossen. | Prodavnica je privremeno zatvorena.
+A | jährlich | | godišnji | Die jährliche Gebühr beträgt 50 Euro. | Godišnja taksa iznosi 50 evra.
+A | wöchentlich | | nedeljni | Wir haben ein wöchentliches Treffen. | Imamo nedeljni sastanak.
+A | durchschnittlich | | prosečan | Er ist durchschnittlich groß. | On je prosečne visine.
+A | zahlreich | | brojan | Zahlreiche Gäste kamen zur Feier. | Brojni gosti su došli na proslavu.
+A | beträchtlich | | znatan | Die Kosten sind beträchtlich gestiegen. | Troškovi su znatno porasli.
+A | gering | | neznatan, mali | Das Risiko ist gering. | Rizik je mali.
+A | erheblich | | značajan, znatan | Es gab erhebliche Probleme. | Bilo je značajnih problema.
+W | demnächst | | uskoro | Das Buch erscheint demnächst. | Knjiga uskoro izlazi.
+W | neulich | | nedavno | Neulich habe ich ihn getroffen. | Nedavno sam ga sreo.
+W | künftig | | ubuduće | Künftig arbeiten wir anders. | Ubuduće radimo drugačije.
+W | bislang | | do sada | Bislang gibt es keine Antwort. | Do sada nema odgovora.
+W | zuvor | | pre toga | Zuvor hatte er in Wien gelebt. | Pre toga je živeo u Beču.
+W | allmählich | | postepeno | Allmählich wird es besser. | Postepeno postaje bolje.
+W | vorerst | | za sada | Vorerst bleibt alles, wie es ist. | Za sada sve ostaje kako jeste.
+W | jederzeit | | bilo kada | Sie können mich jederzeit anrufen. | Možete me pozvati bilo kada.
+W | rund | | oko, otprilike | Rund hundert Leute waren da. | Bilo je oko sto ljudi.
+W | etwa | | otprilike | Das dauert etwa eine Woche. | To traje otprilike nedelju dana.
+W | mindestens | | najmanje | Sie brauchen mindestens drei Jahre Erfahrung. | Potrebne su vam najmanje tri godine iskustva.
+W | höchstens | | najviše | Das kostet höchstens zehn Euro. | To košta najviše deset evra.
+
+## Hrana i piće
+N | die Ernährungsweise | die Ernährungsweisen | način ishrane | Seine Ernährungsweise ist sehr gesund. | Njegov način ishrane je veoma zdrav.
+N | der Nährstoff | die Nährstoffe | hranljiva materija | Gemüse enthält viele Nährstoffe. | Povrće sadrži mnogo hranljivih materija.
+N | das Eiweiß | — | belančevina, protein | Fleisch enthält viel Eiweiß. | Meso sadrži mnogo belančevina.
+N | das Fett | die Fette | mast | Das Essen enthält zu viel Fett. | Hrana sadrži previše masti.
+N | die Ballaststoffe | (samo mn.) | vlakna (u hrani) | Vollkornbrot hat viele Ballaststoffe. | Integralni hleb ima mnogo vlakana.
+N | der Zusatzstoff | die Zusatzstoffe | aditiv | Das Produkt ist ohne Zusatzstoffe. | Proizvod je bez aditiva.
+N | die Unverträglichkeit | die Unverträglichkeiten | netolerancija | Ich habe eine Laktoseunverträglichkeit. | Imam netoleranciju na laktozu.
+N | der Veganer | die Veganer | vegan | Sie ist seit zwei Jahren Veganerin. | Ona je veganka već dve godine.
+N | die Massentierhaltung | — | masovni uzgoj životinja | Viele kritisieren die Massentierhaltung. | Mnogi kritikuju masovni uzgoj životinja.
+N | der Genuss | die Genüsse | uživanje | Essen ist für mich ein Genuss. | Hrana je za mene uživanje.
+N | die Geschmackssache | — | stvar ukusa | Das ist Geschmackssache. | To je stvar ukusa.
+N | die Spezialität | die Spezialitäten | specijalitet | Ćevapi sind eine serbische Spezialität. | Ćevapi su srpski specijalitet.
+N | die Zubereitung | die Zubereitungen | priprema (jela) | Die Zubereitung dauert eine Stunde. | Priprema traje sat vremena.
+N | der Verzehr | — | konzumacija | Nicht zum Verzehr geeignet. | Nije za konzumaciju.
+N | die Lebensmittelverschwendung | — | bacanje hrane | Wir müssen Lebensmittelverschwendung vermeiden. | Moramo da izbegavamo bacanje hrane.
+V | verzichten auf | hat verzichtet | odreći se (+ Akk) | Ich verzichte auf Zucker. | Odričem se šećera.
+V | sich ernähren von | hat sich ernährt | hraniti se (+ Dat) | Er ernährt sich nur von Obst und Gemüse. | Hrani se samo voćem i povrćem.
+V | verdauen | hat verdaut | svariti | Fettes Essen ist schwer zu verdauen. | Masna hrana se teško vari.
+V | vertragen | hat vertragen | podnositi | Ich vertrage keine Milch. | Ne podnosim mleko.
+V | dünsten | hat gedünstet | dinstati | Das Gemüse wird kurz gedünstet. | Povrće se kratko dinsta.
+V | verfeinern | hat verfeinert | oplemeniti (ukus) | Mit Sahne verfeinern. | Oplemeniti pavlakom.
+V | wegwerfen | hat weggeworfen | baciti | Wir werfen zu viele Lebensmittel weg. | Bacamo previše namirnica.
+A | ausgewogen | | izbalansiran | Eine ausgewogene Ernährung ist wichtig. | Izbalansirana ishrana je važna.
+A | vegan | | veganski | Das Restaurant bietet vegane Gerichte an. | Restoran nudi veganska jela.
+A | nahrhaft | | hranljiv | Das Frühstück ist sehr nahrhaft. | Doručak je veoma hranljiv.
+A | regional | | regionalni, lokalni | Wir kaufen regionale Produkte. | Kupujemo lokalne proizvode.
+A | saisonal | | sezonski | Saisonales Obst ist günstiger. | Sezonsko voće je jeftinije.
+A | herzhaft | | slano, zasitno | Ich mag herzhaftes Frühstück. | Volim slan doručak.
+A | knusprig | | hrskav | Das Brot ist schön knusprig. | Hleb je lepo hrskav.
+A | zart | | mekan, nežan | Das Fleisch ist sehr zart. | Meso je veoma mekano.
+A | verdorben | | pokvaren (hrana) | Die Milch ist verdorben. | Mleko se pokvarilo.
+S | Das ist nicht mein Geschmack. | To nije po mom ukusu.
+S | Ich vertrage keinen Alkohol. | Ne podnosim alkohol.
+S | Ich achte auf meine Ernährung. | Pazim na ishranu.

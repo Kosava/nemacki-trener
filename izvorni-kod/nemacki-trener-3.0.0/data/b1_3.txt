@@ -1,0 +1,393 @@
+# Nivo B1 — deo 3
+
+## Pozdravi i osnovni izrazi
+S | Da haben Sie recht. | Tu ste u pravu.
+S | Da bin ich anderer Meinung. | Tu se ne slažem.
+S | Ich sehe das ein bisschen anders. | Ja to vidim malo drugačije.
+S | Das kommt darauf an. | To zavisi.
+S | Einerseits …, andererseits … | S jedne strane …, s druge strane …
+S | Ich bin mir nicht sicher. | Nisam siguran.
+S | Was halten Sie davon? | Šta mislite o tome?
+S | Ich finde es wichtig, dass … | Smatram da je važno da …
+S | Darf ich kurz unterbrechen? | Smem li nakratko da prekinem?
+S | Wie bitte? Ich habe Sie nicht verstanden. | Molim? Nisam vas razumeo.
+S | Könnten Sie mir bitte helfen? | Da li biste mogli da mi pomognete?
+S | Es wäre nett, wenn Sie … | Bilo bi lepo kada biste …
+S | Vielen Dank im Voraus. | Unapred hvala.
+S | Mit freundlichen Grüßen | S poštovanjem (kraj pisma)
+S | Sehr geehrte Damen und Herren, | Poštovane dame i gospodo, (početak pisma)
+S | Liebe Grüße | Srdačan pozdrav
+S | Ich melde mich wegen der Anzeige. | Javljam se povodom oglasa.
+S | Es tut mir wirklich leid, dass … | Zaista mi je žao što …
+S | Kein Wunder! | Nije ni čudo!
+S | Das ist doch selbstverständlich. | Pa to se podrazumeva.
+
+## Priroda, životinje i vreme
+N | der Umweltschutz | — | zaštita životne sredine | Umweltschutz geht uns alle an. | Zaštita životne sredine se tiče svih nas.
+N | der Klimawandel | — | klimatske promene | Der Klimawandel ist ein großes Problem. | Klimatske promene su veliki problem.
+N | das Klima | die Klimas | klima | Das Klima in Serbien ist kontinental. | Klima u Srbiji je kontinentalna.
+N | die Energie | die Energien | energija | Wir müssen Energie sparen. | Moramo da štedimo energiju.
+N | die Sonnenenergie | — | solarna energija | Das Haus nutzt Sonnenenergie. | Kuća koristi solarnu energiju.
+N | der Abfall | die Abfälle | otpad | Der Abfall wird getrennt. | Otpad se razdvaja.
+N | das Recycling | — | reciklaža | Recycling ist wichtig für die Umwelt. | Reciklaža je važna za životnu sredinu.
+N | die Verschmutzung | die Verschmutzungen | zagađenje | Die Verschmutzung der Flüsse ist gefährlich. | Zagađenje reka je opasno.
+N | die Luftverschmutzung | — | zagađenje vazduha | In der Stadt ist die Luftverschmutzung hoch. | U gradu je zagađenje vazduha visoko.
+N | das Plastik | — | plastika | Wir verwenden zu viel Plastik. | Koristimo previše plastike.
+N | die Katastrophe | die Katastrophen | katastrofa | Die Überschwemmung war eine Katastrophe. | Poplava je bila katastrofa.
+N | die Überschwemmung | die Überschwemmungen | poplava | Nach dem Regen gab es Überschwemmungen. | Posle kiše je bilo poplava.
+N | der Sturm | die Stürme | oluja | Der Sturm hat Bäume umgeworfen. | Oluja je oborila drveće.
+N | das Erdbeben | die Erdbeben | zemljotres | Das Erdbeben war sehr stark. | Zemljotres je bio veoma jak.
+N | die Trockenheit | — | suša | Wegen der Trockenheit gibt es wenig Obst. | Zbog suše ima malo voća.
+N | die Landschaft | die Landschaften | pejzaž, predeo | Die Landschaft ist wunderschön. | Predeo je prelep.
+N | die Gegend | die Gegenden | kraj, oblast | In dieser Gegend gibt es viele Seen. | U ovom kraju ima mnogo jezera.
+N | die Art | die Arten | vrsta; način | Viele Tierarten sind bedroht. | Mnoge životinjske vrste su ugrožene.
+N | das Insekt | die Insekten | insekt | Bienen sind wichtige Insekten. | Pčele su važni insekti.
+N | die Biene | die Bienen | pčela | Die Biene macht Honig. | Pčela pravi med.
+N | die Landwirtschaft | — | poljoprivreda | Die Landwirtschaft braucht Regen. | Poljoprivredi je potrebna kiša.
+N | die Ernte | die Ernten | žetva, berba | Die Ernte war dieses Jahr gut. | Berba je ove godine bila dobra.
+V | verschmutzen | hat verschmutzt | zagaditi | Die Fabrik verschmutzt den Fluss. | Fabrika zagađuje reku.
+V | recyceln | hat recycelt | reciklirati | Wir recyceln Glas und Papier. | Recikliramo staklo i papir.
+V | verbrauchen | hat verbraucht | trošiti | Das Auto verbraucht wenig Benzin. | Auto troši malo benzina.
+V | vermeiden | hat vermieden | izbeći | Wir sollten Plastik vermeiden. | Trebalo bi da izbegavamo plastiku.
+V | retten | hat gerettet | spasiti | Die Feuerwehr hat die Katze gerettet. | Vatrogasci su spasili mačku.
+V | zerstören | hat zerstört | uništiti | Der Sturm hat das Dach zerstört. | Oluja je uništila krov.
+V | bedrohen | hat bedroht | ugrožavati | Der Klimawandel bedroht viele Tiere. | Klimatske promene ugrožavaju mnoge životinje.
+V | sich erwärmen | hat sich erwärmt | zagrevati se | Die Erde erwärmt sich. | Zemlja se zagreva.
+A | nachhaltig | | održiv | Wir müssen nachhaltig leben. | Moramo da živimo održivo.
+A | giftig | | otrovan | Diese Pflanze ist giftig. | Ova biljka je otrovna.
+A | bedroht | | ugrožen | Der Bär ist eine bedrohte Tierart. | Medved je ugrožena vrsta.
+A | mild | | blag | Der Winter war mild. | Zima je bila blaga.
+S | Wir sollten mehr mit dem Rad fahren. | Trebalo bi više da vozimo bicikl.
+S | Was kann jeder für die Umwelt tun? | Šta svako može da uradi za životnu sredinu?
+
+## Mediji, tehnika i komunikacija
+N | die Technik | die Techniken | tehnika | Die Technik entwickelt sich schnell. | Tehnika se brzo razvija.
+N | die Erfindung | die Erfindungen | izum | Das Telefon ist eine wichtige Erfindung. | Telefon je važan izum.
+N | die Entwicklung | die Entwicklungen | razvoj | Die Entwicklung dauert Jahre. | Razvoj traje godinama.
+N | die Daten | (samo mn.) | podaci | Ihre Daten sind sicher. | Vaši podaci su bezbedni.
+N | der Datenschutz | — | zaštita podataka | Datenschutz ist sehr wichtig. | Zaštita podataka je veoma važna.
+N | das Netzwerk | die Netzwerke | mreža | Das Netzwerk ist überlastet. | Mreža je preopterećena.
+N | die sozialen Medien | (samo mn.) | društvene mreže | Er verbringt viel Zeit in den sozialen Medien. | On provodi mnogo vremena na društvenim mrežama.
+N | die Bedienungsanleitung | die Bedienungsanleitungen | uputstvo za upotrebu | Lies zuerst die Bedienungsanleitung. | Prvo pročitaj uputstvo.
+N | die Störung | die Störungen | smetnja, kvar | Es gibt eine technische Störung. | Postoji tehnička smetnja.
+N | die Nachrichten | (samo mn.) | vesti | Ich sehe jeden Abend die Nachrichten. | Svako veče gledam vesti.
+N | der Journalist | die Journalisten | novinar | Der Journalist schreibt einen Artikel. | Novinar piše članak.
+N | die Meldung | die Meldungen | vest, saopštenje | Die Meldung kam im Radio. | Vest je objavljena na radiju.
+N | die Umfrage | die Umfragen | anketa | Laut einer Umfrage lesen junge Leute weniger. | Prema anketi, mladi manje čitaju.
+N | die Statistik | die Statistiken | statistika | Die Statistik zeigt, dass … | Statistika pokazuje da …
+N | die Grafik | die Grafiken | grafikon | Die Grafik zeigt die Entwicklung. | Grafikon prikazuje razvoj.
+N | der Vorteil | die Vorteile | prednost | Das Internet hat viele Vorteile. | Internet ima mnogo prednosti.
+N | der Nachteil | die Nachteile | mana, nedostatak | Ein Nachteil ist der Preis. | Jedan nedostatak je cena.
+V | entwickeln | hat entwickelt | razviti | Die Firma entwickelt neue Software. | Firma razvija novi softver.
+V | erfinden | hat erfunden | izmisliti | Wer hat das Auto erfunden? | Ko je izmislio automobil?
+V | installieren | hat installiert | instalirati | Ich installiere ein neues Programm. | Instaliram novi program.
+V | aktualisieren | hat aktualisiert | ažurirati | Bitte aktualisieren Sie die App. | Molim ažurirajte aplikaciju.
+V | sich einloggen | hat sich eingeloggt | prijaviti se (na sistem) | Ich logge mich mit meinem Passwort ein. | Prijavljujem se lozinkom.
+V | veröffentlichen | hat veröffentlicht | objaviti | Die Zeitung veröffentlicht den Artikel morgen. | Novine sutra objavljuju članak.
+V | informieren | hat informiert | informisati | Wir informieren Sie per E-Mail. | Obavestićemo vas imejlom.
+V | sich informieren | hat sich informiert | informisati se | Ich informiere mich im Internet. | Informišem se na internetu.
+V | mitteilen | hat mitgeteilt | saopštiti | Bitte teilen Sie uns Ihre Adresse mit. | Molim saopštite nam svoju adresu.
+V | benachrichtigen | hat benachrichtigt | obavestiti | Wir benachrichtigen Sie, wenn das Paket da ist. | Obavestićemo vas kad paket stigne.
+A | technisch | | tehnički | Wir haben ein technisches Problem. | Imamo tehnički problem.
+A | elektronisch | | elektronski | Die Rechnung kommt elektronisch. | Račun stiže elektronski.
+A | drahtlos | | bežični | Das Netzwerk ist drahtlos. | Mreža je bežična.
+S | Die Verbindung ist schlecht, ich höre Sie kaum. | Veza je loša, jedva vas čujem.
+S | Ich habe die Datei angehängt. | Priložio sam fajl.
+S | Haben Sie meine E-Mail bekommen? | Jeste li dobili moj imejl?
+
+## Osećanja i osobine
+N | die Stimmung | die Stimmungen | raspoloženje, atmosfera | Die Stimmung auf der Party war toll. | Atmosfera na žurci je bila sjajna.
+N | die Laune | die Launen | raspoloženje | Er hat heute schlechte Laune. | Danas je loše volje.
+N | die Wut | — | bes | Sie zitterte vor Wut. | Drhtala je od besa.
+N | die Enttäuschung | die Enttäuschungen | razočaranje | Das war eine große Enttäuschung. | To je bilo veliko razočaranje.
+N | die Hoffnung | die Hoffnungen | nada | Ich habe die Hoffnung nicht verloren. | Nisam izgubio nadu.
+N | das Vertrauen | — | poverenje | Vertrauen ist wichtig. | Poverenje je važno.
+N | der Mut | — | hrabrost | Dazu braucht man Mut. | Za to je potrebna hrabrost.
+N | die Scham | — | stid | Er wurde rot vor Scham. | Pocrveneo je od stida.
+N | der Neid | — | zavist | Neid ist ein schlechtes Gefühl. | Zavist je loše osećanje.
+N | die Einsamkeit | — | usamljenost | Viele alte Menschen leiden unter Einsamkeit. | Mnogi stari ljudi pate od usamljenosti.
+N | die Zufriedenheit | — | zadovoljstvo | Die Zufriedenheit der Kunden ist wichtig. | Zadovoljstvo kupaca je važno.
+N | die Eigenschaft | die Eigenschaften | osobina | Ehrlichkeit ist eine gute Eigenschaft. | Iskrenost je dobra osobina.
+N | das Verhalten | — | ponašanje | Sein Verhalten war unmöglich. | Njegovo ponašanje je bilo nemoguće.
+V | sich schämen | hat sich geschämt | stideti se | Ich schäme mich für meinen Fehler. | Stidim se svoje greške.
+V | sich fürchten | hat sich gefürchtet | plašiti se | Das Kind fürchtet sich vor der Dunkelheit. | Dete se plaši mraka.
+V | sich wundern | hat sich gewundert | čuditi se | Ich wundere mich über sein Verhalten. | Čudim se njegovom ponašanju.
+V | sich beruhigen | hat sich beruhigt | smiriti se | Beruhige dich bitte! | Smiri se, molim te!
+V | enttäuschen | hat enttäuscht | razočarati | Du hast mich enttäuscht. | Razočarao si me.
+V | überraschen | hat überrascht | iznenaditi | Wir wollen sie überraschen. | Želimo da je iznenadimo.
+V | beneiden | hat beneidet | zavideti | Ich beneide dich um deinen Job. | Zavidim ti na poslu.
+V | sich verhalten | hat sich verhalten | ponašati se | Er hat sich gut verhalten. | Lepo se ponašao.
+V | leiden | hat gelitten | patiti | Sie leidet unter Kopfschmerzen. | Pati od glavobolje.
+V | sich sehnen | hat sich gesehnt | čeznuti | Ich sehne mich nach dem Meer. | Čeznem za morem.
+A | stolz | | ponosan | Ich bin stolz auf dich. | Ponosan sam na tebe.
+A | dankbar | | zahvalan | Ich bin dir sehr dankbar. | Veoma sam ti zahvalan.
+A | zornig | | gnevan | Der Chef war zornig. | Šef je bio gnevan.
+A | verzweifelt | | očajan | Er war völlig verzweifelt. | Bio je potpuno očajan.
+A | erleichtert | | rasterećen, laknulo mu je | Ich bin erleichtert. | Laknulo mi je.
+A | gelassen | | staložen, opušten | Sie bleibt immer gelassen. | Ona uvek ostaje staložena.
+A | empfindlich | | osetljiv | Er ist sehr empfindlich. | On je veoma osetljiv.
+A | ehrgeizig | | ambiciozan | Sie ist sehr ehrgeizig. | Ona je veoma ambiciozna.
+A | unhöflich | | neučtiv | Das war sehr unhöflich. | To je bilo veoma neučtivo.
+A | tolerant | | tolerantan | Wir müssen tolerant sein. | Moramo da budemo tolerantni.
+A | vorsichtig | | oprezan | Sei vorsichtig auf der Straße! | Budi oprezan na ulici!
+A | mutig | | hrabar | Das war sehr mutig von dir. | To je bilo veoma hrabro od tebe.
+S | Ich bin stolz auf dich. | Ponosan sam na tebe.
+S | Das hat mich sehr gefreut. | To me je mnogo obradovalo.
+S | Ich habe schlechte Laune. | Loše sam volje.
+
+## Društvo, država i praznici
+N | die Gesellschaft | die Gesellschaften | društvo | Die Gesellschaft wird älter. | Društvo stari.
+N | die Bevölkerung | die Bevölkerungen | stanovništvo | Die Bevölkerung wächst. | Stanovništvo raste.
+N | der Einwohner | die Einwohner | stanovnik | Die Stadt hat 300.000 Einwohner. | Grad ima 300.000 stanovnika.
+N | die Demokratie | die Demokratien | demokratija | Deutschland ist eine Demokratie. | Nemačka je demokratija.
+N | das Recht | die Rechte | pravo | Jeder hat das Recht auf Bildung. | Svako ima pravo na obrazovanje.
+N | die Pflicht | die Pflichten | obaveza, dužnost | Steuern zahlen ist eine Pflicht. | Plaćanje poreza je obaveza.
+N | die Partei | die Parteien | partija, stranka | Welche Partei wählst du? | Za koju partiju glasaš?
+N | der Politiker | die Politiker | političar | Der Politiker hält eine Rede. | Političar drži govor.
+N | die Rede | die Reden | govor | Die Rede war sehr lang. | Govor je bio veoma dug.
+N | das Parlament | die Parlamente | parlament | Das Parlament beschließt das Gesetz. | Parlament usvaja zakon.
+N | die Integration | — | integracija | Sprache ist wichtig für die Integration. | Jezik je važan za integraciju.
+N | die Migration | — | migracija | Migration ist ein wichtiges Thema. | Migracija je važna tema.
+N | die Aufenthaltserlaubnis | die Aufenthaltserlaubnisse | boravišna dozvola | Ich habe eine Aufenthaltserlaubnis. | Imam boravišnu dozvolu.
+N | die Arbeitserlaubnis | die Arbeitserlaubnisse | radna dozvola | Er braucht eine Arbeitserlaubnis. | Treba mu radna dozvola.
+N | die Gleichberechtigung | — | ravnopravnost | Gleichberechtigung von Mann und Frau ist wichtig. | Ravnopravnost muškaraca i žena je važna.
+N | die Armut | — | siromaštvo | Armut ist ein globales Problem. | Siromaštvo je globalni problem.
+N | der Reichtum | die Reichtümer | bogatstvo | Reichtum macht nicht glücklich. | Bogatstvo ne čini srećnim.
+N | die Kriminalität | — | kriminal | Die Kriminalität ist gesunken. | Kriminal je opao.
+N | die Gewalt | — | nasilje | Gewalt ist keine Lösung. | Nasilje nije rešenje.
+N | das Ehrenamt | die Ehrenämter | volonterski rad | Sie arbeitet im Ehrenamt. | Ona radi kao volonter.
+N | die Spende | die Spenden | donacija | Wir sammeln Spenden für das Krankenhaus. | Skupljamo donacije za bolnicu.
+N | die Hilfe | die Hilfen | pomoć | Danke für Ihre Hilfe. | Hvala na pomoći.
+N | der Brauch | die Bräuche | običaj | Das ist ein alter Brauch. | To je stari običaj.
+N | das Jubiläum | die Jubiläen | jubilej | Die Firma feiert ihr Jubiläum. | Firma slavi jubilej.
+V | sich engagieren | hat sich engagiert | angažovati se | Er engagiert sich für die Umwelt. | On se angažuje za zaštitu prirode.
+V | spenden | hat gespendet | donirati | Wir spenden Kleidung. | Doniramo odeću.
+V | demonstrieren | hat demonstriert | demonstrirati | Die Leute demonstrieren gegen den Krieg. | Ljudi demonstriraju protiv rata.
+V | fordern | hat gefordert | zahtevati | Die Arbeiter fordern mehr Lohn. | Radnici zahtevaju veće plate.
+V | unterstützen | hat unterstützt | podržati | Die Stadt unterstützt junge Familien. | Grad podržava mlade porodice.
+V | sich integrieren | hat sich integriert | integrisati se | Sie hat sich schnell integriert. | Brzo se integrisala.
+V | regieren | hat regiert | vladati | Die Partei regiert seit vier Jahren. | Partija vlada četiri godine.
+V | abstimmen | hat abgestimmt | glasati (o nečemu) | Wir stimmen über das Projekt ab. | Glasamo o projektu.
+A | sozial | | socijalni, društveni | Er arbeitet in einem sozialen Beruf. | On radi u socijalnoj službi.
+A | gesellschaftlich | | društveni | Das ist ein gesellschaftliches Problem. | To je društveni problem.
+A | demokratisch | | demokratski | Die Wahl war demokratisch. | Izbori su bili demokratski.
+A | gerecht | | pravedan | Das ist nicht gerecht. | To nije pravedno.
+A | ungerecht | | nepravedan | Die Entscheidung war ungerecht. | Odluka je bila nepravedna.
+A | arm | | siromašan | Viele Familien sind arm. | Mnoge porodice su siromašne.
+A | reich | | bogat | Er ist sehr reich. | On je veoma bogat.
+A | ehrenamtlich | | volonterski | Sie arbeitet ehrenamtlich. | Ona radi volonterski.
+S | Ich engagiere mich im Verein. | Angažovan sam u udruženju.
+S | Jeder sollte wählen gehen. | Svako bi trebalo da izađe na izbore.
+
+## Usluge i ustanove
+N | das Finanzamt | die Finanzämter | poreska uprava | Das Finanzamt schickt einen Brief. | Poreska uprava šalje pismo.
+N | die Steuererklärung | die Steuererklärungen | poreska prijava | Ich mache meine Steuererklärung. | Popunjavam poresku prijavu.
+N | die Ausländerbehörde | die Ausländerbehörden | služba za strance | Ich habe einen Termin bei der Ausländerbehörde. | Imam termin u službi za strance.
+N | das Jobcenter | die Jobcenter | biro za zapošljavanje | Das Jobcenter hilft bei der Arbeitssuche. | Biro za zapošljavanje pomaže u traženju posla.
+N | die Agentur für Arbeit | die Agenturen für Arbeit | agencija za zapošljavanje | Ich melde mich bei der Agentur für Arbeit. | Prijavljujem se agenciji za zapošljavanje.
+N | die Genehmigung | die Genehmigungen | dozvola | Dafür brauchen Sie eine Genehmigung. | Za to vam je potrebna dozvola.
+N | die Unterlagen | (samo mn.) | dokumentacija | Bitte bringen Sie alle Unterlagen mit. | Molim ponesite svu dokumentaciju.
+N | die Kopie | die Kopien | kopija | Ich brauche eine Kopie vom Pass. | Treba mi kopija pasoša.
+N | das Original | die Originale | original | Bitte zeigen Sie das Original. | Molim pokažite original.
+N | der Stempel | die Stempel | pečat | Hier fehlt noch ein Stempel. | Ovde još fali pečat.
+N | die Bearbeitung | die Bearbeitungen | obrada | Die Bearbeitung dauert vier Wochen. | Obrada traje četiri nedelje.
+N | der Bescheid | die Bescheide | rešenje, obaveštenje | Sie bekommen den Bescheid per Post. | Rešenje dobijate poštom.
+N | der Rechtsanwalt | die Rechtsanwälte | advokat | Ich brauche einen Rechtsanwalt. | Treba mi advokat.
+N | der Diebstahl | die Diebstähle | krađa | Ich möchte einen Diebstahl melden. | Želim da prijavim krađu.
+N | der Zeuge | die Zeugen | svedok | Gibt es Zeugen? | Ima li svedoka?
+N | die Haftpflichtversicherung | die Haftpflichtversicherungen | osiguranje od odgovornosti | Die Haftpflichtversicherung bezahlt den Schaden. | Osiguranje od odgovornosti plaća štetu.
+V | einreichen | hat eingereicht | predati (dokumenta) | Reichen Sie die Unterlagen bis Freitag ein. | Predajte dokumentaciju do petka.
+V | genehmigen | hat genehmigt | odobriti | Der Antrag wurde genehmigt. | Zahtev je odobren.
+V | ablehnen | hat abgelehnt | odbiti | Mein Antrag wurde abgelehnt. | Moj zahtev je odbijen.
+V | bestätigen | hat bestätigt | potvrditi | Bitte bestätigen Sie den Termin. | Molim potvrdite termin.
+V | melden | hat gemeldet | prijaviti | Ich melde den Unfall der Versicherung. | Prijavljujem nezgodu osiguranju.
+V | stehlen | hat gestohlen | ukrasti | Man hat mir das Fahrrad gestohlen. | Ukrali su mi bicikl.
+V | anzeigen | hat angezeigt | prijaviti (policiji) | Ich zeige den Diebstahl an. | Prijavljujem krađu.
+V | sich wenden an | hat sich gewandt | obratiti se | Wenden Sie sich bitte an den Schalter zwei. | Obratite se šalteru dva, molim.
+V | ausstellen | hat ausgestellt | izdati (dokument) | Der Pass wird in zwei Wochen ausgestellt. | Pasoš se izdaje za dve nedelje.
+A | erforderlich | | potreban | Ein Termin ist erforderlich. | Potreban je termin.
+A | amtlich | | zvaničan | Das ist ein amtliches Dokument. | To je zvanični dokument.
+A | rechtlich | | pravni | Das ist ein rechtliches Problem. | To je pravni problem.
+A | verpflichtet | | obavezan | Sie sind verpflichtet, sich anzumelden. | Obavezni ste da se prijavite.
+S | Ich möchte einen Diebstahl melden. | Želim da prijavim krađu.
+S | Welche Unterlagen muss ich mitbringen? | Koju dokumentaciju moram da ponesem?
+S | Mein Antrag wurde abgelehnt. | Moj zahtev je odbijen.
+S | Bis wann muss ich das einreichen? | Do kada moram to da predam?
+
+## Mišljenje i apstraktni pojmovi
+N | der Grund | die Gründe | razlog | Aus welchem Grund? | Iz kog razloga?
+N | die Ursache | die Ursachen | uzrok | Die Ursache des Unfalls ist unklar. | Uzrok nesreće je nejasan.
+N | die Folge | die Folgen | posledica | Das hat schlimme Folgen. | To ima loše posledice.
+N | die Wirkung | die Wirkungen | dejstvo, efekat | Das Medikament zeigt Wirkung. | Lek deluje.
+N | der Zweck | die Zwecke | svrha | Wozu dient das? Was ist der Zweck? | Čemu to služi? Koja je svrha?
+N | die Möglichkeit | die Möglichkeiten | mogućnost | Es gibt mehrere Möglichkeiten. | Postoji više mogućnosti.
+N | die Gelegenheit | die Gelegenheiten | prilika | Das ist eine gute Gelegenheit. | To je dobra prilika.
+N | die Chance | die Chancen | šansa | Gib mir noch eine Chance. | Daj mi još jednu šansu.
+N | das Risiko | die Risiken | rizik | Das Risiko ist zu groß. | Rizik je prevelik.
+N | die Entscheidung | die Entscheidungen | odluka | Das ist eine schwere Entscheidung. | To je teška odluka.
+N | der Vorschlag | die Vorschläge | predlog | Ich habe einen Vorschlag. | Imam predlog.
+N | das Problem | die Probleme | problem | Das ist kein Problem. | To nije problem.
+N | die Schwierigkeit | die Schwierigkeiten | teškoća | Wir haben Schwierigkeiten mit dem Projekt. | Imamo teškoća sa projektom.
+N | der Unterschied | die Unterschiede | razlika | Was ist der Unterschied? | Koja je razlika?
+N | der Zusammenhang | die Zusammenhänge | veza, kontekst | Ich verstehe den Zusammenhang nicht. | Ne razumem vezu.
+N | die Voraussetzung | die Voraussetzungen | preduslov | Deutsch ist eine Voraussetzung für die Stelle. | Nemački je preduslov za posao.
+N | die Bedingung | die Bedingungen | uslov | Unter einer Bedingung! | Pod jednim uslovom!
+N | die Erwartung | die Erwartungen | očekivanje | Das Hotel hat unsere Erwartungen erfüllt. | Hotel je ispunio naša očekivanja.
+N | die Ansicht | die Ansichten | stav, gledište | Ich bin der Ansicht, dass … | Mišljenja sam da …
+N | der Standpunkt | die Standpunkte | stanovište | Ich verstehe deinen Standpunkt. | Razumem tvoje stanovište.
+N | das Argument | die Argumente | argument | Das ist ein gutes Argument. | To je dobar argument.
+N | die Tatsache | die Tatsachen | činjenica | Das ist eine Tatsache. | To je činjenica.
+N | die Wahrheit | die Wahrheiten | istina | Sag mir die Wahrheit! | Reci mi istinu!
+N | die Lüge | die Lügen | laž | Das ist eine Lüge! | To je laž!
+N | der Zufall | die Zufälle | slučajnost | Was für ein Zufall! | Kakva slučajnost!
+N | die Absicht | die Absichten | namera | Das war keine Absicht. | Nije bilo namerno.
+N | der Eindruck | die Eindrücke | utisak | Ich habe einen guten Eindruck. | Imam dobar utisak.
+N | die Ordnung | — | red | Alles in Ordnung? | Je li sve u redu?
+N | die Menge | die Mengen | količina; gomila | Eine Menge Leute warten. | Gomila ljudi čeka.
+N | der Teil | die Teile | deo | Ein Teil der Arbeit ist fertig. | Deo posla je gotov.
+N | die Mehrheit | die Mehrheiten | većina | Die Mehrheit ist dafür. | Većina je za.
+N | die Minderheit | die Minderheiten | manjina | Eine Minderheit ist dagegen. | Manjina je protiv.
+V | überzeugen | hat überzeugt | ubediti | Du hast mich überzeugt. | Ubedio si me.
+V | behaupten | hat behauptet | tvrditi | Er behauptet, dass er krank ist. | On tvrdi da je bolestan.
+V | zustimmen | hat zugestimmt | složiti se | Ich stimme dir zu. | Slažem se s tobom.
+V | widersprechen | hat widersprochen | protivrečiti | Darf ich Ihnen widersprechen? | Smem li da vam protivrečim?
+V | vorschlagen | hat vorgeschlagen | predložiti | Ich schlage vor, dass wir morgen fahren. | Predlažem da putujemo sutra.
+V | sich entscheiden | hat sich entschieden | odlučiti se | Ich habe mich für das blaue Auto entschieden. | Odlučio sam se za plavi auto.
+V | annehmen | hat angenommen | prihvatiti; pretpostaviti | Ich nehme das Angebot an. | Prihvatam ponudu.
+V | erwarten | hat erwartet | očekivati | Ich erwarte deinen Anruf. | Očekujem tvoj poziv.
+V | befürchten | hat befürchtet | bojati se (da) | Ich befürchte, dass es zu spät ist. | Bojim se da je prekasno.
+V | bezweifeln | hat bezweifelt | sumnjati u | Ich bezweifle das. | Sumnjam u to.
+V | beweisen | hat bewiesen | dokazati | Kannst du das beweisen? | Možeš li to da dokažeš?
+V | beeinflussen | hat beeinflusst | uticati na | Das Wetter beeinflusst meine Laune. | Vreme utiče na moje raspoloženje.
+V | bedeuten | hat bedeutet | značiti | Was bedeutet das für uns? | Šta to znači za nas?
+V | betreffen | hat betroffen | ticati se | Das betrifft uns alle. | To se tiče svih nas.
+A | wahrscheinlich | | verovatan | Das ist wahrscheinlich richtig. | To je verovatno tačno.
+A | unmöglich | | nemoguć | Das ist unmöglich! | To je nemoguće!
+A | notwendig | | neophodan | Ist das wirklich notwendig? | Da li je to zaista neophodno?
+A | eindeutig | | nedvosmislen, jasan | Die Antwort ist eindeutig. | Odgovor je jasan.
+A | offensichtlich | | očigledan | Das ist offensichtlich falsch. | To je očigledno pogrešno.
+A | allgemein | | opšti | Das ist eine allgemeine Regel. | To je opšte pravilo.
+A | konkret | | konkretan | Haben Sie ein konkretes Beispiel? | Imate li konkretan primer?
+A | logisch | | logičan | Das ist doch logisch! | Pa to je logično!
+A | positiv | | pozitivan | Er denkt immer positiv. | On uvek razmišlja pozitivno.
+A | negativ | | negativan | Das hat negative Folgen. | To ima negativne posledice.
+A | sinnlos | | besmislen | Das ist sinnlos. | To je besmisleno.
+A | wesentlich | | bitan, suštinski | Das ist ein wesentlicher Unterschied. | To je bitna razlika.
+S | Ich bin der Meinung, dass … | Mišljenja sam da …
+S | Das hängt davon ab. | To zavisi od toga.
+S | Ich stimme Ihnen zu. | Slažem se sa vama.
+S | Das sehe ich nicht so. | Ja to ne vidim tako.
+S | Was ist der Unterschied? | Koja je razlika?
+
+## Opšti glagoli
+V | bieten | hat geboten | nuditi | Die Firma bietet gute Bedingungen. | Firma nudi dobre uslove.
+V | anbieten | hat angeboten | ponuditi | Darf ich Ihnen etwas anbieten? | Smem li da vam ponudim nešto?
+V | verlangen | hat verlangt | zahtevati | Er verlangt zu viel Geld. | On traži previše novca.
+V | erwähnen | hat erwähnt | pomenuti | Er hat das nicht erwähnt. | On to nije pomenuo.
+V | bemerken | hat bemerkt | primetiti | Hast du etwas bemerkt? | Jesi li nešto primetio?
+V | beobachten | hat beobachtet | posmatrati | Ich beobachte die Vögel. | Posmatram ptice.
+V | sich beschäftigen | hat sich beschäftigt | baviti se | Ich beschäftige mich mit Geschichte. | Bavim se istorijom.
+V | sich bemühen | hat sich bemüht | truditi se | Ich bemühe mich, pünktlich zu sein. | Trudim se da budem tačan.
+V | gelingen | ist gelungen | uspeti | Der Kuchen ist gut gelungen. | Kolač je dobro uspeo.
+V | schaffen | hat geschafft | uspeti, postići | Wir haben es geschafft! | Uspeli smo!
+V | entstehen | ist entstanden | nastati | Das Problem ist durch einen Fehler entstanden. | Problem je nastao zbog greške.
+V | sich entwickeln | hat sich entwickelt | razviti se | Die Stadt hat sich schnell entwickelt. | Grad se brzo razvio.
+V | sich verändern | hat sich verändert | promeniti se | Du hast dich sehr verändert. | Mnogo si se promenio.
+V | verbessern | hat verbessert | poboljšati | Wir wollen den Service verbessern. | Želimo da poboljšamo uslugu.
+V | verursachen | hat verursacht | prouzrokovati | Der Sturm hat Schäden verursacht. | Oluja je prouzrokovala štetu.
+V | verhindern | hat verhindert | sprečiti | Wie kann man das verhindern? | Kako se to može sprečiti?
+V | zulassen | hat zugelassen | dozvoliti | Das lasse ich nicht zu. | To neću dozvoliti.
+V | aufgeben | hat aufgegeben | odustati; predati | Gib nicht auf! | Ne odustaj!
+V | ersetzen | hat ersetzt | zameniti | Wir müssen das alte Teil ersetzen. | Moramo da zamenimo stari deo.
+V | erfahren | hat erfahren | saznati | Ich habe es aus der Zeitung erfahren. | Saznao sam to iz novina.
+V | sich verlassen auf | hat sich verlassen | osloniti se na | Du kannst dich auf mich verlassen. | Možeš da se osloniš na mene.
+V | sich handeln um | hat sich gehandelt | radi se o | Es handelt sich um ein Missverständnis. | Radi se o nesporazumu.
+V | sich beziehen auf | hat sich bezogen | odnositi se na | Ich beziehe mich auf Ihre E-Mail. | Pozivam se na vaš imejl.
+V | teilen | hat geteilt | deliti; podeliti (objavu) | Wir teilen die Kosten. | Delimo troškove.
+V | verteilen | hat verteilt | podeliti, raspodeliti | Der Lehrer verteilt die Tests. | Nastavnik deli testove.
+V | sorgen für | hat gesorgt | pobrinuti se za | Ich sorge für das Essen. | Ja ću se pobrinuti za hranu.
+V | erscheinen | ist erschienen | pojaviti se | Das Buch erscheint im Mai. | Knjiga izlazi u maju.
+V | verschwinden | ist verschwunden | nestati | Mein Schlüssel ist verschwunden. | Moj ključ je nestao.
+V | herstellen | hat hergestellt | proizvoditi | Die Firma stellt Autoteile her. | Firma proizvodi auto-delove.
+V | bestimmen | hat bestimmt | odrediti | Wer bestimmt das? | Ko to određuje?
+V | gelten | hat gegolten | važiti | Die Regel gilt für alle. | Pravilo važi za sve.
+V | enthalten | hat enthalten | sadržati | Das Getränk enthält viel Zucker. | Piće sadrži mnogo šećera.
+V | bestehen aus | hat bestanden | sastojati se od | Das Team besteht aus fünf Personen. | Tim se sastoji od pet osoba.
+V | sich befinden | hat sich befunden | nalaziti se | Das Büro befindet sich im ersten Stock. | Kancelarija se nalazi na prvom spratu.
+
+## Opšti pridevi
+A | angenehm | | prijatan | Das war ein angenehmer Abend. | To je bilo prijatno veče.
+A | unangenehm | | neprijatan | Die Situation ist unangenehm. | Situacija je neprijatna.
+A | ausgezeichnet | | odličan | Das Essen war ausgezeichnet. | Hrana je bila odlična.
+A | hervorragend | | izvanredan | Sie spricht hervorragend Deutsch. | Ona izvanredno govori nemački.
+A | ausreichend | | dovoljan | Das Geld ist ausreichend. | Novca ima dovoljno.
+A | gewöhnlich | | uobičajen | Das ist ein gewöhnlicher Tag. | To je običan dan.
+A | ungewöhnlich | | neobičan | Das ist ungewöhnlich für ihn. | To je neobično za njega.
+A | seltsam | | čudan | Das ist seltsam. | To je čudno.
+A | komisch | | čudan; smešan | Das Essen schmeckt komisch. | Hrana ima čudan ukus.
+A | ernst | | ozbiljan | Das ist ein ernstes Problem. | To je ozbiljan problem.
+A | aufmerksam | | pažljiv | Hör bitte aufmerksam zu. | Slušaj pažljivo, molim.
+A | deutlich | | jasan, razgovetan | Sprechen Sie bitte deutlich. | Govorite razgovetno, molim.
+A | sorgfältig | | brižljiv, pažljiv | Er arbeitet sehr sorgfältig. | On radi veoma pažljivo.
+A | gründlich | | temeljan | Wir müssen das gründlich prüfen. | Moramo to temeljno da proverimo.
+A | vollständig | | potpun | Die Unterlagen sind vollständig. | Dokumentacija je kompletna.
+A | ständig | | stalan | Er ist ständig müde. | On je stalno umoran.
+A | häufig | | čest | Das ist ein häufiger Fehler. | To je česta greška.
+A | plötzlich | | iznenadan | Plötzlich begann es zu regnen. | Iznenada je počela kiša.
+A | dauerhaft | | trajan | Das ist keine dauerhafte Lösung. | To nije trajno rešenje.
+A | vorläufig | | privremen | Das ist nur eine vorläufige Lösung. | To je samo privremeno rešenje.
+A | ehemalig | | bivši | Er ist mein ehemaliger Kollege. | On je moj bivši kolega.
+A | gesamt | | ukupan, ceo | Die gesamten Kosten betragen 500 Euro. | Ukupni troškovi iznose 500 evra.
+A | einzeln | | pojedinačan | Die Teile werden einzeln verkauft. | Delovi se prodaju pojedinačno.
+A | gemeinsam | | zajednički | Wir haben ein gemeinsames Ziel. | Imamo zajednički cilj.
+A | persönlich | | lični | Das ist meine persönliche Meinung. | To je moje lično mišljenje.
+A | geeignet | | pogodan | Der Raum ist für das Treffen geeignet. | Prostorija je pogodna za sastanak.
+A | zufällig | | slučajan | Wir haben uns zufällig getroffen. | Slučajno smo se sreli.
+A | heimlich | | tajni, potajan | Er raucht heimlich. | On potajno puši.
+A | knapp | | jedva dovoljan, tesan | Die Zeit ist knapp. | Vremena je malo.
+A | übrig | | preostali | Ist noch Kuchen übrig? | Je li ostalo još kolača?
+
+## Male reči
+W | obwohl | | iako | Obwohl er krank ist, geht er zur Arbeit. | Iako je bolestan, ide na posao.
+W | damit | | da bi | Ich spare, damit ich ein Auto kaufen kann. | Štedim da bih mogao da kupim auto.
+W | nachdem | | pošto, nakon što | Nachdem ich gegessen hatte, ging ich spazieren. | Nakon što sam jeo, otišao sam u šetnju.
+W | bevor | | pre nego što | Bevor du gehst, ruf mich an. | Pre nego što odeš, pozovi me.
+W | falls | | u slučaju da | Falls es regnet, bleiben wir zu Hause. | U slučaju da pada kiša, ostajemo kod kuće.
+W | sobald | | čim | Sobald ich zu Hause bin, rufe ich dich an. | Čim stignem kući, pozvaću te.
+W | solange | | dok god | Solange es regnet, bleiben wir hier. | Dok god pada kiša, ostajemo ovde.
+W | indem | | tako što | Man lernt eine Sprache, indem man viel spricht. | Jezik se uči tako što se mnogo govori.
+W | je … desto | | što … to | Je mehr ich lerne, desto besser spreche ich. | Što više učim, to bolje govorim.
+W | ohne … zu | | bez da | Er ging, ohne etwas zu sagen. | Otišao je, a da ništa nije rekao.
+W | um … zu | | da bi | Ich lerne Deutsch, um in Deutschland zu arbeiten. | Učim nemački da bih radio u Nemačkoj.
+W | statt … zu | | umesto da | Statt zu arbeiten, schläft er. | Umesto da radi, on spava.
+W | zwar … aber | | doduše … ali | Das Auto ist zwar alt, aber gut. | Auto je doduše star, ali dobar.
+W | nicht nur … sondern auch | | ne samo … nego i | Er spricht nicht nur Deutsch, sondern auch Englisch. | On govori ne samo nemački nego i engleski.
+W | darum | | zato | Darum habe ich angerufen. | Zato sam zvao.
+W | daher | | stoga | Es ist spät, daher gehe ich jetzt. | Kasno je, stoga sada idem.
+W | sonst | | inače | Beeil dich, sonst verpasst du den Zug. | Požuri, inače ćeš propustiti voz.
+W | dagegen | | nasuprot tome; protiv | Ich bin dagegen. | Ja sam protiv.
+W | dafür | | za to; zato | Ich bin dafür. | Ja sam za.
+W | jedoch | | međutim | Das Angebot ist gut, jedoch zu teuer. | Ponuda je dobra, međutim preskupa.
+W | allerdings | | doduše, međutim | Das ist allerdings ein Problem. | To je doduše problem.
+W | übrigens | | uzgred | Übrigens, ich habe morgen frei. | Uzgred, sutra sam slobodan.
+W | eher | | pre, radije | Ich trinke eher Tee als Kaffee. | Pre pijem čaj nego kafu.
+W | kaum | | jedva | Ich habe kaum geschlafen. | Jedva sam spavao.
+W | völlig | | potpuno | Das ist völlig falsch. | To je potpuno pogrešno.
+W | ebenfalls | | takođe | Danke, ebenfalls! | Hvala, takođe!
+W | bereits | | već | Der Zug ist bereits abgefahren. | Voz je već otišao.
+W | zunächst | | najpre | Zunächst müssen wir das Problem verstehen. | Najpre moramo da razumemo problem.
+W | schließlich | | na kraju; ipak | Schließlich haben wir es geschafft. | Na kraju smo uspeli.
+W | anschließend | | potom | Anschließend gibt es Kaffee. | Potom sledi kafa.
+W | gleichzeitig | | istovremeno | Ich kann nicht zwei Dinge gleichzeitig machen. | Ne mogu da radim dve stvari istovremeno.
+W | innerhalb | | u roku od, unutar | Bitte antworten Sie innerhalb einer Woche. | Molim odgovorite u roku od nedelju dana.
+W | außerhalb | | izvan | Wir wohnen außerhalb der Stadt. | Živimo izvan grada.
+W | trotz | | uprkos | Trotz des Regens gehen wir spazieren. | Uprkos kiši idemo u šetnju.
+W | laut | | prema, po (izvoru) | Laut Wetterbericht wird es warm. | Prema prognozi biće toplo.
+W | je nach | | u zavisnosti od | Je nach Wetter fahren wir oder nicht. | U zavisnosti od vremena idemo ili ne.
+W | bezüglich | | u vezi sa | Ich habe eine Frage bezüglich der Rechnung. | Imam pitanje u vezi sa računom.
+W | mithilfe | | uz pomoć | Mithilfe des Navis finden wir den Weg. | Uz pomoć navigacije nalazimo put.
+W | einerseits … andererseits | | s jedne strane … s druge strane | Einerseits ist es teuer, andererseits praktisch. | S jedne strane je skupo, s druge praktično.
+W | irgendwann | | jednom, nekad | Irgendwann fahre ich nach Japan. | Jednom ću otići u Japan.
+W | irgendwie | | nekako | Irgendwie schaffen wir das. | Nekako ćemo to uspeti.
+W | sowieso | | ionako | Ich muss sowieso in die Stadt. | Ionako moram u grad.
+W | eben | | upravo; jednostavno | Er ist eben gegangen. | Upravo je otišao.

@@ -1,0 +1,28 @@
+﻿Nemački Trener 3.0.0 - Windows instalacija
+==========================================
+
+Gotov setup.exe nije u paketu, jer mora da se napravi na Windowsu.
+Pravi se jednom skriptom:
+
+1. Instaliraj (jednom):
+     Rust         https://rustup.rs
+                  (pri instalaciji prihvati "Visual Studio Build Tools")
+     Inno Setup   winget install JRSoftware.InnoSetup
+
+2. Prekopiraj folder  izvorni-kod\nemacki-trener-3.0.0  na Windows računar.
+
+3. U tom folderu otvori PowerShell i pokreni:
+
+     powershell -ExecutionPolicy Bypass -File packaging\windows\napravi-instalaciju.ps1
+
+4. U folderu  dist\  dobijaš:
+     NemackiTrener-3.0.0-setup.exe      instalacija (meni Start, ikonica, deinstalacija)
+     NemackiTrener-3.0.0-portable.zip   samo program, bez instalacije
+
+Prvo prevođenje traje 5-15 minuta.
+Ako nemaš Inno Setup, skripta napravi samo prenosivi zip.
+
+Rečnik i napredak su u  %APPDATA%\NemackiTrener\  i ne brišu se pri deinstalaciji.
+
+Napomena: ova skripta još nije isprobana na Windowsu. Ako prijavi grešku,
+sačuvaj tekst greške.

@@ -1,0 +1,1446 @@
+# Starije reči (lekcije i stručne teme) — nivo, tema, tip, sr, de, izgovor, primer, vrsta, oblik
+X	Povrće	Reč	kupus	der Kohl	der kol	Der Kohl ist frisch. — Kupus je svež.	imenica	
+X	Povrće	Reč	tikvica	die Zucchini	di cukini	Die Zucchini ist grün. — Tikvica je zelena.	imenica	
+X	Povrće	Reč	patlidžan	die Aubergine	di oberžine	Die Aubergine ist lila. — Patlidžan je ljubičast.	imenica	
+X	Povrće	Reč	grašak	die Erbse	di erbze	Die Erbse ist klein und grün. — Grašak je mali i zelen.	imenica	
+X	Povrće	Reč	pasulj	die Bohne	di bone	Die Bohne ist reich an Protein. — Pasulj je bogat proteinima.	imenica	
+X	Povrće	Reč	spanać	der Spinat	der špinat	Der Spinat ist gesund. — Spanać je zdrav.	imenica	
+X	Povrće	Reč	brokoli	der Brokkoli	der brokoli	Der Brokkoli ist grün. — Brokoli je zelen.	imenica	
+X	Povrće	Reč	krompir pire	das Kartoffelpüree	das kartofelpire	Das Kartoffelpüree ist lecker. — Pire krompir je ukusan.	imenica	
+X	Voće	Reč	mandarina	die Mandarine	di mandarine	Die Mandarine ist klein. — Mandarina je mala.	imenica	
+X	Voće	Reč	malina	die Himbeere	di himbere	Die Himbeere ist klein. — Malina je mala.	imenica	
+X	Voće	Reč	kupina	die Brombeere	di brombere	Die Brombeere ist dunkel. — Kupina je tamna.	imenica	
+X	Voće	Reč	višnja	die Sauerkirsche	di sauerkirše	Die Sauerkirsche ist sauer. — Višnja je kisela.	imenica	
+X	Voće	Reč	breskva	der Pfirsich	der pfirzih	Der Pfirsich ist weich. — Breskva je meka.	imenica	
+X	Voće	Reč	kajsija	die Aprikose	di aprikose	Die Aprikose ist orange. — Kajsija je narandžasta.	imenica	
+X	Voće	Reč	šljiva	die Pflaume	di pflaume	Die Pflaume ist blau. — Šljiva je plava.	imenica	
+X	Voće	Reč	lubenica	die Wassermelone	di vasermelone	Die Wassermelone ist rot. — Lubenica je crvena.	imenica	
+X	Voće	Reč	dinja	die Melone	di melone	Die Melone ist süß. — Dinja je slatka.	imenica	
+X	Voće	Reč	ananas	die Ananas	di ananas	Die Ananas ist exotisch. — Ananas je egzotičan.	imenica	
+X	Voće	Reč	mango	die Mango	di mango	Die Mango ist süß. — Mango je sladak.	imenica	
+X	Voće	Reč	nar	der Granatapfel	der granatapfel	Der Granatapfel ist rot. — Nar je crven.	imenica	
+X	Putovanje	Reč	pasoš	der Reisepass	der rajzepas	Mein Reisepass ist gültig. — Moj pasoš je važeći.	imenica	
+X	Putovanje	Rečenica	Gde se nalazi stanica?	Wo ist die Haltestelle?	vo ist di haltestele	Wo ist die Haltestelle, bitte? — Gde je stanica, molim?	rečenica	
+X	Putovanje	Rečenica	Koliko košta karta?	Wie viel kostet das Ticket?	vi fil kostet das tiket	Wie viel kostet das Ticket nach Berlin? — Koliko košta karta za Berlin?	rečenica	
+X	Putovanje	Rečenica	Izgubio sam se.	Ich habe mich verlaufen.	ih habe mih ferlaufen	Entschuldigung, ich habe mich verlaufen. — Izvinite, izgubio sam se.	rečenica	
+X	Putovanje	Rečenica	Gde je toalet?	Wo ist die Toilette?	vo ist di toalete	Wo ist die Toilette, bitte? — Gde je toalet, molim?	rečenica	
+X	Javni prevoz	Reč	trolejbus	der Oberleitungsbus	der oberlajtungsbus	Der Oberleitungsbus fährt elektrisch. — Trolejbus ide na struju.	imenica	
+X	Javni prevoz	Rečenica	Kada polazi sledeći voz?	Wann fährt der nächste Zug?	van fert der nehste cuk	Wann fährt der nächste Zug nach Berlin? — Kada polazi sledeći voz za Berlin?	rečenica	
+X	Javni prevoz	Rečenica	Koja linija ide do centra?	Welche Linie fährt ins Zentrum?	velhe linije fert ins centrum	Welche Linie fährt ins Zentrum? — Koja linija ide do centra?	rečenica	
+X	Javni prevoz	Rečenica	Gde mogu da kupim kartu?	Wo kann ich ein Ticket kaufen?	vo kan ih ajn tiket kaufen	Wo kann ich ein Ticket kaufen? — Gde mogu da kupim kartu?	rečenica	
+X	Kupovina	Reč	mesara	die Metzgerei	di mecgeraj	Die Metzgerei ist nebenan. — Mesara je pored.	imenica	
+X	Kupovina	Rečenica	Mogu li da platim karticom?	Kann ich mit Karte zahlen?	kan ih mit karte calen	Kann ich mit Karte zahlen? — Mogu li da platim karticom?	rečenica	
+X	Kupovina	Rečenica	Tražim poklon.	Ich suche ein Geschenk.	ih zuhe ajn gešenk	Ich suche ein Geschenk für meine Mutter. — Tražim poklon za majku.	rečenica	
+X	Kupovina	Rečenica	Imate li ovo u drugoj veličini?	Haben Sie das in einer anderen Größe?	haben zi das in ajner anderen grese	Haben Sie das in einer anderen Größe? — Imate li ovo u drugoj veličini?	rečenica	
+X	Železnica/Posao	Reč	sastanak	das Treffen	das trefen	Wir haben ein Treffen um zehn. — Imamo sastanak u deset.	imenica	
+X	Železnica/Posao	Rečenica	Kada je sledeći sastanak?	Wann ist das nächste Treffen?	van ist das nehste trefen	Wann ist das nächste Treffen? — Kada je sledeći sastanak?	rečenica	
+X	Železnica/Posao	Rečenica	Radim od kuće.	Ich arbeite von zu Hause.	ih arbajte fon cu hauze	Heute arbeite ich von zu Hause. — Danas radim od kuće.	rečenica	
+X	Svakodnevni govor	Rečenica	Hvala lepo.	Danke schön.	danke šen	Danke schön für die Hilfe. — Hvala lepo za pomoć.	rečenica	
+X	Svakodnevni govor	Rečenica	Nema na čemu.	Bitte schön.	bite šen	Bitte schön, gern gemacht. — Nema na čemu, rado.	rečenica	
+X	Svakodnevni govor	Rečenica	Izvinite, ne razumem.	Entschuldigung, ich verstehe nicht.	entšuldigung, ih ferštehe niht	Entschuldigung, ich verstehe nicht. — Izvinite, ne razumem.	rečenica	
+X	Svakodnevni govor	Rečenica	Dobro sam, hvala.	Mir geht es gut, danke.	mir get es gut, danke	Mir geht es gut, danke. Und Ihnen? — Dobro sam, hvala. A vi?	rečenica	
+X	Svakodnevni govor	Rečenica	Zovem se Marko.	Ich heiße Marko.	ih hajse marko	Ich heiße Marko, freut mich. — Zovem se Marko, drago mi je.	rečenica	
+X	Svakodnevni govor	Rečenica	Drago mi je.	Freut mich.	frojt mih	Freut mich, Sie kennenzulernen. — Drago mi je da vas upoznam.	rečenica	
+X	Svakodnevni govor	Rečenica	Vidimo se kasnije.	Wir sehen uns später.	vir zeen uns špeter	Wir sehen uns später! — Vidimo se kasnije!	rečenica	
+X	Svakodnevni govor	Rečenica	Ne govorim dobro nemački.	Ich spreche nicht gut Deutsch.	ih šprehe niht gut dojč	Ich spreche nicht gut Deutsch, bitte langsam. — Ne govorim dobro nemački, molim polako.	rečenica	
+X	Vreme (meteo)	Rečenica	Kakvo je vreme danas?	Wie ist das Wetter heute?	vi ist das veter hojte	Wie ist das Wetter heute? — Kakvo je vreme danas?	rečenica	
+X	Hrana i piće	Reč	testenina	die Nudeln	di nudeln	Die Nudeln sind heiß. — Testenina je vruća.	imenica	
+X	Hrana i piće	Rečenica	Račun, molim.	Die Rechnung, bitte.	di rehnung, bite	Die Rechnung, bitte! — Račun, molim!	rečenica	
+X	Telo i zdravlje	Rečenica	Nije mi dobro.	Mir ist nicht gut.	mir ist niht gut	Mir ist nicht gut, ich brauche einen Arzt. — Nije mi dobro, treba mi lekar.	rečenica	
+X	Odeća i moda	Reč	cipele	die Schuhe	di šue	Die Schuhe sind neu. — Cipele su nove.	imenica	
+X	Odeća i moda	Reč	čarape	die Socken	di zoken	Die Socken sind bunt. — Čarape su šarene.	imenica	
+X	Kuća i stan	Reč	kupatilo	das Badezimmer	das badecimer	Das Badezimmer ist sauber. — Kupatilo je čisto.	imenica	
+X	Sport i rekreacija	Reč	košarka	der Basketball	der basketbal	Basketball ist schnell. — Košarka je brza.	imenica	
+X	Sport i rekreacija	Reč	tenis	das Tennis	das tenis	Ich spiele Tennis. — Igram tenis.	imenica	
+X	Sport i rekreacija	Reč	plivanje	das Schwimmen	das švimen	Schwimmen ist gesund. — Plivanje je zdravo.	imenica	
+X	Sport i rekreacija	Reč	trčanje	das Laufen	das laufen	Laufen ist gut für das Herz. — Trčanje je dobro za srce.	imenica	
+X	Sport i rekreacija	Rečenica	Volim da trčim ujutru.	Ich laufe gern am Morgen.	ih laufe gern am morgen	Ich laufe gern am Morgen im Park. — Volim da trčim ujutru u parku.	rečenica	
+X	Tehnologija	Rečenica	Nemam pristup internetu.	Ich habe keinen Internetzugang.	ih habe kajnen internetcugang	Ich habe keinen Internetzugang. — Nemam pristup internetu.	rečenica	
+X	Emocije	Reč	umorni smo	wir sind müde	vir zint mide	Wir sind müde. — Umorni smo.	ostalo	
+X	Emocije	Reč	zabrinut	besorgt	bezorkt	Ich bin besorgt. — Zabrinut sam.	ostalo	
+X	Emocije	Rečenica	Kako se osećaš?	Wie fühlst du dich?	vi filst du dih	Wie fühlst du dich heute? — Kako se osećaš danas?	rečenica	
+X	Biljke	Reč	ruža	die Rose	di roze	Die Rose duftet schön. — Ruža lepo miriše.	imenica	
+X	Biljke	Reč	lala	die Tulpe	di tulpe	Die Tulpe blüht im Frühling. — Lala cveta u proleće.	imenica	
+X	Biljke	Reč	suncokret	die Sonnenblume	di zonenblume	Die Sonnenblume ist groß. — Suncokret je veliki.	imenica	
+X	Biljke	Reč	margarita	das Gänseblümchen	das genzeblimhen	Das Gänseblümchen ist klein. — Margarita je mala.	imenica	
+X	Biljke	Reč	bosiljak	das Basilikum	das bazilikum	Basilikum ist ein Kraut. — Bosiljak je začin.	imenica	
+X	Biljke	Reč	nana	die Minze	di mince	Die Minze ist frisch. — Nana je sveža.	imenica	
+X	Biljke	Reč	ruzmarin	der Rosmarin	der rozmarin	Rosmarin riecht stark. — Ruzmarin jako miriše.	imenica	
+X	Biljke	Reč	lavanda	der Lavendel	der lavendel	Lavendel ist lila. — Lavanda je ljubičasta.	imenica	
+X	Biljke	Reč	kaktus	der Kaktus	der kaktus	Der Kaktus braucht wenig Wasser. — Kaktus traži malo vode.	imenica	
+X	Biljke	Reč	hrast	die Eiche	di ajhe	Die Eiche ist stark. — Hrast je jak.	imenica	
+X	Biljke	Reč	breza	die Birke	di birke	Die Birke ist weiß. — Breza je bela.	imenica	
+X	Biljke	Reč	koren	die Wurzel	di vurcel	Die Wurzel ist tief. — Koren je dubok.	imenica	
+X	Biljke	Reč	seme	der Samen	der zamen	Ich pflanze Samen. — Sadim seme.	imenica	
+X	Biljke	Reč	grana	der Ast	der ast	Der Ast ist dick. — Grana je debela.	imenica	
+X	Biljke	Reč	saksija	der Blumentopf	der blumentopf	Der Blumentopf ist aus Ton. — Saksija je od gline.	imenica	
+X	Životinje	Reč	petao	der Hahn	der han	Der Hahn kräht morgens. — Petao peva ujutru.	imenica	
+X	Životinje	Reč	guska	die Gans	di gans	Die Gans ist weiß. — Guska je bela.	imenica	
+X	Životinje	Reč	vuk	der Wolf	der volf	Der Wolf heult. — Vuk zavija.	imenica	
+X	Životinje	Reč	lisica	der Fuchs	der fuks	Der Fuchs ist schlau. — Lisica je lukava.	imenica	
+X	Životinje	Reč	zec	der Hase	der haze	Der Hase ist schnell. — Zec je brz.	imenica	
+X	Životinje	Reč	jelen	der Hirsch	der hirš	Der Hirsch hat ein Geweih. — Jelen ima rogove.	imenica	
+X	Životinje	Reč	veverica	das Eichhörnchen	das ajhhernhen	Das Eichhörnchen klettert. — Veverica se penje.	imenica	
+X	Životinje	Reč	lav	der Löwe	der leve	Der Löwe ist der König. — Lav je kralj.	imenica	
+X	Životinje	Reč	tigar	der Tiger	der tiger	Der Tiger ist gestreift. — Tigar je prugast.	imenica	
+X	Životinje	Reč	slon	der Elefant	der elefant	Der Elefant ist groß. — Slon je veliki.	imenica	
+X	Životinje	Reč	žirafa	die Giraffe	di girafe	Die Giraffe hat einen langen Hals. — Žirafa ima dug vrat.	imenica	
+X	Životinje	Reč	zmija	die Schlange	di šlange	Die Schlange ist lang. — Zmija je duga.	imenica	
+X	Životinje	Reč	žaba	der Frosch	der froš	Der Frosch springt. — Žaba skače.	imenica	
+X	Životinje	Reč	leptir	der Schmetterling	der šmeterling	Der Schmetterling ist bunt. — Leptir je šaren.	imenica	
+X	Životinje	Reč	mrav	die Ameise	di ajmajze	Die Ameise ist fleißig. — Mrav je vredan.	imenica	
+X	Kod lekara	Reč	lekar opšte prakse	der Hausarzt	der hausarct	Mein Hausarzt ist freundlich. — Moj lekar je ljubazan.	imenica	
+X	Kod lekara	Reč	glavobolja	die Kopfschmerzen	di kopfšmercen	Ich habe Kopfschmerzen. — Imam glavobolju.	imenica	
+X	Kod lekara	Rečenica	Gde je najbliža apoteka?	Wo ist die nächste Apotheke?	vo ist di nehste apoteke	Wo ist die nächste Apotheke? — Gde je najbliža apoteka?	rečenica	
+X	U banci	Reč	podizanje	die Abhebung	di aphebung	Ich möchte Geld abheben. — Hoću da podignem novac.	imenica	
+X	U banci	Reč	uplata	die Einzahlung	di ajncalung	Die Einzahlung ist angekommen. — Uplata je stigla.	imenica	
+X	U banci	Reč	kamata	der Zins	der cinc	Der Zins ist niedrig. — Kamata je niska.	imenica	
+X	U banci	Reč	devizni kurs	der Wechselkurs	der vekselkurs	Der Wechselkurs ist gut. — Kurs je dobar.	imenica	
+X	U banci	Reč	menjačnica	die Wechselstube	di vekselštube	Die Wechselstube ist dort. — Menjačnica je tamo.	imenica	
+X	U banci	Reč	PIN	die PIN	di pin	Die PIN ist geheim. — PIN je tajna.	imenica	
+X	U banci	Rečenica	Gde je najbliža banka?	Wo ist die nächste Bank?	vo ist di nehste bank	Wo ist die nächste Bank? — Gde je najbliža banka?	rečenica	
+X	U banci	Rečenica	Koji je kurs evra?	Wie ist der Eurokurs?	vi ist der ojrokurs	Wie ist der Eurokurs heute? — Koji je kurs evra danas?	rečenica	
+X	Oblici	Reč	krug	der Kreis	der krajs	Der Kreis ist rund. — Krug je okrugao.	imenica	
+X	Oblici	Reč	kvadrat	das Quadrat	das kvadrat	Das Quadrat hat vier Seiten. — Kvadrat ima četiri strane.	imenica	
+X	Oblici	Reč	pravougaonik	das Rechteck	das rehtek	Das Rechteck ist lang. — Pravougaonik je dugačak.	imenica	
+X	Oblici	Reč	trougao	das Dreieck	das drajek	Das Dreieck hat drei Seiten. — Trougao ima tri strane.	imenica	
+X	Oblici	Reč	kocka	der Würfel	der virfel	Der Würfel hat sechs Seiten. — Kocka ima šest strana.	imenica	
+X	Oblici	Reč	lopta	die Kugel	di kugel	Die Kugel ist rund. — Lopta je okrugla.	imenica	
+X	Oblici	Reč	valjak	der Zylinder	der cilinder	Der Zylinder ist rund. — Valjak je okrugao.	imenica	
+X	Oblici	Reč	piramida	die Pyramide	di piramide	Die Pyramide ist alt. — Piramida je stara.	imenica	
+X	Oblici	Reč	oval	das Oval	das oval	Das Oval ist länglich. — Oval je izdužen.	imenica	
+X	Oblici	Reč	linija	die Linie	di linije	Die Linie ist gerade. — Linija je prava.	imenica	
+X	Matematika	Reč	sabiranje	die Addition	di adicion	Die Addition ist einfach. — Sabiranje je jednostavno.	imenica	
+X	Matematika	Reč	oduzimanje	die Subtraktion	di subtrakcion	Die Subtraktion ist schwer. — Oduzimanje je teško.	imenica	
+X	Matematika	Reč	množenje	die Multiplikation	di multiplikacion	Die Multiplikation ist wichtig. — Množenje je važno.	imenica	
+X	Matematika	Reč	deljenje	die Division	di divizion	Die Division ist nicht immer einfach. — Deljenje nije uvek lako.	imenica	
+X	Matematika	Reč	plus	plus	plus	Zwei plus zwei ist vier. — Dva plus dva je četiri.	ostalo	
+X	Matematika	Reč	minus	minus	minus	Fünf minus drei ist zwei. — Pet minus tri je dva.	ostalo	
+X	Matematika	Reč	zbir	die Summe	di zume	Die Summe ist groß. — Zbir je veliki.	imenica	
+X	Matematika	Reč	razlika	die Differenz	di diferenc	Die Differenz ist klein. — Razlika je mala.	imenica	
+X	Matematika	Rečenica	Koliko je dva plus dva?	Wie viel ist zwei plus zwei?	vi fil ist cvaj plus cvaj	Wie viel ist zwei plus zwei? — Koliko je dva plus dva?	rečenica	
+X	Pravci kretanja	Reč	sever	der Norden	der norden	Der Norden ist kalt. — Sever je hladan.	imenica	
+X	Pravci kretanja	Reč	jug	der Süden	der ziden	Der Süden ist warm. — Jug je topao.	imenica	
+X	Pravci kretanja	Reč	istok	der Osten	der osten	Der Osten ist sonnig. — Istok je sunčan.	imenica	
+X	Pravci kretanja	Reč	zapad	der Westen	der vesten	Der Westen ist bewölkt. — Zapad je oblačan.	imenica	
+X	Pravci kretanja	Reč	nazad	rückwärts	rikverts	Gehen Sie rückwärts. — Idite nazad.	ostalo	
+X	Pravci kretanja	Reč	penjanje	das Klettern	das kletern	Das Klettern ist anstrengend. — Penjanje je naporno.	imenica	
+X	Pravci kretanja	Reč	silazak	der Abstieg	der apštik	Der Abstieg ist gefährlich. — Silazak je opasan.	imenica	
+X	Pravci kretanja	Rečenica	Skrenite levo na semaforu.	Biegen Sie an der Ampel links ab.	bigen zi an der ampel links ap	Biegen Sie an der Ampel links ab. — Skrenite levo na semaforu.	rečenica	
+X	Bicikl i motor	Reč	motor	das Motorrad	das motorad	Das Motorrad ist schnell. — Motor je brz.	imenica	
+X	Bicikl i motor	Reč	kaciga	der Helm	der helm	Trage einen Helm! — Nosi kacigu!	imenica	
+X	Bicikl i motor	Reč	pedala	das Pedal	das pedal	Tritt auf das Pedal. — Pritisni pedalu.	imenica	
+X	Bicikl i motor	Reč	lanac	die Kette	di kete	Die Kette ist locker. — Lanac je labav.	imenica	
+X	Bicikl i motor	Reč	volan	der Lenker	der lenker	Der Lenker ist gerade. — Volan je prav.	imenica	
+X	Bicikl i motor	Reč	zvono	die Klingel	di klingel	Klingel mit dem Finger. — Zvoni prstom.	imenica	
+X	Bicikl i motor	Reč	rezervoar	der Tank	der tank	Der Tank ist leer. — Rezervoar je prazan.	imenica	
+X	Bicikl i motor	Rečenica	Gde mogu da parkiram bicikl?	Wo kann ich das Fahrrad parken?	vo kan ih das farad parken	Wo kann ich das Fahrrad parken? — Gde mogu da parkiram bicikl?	rečenica	
+X	Automehanika	Reč	menjač	das Getriebe	das getribe	Das Getriebe ist kaputt. — Menjač je pokvaren.	imenica	
+X	Automehanika	Reč	volan	das Lenkrad	das lenkrad	Das Lenkrad ist verstellt. — Volan je pomeren.	imenica	
+X	Automehanika	Reč	retrovizor	der Rückspiegel	der rikšpigel	Der Rückspiegel ist wichtig. — Retrovizor je važan.	imenica	
+X	Automehanika	Reč	vetrobran	die Windschutzscheibe	di vindšucšajbe	Die Windschutzscheibe ist sauber. — Vetrobran je čist.	imenica	
+X	Automehanika	Reč	žmigavac	der Blinker	der blinker	Der Blinker blinkt. — Žmigavac treperi.	imenica	
+X	Automehanika	Reč	auspuh	der Auspuff	der auspuf	Der Auspuff ist laut. — Auspuh je bučan.	imenica	
+X	Automehanika	Reč	akumulator	die Batterie	di baterije	Die Batterie ist leer. — Akumulator je prazan.	imenica	
+X	Automehanika	Reč	svećica	die Zündkerze	di cindkerce	Die Zündkerze ist alt. — Svećica je stara.	imenica	
+X	Automehanika	Reč	karter	die Ölwanne	di elvane	Die Ölwanne ist dicht. — Karter je zaptiven.	imenica	
+X	Automehanika	Reč	amortizer	der Stoßdämpfer	der štosdempfer	Der Stoßdämpfer ist weich. — Amortizer je mekan.	imenica	
+X	Automehanika	Reč	gepek	der Kofferraum	der koferraum	Der Kofferraum ist voll. — Gepek je pun.	imenica	
+X	Automehanika	Reč	hauba	die Motorhaube	di motorhaube	Die Motorhaube ist offen. — Hauba je otvorena.	imenica	
+X	Automehanika	Reč	branik	die Stoßstange	di štosštange	Der Stoßstange ist kaputt. — Branik je pokvaren.	imenica	
+X	Automehanika	Reč	vetrobransko staklo	die Frontscheibe	di frontšajbe	Die Frontscheibe ist gerissen. — Vetrobran je napukao.	imenica	
+X	Automehanika	Reč	sajla	der Seilzug	der zajlcuk	Der Seilzug ist gerissen. — Sajla je pukla.	imenica	
+X	Automehanika	Reč	remen	der Riemen	der rimen	Der Riemen quietscht. — Remen škripi.	imenica	
+X	Automehanika	Reč	pumpa	die Pumpe	di pumpe	Die Pumpe ist laut. — Pumpa je bučna.	imenica	
+X	Automehanika	Reč	kilometraža	der Kilometerstand	der kilometerštand	Der Kilometerstand ist hoch. — Kilometraža je visoka.	imenica	
+X	Automehanika	Rečenica	Auto mi se pokvarilo.	Mein Auto ist kaputt.	majn auto ist kaput	Mein Auto ist kaputt, ich brauche einen Mechaniker. — Auto mi se pokvarilo, treba mi mehaničar.	rečenica	
+X	Automehanika	Rečenica	Gde je najbliži servis?	Wo ist die nächste Werkstatt?	vo ist di nehste verkštat	Wo ist die nächste Werkstatt? — Gde je najbliži servis?	rečenica	
+X	Kuhinja	Reč	ringla	die Kochplatte	di kohplate	Die Kochplatte ist aus. — Ringla je isključena.	imenica	
+X	Kuhinja	Reč	pećnica	der Backofen	der bakofen	Die Pizza ist im Backofen. — Pica je u pećnici.	imenica	
+X	Kuhinja	Reč	zamrzivač	das Gefrierfach	das gefrirfah	Das Gefrierfach ist leer. — Zamrzivač je prazan.	imenica	
+X	Kuhinja	Reč	sudopera	das Spülbecken	das špilbeken	Das Spülbecken ist verstopft. — Sudopera je zapušena.	imenica	
+X	Kuhinja	Reč	slavina	der Wasserhahn	der vaserhan	Der Wasserhahn tropft. — Slavina kapa.	imenica	
+X	Kuhinja	Reč	escajg	das Besteck	das beštek	Das Besteck ist im Schub. — Escajg je u fioci.	imenica	
+X	Kuhinja	Reč	daska za sečenje	das Schneidebrett	das šnajdebret	Das Schneidebrett ist neu. — Daska je nova.	imenica	
+X	Kuhinja	Reč	lonac	der Kochtopf	der kohtopf	Der Kochtopf kocht. — Lonac ključa.	imenica	
+X	Kuhinja	Reč	cediljka	das Sieb	das zib	Das Sieb ist klein. — Cediljka je mala.	imenica	
+X	Kuhinja	Reč	rende	die Reibe	di rajbe	Die Reibe ist scharf. — Rende je oštro.	imenica	
+X	Kuhinja	Reč	salveta	die Serviette	di servijete	Die Serviette ist weiß. — Salveta je bela.	imenica	
+X	Kuhinja	Reč	stolnjak	die Tischdecke	di tišdeke	Die Tischdecke ist sauber. — Stolnjak je čist.	imenica	
+X	Kuhinja	Reč	korpa za hleb	der Brotkorb	der brotkorb	Der Brotkorb ist leer. — Korpa za hleb je prazna.	imenica	
+X	Kuhinja	Reč	otvarač	der Dosenöffner	der dozenefner	Der Dosenöffner ist praktisch. — Otvarač je praktičan.	imenica	
+X	Kuhinja	Reč	krpa	das Geschirrtuch	das geširtuh	Das Geschirrtuch ist nass. — Krpa je mokra.	imenica	
+X	Kupatilo	Reč	peškir	das Handtuch	das handtuh	Das Handtuch ist weich. — Peškir je mekan.	imenica	
+X	Kupatilo	Reč	sapun	die Seife	di zajfe	Die Seife riecht gut. — Sapun lepo miriše.	imenica	
+X	Kupatilo	Reč	šampon	das Shampoo	das šampu	Das Shampoo ist leer. — Šampon je prazan.	imenica	
+X	Kupatilo	Reč	pasta za zube	die Zahnpasta	di canpasta	Die Zahnpasta ist frisch. — Pasta za zube je sveža.	imenica	
+X	Kupatilo	Reč	četkica za zube	die Zahnbürste	di canbirste	Die Zahnbürste ist neu. — Četkica je nova.	imenica	
+X	Kupatilo	Reč	toalet papir	das Toilettenpapier	das toaletenpapir	Das Toilettenpapier ist alle. — Toalet papir je potrošen.	imenica	
+X	Kupatilo	Reč	vodokotlić	der Spülkasten	der špilkasten	Der Spülkasten ist kaputt. — Vodokotlić je pokvaren.	imenica	
+X	Kupatilo	Reč	četka za WC	die Toilettenbürste	di toaletenbirste	Die Toilettenbürste ist dort. — Četka za WC je tamo.	imenica	
+X	Kupatilo	Reč	fen za kosu	der Föhn	der fen	Der Föhn ist heiß. — Fen je vruć.	imenica	
+X	Kupatilo	Reč	brijač	der Rasierer	der razirer	Der Rasierer ist scharf. — Brijač je oštar.	imenica	
+X	Kupatilo	Reč	četka za kosu	die Haarbürste	di haarbirste	Die Haarbürste ist weich. — Četka za kosu je mekana.	imenica	
+X	Kupatilo	Reč	dezodorans	das Deo	das deo	Das Deo riecht frisch. — Dezodorans miriše sveže.	imenica	
+X	Kupatilo	Reč	krema	die Creme	di krem	Die Creme ist gut für die Haut. — Krema je dobra za kožu.	imenica	
+X	Domaće životinje	Reč	kobila	die Stute	di štute	Die Stute hat ein Fohlen. — Kobila ima ždrebe.	imenica	
+X	Domaće životinje	Reč	ždrebe	das Fohlen	das folen	Das Fohlen ist klein. — Ždrebe je malo.	imenica	
+X	Domaće životinje	Reč	bik	der Bulle	der bule	Der Bulle ist stark. — Bik je jak.	imenica	
+X	Domaće životinje	Reč	tele	das Kalb	das kalb	Das Kalb trinkt Milch. — Tele pije mleko.	imenica	
+X	Domaće životinje	Reč	prase	das Ferkel	das ferkel	Das Ferkel ist rosa. — Prase je roze.	imenica	
+X	Domaće životinje	Reč	ovan	der Widder	der vider	Der Widder hat Hörner. — Ovan ima rogove.	imenica	
+X	Domaće životinje	Reč	jagnje	das Lamm	das lam	Das Lamm ist weich. — Jagnje je mekano.	imenica	
+X	Domaće životinje	Reč	jarac	der Ziegenbock	der cigenbok	Der Ziegenbock hat einen Bart. — Jarac ima bradu.	imenica	
+X	Domaće životinje	Reč	pile	das Küken	das kiken	Das Küken ist gelb. — Pile je žuto.	imenica	
+X	Domaće životinje	Reč	ćurka	der Truthahn	der truthan	Der Truthahn ist groß. — Ćurka je velika.	imenica	
+X	Domaće životinje	Reč	magarac	der Esel	der ezel	Der Esel ist geduldig. — Magarac je strpljiv.	imenica	
+X	Domaće životinje	Reč	mula	das Maultier	das maultir	Das Maultier ist stark. — Mula je jaka.	imenica	
+X	Domaće životinje	Reč	kunić	das Kaninchen	das kaninhen	Das Kaninchen hoppelt. — Kunić skakuće.	imenica	
+X	Divlje životinje	Reč	divlja svinja	das Wildschwein	das viltšvajn	Das Wildschwein ist gefährlich. — Divlja svinja je opasna.	imenica	
+X	Divlje životinje	Reč	srna	die Ricke	di rike	Die Ricke ist schlank. — Srna je vitka.	imenica	
+X	Divlje životinje	Reč	jež	der Igel	der igel	Der Igel hat Stacheln. — Jež ima bodlje.	imenica	
+X	Divlje životinje	Reč	krtice	der Maulwurf	der maulvurf	Der Maulwurf gräbt. — Krtica kopa.	imenica	
+X	Divlje životinje	Reč	pacov	die Ratte	di rate	Die Ratte ist groß. — Pacov je veliki.	imenica	
+X	Divlje životinje	Reč	lasica	das Wiesel	das vizel	Das Wiesel ist schnell. — Lasica je brza.	imenica	
+X	Divlje životinje	Reč	jazavac	der Dachs	der daks	Der Dachs gräbt Höhlen. — Jazavac kopa jazbine.	imenica	
+X	Divlje životinje	Reč	vidra	der Otter	der oter	Der Otter schwimmt gut. — Vidra dobro pliva.	imenica	
+X	Divlje životinje	Reč	dabar	der Biber	der biber	Der Biber baut Dämme. — Dabar gradi brane.	imenica	
+X	Divlje životinje	Reč	ris	der Luchs	der luks	Der Luchs ist selten. — Ris je redak.	imenica	
+X	Divlje životinje	Reč	kuna	der Marder	der marder	Der Marder klettert. — Kuna se penje.	imenica	
+X	Divlje životinje	Reč	sova	die Eule	di ojle	Die Eule ist wach in der Nacht. — Sova je budna noću.	imenica	
+X	Divlje životinje	Reč	orao	der Adler	der adler	Der Adler fliegt hoch. — Orao leti visoko.	imenica	
+X	Divlje životinje	Reč	sokol	der Falke	der falke	Der Falke ist schnell. — Soko je brz.	imenica	
+X	Divlje životinje	Reč	gavran	der Rabe	der rabe	Der Rabe ist schwarz. — Gavran je crn.	imenica	
+X	Divlje životinje	Reč	golub	die Taube	di taube	Die Taube ist grau. — Golub je siv.	imenica	
+X	Divlje životinje	Reč	detlić	der Specht	der špeht	Der Specht klopft. — Detlić kuca.	imenica	
+X	Divlje životinje	Reč	fazan	der Fasan	der fazan	Der Fasan ist bunt. — Fazan je šaren.	imenica	
+X	Divlje životinje	Reč	jarebica	das Rebhuhn	das rebhun	Das Rebhuhn ist scheu. — Jarebica je plašljiva.	imenica	
+X	Divlje životinje	Reč	gušter	die Eidechse	di ajdehse	Die Eidechse sonnt sich. — Gušter se sunča.	imenica	
+X	Divlje životinje	Reč	slepi miš	die Fledermaus	di fledermaus	Die Fledermaus fliegt nachts. — Slepi miš leti noću.	imenica	
+X	Ribe	Reč	pastrmka	die Forelle	di forele	Die Forelle ist frisch. — Pastrmka je sveža.	imenica	
+X	Ribe	Reč	šaran	der Karpfen	der karpfen	Der Karpfen ist groß. — Šaran je veliki.	imenica	
+X	Ribe	Reč	smuđ	der Zander	der cander	Der Zander ist lecker. — Smuđ je ukusan.	imenica	
+X	Ribe	Reč	štuka	der Hecht	der heht	Der Hecht ist schnell. — Štuka je brza.	imenica	
+X	Ribe	Reč	som	der Wels	der vels	Der Wels ist groß. — Som je veliki.	imenica	
+X	Ribe	Reč	kečiga	der Sterlet	der šterlet	Der Sterlet ist selten. — Kečiga je retka.	imenica	
+X	Ribe	Reč	losos	der Lachs	der laks	Der Lachs ist rosa. — Losos je roze.	imenica	
+X	Ribe	Reč	tuna	der Thunfisch	der tunfiš	Der Thunfisch ist aus dem Meer. — Tuna je iz mora.	imenica	
+X	Ribe	Reč	sardina	die Sardine	di sardine	Die Sardine ist klein. — Sardina je mala.	imenica	
+X	Ribe	Reč	skuša	die Makrele	di makrele	Die Makrele ist fettig. — Skuša je masna.	imenica	
+X	Ribe	Reč	bakalar	der Kabeljau	der kabeljau	Der Kabeljau ist beliebt. — Bakalar je popularan.	imenica	
+X	Ribe	Reč	oslić	der Seehecht	der zeeheht	Der Seehecht ist weiß. — Oslić je beo.	imenica	
+X	Ribe	Reč	morski pas	der Hai	der haj	Der Hai ist gefährlich. — Morski pas je opasan.	imenica	
+X	Ribe	Reč	raža	der Rochen	der rohen	Der Rochen schwimmt am Boden. — Raža pliva po dnu.	imenica	
+X	Ribe	Reč	jegulja	der Aal	der al	Der Aal ist lang. — Jegulja je duga.	imenica	
+X	Ribe	Reč	školjka	die Muschel	di mušel	Die Muschel ist am Strand. — Školjka je na plaži.	imenica	
+X	Ribe	Reč	rak	der Krebs	der krebs	Der Krebs lebt im Fluss. — Rak živi u reci.	imenica	
+X	Ribe	Reč	kozica	die Garnele	di garnele	Die Garnele ist klein. — Kozica je mala.	imenica	
+X	Ribe	Reč	hobotnica	der Oktopus	der oktopus	Der Oktopus hat acht Arme. — Hobotnica ima osam krakova.	imenica	
+X	Voda i priroda	Reč	potok	der Bach	der bah	Der Bach ist klein. — Potok je mali.	imenica	
+X	Voda i priroda	Reč	okean	der Ozean	der oceán	Der Ozean ist riesig. — Okean je ogroman.	imenica	
+X	Voda i priroda	Reč	vodopad	der Wasserfall	der vaserfal	Der Wasserfall ist laut. — Vodopad je bučan.	imenica	
+X	Voda i priroda	Reč	brdo	der Hügel	der higel	Der Hügel ist niedrig. — Brdo je nisko.	imenica	
+X	Voda i priroda	Reč	vrh	die Spitze	di špice	Die Spitze ist schneebedeckt. — Vrh je pod snegom.	imenica	
+X	Voda i priroda	Reč	pustinja	die Wüste	di viste	Die Wüste ist heiß. — Pustinja je vruća.	imenica	
+X	Voda i priroda	Reč	močvara	der Sumpf	der zumpf	Der Sumpf ist feucht. — Močvara je vlažna.	imenica	
+X	Voda i priroda	Reč	pećina	die Höhle	di hele	Die Höhle ist dunkel. — Pećina je tamna.	imenica	
+X	Voda i priroda	Reč	pesak	der Sand	der zand	Der Sand ist warm. — Pesak je topao.	imenica	
+X	Stambene jedinice	Reč	vikendica	das Wochenendhaus	das vohenendhaus	Die Wochenendhaus ist am See. — Vikendica je kraj jezera.	imenica	
+X	Stambene jedinice	Reč	zgrada	das Gebäude	das gebojde	Das Gebäude ist hoch. — Zgrada je visoka.	imenica	
+X	Stambene jedinice	Reč	sprat	die Etage	di etaže	Ich wohne im dritten Stock. — Stanujem na trećem spratu.	imenica	
+X	Stambene jedinice	Reč	terasa	die Terrasse	di terase	Die Terrasse ist groß. — Terasa je velika.	imenica	
+X	Stambene jedinice	Reč	dvorište	der Hof	der hof	Der Hof ist gepflastert. — Dvorište je popločano.	imenica	
+X	Stambene jedinice	Reč	kvaka	die Klinke	di klinke	Die Klinke ist locker. — Kvaka je labava.	imenica	
+X	Stambene jedinice	Reč	roletna	der Rollladen	der roladen	Die Rollladen ist heruntergelassen. — Roletna je spuštena.	imenica	
+X	Stambene jedinice	Reč	okvir	die Einfassung	di ajfasung	Der Einfassung ist golden. — Okvir je zlatan.	imenica	
+X	Stambene jedinice	Reč	parket	das Parkett	das parket	Das Parkett glänzt. — Parket sija.	imenica	
+X	Stambene jedinice	Reč	pregradni zid	die Trennwand	di trenvand	Die Trennwand ist dünn. — Pregradni zid je tanak.	imenica	
+X	Stambene jedinice	Reč	ulična vrata	die Haustür	di haustir	Die Haustür ist abgeschlossen. — Ulična vrata su zaključana.	imenica	
+X	Nameštaj	Reč	fioka	die Schublade	di šublade	Die Schublade klemmt. — Fioka se zaglavljuje.	imenica	
+X	Nameštaj	Reč	noćni stočić	der Nachttisch	der nahtiš	Der Nachttisch ist klein. — Noćni stočić je mali.	imenica	
+X	Nameštaj	Reč	radni sto	der Schreibtisch	der šrajbtiš	Mein Schreibtisch ist ordentlich. — Radni sto mi je uredan.	imenica	
+X	Nameštaj	Reč	sijalica	die Glühbirne	di glibirne	Die Glühbirne ist durchgebrannt. — Sijalica je pregorela.	imenica	
+X	Nameštaj	Reč	cvetna vaza	die Vase	di vaze	Die Vase ist aus Glas. — Vaza je od stakla.	imenica	
+X	Svetlo i struja	Reč	utikač	der Stecker	der šteker	Der Stecker passt nicht. — Utikač ne odgovara.	imenica	
+X	Svetlo i struja	Reč	kabl	das Kabel	das kabel	Das Kabel ist lang. — Kabl je dugačak.	imenica	
+X	Svetlo i struja	Reč	osigurač	die Sicherung	di ziherung	Die Sicherung ist durchgebrannt. — Osigurač je pregoreo.	imenica	
+X	Svetlo i struja	Reč	podići	heben	heben	Hebe die Kiste. — Podigni kutiju.	glagol	
+X	Svetlo i struja	Reč	spustiti	senken	zenken	Senke die Rollos. — Spusti roletne.	glagol	
+X	Svetlo i struja	Rečenica	Upali svetlo, molim te.	Mach das Licht an, bitte.	mah das liht an, bite	Mach das Licht an, bitte. — Upali svetlo, molim te.	rečenica	
+X	Svetlo i struja	Rečenica	Ugasi svetlo kad izađeš.	Mach das Licht aus, wenn du gehst.	mah das liht aus, ven du gejst	Mach das Licht aus, wenn du gehst. — Ugasi svetlo kad izađeš.	rečenica	
+X	Materijali	Reč	gvožđe	das Eisen	das ajzen	Eisen ist stark. — Gvožđe je jako.	imenica	
+X	Materijali	Reč	čelik	der Stahl	der štal	Stahl ist hart. — Čelik je tvrd.	imenica	
+X	Materijali	Reč	drvo	das Holz	das holc	Holz ist warm. — Drvo je toplo.	imenica	
+X	Materijali	Reč	beton	der Beton	der beton	Beton ist grau. — Beton je siv.	imenica	
+X	Materijali	Reč	cigla	der Ziegel	der cigel	Die Ziegel sind rot. — Cigle su crvene.	imenica	
+X	Materijali	Reč	guma	der Gummi	der gumi	Gummi ist elastisch. — Guma je elastična.	imenica	
+X	Materijali	Reč	svila	die Seide	di zajde	Seide ist fein. — Svila je fina.	imenica	
+X	Materijali	Reč	keramika	die Keramik	di keramik	Keramik ist glatt. — Keramika je glatka.	imenica	
+X	Materijali	Reč	aluminijum	das Aluminium	das aluminium	Aluminium ist leicht. — Aluminijum je lagan.	imenica	
+X	Materijali	Reč	bakar	das Kupfer	das kupfer	Kupfer leitet Strom. — Bakar provodi struju.	imenica	
+X	Materijali	Reč	zlato	das Gold	das gold	Gold glänzt. — Zlato sija.	imenica	
+X	Materijali	Reč	srebro	das Silber	das zilber	Silber ist glänzend. — Srebro je sjajno.	imenica	
+X	Materijali	Reč	mesing	das Messing	das mesing	Messing ist gelb. — Mesing je žut.	imenica	
+X	Materijali	Reč	bronza	die Bronze	di bronce	Bronze ist alt. — Bronza je stara.	imenica	
+X	Osobine i teksture	Reč	hrapavo	rau	rau	Die Wand ist rau. — Zid je hrapav.	ostalo	
+X	Alati	Reč	odvijač	der Schraubendreher	der šraubendreer	Der Schraubendreher ist klein. — Odvijač je mali.	imenica	
+X	Alati	Reč	burgija	der Bohrer	der borer	Der Bohrer ist scharf. — Burgija je oštra.	imenica	
+X	Alati	Reč	klešta	die Zange	di cange	Die Zange ist praktisch. — Klešta su praktična.	imenica	
+X	Alati	Reč	ključ (alat)	der Schraubenschlüssel	der šraubenšlisel	Der Schraubenschlüssel ist verstellbar. — Ključ je podesiv.	imenica	
+X	Alati	Reč	testera	die Säge	di zege	Die Säge ist scharf. — Testera je oštra.	imenica	
+X	Alati	Reč	turpija	die Feile	di fajle	Die Feile ist fein. — Turpija je fina.	imenica	
+X	Alati	Reč	brusilica	der Schleifer	der šlajfer	Der Schleifer ist stark. — Brusilica je jaka.	imenica	
+X	Alati	Reč	metar	das Maßband	das masbant	Das Maßband ist lang. — Metar je dugačak.	imenica	
+X	Alati	Reč	libela	die Wasserwaage	di vaservaže	Die Wasserwaage ist genau. — Libela je precizna.	imenica	
+X	Alati	Reč	kovrdžava	der Draht	der draht	Der Draht ist biegsam. — Žica je savitljiva.	imenica	
+X	Alati	Reč	selotejp	das Klebeband	das klebebant	Das Klebeband klebt gut. — Selotejp dobro lepi.	imenica	
+X	Alati	Reč	lepak	der Kleber	der kleber	Der Kleber ist stark. — Lepak je jak.	imenica	
+X	Alati	Reč	kanta	der Eimer	der ajmer	Der Eimer ist voll. — Kanta je puna.	imenica	
+X	Alati	Reč	metla	der Besen	der bezen	Der Besen ist neu. — Metla je nova.	imenica	
+X	Alati	Reč	lopata	die Schaufel	di šaufel	Die Schaufel ist schwer. — Lopata je teška.	imenica	
+X	Alati	Reč	motika	die Hacke	di hake	Die Hacke ist scharf. — Motika je oštra.	imenica	
+X	Alati	Reč	sekira	die Axt	di akst	Die Axt ist scharf. — Sekira je oštra.	imenica	
+X	Alati	Reč	makaze	die Schere	di šere	Die Schere schneidet gut. — Makaze dobro seku.	imenica	
+X	Alati	Reč	vaga	die Waage	di važe	Die Waage zeigt zwei Kilo. — Vaga pokazuje dva kila.	imenica	
+X	Alati	Reč	viljuškar	der Gabelstapler	der gabelštapler	Der Gabelstapler hebt die Palette. — Viljuškar diže paletu.	imenica	
+X	Lice i kosa	Reč	brada	der Bart	der bart	Mein Vater hat einen Bart. — Moj otac ima bradu.	imenica	
+X	Lice i kosa	Reč	brkovi	der Schnurrbart	der šnurbart	Der Schnurrbart ist modern. — Brkovi su moderni.	imenica	
+X	Lice i kosa	Reč	frizura	die Frisur	di frizur	Die Frisur ist schön. — Frizura je lepa.	imenica	
+X	Lice i kosa	Reč	šišanje	der Haarschnitt	der haršnit	Der Haarschnitt kostet zwanzig Euro. — Šišanje košta dvadeset evra.	imenica	
+X	Lice i kosa	Reč	pletenica	der Zopf	der copf	Der Zopf ist lang. — Pletenica je dugačka.	imenica	
+X	Lice i kosa	Reč	rep	der Pferdeschwanz	der pferdešvanc	Der Pferdeschwanz ist praktisch. — Rep je praktičan.	imenica	
+X	Lice i kosa	Reč	ćelav	kahl	kal	Er ist kahl. — On je ćelav.	ostalo	
+X	Lice i kosa	Reč	pegav	sommersprossig	zomeršprosih	Sie ist sommersprossig. — Ona je pegava.	ostalo	
+X	Lice i kosa	Reč	čelo	die Stirn	di štirn	Die Stirn ist hoch. — Čelo je visoko.	imenica	
+X	Lice i kosa	Reč	obrva	die Augenbraue	di augenbraue	Die Augenbraue ist dünn. — Obrva je tanka.	imenica	
+X	Lice i kosa	Reč	trepavica	die Wimper	di vimper	Die Wimper ist lang. — Trepavica je dugačka.	imenica	
+X	Lice i kosa	Reč	brada (deo lica)	das Kinn	das kin	Das Kinn ist rund. — Brada je okrugla.	imenica	
+X	Lice i kosa	Reč	obraz	die Wange	di vange	Die Wange ist rot. — Obraz je crven.	imenica	
+X	Aktivnosti i veštine	Reč	čitanje	das Lesen	das lezen	Lesen ist wichtig. — Čitanje je važno.	imenica	
+X	Aktivnosti i veštine	Reč	pisanje	das Schreiben	das šrajben	Schreiben ist schön. — Pisanje je lepo.	imenica	
+X	Aktivnosti i veštine	Reč	programiranje	das Programmieren	das programiren	Programmieren macht Spaß. — Programiranje je zabavno.	imenica	
+X	Aktivnosti i veštine	Reč	prevod	die Übersetzung	di iberzecung	Die Übersetzung ist gut. — Prevod je dobar.	imenica	
+X	Lopta i igre	Reč	teniska loptica	der Tennisball	der tenisbal	Der Tennisball ist gelb. — Teniska loptica je žuta.	imenica	
+X	Lopta i igre	Reč	trener	der Trainer	der trener	Der Trainer ist streng. — Trener je strog.	imenica	
+X	Lopta i igre	Reč	šah	das Schach	das šah	Schach ist ein Denkspiel. — Šah je misaona igra.	imenica	
+X	Lopta i igre	Reč	karte	die Karten	di karten	Wir spielen Karten. — Igramo karte.	imenica	
+X	Lopta i igre	Reč	slagalica	das Puzzle	das pacl	Das Puzzle ist schwer. — Slagalica je teška.	imenica	
+X	Lopta i igre	Rečenica	Hajde da igramo fudbal!	Lass uns Fußball spielen!	las uns fusbal špilen	Lass uns Fußball spielen! — Hajde da igramo fudbal!	rečenica	
+X	Kućni poslovi	Reč	usisavanje	das Staubsaugen	das štaubzaugen	Staubsaugen ist langweilig. — Usisavanje je dosadno.	imenica	
+X	Kućni poslovi	Reč	usisivač	der Staubsauger	der štaubzauger	Der Staubsauger ist laut. — Usisivač je bučan.	imenica	
+X	Kućni poslovi	Reč	brisanje prašine	das Staubwischen	das štaubvišen	Staubwischen ist wichtig. — Brisanje prašine je važno.	imenica	
+X	Kućni poslovi	Reč	pranje sudova	das Abwaschen	das apvašen	Abwaschen ist meine Aufgabe. — Pranje sudova je moj zadatak.	imenica	
+X	Kućni poslovi	Reč	pranje veša	das Waschen	das vašen	Waschen am Samstag. — Pranje veša u subotu.	imenica	
+X	Kućni poslovi	Reč	peglanje	das Bügeln	das bigeln	Bügeln ist anstrengend. — Peglanje je naporno.	imenica	
+X	Kućni poslovi	Reč	pegla	das Bügeleisen	das bigelajzen	Das Bügeleisen ist heiß. — Pegla je vruća.	imenica	
+X	Kućni poslovi	Reč	krpa	der Lappen	der lapen	Der Lappen ist nass. — Krpa je mokra.	imenica	
+X	Kućni poslovi	Reč	obrisati	abwischen	apvišen	Wische den Tisch ab. — Obriši sto.	glagol	
+X	Zamenice (pokazne)	Reč	sebe / se	sich	zih	Er wäscht sich. — On se pere.	ostalo	
+X	Zamenice (pokazne)	Reč	takav	solcher	zolher	Solche Leute mag ich. — Takve ljude volim.	ostalo	
+X	Zamenice (pokazne)	Reč	isti	derselbe	derzelbe	Es ist derselbe Mann. — To je isti čovek.	ostalo	
+X	Upitne reči	Reč	koliko dugo	wie lange	vi lange	Wie lange lernst du Deutsch? — Koliko dugo učiš nemački?	ostalo	
+X	Upitne reči	Reč	koja	welche	velhe	Welche Farbe magst du? — Koja boja ti se sviđa?	ostalo	
+X	Upitne reči	Reč	koje	welches	velhes	Welches Buch liest du? — Koju knjigu čitaš?	ostalo	
+X	Modalne reči	Reč	ipak / naprotiv / da (na negaciju)	doch	doh	Doch, das ist wahr! — Ipak, to je istina!	ostalo	
+X	Modalne reči	Reč	malo / jednom	mal	mal	Komm mal her! — Dođi malo ovamo!	ostalo	
+A1	Male reči	Reč	nekome	jemandem	jemandem	Ich helfe jemandem. — Pomažem nekome.	ostalo	
+A1	Male reči	Reč	nikome	niemandem	nimandem	Ich helfe niemandem. — Nikome ne pomažem.	ostalo	
+A1	Male reči	Reč	to	das	das	Das ist gut. — To je dobro.	ostalo	
+A1	Male reči	Reč	ovaj	dieser	dizer	Dieser Mann arbeitet hier. — Ovaj čovek radi ovde.	ostalo	
+A1	Male reči	Reč	ova	diese	dize	Diese Frau kommt aus Deutschland. — Ova žena dolazi iz Nemačke.	ostalo	
+A1	Male reči	Reč	ovo	dieses	dizes	Dieses Buch ist gut. — Ova knjiga je dobra.	ostalo	
+A1	Male reči	Reč	onaj	jener	jener	Jener Tag war schön. — Onaj dan je bio lep.	ostalo	
+A1	Male reči	Reč	ona (pokazna)	jene	jene	Jene Frau ist meine Tante. — Ona žena je moja tetka.	ostalo	
+A1	Male reči	Reč	ono (pokazna)	jenes	jenes	Jenes Haus ist alt. — Ona kuća je stara.	ostalo	
+A1	Male reči	Reč	vaš	euer	ojer	Euer Auto — vaš auto.	ostalo	
+A1	Male reči	Reč	njega / ga	ihn	in	Ich kenne ihn. — Poznajem ga.	ostalo	
+A1	Male reči	Reč	nas	uns	uns	Sie hört uns. — Ona nas čuje.	ostalo	
+A1	Male reči	Reč	vas	euch	ojh	Ich sehe euch. — Vidim vas.	ostalo	
+A1	Pozdravi i osnovni izrazi	Reč	ko?	wer?	ver	Wer ist das? — Ko je to?	ostalo	
+A1	Pozdravi i osnovni izrazi	Reč	koga?	wen?	ven	Wen siehst du? — Koga vidiš?	ostalo	
+A1	Pozdravi i osnovni izrazi	Reč	kome?	wem?	vem	Wem hilfst du? — Kome pomažeš?	ostalo	
+A1	Pozdravi i osnovni izrazi	Reč	šta?	was?	vas	Was ist das? — Šta je to?	ostalo	
+A1	Pozdravi i osnovni izrazi	Reč	koji?	welcher?	velher	Welcher Tag ist heute? — Koji je danas dan?	ostalo	
+A1	Pozdravi i osnovni izrazi	Reč	koja? / koje?	welche?	velhe	Welche Sprache sprichst du? — Koji jezik govoriš?	ostalo	
+A1	Pozdravi i osnovni izrazi	Reč	koje? (srednji rod)	welches?	velhes	Welches Buch liest du? — Koju knjigu čitaš?	ostalo	
+A1	Pozdravi i osnovni izrazi	Rečenica	Ja sam ovde.	Ich bin hier.	ih bin hir	Ich bin hier, wo bist du? — Ja sam ovde, gde si ti?	rečenica	
+A1	Pozdravi i osnovni izrazi	Rečenica	Ti si ovde.	Du bist hier.	du bist hir	Du bist hier, ich auch. — Ti si ovde, i ja.	rečenica	
+A1	Pozdravi i osnovni izrazi	Rečenica	On je tamo.	Er ist dort.	er ist dort	Er ist dort, nicht hier. — On je tamo, ne ovde.	rečenica	
+A1	Pozdravi i osnovni izrazi	Rečenica	Ona je ovde.	Sie ist hier.	zi ist hir	Sie ist hier mit mir. — Ona je ovde sa mnom.	rečenica	
+A1	Pozdravi i osnovni izrazi	Rečenica	Mi smo zajedno.	Wir sind zusammen.	vir zint cuzamen	Wir sind zusammen stark. — Zajedno smo jaki.	rečenica	
+A1	Pozdravi i osnovni izrazi	Rečenica	Vi ste ovde.	Ihr seid hier.	ir zajt hir	Ihr seid hier willkommen. — Ovde ste dobrodošli.	rečenica	
+A1	Pozdravi i osnovni izrazi	Rečenica	Oni su tamo.	Sie sind dort.	zi zint dort	Sie sind dort drüben. — Oni su tamo preko.	rečenica	
+A1	Pozdravi i osnovni izrazi	Rečenica	To je moj auto.	Das ist mein Auto.	das ist majn auto	Das ist mein Auto, nicht dein Auto. — To je moj auto, ne tvoj.	rečenica	
+A1	Pozdravi i osnovni izrazi	Rečenica	To je tvoja kuća.	Das ist dein Haus.	das ist dajn haus	Das ist dein Haus, oder? — To je tvoja kuća, zar ne?	rečenica	
+A1	Pozdravi i osnovni izrazi	Rečenica	Vidim te.	Ich sehe dich.	ih zee dih	Ich sehe dich dort. — Vidim te tamo.	rečenica	
+A1	Pozdravi i osnovni izrazi	Rečenica	Ti vidiš mene.	Du siehst mich.	du zist mih	Du siehst mich, aber ich sehe dich nicht. — Ti vidiš mene, ali ja ne vidim tebe.	rečenica	
+A1	Pozdravi i osnovni izrazi	Rečenica	Ko je to?	Wer ist das?	ver ist das	Wer ist das? Ich kenne ihn nicht. — Ko je to? Ne poznajem ga.	rečenica	
+A1	Pozdravi i osnovni izrazi	Rečenica	Šta je to?	Was ist das?	vas ist das	Was ist das? Ein Geschenk? — Šta je to? Poklon?	rečenica	
+A1	Opšti glagoli	Reč	trčati (brzo)	rennen	renen	Er rennt schnell. — On brzo trči.	glagol	
+A1	Opšti glagoli	Reč	vratiti se	zurückkommen	curikkomen	Ich komme morgen zurück. — Vraćam se sutra.	glagol	
+A1	Opšti glagoli	Reč	pričati / razgovarati	reden	reden	Wir reden zusammen. — Razgovaramo zajedno.	glagol	
+A1	Opšti glagoli	Reč	mrzeti	hassen	hasen	Ich hasse Montage. — Mrzim ponedeljke.	glagol	
+A1	Opšti glagoli	Reč	završiti	enden	enden	Der Film endet spät. — Film se završava kasno.	glagol	
+A1	Opšti glagoli	Rečenica	Ja idem kući.	Ich gehe nach Hause.	ih gee nah hauze	Ich gehe nach Hause. — Ja idem kući.	rečenica	
+A1	Opšti glagoli	Rečenica	Ti ideš kući.	Du gehst nach Hause.	du gejst nah hauze	Du gehst nach Hause. — Ti ideš kući.	rečenica	
+A1	Opšti glagoli	Rečenica	On ide kući.	Er geht nach Hause.	er gejt nah hauze	Er geht nach Hause. — On ide kući.	rečenica	
+A1	Opšti glagoli	Rečenica	Ona ide kući.	Sie geht nach Hause.	zi gejt nah hauze	Sie geht nach Hause. — Ona ide kući.	rečenica	
+A1	Opšti glagoli	Rečenica	Mi idemo kući.	Wir gehen nach Hause.	vir geen nah hauze	Wir gehen nach Hause. — Mi idemo kući.	rečenica	
+A1	Opšti glagoli	Rečenica	Vi idete kući.	Ihr geht nach Hause.	ir gejt nah hauze	Ihr geht nach Hause. — Vi idete kući.	rečenica	
+A1	Opšti glagoli	Rečenica	Oni idu kući.	Sie gehen nach Hause.	zi geen nah hauze	Sie gehen nach Hause. — Oni idu kući.	rečenica	
+A1	Opšti glagoli	Rečenica	Ja mogu.	Ich kann.	ih kan	Ich kann das machen. — Ja mogu to da uradim.	rečenica	
+A1	Opšti glagoli	Rečenica	Ja moram.	Ich muss.	ih mus	Ich muss gehen. — Moram da idem.	rečenica	
+A1	Opšti glagoli	Rečenica	Ja hoću.	Ich will.	ih vil	Ich will lernen. — Hoću da učim.	rečenica	
+A1	Opšti glagoli	Rečenica	Ja treba da...	Ich soll...	ih zol	Ich soll warten. — Treba da čekam.	rečenica	
+A1	Opšti glagoli	Rečenica	Ja smem.	Ich darf.	ih darf	Ich darf kommen. — Smem da dođem.	rečenica	
+A1	Opšti glagoli	Rečenica	Ja volim.	Ich mag.	ih mak	Ich mag Kaffee. — Volim kafu.	rečenica	
+A1	Opšti glagoli	Rečenica	Ja bih želeo.	Ich möchte.	ih mohte	Ich möchte Wasser. — Želeo bih vodu.	rečenica	
+A1	Lični podaci i porodica	Reč	osoba	die Person	di perzon	Diese Person ist wichtig. — Ova osoba je važna.	imenica	
+A1	Lični podaci i porodica	Reč	šefica	die Chefin	di šefin	Die Chefin ist streng. — Šefica je stroga.	imenica	
+A1	Lični podaci i porodica	Reč	posetilac	der Besucher	der bezuher	Der Besucher wartet draußen. — Posetilac čeka napolju.	imenica	
+A1	Lični podaci i porodica	Rečenica	Poznajem tog muškarca.	Ich kenne den Mann.	ih kene den man	Ich kenne den Mann von der Arbeit. — Poznajem tog muškarca s posla.	rečenica	
+A1	Stan i kuća	Rečenica	Kod kuće sam.	Ich bin zu Hause.	ih bin cu hauze	Ich bin zu Hause und lese. — Kod kuće sam i čitam.	rečenica	
+A1	Grad, saobraćaj i putovanje	Reč	putnik (putnički)	der Passagier	der pasažir	Der Passagier steigt ein. — Putnik ulazi.	imenica	
+A1	Grad, saobraćaj i putovanje	Reč	ulaz	der Eingang	der ajngang	Der Eingang ist links. — Ulaz je levo.	imenica	
+A1	Grad, saobraćaj i putovanje	Reč	izlaz	der Ausgang	der ausgang	Der Ausgang ist hinten. — Izlaz je pozadi.	imenica	
+A1	Grad, saobraćaj i putovanje	Reč	sedište	der Sitz	der zic	Der Sitz ist bequem. — Sedište je udobno.	imenica	
+A1	Grad, saobraćaj i putovanje	Reč	pruga / relacija	die Strecke	di štreke	Die Strecke ist lang. — Pruga je dugačka.	imenica	
+A1	Grad, saobraćaj i putovanje	Reč	vožnja / putovanje	die Fahrt	di fart	Die Fahrt dauert zwei Stunden. — Vožnja traje dva sata.	imenica	
+A1	Grad, saobraćaj i putovanje	Reč	kontrola / pregled	die Kontrolle	di kontrole	Die Kontrolle dauert kurz. — Kontrola traje kratko.	imenica	
+A1	Grad, saobraćaj i putovanje	Rečenica	Sa kog koloseka polazi voz?	Auf welchem Gleis fährt der Zug ab?	auf velhem glajs fert der cuk ap	Auf welchem Gleis fährt der Zug nach Berlin ab? — Sa kog koloseka polazi voz za Berlin?	rečenica	
+A1	Mišljenje i apstraktni pojmovi	Reč	stvar	die Sache	di zahe	Die Sache ist wichtig. — Stvar je važna.	imenica	
+A1	Mišljenje i apstraktni pojmovi	Reč	svet	die Welt	di velt	Die Welt ist groß. — Svet je veliki.	imenica	
+A1	Mišljenje i apstraktni pojmovi	Rečenica	Ja imam automobil.	Ich habe ein Auto.	ih habe ajn auto	Ich habe ein Auto. — Ja imam automobil.	rečenica	
+A1	Mišljenje i apstraktni pojmovi	Rečenica	Ja vidim voz.	Ich sehe den Zug.	ih zee den cuk	Ich sehe den Zug am Bahnhof. — Vidim voz na stanici.	rečenica	
+A1	Mišljenje i apstraktni pojmovi	Rečenica	Čovek kupuje hleb.	Der Mann kauft das Brot.	der man kauft das brot	Der Mann kauft das Brot im Laden. — Čovek kupuje hleb u prodavnici.	rečenica	
+A1	Mišljenje i apstraktni pojmovi	Rečenica	Žena ima problem.	Die Frau hat ein Problem.	di frau hat ajn problem	Die Frau hat ein Problem mit dem Auto. — Žena ima problem s autom.	rečenica	
+A1	Mišljenje i apstraktni pojmovi	Rečenica	Mi putujemo vozom.	Wir fahren mit dem Zug.	vir faren mit dem cuk	Wir fahren mit dem Zug nach Berlin. — Putujemo vozom u Berlin.	rečenica	
+A1	Opšti pridevi	Reč	nizak	niedrig	nidrih	Der Tisch ist niedrig. — Sto je nizak.	ostalo	
+A1	Opšti pridevi	Reč	nevažan	unwichtig	unvihtih	Das ist unwichtig. — To je nevažno.	ostalo	
+A1	Opšti pridevi	Reč	nesiguran	unsicher	unziher	Ich bin unsicher. — Nesiguran sam.	ostalo	
+A1	Opšti pridevi	Reč	nejasan	unklar	unklar	Die Frage ist unklar. — Pitanje je nejasno.	ostalo	
+A1	Opšti pridevi	Reč	nepoznat	unbekannt	unbekant	Das ist unbekannt. — To je nepoznato.	ostalo	
+A1	Opšti pridevi	Reč	neljubazan	unfreundlich	unfrojndlih	Er ist unfreundlich. — On je neljubazan.	ostalo	
+A1	Opšti pridevi	Reč	nezadovoljan	unzufrieden	uncufriden	Er ist unzufrieden. — On je nezadovoljan.	glagol	
+A1	Opšti pridevi	Reč	budan	wach	vah	Ich bin wach. — Budan sam.	ostalo	
+A1	Opšti pridevi	Reč	gladan	hungrig	hungrih	Ich bin hungrig. — Gladan sam.	ostalo	
+A1	Opšti pridevi	Reč	žedan	durstig	durstih	Ich bin durstig. — Žedan sam.	ostalo	
+A1	Opšti pridevi	Reč	opušten	entspannt	entšpant	Ich bin entspannt. — Opušten sam.	ostalo	
+A1	Opšti pridevi	Reč	zainteresovan	interessiert	interesirt	Ich bin interessiert. — Zainteresovan sam.	ostalo	
+A1	Opšti pridevi	Reč	obilan	reichlich	rajhlih	Das Essen ist reichlich. — Hrana je obilna.	ostalo	
+A1	Opšti pridevi	Reč	kišovit	regnerisch	regneriš	Das Wetter ist regnerisch. — Vreme je kišovito.	ostalo	
+A1	Opšti pridevi	Reč	neudoban	unbequem	unbekvem	Der Stuhl ist unbequem. — Stolica je neudobna.	ostalo	
+A1	Grad, saobraćaj i putovanje	Reč	u kašnjenju	verspätet	feršpetet	Der Zug ist verspätet. — Voz kasni.	ostalo	
+A1	Opšti pridevi	Reč	više	mehr	mer	Ich brauche mehr Zeit. — Treba mi više vremena.	ostalo	
+A1	Opšti pridevi	Reč	manje	weniger	veniger	Iss weniger Zucker. — Jedi manje šećera.	ostalo	
+A1	Opšti pridevi	Reč	previše	zu viel	cu fil	Das ist zu viel. — To je previše.	ostalo	
+A1	Opšti pridevi	Reč	premalo	zu wenig	cu venih	Das ist zu wenig. — To je premalo.	ostalo	
+A1	Opšti pridevi	Reč	mnogi / mnogo	viele	file	Viele Menschen sind hier. — Mnogi ljudi su ovde.	ostalo	
+A1	Opšti pridevi	Reč	malo / nekoliko	wenige	venige	Wenige Leute kommen. — Malo ljudi dolazi.	ostalo	
+A1	Opšti pridevi	Reč	duplo	doppelt	dopelt	Doppelt so viel. — Duplo više.	ostalo	
+A1	Opšti pridevi	Rečenica	dobar ↔ loš	gut ↔ schlecht	gut ↔ šleht	Das ist gut, nicht schlecht. — To je dobro, ne loše.	rečenica	
+A1	Opšti pridevi	Rečenica	velik ↔ mali	groß ↔ klein	gros ↔ klajn	Das Haus ist groß, das Auto ist klein. — Kuća je velika, auto je mali.	rečenica	
+A1	Opšti pridevi	Rečenica	nov ↔ star	neu ↔ alt	noj ↔ alt	Das Auto ist neu, das Buch ist alt. — Auto je novo, knjiga je stara.	rečenica	
+A1	Opšti pridevi	Rečenica	brz ↔ spor	schnell ↔ langsam	šnel ↔ langzam	Der Zug ist schnell, der Bus ist langsam. — Voz je brz, autobus je spor.	rečenica	
+A1	Opšti pridevi	Rečenica	lak ↔ težak	leicht ↔ schwer	lajht ↔ šver	Das ist leicht, nicht schwer. — To je lako, ne teško.	rečenica	
+A1	Opšti pridevi	Rečenica	topao ↔ hladan	warm ↔ kalt	varm ↔ kalt	Das Wasser ist warm, das Bier ist kalt. — Voda je topla, pivo je hladno.	rečenica	
+A1	Opšti pridevi	Rečenica	pun ↔ prazan	voll ↔ leer	fol ↔ ler	Der Bus ist voll, der Zug ist leer. — Autobus je pun, voz je prazan.	rečenica	
+A1	Opšti pridevi	Rečenica	otvoren ↔ zatvoren	offen ↔ geschlossen	ofen ↔ gešlosen	Die Tür ist offen, das Fenster ist geschlossen. — Vrata su otvorena, prozor je zatvoren.	rečenica	
+A1	Opšti pridevi	Rečenica	tačan ↔ pogrešan	richtig ↔ falsch	rihtih ↔ falš	Die Antwort ist richtig, nicht falsch. — Odgovor je tačan, ne pogrešan.	rečenica	
+A1	Opšti pridevi	Rečenica	skup ↔ jeftin	teuer ↔ billig	tojer ↔ bilih	Das ist teuer, nicht billig. — To je skupo, ne jeftino.	rečenica	
+A1	Opšti pridevi	Rečenica	Automobil je novo.	Das Auto ist neu.	das auto ist noj	Das Auto ist neu und schnell. — Auto je novo i brzo.	rečenica	
+A1	Opšti pridevi	Rečenica	Voz je brz.	Der Zug ist schnell.	der cuk ist šnel	Der Zug ist schnell und pünktlich. — Voz je brz i tačan.	rečenica	
+A1	Opšti pridevi	Rečenica	Torba je teška.	Die Tasche ist schwer.	di taše ist šver	Die Tasche ist schwer, ich brauche Hilfe. — Torba je teška, treba mi pomoć.	rečenica	
+A1	Opšti pridevi	Rečenica	Kuća je velika.	Das Haus ist groß.	das haus ist gros	Das Haus ist groß und schön. — Kuća je velika i lepa.	rečenica	
+A1	Opšti pridevi	Rečenica	To je tačno.	Das ist richtig.	das ist rihtih	Das ist richtig, ich stimme zu. — To je tačno, slažem se.	rečenica	
+A1	Opšti pridevi	Rečenica	To nije moguće.	Das ist nicht möglich.	das ist niht meglih	Das ist nicht möglich heute. — To danas nije moguće.	rečenica	
+A1	Opšti pridevi	Rečenica	Zadatak je težak.	Die Aufgabe ist schwierig.	di aufgabe ist švirih	Die Aufgabe ist schwierig, aber machbar. — Zadatak je težak, ali izvodljiv.	rečenica	
+A1	Opšti pridevi	Rečenica	Jesi li gotov?	Bist du fertig?	bist du fertih	Bist du fertig mit der Arbeit? — Jesi li gotov s poslom?	rečenica	
+A1	Opšti pridevi	Rečenica	Umoran sam.	Ich bin müde.	ih bin mide	Ich bin müde, ich gehe schlafen. — Umoran sam, idem da spavam.	rečenica	
+A1	Opšti pridevi	Rečenica	Ona je srećna.	Sie ist glücklich.	zi ist gliklih	Sie ist glücklich mit ihrem Leben. — Srećna je sa svojim životom.	rečenica	
+A1	Opšti pridevi	Rečenica	Zašto si tužan?	Warum bist du traurig?	varum bist du traurih	Warum bist du traurig heute? — Zašto si danas tužan?	rečenica	
+A1	Opšti pridevi	Rečenica	To je povoljno.	Das ist günstig.	das ist ginstih	Das ist günstig und gut. — To je povoljno i dobro.	rečenica	
+A1	Opšti pridevi	Rečenica	Danas je hladno.	Heute ist es kalt.	hojte ist es kalt	Heute ist es kalt und windig. — Danas je hladno i vetrovito.	rečenica	
+A1	Opšti pridevi	Rečenica	Voda je topla.	Das Wasser ist warm.	das vaser ist varm	Das Wasser ist warm, danke. — Voda je topla, hvala.	rečenica	
+A1	Opšti pridevi	Rečenica	Vrata su otvorena.	Die Tür ist offen.	di tir ist ofen	Die Tür ist offen, komm rein! — Vrata su otvorena, uđi!	rečenica	
+A1	Opšti pridevi	Rečenica	Prostorija je čista.	Der Raum ist sauber.	der raum ist zauber	Der Raum ist sauber und hell. — Prostorija je čista i svetla.	rečenica	
+A1	Opšti pridevi	Rečenica	Imam veliki problem.	Ich habe ein großes Problem.	ih habe ajn groses problem	Ich habe ein großes Problem mit dem Auto. — Imam veliki problem s autom.	rečenica	
+A1	Male reči	Reč	pre toga	davor	davor	Davor war es kalt. — Pre toga je bilo hladno.	ostalo	
+A1	Male reči	Reč	normalno / obično	normalerweise	normalervajze	Normalerweise esse ich um sieben. — Obično jedem u sedam.	ostalo	
+A1	Male reči	Reč	nigde	nirgendwo	nirgendvo	Ich finde es nirgendwo. — Nigde ga ne nalazim.	ostalo	
+A1	Male reči	Reč	unutra	innen	inen	Innen ist es warm. — Unutra je toplo.	glagol	
+A1	Male reči	Reč	spolja	außen	ausen	Außen ist es kalt. — Spolja je hladno.	glagol	
+A1	Male reči	Reč	dalje / odsutan	weg	vek	Er ist weg. — On je otišao.	ostalo	
+A1	Male reči	Reč	tako	so	zo	So ist das Leben. — Takav je život.	ostalo	
+A1	Male reči	Reč	potpuno / baš	total	total	Das ist total gut. — To je baš dobro.	ostalo	
+A1	Male reči	Reč	apsolutno	absolut	apzolut	Das ist absolut richtig. — To je apsolutno tačno.	ostalo	
+A1	Male reči	Reč	tek / prvo	erst	erst	Es ist erst acht Uhr. — Tek je osam sati.	ostalo	
+A1	Male reči	Rečenica	Već sam ovde.	Ich bin schon hier.	ih bin šon hir	Ich bin schon hier. — Već sam ovde.	rečenica	
+A1	Male reči	Rečenica	Da li si već jeo?	Hast du schon gegessen?	hast du šon gegesen	Hast du schon gegessen? — Da li si već jeo?	rečenica	
+A1	Male reči	Rečenica	Još sam ovde.	Ich bin noch hier.	ih bin noh hir	Ich bin noch hier. — Još sam ovde.	rečenica	
+A1	Male reči	Rečenica	Još imam vremena.	Ich habe noch Zeit.	ih habe noh cajt	Ich habe noch Zeit. — Još imam vremena.	rečenica	
+A1	Male reči	Rečenica	Jesi li već gotov?	Bist du schon fertig?	bist du šon fertih	Bist du schon fertig? — Jesi li već gotov?	rečenica	
+A1	Male reči	Rečenica	Ne, još nisam gotov.	Nein, ich bin noch nicht fertig.	najn, ih bin noh niht fertih	Nein, ich bin noch nicht fertig. — Ne, još nisam gotov.	rečenica	
+A1	Male reči	Rečenica	Imam samo 10 evra.	Ich habe nur zehn Euro.	ih habe nur cen ojro	Ich habe nur zehn Euro. — Imam samo 10 evra.	rečenica	
+A1	Male reči	Rečenica	Pijem samo vodu.	Ich trinke nur Wasser.	ih trinke nur vaser	Ich trinke nur Wasser. — Pijem samo vodu.	rečenica	
+A1	Male reči	Rečenica	Dolazim tek sutra.	Ich komme erst morgen.	ih kome erst morgen	Ich komme erst morgen. — Dolazim tek sutra.	rečenica	
+A1	Male reči	Rečenica	Tek je osam sati.	Es ist erst acht Uhr.	es ist erst aht ur	Es ist erst acht Uhr. — Tek je osam sati.	rečenica	
+A1	Male reči	Reč	sigurno / zasigurno	bestimmt	beštimt	Er kommt bestimmt. — On sigurno dolazi.	ostalo	
+A1	Male reči	Rečenica	Šta ti zapravo radiš?	Was machst du eigentlich?	vas mahst du ajgentlih	Was machst du eigentlich beruflich? — Šta ti zapravo radiš?	rečenica	
+A1	Male reči	Rečenica	Zapravo sam danas hteo da radim.	Eigentlich wollte ich heute arbeiten.	ajgentlih volte ih hojte arbajten	Eigentlich wollte ich heute arbeiten, aber ich bin müde. — Zapravo sam hteo danas da radim, ali sam umoran.	rečenica	
+A1	Male reči	Rečenica	Kako se ti zapravo zoveš?	Wie heißt du eigentlich?	vi hajst du ajgentlih	Wie heißt du eigentlich? — Kako se ti zapravo zoveš?	rečenica	
+A1	Male reči	Rečenica	Dakle, šta ćemo?	Also, was machen wir?	alzo, vas mahen vir	Also, was machen wir heute? — Dakle, šta ćemo danas?	rečenica	
+A1	Male reči	Rečenica	Znači, sutra si ovde?	Also bist du morgen hier?	alzo bist du morgen hir	Also bist du morgen hier? — Znači, sutra si ovde?	rečenica	
+A1	Male reči	Rečenica	Dobro onda.	Also gut.	alzo gut	Also gut, ich komme mit. — Dobro onda, idem s tobom.	rečenica	
+A1	Male reči	Rečenica	Nemaš novca. — Imam!	Du hast kein Geld. — Doch!	du hast kajn geld. — doh!	Du hast kein Geld. — Doch, ich habe Geld! — Nemaš novca. — Imam!	rečenica	
+A1	Male reči	Rečenica	Ne dolaziš. — Naprotiv, dolazim!	Du kommst nicht. — Doch, ich komme!	du komst niht. — doh, ih kome!	Du kommst nicht. — Doch, ich komme! — Ne dolaziš. — Naprotiv, dolazim!	rečenica	
+A1	Male reči	Reč	tamo / u tom pravcu	hin	hin	Wo gehst du hin? — Kuda ideš?	ostalo	
+A1	Male reči	Reč	ovamo	her	her	Komm her! — Dođi ovamo!	ostalo	
+A1	Male reči	Reč	unutra (u tom pravcu)	hinein	hinajn	Geh hinein! — Uđi unutra!	ostalo	
+A1	Male reči	Reč	napolje (u tom pravcu)	heraus	heraus	Komm heraus! — Izađi napolje!	ostalo	
+A1	Male reči	Reč	gore (u tom pravcu)	hinauf	hinauf	Geh hinauf! — Idi gore!	ostalo	
+A1	Male reči	Reč	dole (u tom pravcu)	herunter	herunter	Komm herunter! — Siđi dole!	ostalo	
+A1	Male reči	Reč	nazad	zurück	curik	Komm zurück! — Vrati se!	ostalo	
+A1	Male reči	Reč	napred	vorwärts	forverts	Geh vorwärts! — Idi napred!	ostalo	
+A1	Male reči	Reč	dalje	weiter	vajter	Geh weiter! — Idi dalje!	ostalo	
+A1	Male reči	Rečenica	Dođi ovamo!	Komm her!	kom her	Komm her, bitte! — Dođi ovamo, molim te!	rečenica	
+A1	Male reči	Rečenica	Idi odavde!	Geh weg!	ge vek	Geh weg von hier! — Idi odavde!	rečenica	
+A1	Male reči	Rečenica	Uđi!	Komm herein!	kom herajn	Komm herein, es ist warm! — Uđi, toplo je!	rečenica	
+A1	Male reči	Rečenica	Idi dalje!	Geh weiter!	ge vajter	Geh weiter, wir sind spät! — Idi dalje, kasnimo!	rečenica	
+A1	Male reči	Rečenica	Vrati se!	Komm zurück!	kom curik	Komm zurück, bitte! — Vrati se, molim te!	rečenica	
+A1	Male reči	Rečenica	Danas radim.	Ich arbeite heute.	ih arbajte hojte	Ich arbeite heute. — Danas radim.	rečenica	
+A1	Male reči	Rečenica	Danas ne radim.	Ich arbeite heute nicht.	ih arbajte hojte niht	Ich arbeite heute nicht. — Danas ne radim.	rečenica	
+A1	Male reči	Rečenica	Još danas radim.	Ich arbeite heute noch.	ih arbajte hojte noh	Ich arbeite heute noch. — Još danas radim.	rečenica	
+A1	Male reči	Rečenica	Danas ponovo radim.	Ich arbeite heute wieder.	ih arbajte hojte vider	Ich arbeite heute wieder. — Danas ponovo radim.	rečenica	
+A1	Male reči	Rečenica	Već sam kod kuće.	Ich bin schon zu Hause.	ih bin šon cu hauze	Ich bin schon zu Hause. — Već sam kod kuće.	rečenica	
+A1	Male reči	Rečenica	Još nisam kod kuće.	Ich bin noch nicht zu Hause.	ih bin noh niht cu hauze	Ich bin noch nicht zu Hause. — Još nisam kod kuće.	rečenica	
+A1	Male reči	Rečenica	Voz je danas tačan.	Der Zug ist heute pünktlich.	der cuk ist hojte pinktlih	Der Zug ist heute pünktlich. — Voz je danas tačan.	rečenica	
+A1	Male reči	Rečenica	Voz je nažalost već otišao.	Der Zug ist leider schon weg.	der cuk ist lajder šon vek	Der Zug ist leider schon weg. — Voz je nažalost već otišao.	rečenica	
+A1	Male reči	Rečenica	Želim samo vodu.	Ich möchte nur Wasser.	ih mohte nur vaser	Ich möchte nur Wasser. — Želim samo vodu.	rečenica	
+A1	Male reči	Rečenica	Želim i kafu.	Ich möchte auch Kaffee.	ih mohte auh kafe	Ich möchte auch Kaffee. — Želim i kafu.	rečenica	
+A1	Male reči	Rečenica	Možda dolazim sutra.	Vielleicht komme ich morgen.	filajht kome ih morgen	Vielleicht komme ich morgen. — Možda dolazim sutra.	rečenica	
+A1	Male reči	Rečenica	Zapravo želim da ostanem kod kuće.	Eigentlich möchte ich zu Hause bleiben.	ajgentlih mohte ih cu hauze blajben	Eigentlich möchte ich zu Hause bleiben. — Zapravo želim da ostanem kod kuće.	rečenica	
+A1	Gramatika i pravila	Rečenica	Ja sam u gradu. (gde?)	Ich bin in der Stadt.	ih bin in der štat	Ich bin in der Stadt. — Ja sam u gradu. (Dativ)	rečenica	
+A1	Gramatika i pravila	Rečenica	Idem u grad. (kuda?)	Ich gehe in die Stadt.	ih gee in di štat	Ich gehe in die Stadt. — Idem u grad. (Akkusativ)	rečenica	
+A1	Gramatika i pravila	Rečenica	Ja sam u vozu.	Ich bin im Zug.	ih bin im cuk	Ich bin im Zug. — Ja sam u vozu.	rečenica	
+A1	Gramatika i pravila	Rečenica	Ulazim u voz.	Ich steige in den Zug.	ih štajge in den cuk	Ich steige in den Zug. — Ulazim u voz.	rečenica	
+A1	Gramatika i pravila	Rečenica	Telefon je na stolu. (gde?)	Das Handy liegt auf dem Tisch.	das hendi likt auf dem tiš	Das Handy liegt auf dem Tisch. — Telefon je na stolu. (Dativ)	rečenica	
+A1	Gramatika i pravila	Rečenica	Stavljam telefon na sto. (kuda?)	Ich lege das Handy auf den Tisch.	ih lege das hendi auf den tiš	Ich lege das Handy auf den Tisch. — Stavljam telefon na sto. (Akkusativ)	rečenica	
+A1	Gramatika i pravila	Rečenica	Stojim kod vrata. (gde?)	Ich stehe an der Tür.	ih štee an der tir	Ich stehe an der Tür. — Stojim kod vrata. (Dativ)	rečenica	
+A1	Gramatika i pravila	Rečenica	Idem do vrata. (kuda?)	Ich gehe an die Tür.	ih gee an di tir	Ich gehe an die Tür. — Idem do vrata. (Akkusativ)	rečenica	
+A1	Gramatika i pravila	Rečenica	Čekamo na železničkoj stanici.	Wir warten am Bahnhof.	vir varten am banhof	Wir warten am Bahnhof. — Čekamo na železničkoj stanici.	rečenica	
+A1	Gramatika i pravila	Rečenica	Auto stoji ispred kuće. (gde?)	Das Auto steht vor dem Haus.	das auto štee for dem haus	Das Auto steht vor dem Haus. — Auto stoji ispred kuće. (Dativ)	rečenica	
+A1	Gramatika i pravila	Rečenica	Idem ispred kuće. (kuda?)	Ich gehe vor das Haus.	ih gee for das haus	Ich gehe vor das Haus. — Idem ispred kuće. (Akkusativ)	rečenica	
+A1	Gramatika i pravila	Rečenica	Auto je iza kuće. (gde?)	Das Auto steht hinter dem Haus.	das auto štee hinter dem haus	Das Auto steht hinter dem Haus. — Auto je iza kuće. (Dativ)	rečenica	
+A1	Gramatika i pravila	Rečenica	Idem iza kuće. (kuda?)	Ich gehe hinter das Haus.	ih gee hinter das haus	Ich gehe hinter das Haus. — Idem iza kuće. (Akkusativ)	rečenica	
+A1	Gramatika i pravila	Rečenica	Sedim pored prijatelja. (gde?)	Ich sitze neben meinem Freund.	ih zice neben majnem frojnd	Ich sitze neben meinem Freund. — Sedim pored prijatelja. (Dativ)	rečenica	
+A1	Gramatika i pravila	Rečenica	Sedam pored prijatelja. (kuda?)	Ich setze mich neben meinen Freund.	ih zece mih neben majnen frojnd	Ich setze mich neben meinen Freund. — Sedam pored prijatelja. (Akkusativ)	rečenica	
+A1	Gramatika i pravila	Rečenica	Torba je ispod stola. (gde?)	Die Tasche liegt unter dem Tisch.	di taše likt unter dem tiš	Die Tasche liegt unter dem Tisch. — Torba je ispod stola. (Dativ)	rečenica	
+A1	Gramatika i pravila	Rečenica	Stavljam torbu ispod stola. (kuda?)	Ich stelle die Tasche unter den Tisch.	ih štele di taše unter den tiš	Ich stelle die Tasche unter den Tisch. — Stavljam torbu ispod stola. (Akkusativ)	rečenica	
+A1	Gramatika i pravila	Rečenica	Lampa visi iznad stola. (gde?)	Die Lampe hängt über dem Tisch.	di lampe hengt iber dem tiš	Die Lampe hängt über dem Tisch. — Lampa visi iznad stola. (Dativ)	rečenica	
+A1	Gramatika i pravila	Rečenica	Kačim lampu iznad stola. (kuda?)	Ich hänge die Lampe über den Tisch.	ih henge di lampe iber den tiš	Ich hänge die Lampe über den Tisch. — Kačim lampu iznad stola. (Akkusativ)	rečenica	
+A1	Gramatika i pravila	Rečenica	Voz stoji između koloseka. (gde?)	Der Zug steht zwischen den Gleisen.	der cuk štee cvišen den glajzen	Der Zug steht zwischen den Gleisen. — Voz stoji između koloseka. (Dativ)	rečenica	
+A1	Gramatika i pravila	Rečenica	Stavljam auto između kuća. (kuda?)	Ich stelle das Auto zwischen die Häuser.	ih štele das auto cvišen di hojzer	Ich stelle das Auto zwischen die Häuser. — Stavljam auto između kuća. (Akkusativ)	rečenica	
+A1	Grad, saobraćaj i putovanje	Reč	na železničkoj stanici	am Bahnhof	am banhof	Ich bin am Bahnhof. — Ja sam na železničkoj stanici.	ostalo	
+A1	Grad, saobraćaj i putovanje	Reč	na peronu	auf dem Bahnsteig	auf dem banštajg	Ich bin auf dem Bahnsteig. — Ja sam na peronu.	ostalo	
+A1	Grad, saobraćaj i putovanje	Reč	u vozu	im Zug	im cuk	Ich bin im Zug. — Ja sam u vozu.	ostalo	
+A1	Grad, saobraćaj i putovanje	Reč	u vagonu	im Wagen	im vagen	Ich bin im Wagen. — Ja sam u vagonu.	ostalo	
+A1	Grad, saobraćaj i putovanje	Reč	na koloseku	auf dem Gleis	auf dem glajs	Der Zug steht auf dem Gleis. — Voz je na koloseku.	ostalo	
+A1	Grad, saobraćaj i putovanje	Reč	ka stanici	zum Bahnhof	cum banhof	Ich gehe zum Bahnhof. — Idem ka stanici.	ostalo	
+A1	Grad, saobraćaj i putovanje	Reč	u voz (kuda)	in den Zug	in den cuk	Ich steige in den Zug. — Ulazim u voz.	ostalo	
+A1	Grad, saobraćaj i putovanje	Reč	iz voza	aus dem Zug	aus dem cuk	Ich steige aus dem Zug. — Izlazim iz voza.	ostalo	
+A1	Grad, saobraćaj i putovanje	Reč	sa stanice	vom Bahnhof	fom banhof	Ich komme vom Bahnhof. — Dolazim sa stanice.	ostalo	
+A1	Grad, saobraćaj i putovanje	Reč	vozom	mit dem Zug	mit dem cuk	Ich fahre mit dem Zug. — Putujem vozom.	ostalo	
+A1	Grad, saobraćaj i putovanje	Rečenica	Ja sam na peronu i čekam voz.	Ich bin auf dem Bahnsteig und warte auf den Zug.	ih bin auf dem banštajg unt varte auf den cuk	Ich bin auf dem Bahnsteig und warte auf den Zug. — Ja sam na peronu i čekam voz.	rečenica	
+A1	Grad, saobraćaj i putovanje	Rečenica	Voz dolazi na kolosek 3.	Der Zug kommt auf das Gleis 3.	der cuk komt auf das glajs draj	Der Zug kommt auf das Gleis 3. — Voz dolazi na kolosek 3.	rečenica	
+A1	Grad, saobraćaj i putovanje	Rečenica	Putnici ulaze u voz.	Die Fahrgäste steigen in den Zug ein.	di fargeste štajgen in den cuk ajn	Die Fahrgäste steigen in den Zug ein. — Putnici ulaze u voz.	rečenica	
+A1	Grad, saobraćaj i putovanje	Rečenica	Putnici izlaze iz voza.	Die Fahrgäste steigen aus dem Zug aus.	di fargeste štajgen aus dem cuk aus	Die Fahrgäste steigen aus dem Zug aus. — Putnici izlaze iz voza.	rečenica	
+A1	Gramatika i pravila	Rečenica	Muški rod — Dativ: der → dem	der → dem (Dativ)	der → dem	mit dem Mann — sa muškarcem	rečenica	
+A1	Gramatika i pravila	Rečenica	Muški rod — Akuzativ: der → den	der → den (Akkusativ)	der → den	Ich sehe den Mann. — Vidim muškarca.	rečenica	
+A1	Gramatika i pravila	Rečenica	Ženski rod — Dativ: die → der	die → der (Dativ)	di → der	mit der Frau — sa ženom	rečenica	
+A1	Gramatika i pravila	Rečenica	Ženski rod — Akuzativ: die → die	die → die (Akkusativ)	di → di	Ich sehe die Frau. — Vidim ženu.	rečenica	
+A1	Gramatika i pravila	Rečenica	Srednji rod — Dativ: das → dem	das → dem (Dativ)	das → dem	mit dem Kind — sa detetom	rečenica	
+A1	Gramatika i pravila	Rečenica	Srednji rod — Akuzativ: das → das	das → das (Akkusativ)	das → das	Ich sehe das Kind. — Vidim dete.	rečenica	
+A1	Gramatika i pravila	Rečenica	Množina — Dativ: die → den	die → den (Dativ)	di → den	mit den Kindern — sa decom	rečenica	
+A1	Male reči	Reč	an dem → na/kod	am	am	am Bahnhof — na stanici	ostalo	
+A1	Male reči	Reč	an das → na/ka	ans	ans	ans Fenster — do prozora	ostalo	
+A1	Male reči	Reč	in dem → u	im	im	im Zug — u vozu	ostalo	
+A1	Male reči	Reč	in das → u	ins	ins	ins Kino — u bioskop	ostalo	
+A1	Male reči	Reč	zu dem → ka/u	zum	cum	zum Bahnhof — ka stanici	ostalo	
+A1	Male reči	Reč	zu der → ka/u	zur	cur	zur Post — do pošte	ostalo	
+A1	Male reči	Reč	von dem → od/sa	vom	fom	vom Bahnhof — sa stanice	ostalo	
+A1	Male reči	Reč	bei dem → kod	beim	bajm	beim Arzt — kod lekara	ostalo	
+A1	Male reči	Reč	auf das → na	aufs	aufs	aufs Land — na selo	ostalo	
+A1	Male reči	Reč	für das → za	fürs	firs	fürs Kind — za dete	ostalo	
+A1	Male reči	Reč	durch das → kroz	durchs	durhs	durchs Fenster — kroz prozor	ostalo	
+A1	Male reči	Reč	um das → oko	ums	ums	ums Haus — oko kuće	ostalo	
+A1	Gramatika i pravila	Rečenica	Dativ predlozi (grupa)	aus – bei – mit – nach – seit – von – zu	aus – baj – mit – nah – zajt – fon – cu	Ovi predlozi UVEK traže Dativ.	rečenica	
+A1	Gramatika i pravila	Rečenica	Akuzativ predlozi (grupa)	durch – für – gegen – ohne – um	durh – fir – gegen – one – um	Ovi predlozi UVEK traže Akuzativ.	rečenica	
+A1	Gramatika i pravila	Rečenica	Wechsel predlozi (grupa)	an – auf – hinter – in – neben – über – unter – vor – zwischen	an – auf – hinter – in – neben – iber – unter – for – cvišen	WO? → Dativ, WOHIN? → Akkusativ	rečenica	
+A1	Gramatika i pravila	Rečenica	Gde? → Dativ	Wo? → Dativ	vo → dativ	Ich bin in der Stadt. — Ja sam u gradu.	rečenica	
+A1	Gramatika i pravila	Rečenica	Kuda? → Akkusativ	Wohin? → Akkusativ	vohin → akuzativ	Ich gehe in die Stadt. — Idem u grad.	rečenica	
+A2	Male reči	Reč	zbog toga	deswegen	desvegen	Es regnet. Deswegen bleibe ich zu Hause. — Pada kiša. Zbog toga ostajem kod kuće.	glagol	
+A2	Gramatika i pravila	Rečenica	Radim i učim nemački.	Ich arbeite und ich lerne Deutsch.	ih arbajte unt ih lerne dojč	Ich arbeite und ich lerne Deutsch. — Radim i učim nemački.	rečenica	
+A2	Gramatika i pravila	Rečenica	Pijem kafu i vodu.	Ich trinke Kaffee und Wasser.	ih trinke kafe unt vaser	Ich trinke Kaffee und Wasser. — Pijem kafu i vodu.	rečenica	
+A2	Gramatika i pravila	Rečenica	Želiš li kafu ili čaj?	Möchtest du Kaffee oder Tee?	mohtest du kafe oder te	Möchtest du Kaffee oder Tee? — Želiš li kafu ili čaj?	rečenica	
+A2	Gramatika i pravila	Rečenica	Putujemo li danas ili sutra?	Fahren wir heute oder morgen?	faren vir hojte oder morgen	Fahren wir heute oder morgen? — Putujemo li danas ili sutra?	rečenica	
+A2	Gramatika i pravila	Rečenica	Umoran sam, ali radim.	Ich bin müde, aber ich arbeite.	ih bin mide, aber ih arbajte	Ich bin müde, aber ich arbeite. — Umoran sam, ali radim.	rečenica	
+A2	Gramatika i pravila	Rečenica	Auto je star, ali je dobro.	Das Auto ist alt, aber es ist gut.	das auto ist alt, aber es ist gut	Das Auto ist alt, aber es ist gut. — Auto je star, ali je dobro.	rečenica	
+A2	Gramatika i pravila	Rečenica	Ostajem kod kuće jer sam bolestan.	Ich bleibe zu Hause, denn ich bin krank.	ih blajbe cu hauze, den ih bin krank	Ich bleibe zu Hause, denn ich bin krank. — Ostajem kod kuće jer sam bolestan.	rečenica	
+A2	Gramatika i pravila	Rečenica	Ostajem kod kuće zato što sam bolestan.	Ich bleibe zu Hause, weil ich krank bin.	ih blajbe cu hauze, vajl ih krank bin	Ich bleibe zu Hause, weil ich krank bin. — Ostajem kod kuće zato što sam bolestan.	rečenica	
+A2	Gramatika i pravila	Rečenica	Učim nemački zato što želim da radim u Nemačkoj.	Ich lerne Deutsch, weil ich in Deutschland arbeiten will.	ih lerne dojč, vajl ih in dojčlant arbajten vil	Ich lerne Deutsch, weil ich in Deutschland arbeiten will. — Učim nemački zato što želim da radim u Nemačkoj.	rečenica	
+A2	Gramatika i pravila	Rečenica	Znam da on danas radi.	Ich weiß, dass er heute arbeitet.	ih vajs, das er hojte arbajtet	Ich weiß, dass er heute arbeitet. — Znam da on danas radi.	rečenica	
+A2	Gramatika i pravila	Rečenica	Mislim da on dolazi.	Ich glaube, dass er kommt.	ih glaube, das er komt	Ich glaube, dass er kommt. — Mislim da on dolazi.	rečenica	
+A2	Gramatika i pravila	Rečenica	Ona kaže da je umorna.	Sie sagt, dass sie müde ist.	zi zakt, das zi mide ist	Sie sagt, dass sie müde ist. — Ona kaže da je umorna.	rečenica	
+A2	Gramatika i pravila	Rečenica	Ako imam vremena, dolazim.	Wenn ich Zeit habe, komme ich.	ven ih cajt habe, kome ih	Wenn ich Zeit habe, komme ich. — Ako imam vremena, dolazim.	rečenica	
+A2	Gramatika i pravila	Rečenica	Ako pada kiša, ostajem kod kuće.	Wenn es regnet, bleibe ich zu Hause.	ven es regnet, blajbe ih cu hauze	Wenn es regnet, bleibe ich zu Hause. — Ako pada kiša, ostajem kod kuće.	rečenica	
+A2	Gramatika i pravila	Rečenica	Kada sam slobodan, idem kući.	Wenn ich frei habe, fahre ich nach Hause.	ven ih fraj habe, fare ih nah hauze	Wenn ich frei habe, fahre ich nach Hause. — Kada sam slobodan, idem kući.	rečenica	
+A2	Gramatika i pravila	Rečenica	Kada sam bio dete, živeo sam u Srbiji.	Als ich ein Kind war, wohnte ich in Serbien.	als ih ajn kind var, vonte ih in zerbien	Als ich ein Kind war, wohnte ich in Serbien. — Kada sam bio dete, živeo sam u Srbiji.	rečenica	
+A2	Gramatika i pravila	Rečenica	Ne znam da li danas dolazi.	Ich weiß nicht, ob er heute kommt.	ih vajs niht, op er hojte komt	Ich weiß nicht, ob er heute kommt. — Ne znam da li danas dolazi.	rečenica	
+A2	Gramatika i pravila	Rečenica	Pitam da li ima vremena.	Ich frage, ob er Zeit hat.	ih frage, op er cajt hat	Ich frage, ob er Zeit hat. — Pitam da li ima vremena.	rečenica	
+A2	Gramatika i pravila	Rečenica	Idem na posao iako sam umoran.	Ich gehe arbeiten, obwohl ich müde bin.	ih gee arbajten, obvol ih mide bin	Ich gehe arbeiten, obwohl ich müde bin. — Idem na posao iako sam umoran.	rečenica	
+A2	Gramatika i pravila	Rečenica	On vozi iako je bolestan.	Er fährt, obwohl er krank ist.	er fert, obvol er krank ist	Er fährt, obwohl er krank ist. — On vozi iako je bolestan.	rečenica	
+A2	Gramatika i pravila	Rečenica	Ne pijem kafu, nego čaj.	Ich trinke keinen Kaffee, sondern Tee.	ih trinke kajnen kafe, zondern te	Ich trinke keinen Kaffee, sondern Tee. — Ne pijem kafu, nego čaj.	rečenica	
+A2	Gramatika i pravila	Rečenica	To nije moj auto, nego njegov auto.	Das ist nicht mein Auto, sondern sein Auto.	das ist niht majn auto, zondern zajn auto	Das ist nicht mein Auto, sondern sein Auto. — To nije moj auto, nego njegov auto.	rečenica	
+A2	Gramatika i pravila	Rečenica	Umoran sam. Zato idem da spavam.	Ich bin müde. Deshalb gehe ich schlafen.	ih bin mide. deshalb gee ih šlafen	Ich bin müde. Deshalb gehe ich schlafen. — Umoran sam. Zato idem da spavam.	rečenica	
+A2	Gramatika i pravila	Rečenica	Pada kiša. Zbog toga ostajem kod kuće.	Es regnet. Deswegen bleibe ich zu Hause.	es regnet. desvegen blajbe ih cu hauze	Es regnet. Deswegen bleibe ich zu Hause. — Pada kiša. Zbog toga ostajem kod kuće.	rečenica	
+A2	Gramatika i pravila	Rečenica	Pada kiša. Ipak idem u šetnju.	Es regnet. Trotzdem gehe ich spazieren.	es regnet. trocdern gee ih špaciren	Es regnet. Trotzdem gehe ich spazieren. — Pada kiša. Ipak idem u šetnju.	rečenica	
+A2	Gramatika i pravila	Rečenica	Umoran sam. Ipak radim.	Ich bin müde. Trotzdem arbeite ich.	ih bin mide. trocdern arbajte ih	Ich bin müde. Trotzdem arbeite ich. — Umoran sam. Ipak radim.	rečenica	
+A2	Gramatika i pravila	Rečenica	Učim nemački da bih mogao da radim u Nemačkoj.	Ich lerne Deutsch, damit ich in Deutschland arbeiten kann.	ih lerne dojč, damit ih in dojčlant arbajten kan	Ich lerne Deutsch, damit ich in Deutschland arbeiten kann. — Učim nemački da bih mogao da radim u Nemačkoj.	rečenica	
+A2	Gramatika i pravila	Rečenica	Govorim polako da bi me razumeo.	Ich spreche langsam, damit du mich verstehst.	ih šprehe langzam, damit du mih feršteest	Ich spreche langsam, damit du mich verstehst. — Govorim polako da bi me razumeo.	rečenica	
+A2	Gramatika i pravila	Rečenica	Tuširam se pre nego što idem na posao.	Ich dusche, bevor ich zur Arbeit gehe.	ih duše, befor ih cur arbajt gee	Ich dusche, bevor ich zur Arbeit gehe. — Tuširam se pre nego što idem na posao.	rečenica	
+A2	Gramatika i pravila	Rečenica	Pre nego što spavam, čitam knjigu.	Bevor ich schlafe, lese ich ein Buch.	befor ih šlafe, leze ih ajn buh	Bevor ich schlafe, lese ich ein Buch. — Pre nego što spavam, čitam knjigu.	rečenica	
+A2	Gramatika i pravila	Rečenica	Nakon što sam jeo, idem da spavam.	Nachdem ich gegessen habe, gehe ich schlafen.	nahdem ih gegesen habe, gee ih šlafen	Nachdem ich gegessen habe, gehe ich schlafen. — Nakon što sam jeo, idem da spavam.	rečenica	
+A2	Male reči	Reč	und → normalan red	und → normaler Satzbau	und → normaler zacbau	Ich arbeite und ich lerne. — Red je normalan.	ostalo	
+A2	Male reči	Reč	oder → normalan red	oder → normaler Satzbau	oder → normaler zacbau	Kaffee oder Tee? — Red je normalan.	ostalo	
+A2	Male reči	Reč	aber → normalan red	aber → normaler Satzbau	aber → normaler zacbau	Ich bin müde, aber ich arbeite. — Red je normalan.	ostalo	
+A2	Male reči	Reč	denn → normalan red	denn → normaler Satzbau	den → normaler zacbau	Ich bleibe, denn ich bin krank. — Red je normalan.	ostalo	
+A2	Male reči	Reč	sondern → normalan red	sondern → normaler Satzbau	zondern → normaler zacbau	Nicht Kaffee, sondern Tee. — Red je normalan.	ostalo	
+A2	Male reči	Reč	weil → glagol na kraju	weil → Verb am Ende	vajl → ferp am ende	Ich bleibe, weil ich krank bin. — Glagol 'bin' na kraju.	ostalo	
+A2	Male reči	Reč	dass → glagol na kraju	dass → Verb am Ende	das → ferp am ende	Ich weiß, dass er arbeitet. — Glagol na kraju.	ostalo	
+A2	Male reči	Reč	wenn → glagol na kraju	wenn → Verb am Ende	ven → ferp am ende	Wenn ich Zeit habe, komme ich. — U zavisnoj rečenici glagol na kraju.	ostalo	
+A2	Male reči	Reč	als → glagol na kraju	als → Verb am Ende	als → ferp am ende	Als ich Kind war... — Glagol na kraju.	ostalo	
+A2	Male reči	Reč	ob → glagol na kraju	ob → Verb am Ende	op → ferp am ende	Ich weiß nicht, ob er kommt. — Glagol na kraju.	ostalo	
+A2	Male reči	Reč	obwohl → glagol na kraju	obwohl → Verb am Ende	obvol → ferp am ende	Obwohl ich müde bin, arbeite ich. — Glagol na kraju.	ostalo	
+A2	Male reči	Reč	damit → glagol na kraju	damit → Verb am Ende	damit → ferp am ende	Ich lerne, damit ich arbeiten kann. — Glagol na kraju.	ostalo	
+A2	Male reči	Reč	bevor → glagol na kraju	bevor → Verb am Ende	befor → ferp am ende	Bevor ich gehe... — Glagol na kraju.	ostalo	
+A2	Male reči	Reč	nachdem → glagol na kraju	nachdem → Verb am Ende	nahdem → ferp am ende	Nachdem ich gegessen habe... — Glagol na kraju.	ostalo	
+A2	Grad, saobraćaj i putovanje	Rečenica	Kontrolišem voz zato što sam utvrdio kvar.	Ich kontrolliere den Zug, weil ich einen Fehler festgestellt habe.	ih kontrolire den cuk, vajl ih ajnen feler feštgeštelt habe	Ich kontrolliere den Zug, weil ich einen Fehler festgestellt habe. — Kontrolišem voz zato što sam utvrdio kvar.	rečenica	
+A2	Grad, saobraćaj i putovanje	Rečenica	Vagon je neispravan, zato mora biti popravljen.	Der Wagen ist defekt, deshalb muss er repariert werden.	der vagen ist defekt, deshalb mus er repariert verden	Der Wagen ist defekt, deshalb muss er repariert werden. — Vagon je neispravan, zato mora biti popravljen.	rečenica	
+A2	Grad, saobraćaj i putovanje	Rečenica	Prijavio sam kvar, ali voz ipak nastavlja da vozi.	Ich habe den Fehler gemeldet, aber der Zug fährt trotzdem weiter.	ih habe den feler gemeldet, aber der cuk fert trocdern vajter	Ich habe den Fehler gemeldet, aber der Zug fährt trotzdem weiter. — Prijavio sam kvar, ali voz ipak nastavlja da vozi.	rečenica	
+A2	Gramatika i pravila	Rečenica	Radim i učim nemački.	Ich arbeite und lerne Deutsch.	ih arbajte unt lerne dojč	Ich arbeite und lerne Deutsch. — Radim i učim nemački.	rečenica	
+A1	Male reči	Reč	gde?	wo?	vo	Wo bist du? — Gde si?	ostalo	
+A1	Male reči	Reč	kuda?	wohin?	vohin	Wohin gehst du? — Kuda ideš?	ostalo	
+A1	Male reči	Reč	odakle?	woher?	voher	Woher kommst du? — Odakle dolaziš?	ostalo	
+A1	Male reči	Reč	kada?	wann?	van	Wann kommst du? — Kada dolaziš?	ostalo	
+A1	Male reči	Reč	zašto?	warum?	varum	Warum bist du hier? — Zašto si ovde?	ostalo	
+A1	Male reči	Reč	kako?	wie?	vi	Wie geht es dir? — Kako si?	ostalo	
+A1	Male reči	Reč	koliko? (nebrojivo)	wie viel?	vi fil	Wie viel kostet das? — Koliko to košta?	ostalo	
+A1	Male reči	Reč	koliko? (brojivo)	wie viele?	vi file	Wie viele Personen? — Koliko osoba?	ostalo	
+A1	Male reči	Rečenica	Ko danas dolazi?	Wer kommt heute?	ver komt hojte	Wer kommt heute zu Besuch? — Ko danas dolazi u posetu?	rečenica	
+A1	Male reči	Rečenica	Ko danas radi?	Wer arbeitet heute?	ver arbajtet hojte	Wer arbeitet heute in der Firma? — Ko danas radi u firmi?	rečenica	
+A1	Male reči	Rečenica	Šta radiš?	Was machst du?	vas mahst du	Was machst du heute? — Šta radiš danas?	rečenica	
+A1	Male reči	Rečenica	Šta želiš?	Was möchtest du?	vas mohtest du	Was möchtest du trinken? — Šta želiš da popiješ?	rečenica	
+A1	Male reči	Rečenica	Šta se dogodilo?	Was ist passiert?	vas ist pasirt	Was ist passiert? — Šta se dogodilo?	rečenica	
+A1	Male reči	Rečenica	Gde si?	Wo bist du?	vo bist du	Wo bist du jetzt? — Gde si sada?	rečenica	
+A1	Male reči	Rečenica	Gde radiš?	Wo arbeitest du?	vo arbajtest du	Wo arbeitest du? — Gde radiš?	rečenica	
+A1	Male reči	Rečenica	Gde je voz?	Wo ist der Zug?	vo ist der cuk	Wo ist der Zug nach Berlin? — Gde je voz za Berlin?	rečenica	
+A1	Male reči	Rečenica	Gde je železnička stanica?	Wo ist der Bahnhof?	vo ist der banhof	Wo ist der Bahnhof, bitte? — Gde je železnička stanica, molim?	rečenica	
+A1	Male reči	Rečenica	Kuda ideš?	Wohin gehst du?	vohin gejst du	Wohin gehst du heute? — Kuda ideš danas?	rečenica	
+A1	Male reči	Rečenica	Kuda putuješ?	Wohin fährst du?	vohin ferst du	Wohin fährst du in den Urlaub? — Kuda putuješ na odmor?	rečenica	
+A1	Male reči	Rečenica	Idem u Berlin.	Ich fahre nach Berlin.	ih fare nah berlin	Ich fahre nach Berlin. — Putujem u Berlin.	rečenica	
+A1	Male reči	Rečenica	Odakle dolaziš?	Woher kommst du?	voher komst du	Woher kommst du? — Odakle dolaziš?	rečenica	
+A1	Male reči	Rečenica	Odakle dolazi voz?	Woher kommt der Zug?	voher komt der cuk	Woher kommt der Zug? — Odakle dolazi voz?	rečenica	
+A1	Male reči	Rečenica	Kada dolaziš?	Wann kommst du?	van komst du	Wann kommst du nach Hause? — Kada dolaziš kući?	rečenica	
+A1	Male reči	Rečenica	Kada voz polazi?	Wann fährt der Zug ab?	van fert der cuk ap	Wann fährt der Zug ab? — Kada voz polazi?	rečenica	
+A1	Male reči	Rečenica	Kada počinje posao?	Wann beginnt die Arbeit?	van beginnt di arbajt	Wann beginnt die Arbeit? — Kada počinje posao?	rečenica	
+A1	Male reči	Rečenica	Zašto si umoran?	Warum bist du müde?	varum bist du mide	Warum bist du müde? — Zašto si umoran?	rečenica	
+A1	Male reči	Rečenica	Zato što sam mnogo radio.	Weil ich viel gearbeitet habe.	vajl ih fil gearbajtet habe	Weil ich viel gearbeitet habe. — Zato što sam mnogo radio.	rečenica	
+A1	Male reči	Rečenica	Zašto voz kasni?	Warum kommt der Zug zu spät?	varum komt der cuk cu špet	Warum kommt der Zug zu spät? — Zašto voz kasni?	rečenica	
+A1	Male reči	Rečenica	Kako si?	Wie geht es dir?	vi get es dir	Wie geht es dir? — Kako si?	rečenica	
+A1	Male reči	Rečenica	Kako se zoveš?	Wie heißt du?	vi hajst du	Wie heißt du? — Kako se zoveš?	rečenica	
+A1	Male reči	Rečenica	Kako to funkcioniše?	Wie funktioniert das?	vi funkconirt das	Wie funktioniert das? — Kako to funkcioniše?	rečenica	
+A1	Male reči	Rečenica	Kako mogu to da uradim?	Wie kann ich das machen?	vi kan ih das mahen	Wie kann ich das machen? — Kako mogu to da uradim?	rečenica	
+A1	Male reči	Rečenica	Koliko to košta?	Wie viel kostet das?	vi fil kostet das	Wie viel kostet das? — Koliko to košta?	rečenica	
+A1	Male reči	Rečenica	Koliko vode piješ?	Wie viel Wasser trinkst du?	vi fil vaser trinkst du	Wie viel Wasser trinkst du? — Koliko vode piješ?	rečenica	
+A1	Male reči	Rečenica	Koliko vremena imaš?	Wie viel Zeit hast du?	vi fil cajt hast du	Wie viel Zeit hast du? — Koliko vremena imaš?	rečenica	
+A1	Male reči	Rečenica	Koliko kola ima voz?	Wie viele Wagen hat der Zug?	vi file vagen hat der cuk	Wie viele Wagen hat der Zug? — Koliko kola ima voz?	rečenica	
+A1	Male reči	Rečenica	Koliko osoba je ovde?	Wie viele Personen sind hier?	vi file perzonen zint hir	Wie viele Personen sind hier? — Koliko osoba je ovde?	rečenica	
+A1	Male reči	Rečenica	Koliko kilometara?	Wie viele Kilometer?	vi file kilometr	Wie viele Kilometer bis Berlin? — Koliko kilometara do Berlina?	rečenica	
+A1	Male reči	Rečenica	Koji voz?	Welcher Zug?	velher cuk	Welcher Zug fährt nach Berlin? — Koji voz ide za Berlin?	rečenica	
+A1	Male reči	Rečenica	Koji broj?	Welche Nummer?	velhe numer	Welche Nummer hat der Zug? — Koji broj ima voz?	rečenica	
+A1	Male reči	Rečenica	Koji kolosek?	Welches Gleis?	velhes glajs	Welches Gleis ist das? — Koji kolosek je to?	rečenica	
+A1	Male reči	Rečenica	Koja kola?	Welche Wagen?	velhe vagen	Welche Wagen sind betroffen? — Koja kola su obuhvaćena?	rečenica	
+A1	Male reči	Reč	Pitanje sa W — obrazac	W-Wort + Verb + Subjekt + ...	ve-vort + ferp + zubjekt	Wo wohnst du? — Gde živiš?	ostalo	
+A1	Male reči	Rečenica	Gde živiš?	Wo wohnst du?	vo vonst du	Wo wohnst du? — Gde živiš?	rečenica	
+A1	Male reči	Rečenica	Zašto danas radiš?	Warum arbeitest du heute?	varum arbajtest du hojte	Warum arbeitest du heute? — Zašto danas radiš?	rečenica	
+A1	Male reči	Reč	Pitanje bez W — obrazac	Verb + Subjekt + ...	ferp + zubjekt	Arbeitest du heute? — Da li danas radiš?	ostalo	
+A1	Male reči	Rečenica	Da li danas radiš?	Arbeitest du heute?	arbajtest du hojte	Arbeitest du heute? — Da li danas radiš?	rečenica	
+A1	Male reči	Rečenica	Da li dolaziš sutra?	Kommst du morgen?	komst du morgen	Kommst du morgen? — Da li dolaziš sutra?	rečenica	
+A1	Male reči	Rečenica	Imaš li vremena?	Hast du Zeit?	hast du cajt	Hast du Zeit? — Imaš li vremena?	rečenica	
+A1	Male reči	Rečenica	Možeš li da govoriš nemački?	Kannst du Deutsch sprechen?	kanst du dojč šprehen	Kannst du Deutsch sprechen? — Možeš li da govoriš nemački?	rečenica	
+A1	Male reči	Rečenica	Polazi li voz u osam?	Fährt der Zug um acht Uhr?	fert der cuk um aht ur	Fährt der Zug um acht Uhr? — Polazi li voz u osam?	rečenica	
+A1	Male reči	Rečenica	Jesi li umoran?	Bist du müde?	bist du mide	Bist du müde? — Jesi li umoran?	rečenica	
+A1	Male reči	Rečenica	Koji je ovo voz?	Welcher Zug ist das?	velher cuk ist das	Welcher Zug ist das? — Koji je ovo voz?	rečenica	
+A1	Male reči	Rečenica	Koja kola su obuhvaćena?	Welche Wagen sind betroffen?	velhe vagen zint betrofen	Welche Wagen sind betroffen? — Koja kola su obuhvaćena?	rečenica	
+A1	Male reči	Rečenica	Gde je oštećenje?	Wo ist der Schaden?	vo ist der šaden	Wo ist der Schaden? — Gde je oštećenje?	rečenica	
+A1	Male reči	Rečenica	Šta je neispravno?	Was ist defekt?	vas ist defekt	Was ist defekt? — Šta je neispravno?	rečenica	
+A1	Male reči	Rečenica	Od kada postoji kvar?	Seit wann besteht der Fehler?	zajt van bešteet der feler	Seit wann besteht der Fehler? — Od kada postoji kvar?	rečenica	
+A1	Male reči	Rečenica	Ko je prijavio kvar?	Wer hat den Fehler gemeldet?	ver hat den feler gemeldet	Wer hat den Fehler gemeldet? — Ko je prijavio kvar?	rečenica	
+A1	Male reči	Rečenica	Kada dolazi voz?	Wann kommt der Zug?	van komt der cuk	Wann kommt der Zug? — Kada dolazi voz?	rečenica	
+A1	Male reči	Rečenica	Na kom koloseku stoji voz?	Auf welchem Gleis steht der Zug?	auf velhem glajs šteet der cuk	Auf welchem Gleis steht der Zug? — Na kom koloseku stoji voz?	rečenica	
+A1	Male reči	Rečenica	Zašto kola nisu spremna?	Warum ist der Wagen nicht bereit?	varum ist der vagen niht berajt	Warum ist der Wagen nicht bereit? — Zašto kola nisu spremna?	rečenica	
+A1	Male reči	Rečenica	Zašto kasni?	Warum hat er Verspätung?	varum hat er feršpetung	Warum hat er Verspätung? — Zašto kasni?	rečenica	
+A1	Male reči	Reč	osnovna desetka (9) koliko	wie viel(e)	vi fil(e)	Wie viel kostet das? — Koliko to košta?	ostalo	
+A1	Male reči	Reč	osnovna desetka (10) koji/koja/koje	welcher/welche/welches	velher/velhe/velhes	Welcher Zug? — Koji voz?	ostalo	
+A1	Gramatika i pravila	Reč	der — muški rod	der	der	der Mann — čovek, der Zug — voz	ostalo	
+A1	Gramatika i pravila	Reč	die — ženski rod	die	di	die Frau — žena, die Tür — vrata	ostalo	
+A1	Gramatika i pravila	Reč	die — množina	die (Plural)	di	die Kinder — deca, die Wagen — vagoni	ostalo	
+A1	Gramatika i pravila	Reč	ein — muški rod	ein	ajn	ein Mann — jedan čovek	ostalo	
+A1	Gramatika i pravila	Reč	eine — ženski rod	eine	ajne	eine Frau — jedna žena	ostalo	
+A1	Gramatika i pravila	Reč	muške osobe — der	der Mann, der Vater, der Bruder	der man, der fater, der bruder	Muške osobe su često muški rod.	ostalo	
+A1	Gramatika i pravila	Reč	dani — der	der Montag, der Dienstag	der montak, der dinstak	Dani su uglavnom muški rod.	ostalo	
+A1	Gramatika i pravila	Reč	meseci — der	der Januar, der Februar	der januar, der februar	Meseci su uglavnom muški rod.	ostalo	
+A1	Gramatika i pravila	Reč	godišnja doba — der	der Sommer, der Winter	der zomer, der vinter	Godišnja doba su uglavnom muški rod.	ostalo	
+A1	Gramatika i pravila	Reč	-er nastavak — der	der Fahrer, der Arbeiter	der farer, der arbajter	Mnoge imenice na -er su muški rod.	ostalo	
+A1	Gramatika i pravila	Reč	ženske osobe — die	die Frau, die Mutter, die Schwester	di frau, di muter, di švester	Ženske osobe su često ženski rod.	ostalo	
+A1	Gramatika i pravila	Reč	-ung — die	die Wohnung, die Zeitung	di vonung, di cajtung	Sve imenice na -ung su DIE.	ostalo	
+A1	Gramatika i pravila	Reč	-heit — die	die Freiheit, die Gesundheit	di frajhajt, di gezundhajt	Imenice na -heit su ženski rod.	ostalo	
+A1	Gramatika i pravila	Reč	-keit — die	die Möglichkeit, die Schwierigkeit	di meglihkhajt, di švirikhajt	Imenice na -keit su ženski rod.	ostalo	
+A1	Gramatika i pravila	Reč	-schaft — die	die Freundschaft, die Gesellschaft	di frojndšaft, di gezelšaft	Imenice na -schaft su ženski rod.	ostalo	
+A1	Gramatika i pravila	Reč	-tion — die	die Information, die Situation	di information, di zituacion	Imenice na -tion su ženski rod.	ostalo	
+A1	Gramatika i pravila	Reč	-ei — die	die Polizei, die Bäckerei	di policaj, di bekeraj	Imenice na -ei su ženski rod.	ostalo	
+A1	Gramatika i pravila	Reč	-tät — die	die Universität, die Qualität	di univerzitet, di kvalitet	Imenice na -tät su ženski rod.	ostalo	
+A1	Gramatika i pravila	Reč	-ik — die	die Musik, die Technik	di muzik, di tehnik	Imenice na -ik su ženski rod.	ostalo	
+A1	Gramatika i pravila	Reč	-ur — die	die Kultur, die Natur	di kultur, di natur	Imenice na -ur su ženski rod.	ostalo	
+A1	Gramatika i pravila	Reč	-chen — das	das Mädchen, das Häuschen	das medhen, das hojshen	Umanjenice na -chen su srednji rod.	ostalo	
+A1	Gramatika i pravila	Reč	-lein — das	das Büchlein	das bihlajn	Umanjenice na -lein su srednji rod.	imenica	
+A1	Gramatika i pravila	Reč	ge- prefiks — das	das Gebäude, das Gespräch	das gebojde, das gešpreh	Mnoge imenice sa ge- su srednji rod.	ostalo	
+A1	Gramatika i pravila	Reč	-um — das	das Zentrum, das Museum	das centrum, das muzeum	Imenice na -um su srednji rod.	ostalo	
+A1	Gramatika i pravila	Reč	-ismus — der	der Tourismus	der turizmus	Imenice na -ismus su muški rod.	imenica	
+A1	Gramatika i pravila	Reč	-or — der	der Motor, der Traktor	der motor, der traktor	Imenice na -or su muški rod.	ostalo	
+A1	Gramatika i pravila	Reč	-ist — der	der Polizist, der Spezialist	der policist, der špecijalist	Imenice na -ist su muški rod.	ostalo	
+A1	Gramatika i pravila	Rečenica	der Mann (Nominativ)	Der Mann arbeitet.	der man arbajtet	Der Mann arbeitet. — Čovek radi.	rečenica	
+A1	Gramatika i pravila	Rečenica	den Mann (Akkusativ)	Ich sehe den Mann.	ih zee den man	Ich sehe den Mann. — Vidim čoveka.	rečenica	
+A1	Gramatika i pravila	Rečenica	dem Mann (Dativ)	Ich spreche mit dem Mann.	ih šprehe mit dem man	Ich spreche mit dem Mann. — Razgovaram sa čovekom.	rečenica	
+A1	Gramatika i pravila	Rečenica	die Frau (Nominativ)	Die Frau arbeitet.	di frau arbajtet	Die Frau arbeitet. — Žena radi.	rečenica	
+A1	Gramatika i pravila	Rečenica	die Frau (Akkusativ)	Ich sehe die Frau.	ih zee di frau	Ich sehe die Frau. — Vidim ženu.	rečenica	
+A1	Gramatika i pravila	Rečenica	der Frau (Dativ)	Ich spreche mit der Frau.	ih šprehe mit der frau	Ich spreche mit der Frau. — Razgovaram sa ženom.	rečenica	
+A1	Gramatika i pravila	Rečenica	das Kind (Nominativ)	Das Kind spielt.	das kind špilt	Das Kind spielt. — Dete se igra.	rečenica	
+A1	Gramatika i pravila	Rečenica	das Kind (Akkusativ)	Ich sehe das Kind.	ih zee das kind	Ich sehe das Kind. — Vidim dete.	rečenica	
+A1	Gramatika i pravila	Rečenica	dem Kind (Dativ)	Ich spiele mit dem Kind.	ih špile mit dem kind	Ich spiele mit dem Kind. — Igram se sa detetom.	rečenica	
+A1	Gramatika i pravila	Rečenica	ein Mann (Nominativ)	Ein Mann kommt.	ajn man komt	Ein Mann kommt. — Jedan čovek dolazi.	rečenica	
+A1	Gramatika i pravila	Rečenica	einen Mann (Akkusativ)	Ich sehe einen Mann.	ih zee ajnen man	Ich sehe einen Mann. — Vidim jednog čoveka.	rečenica	
+A1	Gramatika i pravila	Rečenica	einem Mann (Dativ)	Ich spreche mit einem Mann.	ih šprehe mit ajnem man	Ich spreche mit einem Mann. — Razgovaram sa jednim čovekom.	rečenica	
+A1	Gramatika i pravila	Rečenica	eine Frau (Nominativ)	Eine Frau kommt.	ajne frau komt	Eine Frau kommt. — Jedna žena dolazi.	rečenica	
+A1	Gramatika i pravila	Rečenica	eine Frau (Akkusativ)	Ich sehe eine Frau.	ih zee ajne frau	Ich sehe eine Frau. — Vidim jednu ženu.	rečenica	
+A1	Gramatika i pravila	Rečenica	einer Frau (Dativ)	Ich spreche mit einer Frau.	ih šprehe mit ajner frau	Ich spreche mit einer Frau. — Razgovaram sa jednom ženom.	rečenica	
+A1	Gramatika i pravila	Rečenica	ein Kind (Nominativ)	Ein Kind spielt.	ajn kind špilt	Ein Kind spielt. — Jedno dete se igra.	rečenica	
+A1	Gramatika i pravila	Rečenica	ein Kind (Akkusativ)	Ich sehe ein Kind.	ih zee ajn kind	Ich sehe ein Kind. — Vidim jedno dete.	rečenica	
+A1	Gramatika i pravila	Rečenica	einem Kind (Dativ)	Ich spiele mit einem Kind.	ih špile mit ajnem kind	Ich spiele mit einem Kind. — Igram se sa jednim detetom.	rečenica	
+A1	Gramatika i pravila	Reč	der → den → dem	der → den → dem	der → den → dem	Nominativ → Akkusativ → Dativ (muški rod)	ostalo	
+A1	Gramatika i pravila	Reč	die → die → der	die → die → der	di → di → der	Nominativ → Akkusativ → Dativ (ženski rod)	ostalo	
+A1	Gramatika i pravila	Reč	das → das → dem	das → das → dem	das → das → dem	Nominativ → Akkusativ → Dativ (srednji rod)	ostalo	
+A1	Gramatika i pravila	Reč	die → die → den	die → die → den	di → di → den	Nominativ → Akkusativ → Dativ (množina)	ostalo	
+A1	Gramatika i pravila	Reč	ein → einen → einem	ein → einen → einem	ajn → ajnen → ajnem	Nominativ → Akkusativ → Dativ (muški rod, neodređeni)	ostalo	
+A1	Gramatika i pravila	Reč	eine → eine → einer	eine → eine → einer	ajne → ajne → ajner	Nominativ → Akkusativ → Dativ (ženski rod, neodređeni)	ostalo	
+A1	Gramatika i pravila	Reč	ein → ein → einem	ein → ein → einem	ajn → ajn → ajnem	Nominativ → Akkusativ → Dativ (srednji rod, neodređeni)	ostalo	
+A1	Grad, saobraćaj i putovanje	Rečenica	Voz dolazi.	Der Zug kommt.	der cuk koms	Der Zug kommt. — Voz dolazi.	rečenica	
+A1	Grad, saobraćaj i putovanje	Rečenica	Putujem vozom.	Ich fahre mit dem Zug.	ih fare mit dem cuk	Ich fahre mit dem Zug. — Putujem vozom.	rečenica	
+A1	Grad, saobraćaj i putovanje	Rečenica	Vagon je prazan.	Der Wagen ist leer.	der vagen ist ler	Der Wagen ist leer. — Vagon je prazan.	rečenica	
+A1	Grad, saobraćaj i putovanje	Rečenica	Kontrolišem vagon.	Ich kontrolliere den Wagen.	ih kontrolire den vagen	Ich kontrolliere den Wagen. — Kontrolišem vagon.	rečenica	
+A1	Grad, saobraćaj i putovanje	Rečenica	Idem do vagona.	Ich gehe zum Wagen.	ih gee cum vagen	Ich gehe zum Wagen. — Idem do vagona.	rečenica	
+A1	Grad, saobraćaj i putovanje	Rečenica	Otvaram vrata.	Ich öffne die Tür.	ih efne di tir	Ich öffne die Tür. — Otvaram vrata.	rečenica	
+A1	Grad, saobraćaj i putovanje	Rečenica	Stojim ispred vrata.	Ich stehe vor der Tür.	ih štee for der tir	Ich stehe vor der Tür. — Stojim ispred vrata.	rečenica	
+A1	Grad, saobraćaj i putovanje	Rečenica	Prozor je zatvoren.	Das Fenster ist geschlossen.	das fenster ist gešlosen	Das Fenster ist geschlossen. — Prozor je zatvoren.	rečenica	
+A1	Grad, saobraćaj i putovanje	Rečenica	Otvaram prozor.	Ich öffne das Fenster.	ih efne das fenster	Ich öffne das Fenster. — Otvaram prozor.	rečenica	
+A1	Grad, saobraćaj i putovanje	Rečenica	Stojim ispred prozora.	Ich stehe vor dem Fenster.	ih štee for dem fenster	Ich stehe vor dem Fenster. — Stojim ispred prozora.	rečenica	
+A2	Male reči	Reč	njemu / mu	ihm	im	Ich gebe ihm das Geld. — Dajem mu novac.	ostalo	
+A2	Male reči	Reč	njima / im	ihnen	inen	Ich helfe ihnen. — Pomažem njima.	glagol	
+A2	Male reči	Reč	ja → mene → meni	ich → mich → mir	ih → mih → mir	Nom → Akk → Dat za 'ja'	ostalo	
+A2	Male reči	Reč	ti → tebe → tebi	du → dich → dir	du → dih → dir	Nom → Akk → Dat za 'ti'	ostalo	
+A2	Male reči	Reč	on → njega → njemu	er → ihn → ihm	er → in → im	Nom → Akk → Dat za 'on'	ostalo	
+A2	Male reči	Reč	ona → nju → njoj	sie → sie → ihr	zi → zi → ir	Nom → Akk → Dat za 'ona'	ostalo	
+A2	Male reči	Reč	ono → to → tome	es → es → ihm	es → es → im	Nom → Akk → Dat za 'ono'	ostalo	
+A2	Male reči	Reč	mi → nas → nama	wir → uns → uns	vir → uns → uns	Nom → Akk → Dat za 'mi'	ostalo	
+A2	Male reči	Reč	vi → vas → vama	ihr → euch → euch	ir → ojh → ojh	Nom → Akk → Dat za 'vi'	ostalo	
+A2	Male reči	Reč	oni → njih → njima	sie → sie → ihnen	zi → zi → inen	Nom → Akk → Dat za 'oni'	ostalo	
+A2	Gramatika i pravila	Rečenica	Nominativ — ko radi?	Nominativ — wer?	nominativ — ver	Ich arbeite. — Ja radim. (Ko radi? Ich.)	rečenica	
+A2	Gramatika i pravila	Rečenica	Akkusativ — koga/šta?	Akkusativ — wen/was?	akuzativ — ven/vas	Ich sehe dich. — Vidim te. (Koga? Dich.)	rečenica	
+A2	Gramatika i pravila	Rečenica	Dativ — kome?	Dativ — wem?	dativ — vem	Ich helfe dir. — Pomažem ti. (Kome? Dir.)	rečenica	
+A2	Male reči	Reč	zahvaliti	danken	danken	Ich danke dir. — Zahvaljujem ti.	glagol	
+A2	Gramatika i pravila	Rečenica	Pomažem ti. (Dativ)	Ich helfe dir.	ih helfe dir	helfen → Dativ: Ich helfe dir. — Pomažem ti.	rečenica	
+A2	Gramatika i pravila	Rečenica	On me voli. (Akkusativ)	Er liebt mich.	er lipt mih	lieben → Akkusativ: Er liebt mich. — On me voli.	rečenica	
+A2	Gramatika i pravila	Rečenica	On mi pomaže. (Dativ)	Er hilft mir.	er hilft mir	helfen → Dativ: Er hilft mir. — On mi pomaže.	rečenica	
+A2	Male reči	Reč	sa mnom	mit mir	mit mir	Komm mit mir! — Dođi sa mnom!	ostalo	
+A2	Male reči	Reč	sa tobom	mit dir	mit dir	Ich fahre mit dir. — Putujem sa tobom.	ostalo	
+A2	Male reči	Reč	sa njim	mit ihm	mit im	Ich arbeite mit ihm. — Radim sa njim.	ostalo	
+A2	Male reči	Reč	sa njom	mit ihr	mit ir	Ich gehe mit ihr. — Idem sa njom.	ostalo	
+A2	Male reči	Reč	sa nama	mit uns	mit uns	Er arbeitet mit uns. — On radi sa nama.	ostalo	
+A2	Male reči	Reč	sa vama	mit euch	mit ojh	Ich komme mit euch. — Dolazim sa vama.	ostalo	
+A2	Male reči	Reč	sa njima	mit ihnen	mit inen	Ich spreche mit ihnen. — Razgovaram sa njima.	ostalo	
+A2	Gramatika i pravila	Rečenica	Dođi sa mnom!	Komm mit mir!	kom mit mir	Komm mit mir ins Kino! — Dođi sa mnom u bioskop!	rečenica	
+A2	Gramatika i pravila	Rečenica	Putujem sa tobom.	Ich fahre mit dir.	ih fare mit dir	Ich fahre mit dir nach Berlin. — Putujem sa tobom u Berlin.	rečenica	
+A2	Gramatika i pravila	Rečenica	On radi sa nama.	Er arbeitet mit uns.	er arbajtet mit uns	Er arbeitet mit uns zusammen. — On radi zajedno sa nama.	rečenica	
+A2	Grad, saobraćaj i putovanje	Rečenica	Vidim vagon.	Ich sehe den Wagen.	ih zee den vagen	Ich sehe den Wagen. — Vidim vagon.	rečenica	
+A2	Grad, saobraćaj i putovanje	Rečenica	Vidim ga.	Ich sehe ihn.	ih zee in	Ich sehe ihn. — Vidim ga. (zamenica za 'Wagen' → ihn)	rečenica	
+A2	Grad, saobraćaj i putovanje	Rečenica	Kontrolišem voz.	Ich kontrolliere den Zug.	ih kontrolire den cuk	Ich kontrolliere den Zug. — Kontrolišem voz.	rečenica	
+A2	Grad, saobraćaj i putovanje	Rečenica	Kontrolišem ga.	Ich kontrolliere ihn.	ih kontrolire in	Ich kontrolliere ihn. — Kontrolišem ga. (Zug → ihn)	rečenica	
+A2	Grad, saobraćaj i putovanje	Rečenica	Pomažem kolegi.	Ich helfe dem Kollegen.	ih helfe dem kolegen	Ich helfe dem Kollegen. — Pomažem kolegi. (Dativ)	rečenica	
+A2	Grad, saobraćaj i putovanje	Rečenica	Pomažem mu.	Ich helfe ihm.	ih helfe im	Ich helfe ihm. — Pomažem mu. (Kollege → ihm)	rečenica	
+A2	Grad, saobraćaj i putovanje	Rečenica	Razgovaram sa kolegom.	Ich spreche mit dem Kollegen.	ih šprehe mit dem kolegen	Ich spreche mit dem Kollegen. — Razgovaram sa kolegom.	rečenica	
+A2	Grad, saobraćaj i putovanje	Rečenica	Razgovaram sa njim.	Ich spreche mit ihm.	ih šprehe mit im	Ich spreche mit ihm. — Razgovaram sa njim.	rečenica	
+A2	Grad, saobraćaj i putovanje	Rečenica	Dajem kolegi informaciju.	Ich gebe dem Kollegen die Information.	ih gebe dem kolegen di information	Ich gebe dem Kollegen die Information. — Dajem kolegi informaciju.	rečenica	
+A2	Grad, saobraćaj i putovanje	Rečenica	Dajem mu informaciju.	Ich gebe ihm die Information.	ih gebe im di information	Ich gebe ihm die Information. — Dajem mu informaciju.	rečenica	
+A2	Gramatika i pravila	Rečenica	On me vidi.	Er sieht mich.	er zee mih	Er sieht mich jeden Tag. — On me vidi svaki dan.	rečenica	
+A2	Gramatika i pravila	Rečenica	Idem sa njom.	Ich gehe mit ihr.	ih gee mit ir	Ich gehe mit ihr spazieren. — Idem sa njom u šetnju.	rečenica	
+A2	Gramatika i pravila	Rečenica	Razgovaram sa njima.	Ich spreche mit ihnen.	ih šprehe mit inen	Ich spreche mit ihnen über das Projekt. — Razgovaram sa njima o projektu.	rečenica	
+A2	Gramatika i pravila	Rečenica	Ona nas vidi.	Sie sieht uns.	zi zeet uns	Sie sieht uns im Park. — Ona nas vidi u parku.	rečenica	
+A2	Gramatika i pravila	Rečenica	Dajem mu novac.	Ich gebe ihm das Geld.	ih gebe im das geld	Ich gebe ihm das Geld. — Dajem mu novac.	rečenica	
+A2	Gramatika i pravila	Rečenica	Da li mi veruješ?	Glaubst du mir?	glaubst du mir	Glaubst du mir? — Da li mi veruješ?	rečenica	
+A1	Gramatika i pravila	Rečenica	Ne radim.	Ich arbeite nicht.	ih arbajte niht	Ich arbeite heute nicht. — Danas ne radim.	rečenica	
+A1	Gramatika i pravila	Rečenica	Ne dolazim.	Ich komme nicht.	ih kome niht	Ich komme heute nicht. — Danas ne dolazim.	rečenica	
+A1	Gramatika i pravila	Rečenica	To nije dobro.	Das ist nicht gut.	das ist niht gut	Das ist nicht gut. — To nije dobro.	rečenica	
+A1	Gramatika i pravila	Rečenica	Nisam umoran.	Ich bin nicht müde.	ih bin niht mide	Ich bin nicht müde. — Nisam umoran.	rečenica	
+A1	Gramatika i pravila	Rečenica	Nemam auto.	Ich habe kein Auto.	ih habe kajn auto	Ich habe kein Auto. — Nemam auto.	rečenica	
+A1	Gramatika i pravila	Rečenica	Nemam pitanje.	Ich habe keine Frage.	ih habe kajne frage	Ich habe keine Frage. — Nemam pitanje.	rečenica	
+A1	Gramatika i pravila	Rečenica	To nije problem.	Das ist kein Problem.	das ist kajn problem	Das ist kein Problem. — To nije problem.	rečenica	
+A1	Gramatika i pravila	Rečenica	ein Zug → kein Zug	ein Zug → kein Zug	ajn cuk → kajn cuk	nijedan voz	rečenica	
+A1	Gramatika i pravila	Rečenica	eine Fahrkarte → keine Fahrkarte	eine Fahrkarte → keine Fahrkarte	ajne farkarte → kajne farkarte	nijedna karta	rečenica	
+A1	Gramatika i pravila	Rečenica	ein Problem → kein Problem	ein Problem → kein Problem	ajn problem → kajn problem	nijedan problem	rečenica	
+A1	Gramatika i pravila	Rečenica	Nemam novca.	Ich habe kein Geld.	ih habe kajn geld	Ich habe kein Geld. — Nemam novca.	rečenica	
+A1	Gramatika i pravila	Rečenica	Nemamo kola.	Wir haben keinen Wagen.	vir haben kajnen vagen	Wir haben keinen Wagen. — Nemamo kola.	rečenica	
+A1	Gramatika i pravila	Rečenica	Negiraš glagol → nicht	Ich fahre nicht.	ih fare niht	Ne vozim. (glagol negiran)	rečenica	
+A1	Gramatika i pravila	Rečenica	Negiraš pridev → nicht	Das Auto ist nicht neu.	das auto ist niht noj	Auto nije novo. (pridev negiran)	rečenica	
+A1	Gramatika i pravila	Rečenica	Negiraš prilog → nicht	Ich komme nicht heute.	ih kome niht hojte	Ne dolazim danas. (prilog negiran)	rečenica	
+A1	Gramatika i pravila	Rečenica	Nemam taj novac.	Ich habe das Geld nicht.	ih habe das geld niht	Nemam taj novac. — konkretna negacija	rečenica	
+A1	Gramatika i pravila	Rečenica	Danas nemam mnogo vremena.	Ich habe heute nicht viel Zeit.	ih habe hojte niht fil cajt	Danas nemam mnogo vremena.	rečenica	
+A1	Gramatika i pravila	Reč	kein Mann	kein Mann	kajn man	Nijedan muškarac	ostalo	
+A1	Gramatika i pravila	Reč	keine Frau	keine Frau	kajne frau	Nijedna žena	ostalo	
+A1	Gramatika i pravila	Reč	kein Kind	kein Kind	kajn kind	Nijedno dete	ostalo	
+A1	Gramatika i pravila	Reč	keine Kinder	keine Kinder	kajne kinder	Nijedna deca	ostalo	
+A1	Gramatika i pravila	Rečenica	Nemam kola. (muški rod)	Ich habe keinen Wagen.	ih habe kajnen vagen	der Wagen → den Wagen → keinen Wagen	rečenica	
+A1	Gramatika i pravila	Rečenica	Nemam sestru. (ženski rod)	Ich habe keine Schwester.	ih habe kajne švester	die Schwester → die Schwester → keine Schwester	rečenica	
+A1	Gramatika i pravila	Rečenica	Nemam dete. (srednji rod)	Ich habe kein Kind.	ih habe kajn kind	das Kind → das Kind → kein Kind	rečenica	
+A1	Gramatika i pravila	Rečenica	Ne putujem nijednim vozom.	Ich fahre mit keinem Zug.	ih fare mit kajnem cuk	der Zug → dem Zug → keinem Zug	rečenica	
+A1	Gramatika i pravila	Rečenica	Ne razgovaram nijednom ženom.	Ich spreche mit keiner Frau.	ih šprehe mit kajner frau	die Frau → der Frau → keiner Frau	rečenica	
+A1	Gramatika i pravila	Rečenica	Ne igram se nijednim detetom.	Ich spiele mit keinem Kind.	ih špile mit kajnem kind	das Kind → dem Kind → keinem Kind	rečenica	
+A1	Gramatika i pravila	Rečenica	Ne kupujem auto. (generalno)	Ich kaufe kein Auto.	ih kaufe kajn auto	Ne kupujem (bilo koje) auto.	rečenica	
+A1	Gramatika i pravila	Rečenica	Ne kupujem taj auto.	Ich kaufe das Auto nicht.	ih kaufe das auto niht	Ne kupujem taj (konkretan) auto.	rečenica	
+A1	Gramatika i pravila	Reč	nije dobro	nicht gut	niht gut	Das ist nicht gut. — To nije dobro.	ostalo	
+A1	Gramatika i pravila	Reč	nije loše	nicht schlecht	niht šleht	Das ist nicht schlecht. — To nije loše.	ostalo	
+A1	Gramatika i pravila	Reč	nije veliko	nicht groß	niht gros	Das Haus ist nicht groß. — Kuća nije velika.	ostalo	
+A1	Gramatika i pravila	Reč	nije malo	nicht klein	niht klajn	Das ist nicht klein. — To nije malo.	ostalo	
+A1	Gramatika i pravila	Reč	nije skupo	nicht teuer	niht tojer	Das ist nicht teuer. — To nije skupo.	ostalo	
+A1	Gramatika i pravila	Reč	nije teško	nicht schwer	niht šver	Die Aufgabe ist nicht schwer. — Zadatak nije težak.	ostalo	
+A1	Gramatika i pravila	Reč	nije moguće	nicht möglich	niht meglih	Das ist nicht möglich. — To nije moguće.	ostalo	
+A1	Gramatika i pravila	Rečenica	Ne spavam.	Ich schlafe nicht.	ih šlafe niht	Ich schlafe nicht. — Ne spavam.	rečenica	
+A1	Gramatika i pravila	Rečenica	Ne razumem.	Ich verstehe nicht.	ih ferštee niht	Ich verstehe nicht. — Ne razumem.	rečenica	
+A1	Gramatika i pravila	Rečenica	Ne znam.	Ich weiß nicht.	ih vajs niht	Ich weiß nicht. — Ne znam.	rečenica	
+A1	Gramatika i pravila	Rečenica	Danas ne dolazim.	Ich komme heute nicht.	ih kome hojte niht	Ich komme heute nicht. — Danas ne dolazim.	rečenica	
+A1	Gramatika i pravila	Rečenica	Sutra ne radim.	Ich arbeite morgen nicht.	ih arbajte morgen niht	Ich arbeite morgen nicht. — Sutra ne radim.	rečenica	
+A1	Gramatika i pravila	Rečenica	Danas ne putujem u Berlin.	Ich fahre heute nicht nach Berlin.	ih fare hojte niht nah berlin	Ich fahre heute nicht nach Berlin. — Danas ne putujem u Berlin.	rečenica	
+A1	Gramatika i pravila	Rečenica	Više ne radim ovde.	Ich arbeite hier nicht mehr.	ih arbajte hir niht mer	Ich arbeite hier nicht mehr. — Više ne radim ovde.	rečenica	
+A1	Gramatika i pravila	Rečenica	Više ne pušim.	Ich rauche nicht mehr.	ih rauhe niht mer	Ich rauche nicht mehr. — Više ne pušim.	rečenica	
+A1	Gramatika i pravila	Rečenica	Voz više ne saobraća.	Der Zug fährt nicht mehr.	der cuk fert niht mer	Der Zug fährt nicht mehr. — Voz više ne saobraća.	rečenica	
+A1	Gramatika i pravila	Rečenica	Više nemam vremena.	Ich habe keine Zeit mehr.	ih habe kajne cajt mer	Ich habe keine Zeit mehr. — Više nemam vremena.	rečenica	
+A1	Gramatika i pravila	Rečenica	Još nisam gotov.	Ich bin noch nicht fertig.	ih bin noh niht fertih	Ich bin noch nicht fertig. — Još nisam gotov.	rečenica	
+A1	Gramatika i pravila	Rečenica	Voz još nije tu.	Der Zug ist noch nicht da.	der cuk ist noh niht da	Der Zug ist noch nicht da. — Voz još nije tu.	rečenica	
+A1	Gramatika i pravila	Rečenica	Još ne znam.	Ich weiß es noch nicht.	ih vajs es noh niht	Ich weiß es noch nicht. — Još ne znam.	rečenica	
+A1	Gramatika i pravila	Rečenica	Još nisam jeo.	Ich habe noch nicht gegessen.	ih habe noh niht gegesen	Ich habe noch nicht gegessen. — Još nisam jeo.	rečenica	
+A1	Gramatika i pravila	Rečenica	Više nisam tamo.	Ich bin nicht mehr dort.	ih bin niht mer dort	Više nisam tamo. — nicht mehr	rečenica	
+A1	Gramatika i pravila	Rečenica	Voz još nije krenuo.	Der Zug ist noch nicht abgefahren.	der cuk ist noh niht apgefaren	Voz još nije krenuo. — noch nicht	rečenica	
+A1	Gramatika i pravila	Rečenica	Ne vidim ništa.	Ich sehe nichts.	ih zee nihts	Ich sehe nichts. — Ne vidim ništa.	rečenica	
+A1	Gramatika i pravila	Rečenica	Ne znam ništa.	Ich weiß nichts.	ih vajs nihts	Ich weiß nichts. — Ne znam ništa.	rečenica	
+A1	Gramatika i pravila	Rečenica	Nemam ništa.	Ich habe nichts.	ih habe nihts	Ich habe nichts. — Nemam ništa.	rečenica	
+A1	Gramatika i pravila	Rečenica	Ništa se nije dogodilo.	Es ist nichts passiert.	es ist nihts pasirt	Es ist nichts passiert. — Ništa se nije dogodilo.	rečenica	
+A1	Gramatika i pravila	Rečenica	Niko nije ovde.	Niemand ist hier.	nimand ist hir	Niemand ist hier. — Niko nije ovde.	rečenica	
+A1	Gramatika i pravila	Rečenica	Ne vidim nikoga.	Ich sehe niemanden.	ih zee nimanden	Ich sehe niemanden. — Ne vidim nikoga.	rečenica	
+A1	Gramatika i pravila	Rečenica	Niko to ne zna.	Niemand weiß das.	nimand vajs das	Niemand weiß das. — Niko to ne zna.	rečenica	
+A1	Gramatika i pravila	Rečenica	Nikad ne pušim.	Ich rauche nie.	ih rauhe ni	Ich rauche nie. — Nikad ne pušim.	rečenica	
+A1	Gramatika i pravila	Rečenica	Nikad nisam tamo.	Ich bin nie dort.	ih bin ni dort	Ich bin nie dort. — Nikad nisam tamo.	rečenica	
+A1	Gramatika i pravila	Rečenica	To se nikad ne događa.	Das passiert nie.	das pasirt ni	Das passiert nie. — To se nikad ne događa.	rečenica	
+A1	Grad, saobraćaj i putovanje	Rečenica	Kola nisu spremna.	Der Wagen ist nicht bereit.	der vagen ist niht berajt	Der Wagen ist nicht bereit. — Kola nisu spremna.	rečenica	
+A1	Grad, saobraćaj i putovanje	Rečenica	Kola nisu neispravna.	Der Wagen ist nicht defekt.	der vagen ist niht defekt	Der Wagen ist nicht defekt. — Kola nisu neispravna.	rečenica	
+A1	Grad, saobraćaj i putovanje	Rečenica	Nemamo slobodna kola.	Wir haben keinen freien Wagen.	vir haben kajnen frajen vagen	Wir haben keinen freien Wagen. — Nemamo slobodna kola.	rečenica	
+A1	Grad, saobraćaj i putovanje	Rečenica	Voz nema kašnjenje.	Der Zug hat keine Verspätung.	der cuk hat kajne feršpetung	Der Zug hat keine Verspätung. — Voz nema kašnjenje.	rečenica	
+A1	Grad, saobraćaj i putovanje	Rečenica	Ne vidim nikakvo oštećenje.	Ich sehe keinen Schaden.	ih zee kajnen šaden	Ich sehe keinen Schaden. — Ne vidim nikakvo oštećenje.	rečenica	
+A1	Grad, saobraćaj i putovanje	Rečenica	Niko nije prijavio kvar.	Niemand hat den Fehler gemeldet.	nimand hat den feler gemeldet	Niemand hat den Fehler gemeldet. — Niko nije prijavio kvar.	rečenica	
+A1	Grad, saobraćaj i putovanje	Rečenica	Ne znam šta se dogodilo.	Ich weiß nicht, was passiert ist.	ih vajs niht, vas pasirt ist	Ich weiß nicht, was passiert ist. — Ne znam šta se dogodilo.	rečenica	
+A1	Gramatika i pravila	Rečenica	Voz još nije stigao.	Der Zug ist noch nicht angekommen.	der cuk ist noh niht angekomen	Der Zug ist noch nicht angekommen. — Voz još nije stigao.	rečenica	
+A1	Gramatika i pravila	Rečenica	Nikad ne kasnim.	Ich komme nie zu spät.	ih kome ni cu špet	Ich komme nie zu spät. — Nikad ne kasnim.	rečenica	
+A1	Gramatika i pravila	Rečenica	Nemamo slobodna kola.	Wir haben keine freien Wagen.	vir haben kajne frajen vagen	Wir haben keine freien Wagen. — Nemamo slobodna kola.	rečenica	
+A1	Gramatika i pravila	Reč	KEIN → negiraš imenicu	Ich habe kein Auto.	ih habe kajn auto	Nemam auto. — imenica negirana.	ostalo	
+A1	Gramatika i pravila	Reč	NICHT → negiraš glagol/pridev	Ich fahre nicht.	ih fare niht	Ne vozim. / Das ist nicht gut. — glagol/pridev negiran.	ostalo	
+A1	Gramatika i pravila	Reč	NOCH NICHT → još ne	noch nicht	noh niht	Ich bin noch nicht fertig. — Još nisam gotov.	ostalo	
+A1	Gramatika i pravila	Reč	NICHT MEHR → više ne	nicht mehr	niht mer	Ich arbeite nicht mehr hier. — Više ne radim ovde.	ostalo	
+A1	Opšti glagoli	Reč	ja → -e	ich → -e	ih → e	ich mache — ja radim	ostalo	
+A1	Opšti glagoli	Reč	ti → -st	du → -st	du → st	du machst — ti radiš	ostalo	
+A1	Opšti glagoli	Reč	on/ona/ono → -t	er/sie/es → -t	er/zi/es → t	er macht — on radi	ostalo	
+A1	Opšti glagoli	Reč	mi → -en	wir → -en	vir → en	wir machen — mi radimo	ostalo	
+A1	Opšti glagoli	Reč	vi → -t	ihr → -t	ir → t	ihr macht — vi radite	ostalo	
+A1	Opšti glagoli	Reč	oni → -en	sie → -en	zi → en	sie machen — oni rade	ostalo	
+A1	Opšti glagoli	Rečenica	Ja radim.	Ich mache.	ih mahe	Ich mache das. — Ja to radim.	rečenica	
+A1	Opšti glagoli	Rečenica	Ti radiš.	Du machst.	du mahst	Du machst das. — Ti to radiš.	rečenica	
+A1	Opšti glagoli	Rečenica	On radi.	Er macht.	er maht	Er macht das. — On to radi.	rečenica	
+A1	Opšti glagoli	Rečenica	Mi radimo.	Wir machen.	vir mahen	Wir machen das. — Mi to radimo.	rečenica	
+A1	Opšti glagoli	Rečenica	Oni rade.	Sie machen.	zi mahen	Sie machen das. — Oni to rade.	rečenica	
+A1	Opšti glagoli	Rečenica	Ti radiš danas.	Du arbeitest heute.	du arbajtest hojte	Du arbeitest heute. — Danas radiš.	rečenica	
+A1	Opšti glagoli	Rečenica	On radi danas.	Er arbeitet heute.	er arbajtet hojte	Er arbeitet heute. — Danas radi.	rečenica	
+A1	Opšti glagoli	Rečenica	Mi radimo danas.	Wir arbeiten heute.	vir arbajten hojte	Wir arbeiten heute. — Danas radimo.	rečenica	
+A1	Opšti glagoli	Rečenica	Ja živim u Subotici.	Ich wohne in Subotica.	ih vone in subotica	Ich wohne in Subotica. — Živim u Subotici.	rečenica	
+A1	Opšti glagoli	Rečenica	Ti živiš u Nemačkoj.	Du wohnst in Deutschland.	du vonst in dojčlant	Du wohnst in Deutschland. — Živiš u Nemačkoj.	rečenica	
+A1	Opšti glagoli	Rečenica	On živi u Berlinu.	Er wohnt in Berlin.	er vont in berlin	Er wohnt in Berlin. — Živi u Berlinu.	rečenica	
+A1	Opšti glagoli	Rečenica	Mi živimo ovde.	Wir wohnen hier.	vir vonen hir	Wir wohnen hier. — Živimo ovde.	rečenica	
+A1	Opšti glagoli	Rečenica	Ja kupujem hleb.	Ich kaufe Brot.	ih kaufe brot	Ich kaufe Brot. — Kupujem hleb.	rečenica	
+A1	Opšti glagoli	Rečenica	Ti kupuješ hleb.	Du kaufst Brot.	du kaufst brot	Du kaufst Brot. — Kupuješ hleb.	rečenica	
+A1	Opšti glagoli	Rečenica	On kupuje hleb.	Er kauft Brot.	er kauft brot	Er kauft Brot. — Kupuje hleb.	rečenica	
+A1	Opšti glagoli	Rečenica	Mi kupujemo hleb.	Wir kaufen Brot.	vir kaufen brot	Wir kaufen Brot. — Kupujemo hleb.	rečenica	
+A1	Opšti glagoli	Rečenica	Ja učim nemački.	Ich lerne Deutsch.	ih lerne dojč	Ich lerne Deutsch. — Učim nemački.	rečenica	
+A1	Opšti glagoli	Rečenica	Ti učiš nemački.	Du lernst Deutsch.	du lernst dojč	Du lernst Deutsch. — Učiš nemački.	rečenica	
+A1	Opšti glagoli	Rečenica	On uči nemački.	Er lernt Deutsch.	er lernt dojč	Er lernt Deutsch. — Uči nemački.	rečenica	
+A1	Opšti glagoli	Rečenica	Mi učimo nemački.	Wir lernen Deutsch.	vir lernen dojč	Wir lernen Deutsch. — Učimo nemački.	rečenica	
+A1	Opšti glagoli	Rečenica	Ja vozim.	Ich fahre.	ih fare	Ich fahre nach Berlin. — Vozim u Berlin.	rečenica	
+A1	Opšti glagoli	Rečenica	Ti voziš.	Du fährst.	du ferst	Du fährst nach Berlin. — Voziš u Berlin.	rečenica	
+A1	Opšti glagoli	Rečenica	On vozi.	Er fährt.	er fert	Er fährt nach Berlin. — On vozi u Berlin.	rečenica	
+A1	Opšti glagoli	Rečenica	Mi vozimo.	Wir fahren.	vir faren	Wir fahren nach Berlin. — Vozimo u Berlin.	rečenica	
+A1	Opšti glagoli	Rečenica	Ja čitam.	Ich lese.	ih leze	Ich lese ein Buch. — Čitam knjigu.	rečenica	
+A1	Opšti glagoli	Rečenica	Ti čitaš.	Du liest.	du list	Du liest ein Buch. — Čitaš knjigu.	rečenica	
+A1	Opšti glagoli	Rečenica	On čita.	Er liest.	er list	Er liest ein Buch. — Čita knjigu.	rečenica	
+A1	Opšti glagoli	Rečenica	Mi čitamo.	Wir lesen.	vir lezen	Wir lesen ein Buch. — Čitamo knjigu.	rečenica	
+A1	Opšti glagoli	Rečenica	Ja vidim.	Ich sehe.	ih zee	Ich sehe dich. — Vidim te.	rečenica	
+A1	Opšti glagoli	Rečenica	Ti vidiš.	Du siehst.	du zist	Du siehst mich. — Vidiš me.	rečenica	
+A1	Opšti glagoli	Rečenica	On vidi.	Er sieht.	er zit	Er sieht uns. — On nas vidi.	rečenica	
+A1	Opšti glagoli	Rečenica	Mi vidimo.	Wir sehen.	vir zeen	Wir sehen euch. — Vidimo vas.	rečenica	
+A1	Opšti glagoli	Rečenica	Ja govorim.	Ich spreche.	ih šprehe	Ich spreche Deutsch. — Govorim nemački.	rečenica	
+A1	Opšti glagoli	Rečenica	Ti govoriš.	Du sprichst.	du šprihst	Du sprichst Deutsch. — Govoriš nemački.	rečenica	
+A1	Opšti glagoli	Rečenica	On govori.	Er spricht.	er špriht	Er spricht Deutsch. — On govori nemački.	rečenica	
+A1	Opšti glagoli	Rečenica	Mi govorimo.	Wir sprechen.	vir šprehen	Wir sprechen Deutsch. — Govorimo nemački.	rečenica	
+A1	Opšti glagoli	Rečenica	Ja uzimam.	Ich nehme.	ih neme	Ich nehme den Zug. — Uzimam voz.	rečenica	
+A1	Opšti glagoli	Rečenica	Ti uzimaš.	Du nimmst.	du nimst	Du nimmst den Zug. — Uzimaš voz.	rečenica	
+A1	Opšti glagoli	Rečenica	On uzima.	Er nimmt.	er nimt	Er nimmt den Zug. — On uzima voz.	rečenica	
+A1	Opšti glagoli	Rečenica	Mi uzimamo.	Wir nehmen.	vir nemen	Wir nehmen den Zug. — Uzimamo voz.	rečenica	
+A1	Opšti glagoli	Rečenica	Ja jedem.	Ich esse.	ih ese	Ich esse Brot. — Jedem hleb.	rečenica	
+A1	Opšti glagoli	Rečenica	Ti jedeš.	Du isst.	du ist	Du isst Brot. — Jedeš hleb.	rečenica	
+A1	Opšti glagoli	Rečenica	On jede.	Er isst.	er ist	Er isst Brot. — On jede hleb.	rečenica	
+A1	Opšti glagoli	Rečenica	Mi jedemo.	Wir essen.	vir esen	Wir essen Brot. — Jedemo hleb.	rečenica	
+A1	Opšti glagoli	Rečenica	Ja dajem.	Ich gebe.	ih gebe	Ich gebe dir das Buch. — Dajem ti knjigu.	rečenica	
+A1	Opšti glagoli	Rečenica	Ti daješ.	Du gibst.	du gipst	Du gibst mir das Buch. — Daješ mi knjigu.	rečenica	
+A1	Opšti glagoli	Rečenica	On daje.	Er gibt.	er gipt	Er gibt ihr das Buch. — On joj daje knjigu.	rečenica	
+A1	Opšti glagoli	Rečenica	Mi dajemo.	Wir geben.	vir geben	Wir geben euch das Buch. — Dajemo vam knjigu.	rečenica	
+A1	Opšti glagoli	Rečenica	Ja pomažem.	Ich helfe.	ih helfe	Ich helfe dir. — Pomažem ti.	rečenica	
+A1	Opšti glagoli	Rečenica	Ti pomažeš.	Du hilfst.	du hilfst	Du hilfst mir. — Pomažeš mi.	rečenica	
+A1	Opšti glagoli	Rečenica	On pomaže.	Er hilft.	er hilft	Er hilft uns. — On nam pomaže.	rečenica	
+A1	Opšti glagoli	Rečenica	Mi pomažemo.	Wir helfen.	vir helfe	Wir helfen euch. — Pomažemo vam.	rečenica	
+A1	Opšti glagoli	Rečenica	Ja sam.	Ich bin.	ih bin	Ich bin müde. — Umoran sam.	rečenica	
+A1	Opšti glagoli	Rečenica	Ti si.	Du bist.	du bist	Du bist nett. — Ti si ljubazan.	rečenica	
+A1	Opšti glagoli	Rečenica	On je.	Er ist.	er ist	Er ist krank. — On je bolestan.	rečenica	
+A1	Opšti glagoli	Rečenica	Ona je.	Sie ist.	zi ist	Sie ist müde. — Ona je umorna.	rečenica	
+A1	Opšti glagoli	Rečenica	Ono je.	Es ist.	es ist	Es ist kalt. — Hladno je.	rečenica	
+A1	Opšti glagoli	Rečenica	Mi smo.	Wir sind.	vir zint	Wir sind zu Hause. — Kod kuće smo.	rečenica	
+A1	Opšti glagoli	Rečenica	Vi ste.	Ihr seid.	ir zajt	Ihr seid bereit. — Spremni ste.	rečenica	
+A1	Opšti glagoli	Rečenica	Oni su.	Sie sind.	zi zint	Sie sind müde. — Oni su umorni.	rečenica	
+A1	Opšti glagoli	Rečenica	Ja imam.	Ich habe.	ih habe	Ich habe Zeit. — Imam vremena.	rečenica	
+A1	Opšti glagoli	Rečenica	Ti imaš.	Du hast.	du hast	Du hast ein Auto. — Imaš auto.	rečenica	
+A1	Opšti glagoli	Rečenica	On ima.	Er hat.	er hat	Er hat ein Problem. — On ima problem.	rečenica	
+A1	Opšti glagoli	Rečenica	Ona ima.	Sie hat.	zi hat	Sie hat einen Wagen. — Ona ima kola.	rečenica	
+A1	Opšti glagoli	Rečenica	Mi imamo.	Wir haben.	vir haben	Wir haben keine Zeit. — Nemamo vremena.	rečenica	
+A1	Opšti glagoli	Rečenica	Vi imate.	Ihr habt.	ir habt	Ihr habt Glück. — Imate sreće.	rečenica	
+A1	Opšti glagoli	Rečenica	Oni imaju.	Sie haben.	zi haben	Sie haben Zeit. — Imaju vremena.	rečenica	
+A1	Opšti glagoli	Rečenica	Ja postajem.	Ich werde.	ih verde	Ich werde müde. — Postajem umoran.	rečenica	
+A1	Opšti glagoli	Rečenica	Ti postaješ.	Du wirst.	du virst	Du wirst größer. — Postaješ veći.	rečenica	
+A1	Opšti glagoli	Rečenica	On postaje.	Er wird.	er virt	Er wird Arzt. — On postaje lekar.	rečenica	
+A1	Opšti glagoli	Rečenica	Mi postajemo.	Wir werden.	vir verden	Wir werden älter. — Postajemo stariji.	rečenica	
+A1	Opšti glagoli	Rečenica	Ti možeš.	Du kannst.	du kanst	Kannst du mir helfen? — Možeš li mi pomoći?	rečenica	
+A1	Opšti glagoli	Rečenica	On može.	Er kann.	er kan	Er kann gut kochen. — On dobro kuva.	rečenica	
+A1	Opšti glagoli	Rečenica	Mi možemo.	Wir können.	vir kenen	Wir können morgen kommen. — Možemo doći sutra.	rečenica	
+A1	Opšti glagoli	Rečenica	Ti moraš.	Du musst.	du must	Du musst gehen. — Moraš da ideš.	rečenica	
+A1	Opšti glagoli	Rečenica	On mora.	Er muss.	er mus	Er muss heute arbeiten. — On danas mora da radi.	rečenica	
+A1	Opšti glagoli	Rečenica	Mi moramo.	Wir müssen.	vir misen	Wir müssen warten. — Moramo da čekamo.	rečenica	
+A1	Opšti glagoli	Rečenica	Ti hoćeš.	Du willst.	du vilst	Was willst du? — Šta hoćeš?	rečenica	
+A1	Opšti glagoli	Rečenica	On hoće.	Er will.	er vil	Er will nach Hause. — On hoće kući.	rečenica	
+A1	Opšti glagoli	Rečenica	Mi hoćemo.	Wir wollen.	vir volen	Wir wollen lernen. — Hoćemo da učimo.	rečenica	
+A1	Opšti glagoli	Rečenica	Mogu da govorim nemački.	Ich kann Deutsch sprechen.	ih kan dojč šprehen	Modalni + infinitiv na kraju	rečenica	
+A1	Opšti glagoli	Rečenica	Moram danas da radim.	Ich muss heute arbeiten.	ih mus hojte arbajten	Modalni + infinitiv na kraju	rečenica	
+A1	Opšti glagoli	Rečenica	Hoću da idem kući.	Ich will nach Hause gehen.	ih vil nah hauze geen	Modalni + infinitiv na kraju	rečenica	
+A1	Opšti glagoli	Rečenica	Želeo bih da pijem kafu.	Ich möchte Kaffee trinken.	ih mohte kafe trinken	Modalni + infinitiv na kraju	rečenica	
+A1	Grad, saobraćaj i putovanje	Rečenica	Moram da kontrolišem voz.	Ich muss den Zug kontrollieren.	ih mus den cuk kontroliren	Ich muss den Zug kontrollieren. — Moram da kontrolišem voz.	rečenica	
+A1	Grad, saobraćaj i putovanje	Rečenica	Mogu da vidim kvar.	Ich kann den Fehler sehen.	ih kan den feler zeen	Ich kann den Fehler sehen. — Mogu da vidim kvar.	rečenica	
+A1	Grad, saobraćaj i putovanje	Rečenica	Hoću da proverim kola.	Ich will den Wagen überprüfen.	ih vil den vagen iberprifen	Ich will den Wagen überprüfen. — Hoću da proverim kola.	rečenica	
+A1	Grad, saobraćaj i putovanje	Rečenica	Kola su neispravna.	Der Wagen ist defekt.	der vagen ist defekt	Der Wagen ist defekt. — Kola su neispravna.	rečenica	
+A1	Grad, saobraćaj i putovanje	Rečenica	Imamo problem.	Wir haben ein Problem.	vir haben ajn problem	Wir haben ein Problem. — Imamo problem.	rečenica	
+A1	Grad, saobraćaj i putovanje	Rečenica	Voz dolazi kasnije.	Der Zug kommt später.	der cuk komt špeter	Der Zug kommt später. — Voz dolazi kasnije.	rečenica	
+A1	Grad, saobraćaj i putovanje	Rečenica	Voz polazi u 20 časova.	Der Zug fährt um 20 Uhr ab.	der cuk fert um cvancik ur ap	Der Zug fährt um 20 Uhr ab. — Voz polazi u 20 časova.	rečenica	
+A1	Opšti glagoli	Rečenica	Ti živiš u Srbiji.	Du wohnst in Serbien.	du vonst in zerbien	Du wohnst in Serbien. — Živiš u Srbiji.	rečenica	
+A1	Opšti glagoli	Rečenica	On govori nemački.	Er spricht Deutsch.	er špriht dojč	Er spricht Deutsch. — On govori nemački.	rečenica	
+A1	Opšti glagoli	Rečenica	Ja mogu da pomognem.	Ich kann helfen.	ih kan helfen	Ich kann helfen. — Mogu da pomognem.	rečenica	
+A1	Opšti glagoli	Rečenica	Moram da radim.	Ich muss arbeiten.	ih mus arbajten	Ich muss arbeiten. — Moram da radim.	rečenica	
+A1	Opšti glagoli	Rečenica	Voz polazi u osam.	Der Zug fährt um acht Uhr ab.	der cuk fert um aht ur ap	Der Zug fährt um acht Uhr ab. — Voz polazi u osam.	rečenica	
+A1	Opšti glagoli	Rečenica	Da li možeš da mi pomogneš?	Kannst du mir helfen?	kanst du mir helfen	Kannst du mir helfen? — Da li možeš da mi pomogneš?	rečenica	
+A1	Opšti glagoli	Rečenica	Nemamo vremena.	Wir haben keine Zeit.	vir haben kajne cajt	Wir haben keine Zeit. — Nemamo vremena.	rečenica	
+X	Grejanje i hlađenje	Reč	radijator	der Heizkörper	der hajckerper	Der Heizkörper ist warm. — Radijator je topao.	imenica	
+X	Grejanje i hlađenje	Reč	klima	die Klimaanlage	di klimaanlage	Die Klimaanlage ist an. — Klima je uključena.	imenica	
+X	Grejanje i hlađenje	Reč	klimatizacija	die Klimatisierung	di klimatizirung	Die Klimatisierung funktioniert gut. — Klimatizacija radi dobro.	imenica	
+X	Grejanje i hlađenje	Reč	bojler	der Boiler	der bojler	Der Boiler ist kaputt. — Bojler je pokvaren.	imenica	
+X	Grejanje i hlađenje	Reč	ventil	das Ventil	das ventil	Das Ventil ist offen. — Ventil je otvoren.	imenica	
+X	Grejanje i hlađenje	Reč	dimnjak	der Schornstein	der šornštajn	Der Schornstein ist hoch. — Dimnjak je visok.	imenica	
+X	Grejanje i hlađenje	Reč	mraz	der Frost	der frost	Der Frost kommt. — Dolazi mraz.	imenica	
+X	Bazen i banja	Reč	banja	das Heilbad	das hajlbad	Die Heilbad ist berühmt. — Banja je poznata.	imenica	
+X	Bazen i banja	Reč	tobogan	die Rutsche	di rute	Die Rutsche ist lang. — Tobogan je dugačak.	imenica	
+X	Bazen i banja	Reč	prskalica	der Sprinkler	der šprinkler	Der Sprinkler läuft. — Prskalica radi.	imenica	
+X	Bazen i banja	Reč	crevo	der Schlauch	der šlauh	Der Schlauch ist lang. — Crevo je dugačko.	imenica	
+X	Odmor i putovanje	Reč	letovanje	der Sommerurlaub	der zomerurlau	Der Sommerurlaub war schön. — Letovanje je bilo lepo.	imenica	
+X	Odmor i putovanje	Reč	zimovanje	der Winterurlaub	der vinterurlau	Der Winterurlaub ist teuer. — Zimovanje je skupo.	imenica	
+X	Odmor i putovanje	Reč	raspust	die Ferien	di ferien	Die Ferien beginnen morgen. — Raspust počinje sutra.	imenica	
+X	Odmor i putovanje	Reč	glavno jelo	das Hauptgericht	das hauptgeriht	Was ist das Hauptgericht? — Šta je glavno jelo?	imenica	
+X	Odmor i putovanje	Reč	kišobran	der Regenschirm	der regenširm	Ich brauche einen Regenschirm. — Treba mi kišobran.	imenica	
+X	Odmor i putovanje	Reč	kabanica	der Regenmantel	der regenmantel	Der Regenmantel ist praktisch. — Kabanica je praktična.	imenica	
+X	Ljubimci	Reč	povodac	die Leine	di lajne	Die Leine ist lang. — Povodac je dugačak.	imenica	
+X	Ljubimci	Reč	ograda	der Zaun	der caun	Der Zaun ist aus Holz. — Ograda je od drveta.	imenica	
+X	Ljubimci	Reč	perje	die Feder	di feder	Die Feder ist weich. — Perje je mekano.	imenica	
+X	Ljubimci	Reč	kljun	der Schnabel	der šnabel	Der Schnabel ist gelb. — Kljun je žut.	imenica	
+X	Ljubimci	Reč	kandža	die Kralle	di krale	Die Kralle ist scharf. — Kandža je oštra.	imenica	
+X	Veš i kućni aparati	Reč	sušilica	der Wäschetrockner	der vešetrokner	Der Wäschetrockner ist praktisch. — Sušilica je praktična.	imenica	
+X	Veš i kućni aparati	Reč	skener	der Scanner	der skener	Der Scanner funktioniert. — Skener radi.	imenica	
+X	Veš i kućni aparati	Reč	kopiranje	das Kopieren	das kopiren	Kopieren ist einfach. — Kopiranje je jednostavno.	imenica	
+X	Veš i kućni aparati	Reč	dvostrano	beidseitig	bajdzajtih	Bitte beidseitig drucken. — Molim štampaj dvostrano.	ostalo	
+X	Kancelarija i pribor	Reč	penkala	der Kugelschreiber	der kugelšrajber	Der Kugelschreiber schreibt gut. — Penkala dobro piše.	imenica	
+X	Kancelarija i pribor	Reč	fascikla	der Ordner	der ordner	Der Ordner ist voll. — Fascikla je puna.	imenica	
+X	Kancelarija i pribor	Reč	polica	das Wandregal	das vantregal	Die Polica hängt an der Wand. — Polica visi na zidu.	imenica	
+X	Kancelarija i pribor	Reč	plakar	der Kleiderschrank	der klajderšrank	Der Kleiderschrank ist voll. — Plakar je pun.	imenica	
+X	Kancelarija i pribor	Reč	korice	der Einband	der ajnbant	Der Einband ist schön. — Korice su lepe.	imenica	
+X	Kancelarija i pribor	Reč	listati	blättern	bletern	Ich blättere im Buch. — Listam knjigu.	glagol	
+X	Kancelarija i pribor	Reč	mapa sveta	die Weltkarte	di veltkarte	Die Weltkarte hängt an der Wand. — Mapa sveta visi na zidu.	imenica	
+X	Tehnika i elektronika	Reč	džojstik	der Joystick	der džojstik	Der Joystick ist kaputt. — Džojstik je pokvaren.	imenica	
+X	Tehnika i elektronika	Reč	magnet	der Magnet	der magnet	Der Magnet haftet. — Magnet prijanja.	imenica	
+X	Tehnika i elektronika	Reč	privezak	der Anhänger	der anhenger	Der Anhänger ist klein. — Privezak je mali.	imenica	
+X	Tehnika i elektronika	Reč	kanap	die Schnur	di šnur	Die Schnur ist lang. — Kanap je dugačak.	imenica	
+X	Tehnika i elektronika	Reč	gurtna	der Gurt	der gurt	Der Gurt ist stark. — Gurtna je jaka.	imenica	
+X	Tehnika i elektronika	Reč	ploča (muzička)	die Schallplatte	di šalplate	Die Schallplatte ist alt. — Ploča je stara.	imenica	
+X	Tehnika i elektronika	Reč	kaseta	die Kassette	di kasete	Die Kassette ist neu. — Kaseta je nova.	imenica	
+X	Tehnika i elektronika	Reč	kanal	der Kanal	der kanal	Der Kanal ist sauber. — Kanal je čist.	imenica	
+X	Tehnika i elektronika	Reč	čep	der Deckel	der dekel	Der Deckel ist offen. — Čep je otvoren.	imenica	
+X	Saobraćaj i dostava	Reč	automobil	der Personenkraftwagen	der perzonenkraftvagen	Der Personenkraftwagen ist neu. — Automobil je nov.	imenica	
+X	Saobraćaj i dostava	Reč	terminal	das Terminal	das terminal	Das Terminal ist groß. — Terminal je veliki.	imenica	
+X	Saobraćaj i dostava	Reč	dostavljač	der Lieferant	der liferant	Der Lieferant ist pünktlich. — Dostavljač je tačan.	imenica	
+X	Saobraćaj i dostava	Reč	uvoz	der Import	der import	Der Import ist teuer. — Uvoz je skup.	imenica	
+X	Saobraćaj i dostava	Reč	izvoz	der Export	der eksport	Der Export läuft gut. — Izvoz ide dobro.	imenica	
+X	Saobraćaj i dostava	Reč	prijem	der Empfang	der empfank	Der Empfang ist unten. — Prijem je dole.	imenica	
+X	Saobraćaj i dostava	Reč	cisterna	der Tankwagen	der tankvagen	Der Tankwagen ist voll. — Cisterna je puna.	imenica	
+X	Saobraćaj i dostava	Reč	silos	der Silo	der zilo	Der Silo ist hoch. — Silos je visok.	imenica	
+X	Saobraćaj i dostava	Reč	znak	das Schild	das šilt	Das Schild ist neu. — Znak je nov.	imenica	
+X	Saobraćaj i dostava	Reč	rupa	das Loch	das loh	Die Straße hat ein Loch. — Ulica ima rupu.	imenica	
+X	Saobraćaj i dostava	Reč	klizav	rutschig	ruših	Die Straße ist rutschig. — Ulica je klizava.	ostalo	
+X	Vozila i delovi	Reč	gurtna (auto)	der Sicherheitsgurt	der zihrhajtsgurt	Der Sicherheitsgurt ist wichtig. — Sigurnosni pojas je važan.	imenica	
+X	Vozila i delovi	Reč	postolje	das Gestell	das geštel	Das Gestell ist stabil. — Postolje je stabilno.	imenica	
+X	Vozila i delovi	Reč	postolje	der Ständer	der štender	Der Ständer hält das Fahrrad. — Postolje drži bicikl.	imenica	
+X	Oružje i sigurnost	Reč	puška	das Gewehr	das gever	Das Gewehr ist alt. — Puška je stara.	imenica	
+X	Oružje i sigurnost	Reč	pištolj	die Pistole	di pistole	Die Pistole ist klein. — Pištolj je mali.	imenica	
+X	Oružje i sigurnost	Reč	oružje	die Waffe	di vafe	Die Waffe ist gefährlich. — Oružje je opasno.	imenica	
+X	Poljoprivreda	Reč	pšenica	der Weizen	der vajcen	Der Weizen ist reif. — Pšenica je zrela.	imenica	
+X	Poljoprivreda	Reč	kukuruz	der Mais	der majs	Der Mais ist süß. — Kukuruz je sladak.	imenica	
+X	Poljoprivreda	Reč	raž	der Roggen	der rogen	Der Roggen ist gesund. — Raž je zdrava.	imenica	
+X	Poljoprivreda	Reč	ječam	die Gerste	di gerste	Die Gerste ist reif. — Ječam je zreo.	imenica	
+X	Poljoprivreda	Reč	njiva	der Acker	der aker	Der Acker ist groß. — Njiva je velika.	imenica	
+X	Poljoprivreda	Reč	stablo	der Stamm	der štam	Der Stamm ist dick. — Stablo je debelo.	imenica	
+X	Poljoprivreda	Reč	plod	die Frucht	di fruht	Die Frucht ist reif. — Plod je zreo.	imenica	
+X	Poljoprivreda	Reč	borovnica	die Heidelbeere	di hajdelbere	Die Heidelbeere ist blau. — Borovnica je plava.	imenica	
+X	Poljoprivreda	Reč	ribizla	die Johannisbeere	di johanisbere	Die Johannisbeere ist rot. — Ribizla je crvena.	imenica	
+X	Poljoprivreda	Reč	karfiol	der Blumenkohl	der blumenkol	Der Blumenkohl ist frisch. — Karfiol je svež.	imenica	
+X	Poljoprivreda	Reč	bundeva	der Kürbis	der kirbis	Der Kürbis ist groß. — Bundeva je velika.	imenica	
+X	Anatomija	Reč	komora (srce)	die Herzkammer	di herckamer	Die Herzkammer arbeitet. — Komora srca radi.	imenica	
+X	Anatomija	Reč	slezina	die Milz	di milc	Die Milz ist klein. — Slezina je mala.	imenica	
+X	Anatomija	Reč	crevo	der Darm	der darm	Der Darm ist lang. — Crevo je dugo.	imenica	
+X	Anatomija	Reč	vena	die Vene	di vene	Die Vene ist sichtbar. — Vena je vidljiva.	imenica	
+X	Anatomija	Reč	zubi	die Zähne	di cene	Die Zähne sind weiß. — Zubi su beli.	imenica	
+X	Anatomija	Reč	desni	das Zahnfleisch	das canflajš	Das Zahnfleisch ist rot. — Desni su crvene.	imenica	
+X	Anatomija	Reč	vilica	der Kiefer	der kifer	Der Kiefer ist stark. — Vilica je jaka.	imenica	
+X	Anatomija	Reč	bradavica	die Warze	di varce	Die Warze ist klein. — Bradavica je mala.	imenica	
+X	Zdravlje i lekovi	Reč	lekovi	die Medikamente	di medikamente	Die Medikamente sind teuer. — Lekovi su skupi.	imenica	
+X	Zdravlje i lekovi	Reč	kapsula	die Kapsel	di kapsel	Die Kapsel ist klein. — Kapsula je mala.	imenica	
+X	Zdravlje i lekovi	Reč	igla	die Nadel	di nadel	Die Nadel ist dünn. — Igla je tanka.	imenica	
+X	Kućni tekstil	Reč	jastuk	das Kissen	das kisen	Das Kissen ist weich. — Jastuk je mekan.	imenica	
+X	Kućni tekstil	Reč	jorgan	die Bettdecke	di betdeke	Die Bettdecke ist warm. — Jorgan je topao.	imenica	
+X	Kućni tekstil	Reč	plahta	das Bettlaken	das betlaken	Das Bettlaken ist frisch. — Plahta je sveža.	imenica	
+X	Kućni tekstil	Reč	navlaka	der Bezug	der becuk	Der Bezug ist sauber. — Navlaka je čista.	imenica	
+X	Pekara i hleb	Reč	pereca	die Brezel	di brecel	Die Brezel ist salzig. — Pereca je slana.	imenica	
+X	Pekara i hleb	Reč	keks	der Keks	der keks	Der Keks ist süß. — Keks je sladak.	imenica	
+X	Pekara i hleb	Reč	slamčica	der Strohhalm	der štrohalm	Der Strohhalm ist aus Plastik. — Slamčica je od plastike.	imenica	
+X	Pekara i hleb	Reč	rakija	der Schnaps	der šnaps	Der Schnaps ist stark. — Rakija je jaka.	imenica	
+X	Pekara i hleb	Reč	energetsko piće	der Energydrink	der energidrink	Der Energydrink ist süß. — Energetsko piće je slatko.	imenica	
+X	Kuća i gradnja	Reč	štok	der Türstock	der tirstok	Der Türstock ist aus Holz. — Štok je od drveta.	imenica	
+X	Kuća i gradnja	Reč	greda	der Balken	der balken	Der Balken ist stark. — Greda je jaka.	imenica	
+X	Kuća i gradnja	Reč	šljunak	der Kies	der kis	Der Kies ist grau. — Šljunak je siv.	imenica	
+X	Kuća i gradnja	Reč	krečenje	das Streichen	das štrajhen	Das Streichen dauert lange. — Krečenje traje dugo.	imenica	
+X	Kuća i gradnja	Reč	lakiranje	das Lackieren	das lakiren	Das Lackieren ist fertig. — Lakiranje je gotovo.	imenica	
+X	Kuhinja	Reč	duvati	blasen	blazen	Blase die Kerze aus. — Duvaj sveću.	glagol	
+X	Kuhinja	Reč	sisati	saugen	zaugen	Der Staubsauger saugt. — Usisivač usisava.	glagol	
+X	Telesne funkcije	Reč	disanje	das Atmen	das atmen	Das Atmen ist ruhig. — Disanje je mirno.	imenica	
+X	Telesne funkcije	Reč	ronjenje	das Tauchen	das tauhen	Das Tauchen ist schön. — Ronjenje je lepo.	imenica	
+X	Telesne funkcije	Reč	spavanje	das Schlafen	das šlafen	Das Schlafen ist wichtig. — Spavanje je važno.	imenica	
+X	Telesne funkcije	Reč	ustajanje	das Aufstehen	das aufšteen	Das Aufstehen ist schwer. — Ustajanje je teško.	imenica	
+X	Telesne funkcije	Reč	pranje zuba	das Zähneputzen	das cenepucen	Zähneputzen ist wichtig. — Pranje zuba je važno.	imenica	
+X	Telesne funkcije	Reč	mala nužda	das kleine Geschäft	das klajne gešeft	Ich muss auf das kleine Geschäft. — Moram u malu nuždu.	ostalo	
+X	Telesne funkcije	Reč	velika nužda	das große Geschäft	das grose gešeft	Ich muss auf das große Geschäft. — Moram u veliku nuždu.	ostalo	
+X	Telesne funkcije	Reč	prdeti	furzen	furcen	Er furzt. — On prdi.	glagol	
+X	Telesne funkcije	Reč	slina	der Speichel	der špajhel	Der Speichel ist normal. — Slina je normalna.	imenica	
+X	Telesne funkcije	Reč	govno	die Scheiße	di šajse	Das ist Scheiße! — To je sranje!	imenica	
+X	Sport i takmičenje	Reč	tim	das Team	das tim	Das Team arbeitet gut. — Tim dobro radi.	imenica	
+X	Sport i takmičenje	Reč	turnir	das Turnier	das turnir	Das Turnier beginnt morgen. — Turnir počinje sutra.	imenica	
+X	Sport i takmičenje	Reč	pločice (u kupatilu)	die Fliesen	di flizen	Die Fliesen sind neu. — Pločice su nove.	imenica	
+X	Sport i takmičenje	Reč	skakati	springen	špringen	Kinder springen gern. — Deca rado skaču.	glagol	
+X	Umetnost i muzika	Reč	sviranje	das Spielen	das špilen	Das Spielen ist schön. — Sviranje je lepo.	imenica	
+X	Umetnost i muzika	Reč	pevanje	das Singen	das zingen	Das Singen ist schön. — Pevanje je lepo.	imenica	
+X	Karijera i posao	Reč	usluga	die Dienstleistung	di dinstlajstung	Die Dienstleistung ist gut. — Usluga je dobra.	imenica	
+X	Karijera i posao	Reč	dug	die Schuld	di šuld	Ich habe Schulden. — Imam dugove.	imenica	
+X	Karijera i posao	Reč	merenje	die Messung	di mesung	Die Messung ist genau. — Merenje je precizno.	imenica	
+X	Prijateljstvo i odnosi	Reč	drug	der Kamerad	der kamerad	Mein Kamerad hilft mir. — Moj drug mi pomaže.	imenica	
+X	Prijateljstvo i odnosi	Reč	učenje	das Lernen	das lernen	Lernen macht Spaß. — Učenje je zabavno.	imenica	
+X	Zmaj i mitologija	Reč	zmaj	der Drache	der drahe	Der Drache ist böse. — Zmaj je zao.	imenica	
+X	Zmaj i mitologija	Reč	blizanac	der Zwilling	der cviling	Er ist ein Zwilling. — On je blizanac.	imenica	
+X	Zmaj i mitologija	Reč	blizanci	die Zwillinge	di cvilinge	Sie sind Zwillinge. — Oni su blizanci.	imenica	
+X	Zmaj i mitologija	Reč	mrak	die Dunkelheit	di dunkelhajt	Die Dunkelheit ist da. — Mrak je pao.	imenica	
+X	Dodatno korisno	Reč	novčanik	die Geldbörse	di geldberze	Meine Geldbörse ist leer. — Novčanik mi je prazan.	imenica	
+X	Dodatno korisno	Reč	mesto (u redu)	die Reihe	di raje	Ich warte in der Reihe. — Čekam u redu.	imenica	
+X	Dodatno korisno	Reč	cigla	der Ziegelstein	der cigelštajn	Der Ziegelstein ist rot. — Cigla je crvena.	imenica	
+X	Fraze za svaki dan	Rečenica	Kako si danas?	Wie geht es dir heute?	vi get es dir hojte	Wie geht es dir heute? — Kako si danas?	rečenica	
+X	Fraze za svaki dan	Rečenica	Vidimo se sutra.	Wir sehen uns morgen.	vir zeen uns morgen	Wir sehen uns morgen. — Vidimo se sutra.	rečenica	
+X	Fraze za svaki dan	Rečenica	Nazdravlje!	Prost!	prost	Prost! — Nazdravlje!	rečenica	
+X	Fraze za svaki dan	Rečenica	Srećan put!	Gute Reise!	gute rajze	Gute Reise! — Srećan put!	rečenica	
+X	Fraze za svaki dan	Rečenica	Nema na čemu.	Gern geschehen.	gern gešejen	Gern geschehen. — Nema na čemu.	rečenica	
+X	Voće	Reč	smokva	die Feige	di fajge	Die Feige ist süß. — Smokva je slatka.	imenica	
+X	Voće	Reč	kesten	die Kastanie	di kastanije	Die Kastanie ist braun. — Kesten je braon.	imenica	
+X	Voće	Reč	lešnik	die Haselnuss	di hazelnus	Die Haselnuss ist klein. — Lešnik je mali.	imenica	
+X	Voće	Reč	orah	die Walnuss	di valnus	Die Walnuss ist hart. — Orah je tvrd.	imenica	
+X	Voće	Reč	badem	die Mandel	di mandel	Die Mandel ist gesund. — Badem je zdrav.	imenica	
+X	Voće	Reč	kikiriki	die Erdnuss	di erdnus	Die Erdnuss ist lecker. — Kikiriki je ukusan.	imenica	
+X	Voće	Reč	koštunica	der Kern	der kern	Der Kern ist hart. — Koštunica je tvrda.	imenica	
+X	Voće	Reč	dunja	die Quitte	di kvite	Die Quitte ist gelb. — Dunja je žuta.	imenica	
+X	Voće	Reč	mušmula	die Mispel	di mispel	Die Mispel ist braun. — Mušmula je braon.	imenica	
+X	Voće	Reč	nektarina	die Nektarine	di nektarine	Die Nektarine ist saftig. — Nektarina je sočna.	imenica	
+X	Voće	Reč	grejpfrut	die Grapefruit	di grejpfrut	Die Grapefruit ist sauer. — Grejpfrut je kiseo.	imenica	
+X	Voće	Reč	limeta	die Limette	di limete	Die Limette ist grün. — Limeta je zelena.	imenica	
+X	Voće	Reč	kokos	die Kokosnuss	di kokosnus	Die Kokosnuss ist hart. — Kokos je tvrd.	imenica	
+X	Voće	Reč	avokado	die Avocado	di avokado	Die Avocado ist grün. — Avokado je zelen.	imenica	
+X	Voće	Reč	papaja	die Papaya	di papaja	Die Papaya ist exotisch. — Papaja je egzotična.	imenica	
+X	Voće	Reč	kivi	die Kiwi	di kivi	Die Kiwi ist sauer. — Kivi je kiseo.	imenica	
+X	Voće	Reč	drenjina	die Kornelkirsche	di kornelkirše	Die Kornelkirsche ist rot. — Drenjina je crvena.	imenica	
+X	Povrće	Reč	blitva	der Mangold	der mangolt	Der Mangold ist grün. — Blitva je zelena.	imenica	
+X	Povrće	Reč	kelj	der Grünkohl	der grinkol	Der Grünkohl ist gesund. — Kelj je zdrav.	imenica	
+X	Povrće	Reč	prokelj	der Rosenkohl	der rozenkol	Der Rosenkohl ist klein. — Prokelj je mali.	imenica	
+X	Povrće	Reč	celer	der Sellerie	der zeleri	Der Sellerie ist aromatisch. — Celer je aromatičan.	imenica	
+X	Povrće	Reč	peršun	die Petersilie	di peterzilije	Die Petersilie ist frisch. — Peršun je svež.	imenica	
+X	Povrće	Reč	mirođija	der Dill	der dil	Der Dill riecht gut. — Mirođija lepo miriše.	imenica	
+X	Povrće	Reč	lovor	der Lorbeer	der lorber	Der Lorbeer ist aromatisch. — Lovor je aromatičan.	imenica	
+X	Povrće	Reč	majčina dušica	der Thymian	der timijan	Der Thymian ist würzig. — Majčina dušica je začinska.	imenica	
+X	Povrće	Reč	origano	der Oregano	der oregano	Der Oregano ist typisch für Pizza. — Origano je tipičan za picu.	imenica	
+X	Povrće	Reč	ren	der Meerrettich	der merretih	Der Meerrettich ist scharf. — Ren je ljut.	imenica	
+X	Povrće	Reč	rotkvica	das Radieschen	das radishen	Das Radieschen ist rot. — Rotkvica je crvena.	imenica	
+X	Povrće	Reč	cvekla	die Rote Bete	di rote bete	Die Rote Bete ist rot. — Cvekla je crvena.	ostalo	
+X	Povrće	Reč	keleraba	der Kohlrabi	der kohlrabi	Der Kohlrabi ist grün. — Keleraba je zelena.	imenica	
+X	Povrće	Reč	kiselica	der Sauerampfer	der zauerampfer	Der Sauerampfer ist sauer. — Kiselica je kisela.	imenica	
+X	Povrće	Reč	komorač	der Fenchel	der fenhel	Der Fenchel ist aromatisch. — Komorač je aromatičan.	imenica	
+X	Ribe	Reč	girica	die Sardelle	di sardele	Die Sardelle ist klein. — Girica je mala.	imenica	
+X	Ribe	Reč	sabljarka	der Schwertfisch	der švertfiš	Der Schwertfisch ist groß. — Sabljarka je velika.	imenica	
+X	Ribe	Reč	morska pastrmka	die Meerforelle	di merforele	Die Meerforelle ist selten. — Morska pastrmka je retka.	imenica	
+X	Ribe	Reč	haringa	der Hering	der hering	Der Hering ist salzig. — Haringa je slana.	imenica	
+X	Ribe	Reč	list (riba)	die Seezunge	di zecunge	Die Seezunge ist fein. — List je fin.	imenica	
+X	Ribe	Reč	škarpina	der Drachenkopf	der drahenkopf	Der Drachenkopf ist lecker. — Škarpina je ukusna.	imenica	
+X	Ribe	Reč	lignja	der Tintenfisch	der tintenfiš	Der Tintenfisch ist zart. — Lignja je mekana.	imenica	
+X	Ribe	Reč	jastog	der Hummer	der humer	Der Hummer ist teuer. — Jastog je skup.	imenica	
+X	Ribe	Reč	kamenica	die Auster	di auster	Die Auster ist frisch. — Kamenica je sveža.	imenica	
+X	Kućni aparati	Reč	mikser	der Mixer	der mikser	Der Mixer ist laut. — Mikser je bučan.	imenica	
+X	Kućni aparati	Reč	blender	der Standmixer	der štandmikser	Der Standmixer ist stark. — Blender je jak.	imenica	
+X	Kućni aparati	Reč	toster	der Toaster	der toster	Der Toaster ist neu. — Toster je nov.	imenica	
+X	Kućni aparati	Reč	aparat za kafu	die Kaffeemaschine	di kafemašine	Die Kaffeemaschine ist an. — Aparat za kafu radi.	imenica	
+X	Kućni aparati	Reč	friteza	die Fritteuse	di friteze	Die Fritteuse ist heiß. — Friteza je vruća.	imenica	
+X	Kućni aparati	Reč	kuvalo	der Wasserkocher	der vaserkoher	Der Wasserkocher kocht schnell. — Kuvalo brzo kuva.	imenica	
+X	Kućni aparati	Reč	usisivač (ručni)	der Handstaubsauger	der hantštaubzauger	Der Handstaubsauger ist praktisch. — Ručni usisivač je praktičan.	imenica	
+X	Kućni aparati	Reč	pegla na paru	der Dampfbügler	der dampfbigler	Der Dampfbügler ist praktisch. — Pegla na paru je praktična.	imenica	
+X	Kućni aparati	Reč	ventilator	der Ventilator	der ventilator	Der Ventilator läuft. — Ventilator radi.	imenica	
+X	Kućni aparati	Reč	ovlaživač vazduha	der Luftbefeuchter	der luftbefojhter	Der Luftbefeuchter ist nützlich. — Ovlaživač vazduha je koristan.	imenica	
+X	Kućni aparati	Reč	prečistač vazduha	der Luftreiniger	der luftrajniger	Der Luftreiniger ist leise. — Prečistač vazduha je tih.	imenica	
+X	Alati	Reč	brusilica	der Winkelschleifer	der vinkelšlajfer	Der Winkelschleifer ist laut. — Brusilica je bučna.	imenica	
+X	Alati	Reč	heftalica	der Tacker	der taker	Der Tacker ist praktisch. — Heftalica je praktična.	imenica	
+X	Alati	Reč	stezaljka	die Klemme	di kleme	Die Klemme hält gut. — Stezaljka dobro drži.	imenica	
+X	Alati	Reč	brusni papir	das Schleifpapier	das šlajfpapir	Das Schleifpapier ist grob. — Brusni papir je grub.	imenica	
+X	Alati	Reč	imbus ključ	der Inbusschlüssel	der inbusšlisel	Der Inbusschlüssel ist klein. — Imbus ključ je mali.	imenica	
+X	Muzički instrumenti	Reč	violina	die Geige	di gajge	Die Geige klingt hoch. — Violina zvuči visoko.	imenica	
+X	Muzički instrumenti	Reč	bubanj	die Trommel	di tromel	Die Trommel ist laut. — Bubanj je bučan.	imenica	
+X	Muzički instrumenti	Reč	flauta	die Flöte	di flete	Die Flöte klingt sanft. — Flauta zvuči nežno.	imenica	
+X	Muzički instrumenti	Reč	harmonika	das Akkordeon	das akordeon	Das Akkordeon ist beliebt. — Harmonika je popularna.	imenica	
+X	Muzički instrumenti	Reč	truba	die Trompete	di trompete	Die Trompete ist laut. — Truba je glasna.	imenica	
+X	Muzički instrumenti	Reč	saksofon	das Saxophon	das zaksofon	Das Saxophon klingt jazzig. — Saksofon zvuči džezerski.	imenica	
+X	Muzički instrumenti	Reč	orgulje	die Orgel	di orgel	Die Orgel ist in der Kirche. — Orgulje su u crkvi.	imenica	
+X	Muzički instrumenti	Reč	hor	der Chor	der kor	Der Chor singt schön. — Hor lepo peva.	imenica	
+X	Muzički instrumenti	Reč	muzičar	der Musiker	der muziker	Der Musiker spielt gut. — Muzičar dobro svira.	imenica	
+X	Vojska i policija	Reč	vatrogasac	der Feuerwehrmann	der fojaverman	Der Feuerwehrmann ist mutig. — Vatrogasac je hrabar.	imenica	
+X	Vojska i policija	Reč	vojnik	der Soldat	der zoldat	Der Soldat ist stark. — Vojnik je jak.	imenica	
+X	Vojska i policija	Reč	uniforma	die Uniform	di uniform	Die Uniform ist neu. — Uniforma je nova.	imenica	
+X	Vojska i policija	Reč	čin	der Rang	der rank	Sein Rang ist hoch. — Njegov čin je visok.	imenica	
+X	Vojska i policija	Reč	misija	die Mission	di mission	Die Mission ist wichtig. — Misija je važna.	imenica	
+X	Vojska i policija	Reč	komandir	der Kommandant	der komandant	Der Kommandant befiehlt. — Komandir naređuje.	imenica	
+X	Vojska i policija	Reč	helikopter	der Hubschrauber	der hubšrauber	Der Hubschrauber fliegt. — Helikopter leti.	imenica	
+X	Vojska i policija	Reč	tenk	der Panzer	der pancer	Der Panzer ist stark. — Tenk je jak.	imenica	
+X	Vojska i policija	Reč	zaštita	der Schutz	der šuc	Der Schutz ist wichtig. — Zaštita je važna.	imenica	
+X	Vojska i policija	Reč	hitna pomoć	der Notdienst	der notdinst	Die Notdienst kommt schnell. — Hitna pomoć dolazi brzo.	imenica	
+X	Vojska i policija	Reč	vatrogasna stanica	die Feuerwache	di fojaverahe	Die Feuerwache ist in der Nähe. — Vatrogasna stanica je blizu.	imenica	
+X	Vera i praznici	Reč	molitva	das Gebet	das gebet	Das Gebet ist ruhig. — Molitva je mirna.	imenica	
+X	Vera i praznici	Reč	sveštenik	der Priester	der prišter	Der Priester ist freundlich. — Sveštenik je ljubazan.	imenica	
+X	Vera i praznici	Reč	ikona	die Ikone	di ikone	Die Ikone hängt an der Wand. — Ikona visi na zidu.	imenica	
+X	Vera i praznici	Reč	manastir	das Kloster	das kloster	Das Kloster ist alt. — Manastir je star.	imenica	
+X	Vera i praznici	Reč	pokloni	die Geschenke	di gešenke	Die Geschenke sind schön. — Pokloni su lepi.	imenica	
+X	Vremenske pojave	Reč	munja	der Blitz	der blic	Der Blitz ist hell. — Munja je svetla.	imenica	
+X	Vremenske pojave	Reč	grom	der Donner	der doner	Der Donner ist laut. — Grom je glasan.	imenica	
+X	Vremenske pojave	Reč	mećava	der Schneesturm	der šnešturm	Der Schneesturm ist stark. — Mećava je jaka.	imenica	
+X	Vremenske pojave	Reč	rosa	der Tau	der tau	Der Tau ist frisch. — Rosa je sveža.	imenica	
+X	Vremenske pojave	Reč	rosulja	der Nieselregen	der nizelregen	Der Nieselregen ist leicht. — Rosulja je slaba.	imenica	
+X	Vremenske pojave	Reč	pljusak	der Regenguss	der regengus	Der Regenguss ist stark. — Pljusak je jak.	imenica	
+X	Vremenske pojave	Reč	duga	der Regenbogen	der regenbogen	Der Regenbogen ist bunt. — Duga je šarena.	imenica	
+X	Škola i obrazovanje	Reč	profesor	der Professor	der profesor	Der Professor ist klug. — Profesor je pametan.	imenica	
+X	Škola i obrazovanje	Reč	udžbenik	das Lehrbuch	das lerbuh	Das Lehrbuch ist teuer. — Udžbenik je skup.	imenica	
+X	Škola i obrazovanje	Reč	guma za brisanje	der Radiergummi	der radirgumi	Der Radiergummi ist klein. — Gumica je mala.	imenica	
+X	Škola i obrazovanje	Reč	fakultet	die Fakultät	di fakultet	Die Fakultät ist alt. — Fakultet je star.	imenica	
+X	Škola i obrazovanje	Reč	diploma	das Diplom	das diplom	Das Diplom ist wichtig. — Diploma je važna.	imenica	
+X	Škola i obrazovanje	Reč	pauza (školska)	die Schulpause	di šulpauze	Die Schulpause ist kurz. — Školska pauza je kratka.	imenica	
+X	Škola i obrazovanje	Reč	raspust	die Schulferien	di šulferien	Die Schulferien sind lang. — Raspust je dug.	imenica	
+X	Film i serije	Reč	sezona	die Staffel	di štafel	Die Staffel ist lang. — Sezona je dugačka.	imenica	
+X	Film i serije	Reč	scena	die Szene	di scene	Die Szene ist schön. — Scena je lepa.	imenica	
+X	Film i serije	Reč	glumac	der Schauspieler	der šaušpiler	Der Schauspieler ist berühmt. — Glumac je poznat.	imenica	
+X	Film i serije	Reč	glumica	die Schauspielerin	di šaušpilerin	Die Schauspielerin ist talentiert. — Glumica je talentovana.	imenica	
+X	Film i serije	Reč	režiser	der Regisseur	der režiser	Der Regisseur ist bekannt. — Režiser je poznat.	imenica	
+X	Film i serije	Reč	producent	der Produzent	der producent	Der Produzent ist reich. — Producent je bogat.	imenica	
+X	Film i serije	Reč	scenario	das Drehbuch	das drebuh	Das Drehbuch ist gut. — Scenario je dobar.	imenica	
+X	Film i serije	Reč	uloga	die Rolle	di role	Die Rolle ist wichtig. — Uloga je važna.	imenica	
+X	Film i serije	Reč	snimanje	die Dreharbeiten	di drearbajten	Die Dreharbeiten dauern lange. — Snimanje traje dugo.	imenica	
+X	Film i serije	Reč	montaža	der Schnitt	der šnit	Der Schnitt ist schnell. — Montaža je brza.	imenica	
+X	Film i serije	Reč	naslov	der Titel	der titel	Der Titel ist interessant. — Naslov je zanimljiv.	imenica	
+X	Film i serije	Reč	lik	die Figur	di figur	Die Figur ist sympathisch. — Lik je simpatičan.	imenica	
+X	Film i serije	Reč	glavna uloga	die Hauptrolle	di hauptrole	Sie spielt die Hauptrolle. — Ona igra glavnu ulogu.	imenica	
+X	Film i serije	Reč	sporedna uloga	die Nebenrolle	di nebenrole	Er hat eine Nebenrolle. — On ima sporednu ulogu.	imenica	
+X	Film i serije	Reč	dokumentarac	die Dokumentation	di dokumentacion	Die Dokumentation ist lehrreich. — Dokumentarac je poučan.	imenica	
+X	Film i serije	Reč	crtani film	der Zeichentrickfilm	der cajhentrikfilm	Der Zeichentrickfilm ist für Kinder. — Crtani je za decu.	imenica	
+X	Film i serije	Reč	komedija	die Komödie	di komedije	Die Komödie ist lustig. — Komedija je smešna.	imenica	
+X	Film i serije	Reč	drama	das Drama	das drama	Das Drama ist ernst. — Drama je ozbiljna.	imenica	
+X	Film i serije	Reč	triler	der Thriller	der triler	Der Thriller ist spannend. — Triler je uzbudljiv.	imenica	
+X	Film i serije	Reč	horor	der Horrorfilm	der hororfilm	Der Horrorfilm ist gruselig. — Horor je strašan.	imenica	
+X	Film i serije	Reč	naučna fantastika	die Science-Fiction	di sajens fikšn	Science-Fiction ist interessant. — Naučna fantastika je zanimljiva.	imenica	
+X	Film i serije	Reč	ljubavni film	der Liebesfilm	der libesfilm	Der Liebesfilm ist romantisch. — Ljubavni film je romantičan.	imenica	
+X	Film i serije	Reč	akcioni film	der Actionfilm	der akcionfilm	Der Actionfilm ist schnell. — Akcioni je brz.	imenica	
+X	Film i serije	Reč	nastavak	die Fortsetzung	di fortzecung	Die Fortsetzung kommt bald. — Nastavak dolazi uskoro.	imenica	
+X	Film i serije	Reč	premijera	die Premiere	di premijere	Die Premiere ist heute. — Premijera je danas.	imenica	
+X	Film i serije	Reč	Oskar	der Oscar	der oskar	Der Oscar ist berühmt. — Oskar je poznat.	imenica	
+X	Bioskop	Reč	karta za bioskop	die Kinokarte	di kinokarte	Die Kinokarte ist teuer. — Karta je skupa.	imenica	
+X	Bioskop	Reč	sala	der Saal	der zal	Der Saal ist groß. — Sala je velika.	imenica	
+X	Bioskop	Reč	platno	die Leinwand	di lajinvant	Die Leinwand ist groß. — Platno je veliko.	imenica	
+X	Bioskop	Reč	projektor	der Projektor	der projektor	Der Projektor ist laut. — Projektor je bučan.	imenica	
+X	Bioskop	Reč	kokice	das Popcorn	das popkorn	Das Popcorn ist salzig. — Kokice su slane.	imenica	
+X	Bioskop	Reč	sok (u bioskopu)	die Limonade	di limonade	Die Limonade ist kalt. — Sok je hladan.	imenica	
+X	Bioskop	Reč	trejler	der Trailer	der trejler	Der Trailer ist spannend. — Trejler je uzbudljiv.	imenica	
+X	Bioskop	Reč	titlovi	die Untertitel	di untertitel	Die Untertitel sind auf Deutsch. — Titlovi su na nemačkom.	imenica	
+X	Bioskop	Reč	sinhronizacija	die Synchronisation	di zinhronizacion	Die Synchronisation ist gut. — Sinhronizacija je dobra.	imenica	
+X	Bioskop	Reč	3D naočare	die 3D-Brille	di draj-de-brile	Die 3D-Brille ist praktisch. — 3D naočare su praktične.	ostalo	
+X	Bioskop	Rečenica	Idemo u bioskop.	Wir gehen ins Kino.	vir geen ins kino	Wir gehen ins Kino heute Abend. — Idemo u bioskop večeras.	rečenica	
+X	Bioskop	Rečenica	Koji film gledamo?	Welchen Film schauen wir?	velhen film šauen vir	Welchen Film schauen wir heute? — Koji film gledamo danas?	rečenica	
+X	Bioskop	Rečenica	Karte, molim.	Zwei Karten, bitte.	cvaj karten, bite	Zwei Karten für den Film, bitte. — Dve karte za film, molim.	rečenica	
+X	Bioskop	Rečenica	Gde je sala 3?	Wo ist der Saal 3?	vo ist der zal draj	Wo ist der Saal 3, bitte? — Gde je sala 3, molim?	rečenica	
+X	Pozorište	Reč	kostim	das Kostüm	das kostim	Das Kostüm ist schön. — Kostim je lep.	imenica	
+X	Pozorište	Reč	maska	die Maske	di maske	Die Maske ist gruselig. — Maska je strašna.	imenica	
+X	Pozorište	Reč	šminka	das Make-up	das mejkap	Das Make-up ist bunt. — Šminka je šarena.	imenica	
+X	Pozorište	Reč	kulisa	die Kulisse	di kulise	Die Kulisse ist realistisch. — Kulisa je realistična.	imenica	
+X	Pozorište	Reč	garderoba	die Garderobe	di garderobe	Die Garderobe ist hinten. — Garderoba je pozadi.	imenica	
+X	Pozorište	Reč	aplauz	der Applaus	der aplaus	Der Applaus ist laut. — Aplauz je glasan.	imenica	
+X	Pozorište	Reč	monolog	der Monolog	der monolog	Der Monolog ist lang. — Monolog je dug.	imenica	
+X	Pozorište	Reč	dijalog	der Dialog	der dialog	Der Dialog ist wichtig. — Dijalog je važan.	imenica	
+X	Pozorište	Reč	balet	das Ballett	das balet	Das Ballett ist elegant. — Balet je elegantan.	imenica	
+X	Pozorište	Reč	opera	die Oper	di oper	Die Oper ist klassisch. — Opera je klasična.	imenica	
+X	Pozorište	Reč	mjuzikl	das Musical	das mjuzikl	Das Musical ist beliebt. — Mjuzikl je popularan.	imenica	
+X	Pozorište	Reč	koreografija	die Choreografie	di koreografije	Die Choreografie ist perfekt. — Koreografija je savršena.	imenica	
+X	Pozorište	Reč	režija	die Regie	di režije	Die Regie ist modern. — Režija je moderna.	imenica	
+X	Pozorište	Reč	proba	die Probe	di probe	Die Probe ist morgen. — Proba je sutra.	imenica	
+X	Pozorište	Reč	generalna proba	die Generalprobe	di generalprobe	Die Generalprobe ist heute. — Generalna proba je danas.	imenica	
+X	Pozorište	Rečenica	Idemo u pozorište.	Wir gehen ins Theater.	vir geen ins teater	Wir gehen ins Theater heute Abend. — Idemo u pozorište večeras.	rečenica	
+X	Pozorište	Rečenica	Šta igraju večeras?	Was wird heute Abend gespielt?	vas virt hojte abent gešpilt	Was wird heute Abend im Theater gespielt? — Šta igraju večeras?	rečenica	
+X	Rasveta i scena	Reč	rasveta	die Beleuchtung	di belojhtung	Die Beleuchtung ist schwach. — Rasveta je slaba.	imenica	
+X	Rasveta i scena	Reč	reflektor	der Scheinwerfer	der šajnverfer	Der Scheinwerfer ist stark. — Reflektor je jak.	imenica	
+X	Rasveta i scena	Reč	spot	der Spot	der spot	Der Spot ist auf den Schauspieler gerichtet. — Spot je usmeren na glumca.	imenica	
+X	Rasveta i scena	Reč	svetlosni efekat	der Lichteffekt	der lihtefekt	Der Lichteffekt ist beeindruckend. — Svetlosni efekat je impresivan.	imenica	
+X	Rasveta i scena	Reč	zvuk	der Ton	der ton	Der Ton ist gut. — Zvuk je dobar.	imenica	
+X	Rasveta i scena	Reč	ozvučenje	die Tonanlage	di tonanlage	Die Tonanlage ist modern. — Ozvučenje je moderno.	imenica	
+X	Rasveta i scena	Reč	mikrofon	das Mikrofon	das mikrofon	Das Mikrofon ist an. — Mikrofon je uključen.	imenica	
+X	Rasveta i scena	Reč	zvučnik	der Lautsprecher	der lautšpreher	Der Lautsprecher ist laut. — Zvučnik je glasan.	imenica	
+X	Rasveta i scena	Reč	dekor	das Bühnenbild	das binenbilt	Das Bühnenbild ist schön. — Dekor je lep.	imenica	
+X	Rasveta i scena	Reč	rekvizit	das Requisit	das rekvizit	Das Requisit ist wichtig. — Rekvizit je važan.	imenica	
+X	Televizija	Reč	televizija	das Fernsehen	das fernzeen	Das Fernsehen ist informativ. — Televizija je informativna.	imenica	
+X	Televizija	Reč	daljinski	die Fernbedienung	di fernbedinung	Wo ist die Fernbedienung? — Gde je daljinski?	imenica	
+X	Televizija	Reč	kanal	der Sender	der zender	Der Sender ist gut. — Kanal je dobar.	imenica	
+X	Televizija	Reč	vremenska prognoza	die Wettervorhersage	di veterforherzage	Die Wettervorhersage ist gut. — Vremenska prognoza je dobra.	imenica	
+X	Televizija	Reč	kviz	die Quizshow	di kvizšo	Die Quizshow ist spannend. — Kviz je uzbudljiv.	imenica	
+X	Televizija	Reč	talk šou	die Talkshow	di tokšo	Die Talkshow ist interessant. — Talk šou je zanimljiv.	imenica	
+X	Televizija	Reč	sapunica	die Seifenoper	di zajfenoper	Die Seifenoper ist lang. — Sapunica je dugačka.	imenica	
+X	Televizija	Reč	reality show	die Realityshow	di realityšo	Die Realityshow ist populär. — Reality show je popularan.	imenica	
+X	Televizija	Reč	voditelj	der Moderator	der moderator	Der Moderator ist bekannt. — Voditelj je poznat.	imenica	
+X	Televizija	Reč	voditeljka	die Moderatorin	di moderatorin	Die Moderatorin ist sympathisch. — Voditeljka je simpatična.	imenica	
+X	Televizija	Reč	snimak	die Aufnahme	di aufname	Die Aufnahme ist klar. — Snimak je jasan.	imenica	
+X	Televizija	Reč	prenos	die Übertragung	di ibertragung	Die Übertragung ist live. — Prenos je uživo.	imenica	
+X	Televizija	Reč	uživo	live	lajv	Das Spiel läuft live. — Utakmica je uživo.	ostalo	
+X	Televizija	Reč	snimljeno	aufgezeichnet	aufgecajhnet	Die Sendung ist aufgezeichnet. — Emisija je snimljena.	ostalo	
+X	Televizija	Reč	repriza	die Wiederholung	di viderholung	Die Wiederholung kommt später. — Repriza dolazi kasnije.	imenica	
+X	Televizija	Reč	serija (TV)	die Fernsehserie	di fernzezerije	Die Fernsehserie ist beliebt. — TV serija je popularna.	imenica	
+X	Gledanje i slušanje	Rečenica	Šta ima na TV-u?	Was läuft im Fernsehen?	vas lojft im fernzeen	Was läuft heute im Fernsehen? — Šta ima danas na TV-u?	rečenica	
+X	Gledanje i slušanje	Rečenica	Gledam film.	Ich schaue einen Film.	ih šaue ajnen film	Ich schaue einen Film. — Gledam film.	rečenica	
+X	Gledanje i slušanje	Rečenica	Gledam seriju.	Ich schaue eine Serie.	ih šaue ajne zerije	Ich schaue eine Serie. — Gledam seriju.	rečenica	
+X	Gledanje i slušanje	Rečenica	Prebaci kanal.	Schalte um!	šalte um	Schalte bitte um! — Prebaci kanal, molim!	rečenica	
+X	Gledanje i slušanje	Rečenica	Pojačaj zvuk.	Mach lauter!	mah lauter	Mach bitte lauter! — Pojačaj, molim!	rečenica	
+X	Gledanje i slušanje	Rečenica	Smanji zvuk.	Mach leiser!	mah lajzer	Mach bitte leiser! — Smanji, molim!	rečenica	
+X	Gledanje i slušanje	Rečenica	Uključi TV.	Mach den Fernseher an!	mah den fernzeer an	Mach den Fernseher an! — Uključi TV!	rečenica	
+X	Gledanje i slušanje	Rečenica	Isključi TV.	Mach den Fernseher aus!	mah den fernzeer aus	Mach den Fernseher aus! — Isključi TV!	rečenica	
+X	Gledanje i slušanje	Rečenica	Kada počinje film?	Wann beginnt der Film?	van beginnt der film	Wann beginnt der Film im Kino? — Kada počinje film u bioskopu?	rečenica	
+X	Gledanje i slušanje	Rečenica	Koliko traje film?	Wie lange dauert der Film?	vi lange dauert der film	Wie lange dauert der Film? — Koliko traje film?	rečenica	
+X	Gledanje i slušanje	Rečenica	Film je dobar.	Der Film ist gut.	der film ist gut	Der Film ist wirklich gut. — Film je stvarno dobar.	rečenica	
+X	Gledanje i slušanje	Rečenica	Film je dosadan.	Der Film ist langweilig.	der film ist langvajlih	Der Film ist langweilig. — Film je dosadan.	rečenica	
+X	Gledanje i slušanje	Rečenica	Preporučujem ti ovaj film.	Ich empfehle dir diesen Film.	ih empfele dir dizen film	Ich empfehle dir diesen Film. — Preporučujem ti ovaj film.	rečenica	
+X	Žanrovi i sadržaj	Reč	žanr	das Genre	das žanr	Welches Genre magst du? — Koji žanr voliš?	imenica	
+X	Žanrovi i sadržaj	Reč	zaplet	die Wendung	di vendung	Die Wendung ist überraschend. — Zaplet je iznenađujući.	imenica	
+X	Žanrovi i sadržaj	Reč	srećan kraj	das Happy End	das hepi end	Das Happy End ist schön. — Srećan kraj je lep.	ostalo	
+X	Žanrovi i sadržaj	Reč	efekat	der Effekt	der efekt	Der Effekt ist beeindruckend. — Efekat je impresivan.	imenica	
+X	Žanrovi i sadržaj	Reč	specijalni efekti	die Spezialeffekte	di špecijalefekte	Die Spezialeffekte sind toll. — Specijalni efekti su sjajni.	imenica	
+X	Žanrovi i sadržaj	Reč	muzika (u filmu)	die Filmmusik	di filmmuzik	Die Filmmusik ist schön. — Muzika u filmu je lepa.	imenica	
+X	Žanrovi i sadržaj	Reč	naslovna pesma	der Titelsong	der titelzong	Der Titelsong ist bekannt. — Naslovna pesma je poznata.	imenica	
+X	Žanrovi i sadržaj	Reč	negativac	der Bösewicht	der bezeviht	Der Bösewicht ist böse. — Negativac je zao.	imenica	
+X	Žanrovi i sadržaj	Reč	junak	der Held	der helt	Der Held rettet alle. — Junak spasava sve.	imenica	
+X	Žanrovi i sadržaj	Reč	ljubavna priča	die Liebesgeschichte	di libesgešihte	Die Liebesgeschichte ist romantisch. — Ljubavna priča je romantična.	imenica	
+X	Žanrovi i sadržaj	Reč	avantura	das Abenteuer	das abentojer	Das Abenteuer ist spannend. — Avantura je uzbudljiva.	imenica	
+X	Žanrovi i sadržaj	Reč	misterija	das Rätsel	das recel	Das Rätsel ist schwer. — Misterija je teška.	imenica	
+X	Kuvanje i recepti	Reč	kuvanje	das Kochen	das kohen	Das Kochen macht Spaß. — Kuvanje je zabavno.	imenica	
+X	Kuvanje i recepti	Reč	dinstati	schmoren	šmoren	Ich schmore Gemüse. — Dinstam povrće.	glagol	
+X	Kuvanje i recepti	Reč	peći (u rerni)	im Ofen backen	im ofen baken	Ich backe im Ofen. — Pečem u rerni.	ostalo	
+X	Kuvanje i recepti	Reč	seckati	hacken	haken	Ich hacke Zwiebeln. — Seckam luk.	glagol	
+X	Kuvanje i recepti	Reč	mešati (lagano)	umrühren	umriren	Umrühren, bitte. — Mešaj, molim.	glagol	
+X	Kuvanje i recepti	Reč	posoliti	salzen	zalcen	Ich salze die Suppe. — Posolim supu.	glagol	
+X	Kuvanje i recepti	Reč	zasećeriti	zuckern	cukern	Ich zuckere den Kaffee. — Zaslađujem kafu.	glagol	
+X	Kuvanje i recepti	Reč	dodati	hinzufügen	hincufigen	Ich füge Milch hinzu. — Dodajem mleko.	glagol	
+X	Kuvanje i recepti	Reč	prosuti	verschütten	feršiten	Ich habe Milch verschüttet. — Prosuo sam mleko.	glagol	
+X	Kuvanje i recepti	Reč	kuvati (ključati)	kochen (sieden)	kohen (ziden)	Das Wasser kocht. — Voda ključa.	ostalo	
+X	Kuvanje i recepti	Reč	pržiti na ulju	in Öl braten	in el braten	Ich brate in Öl. — Pržim na ulju.	ostalo	
+X	Kuvanje i recepti	Reč	dinstiti na tihoj vatri	bei kleiner Hitze schmoren	baj klajner hice šmoren	Bei kleiner Hitze schmoren. — Dinstati na tihoj vatri.	ostalo	
+X	Kuvanje i recepti	Reč	kilogram	das Kilogramm	das kilogram	Ein Kilogramm Mehl. — Kilogram brašna.	imenica	
+X	Kuvanje i recepti	Reč	kvasac	die Hefe	di hefe	Die Hefe ist frisch. — Kvasac je svež.	imenica	
+X	Kuvanje i recepti	Reč	testo	der Teig	der tajk	Der Teig ist weich. — Testo je mekano.	imenica	
+X	Kuvanje i recepti	Reč	pleh	das Backblech	das bakbleh	Das Backblech ist heiß. — Pleh je vruć.	imenica	
+X	Kuvanje i recepti	Reč	nož (kuhinjski)	das Küchenmesser	das kihenmeser	Das Küchenmesser ist scharf. — Kuhinjski nož je oštar.	imenica	
+X	Kuvanje i recepti	Reč	varjača	der Kochlöffel	der kohlefel	Der Kochlöffel ist aus Holz. — Varjača je od drveta.	imenica	
+X	Kuvanje i recepti	Reč	kuhača	der Schneebesen	der šnebezen	Der Schneebesen ist praktisch. — Kuhača je praktična.	imenica	
+X	Kuvanje i recepti	Reč	dinstano jelo	das Schmorgericht	das šmorgeriht	Das Schmorgericht ist lecker. — Dinstano jelo je ukusno.	imenica	
+X	Kuvanje i recepti	Reč	dezert	der Nachtisch	der nahtiš	Der Nachtisch ist süß. — Dezert je sladak.	imenica	
+X	Kuvanje i recepti	Rečenica	Kuvam ručak.	Ich koche das Mittagessen.	ih kohe das mitagesen	Ich koche das Mittagessen. — Kuvam ručak.	rečenica	
+X	Kuvanje i recepti	Rečenica	Jelo je ukusno.	Das Essen ist lecker.	das esen ist leker	Das Essen ist lecker. — Jelo je ukusno.	rečenica	
+X	Vreme (meteo)	Reč	prognoza	die Vorhersage	di forherzage	Die Vorhersage ist gut. — Prognoza je dobra.	imenica	
+X	Vreme (meteo)	Reč	stepen	das Grad	das grad	20 Grad heute. — 20 stepeni danas.	imenica	
+X	Vreme (meteo)	Reč	kišomer	der Regenmesser	der regenmeser	Der Regenmesser ist voll. — Kišomer je pun.	imenica	
+X	Vrt i vrtlarstvo	Reč	saditi	pflanzen	pflancen	Ich pflanze Blumen. — Sadim cveće.	glagol	
+X	Vrt i vrtlarstvo	Reč	sadnica	der Setzling	der seclink	Der Setzling ist klein. — Sadnica je mala.	imenica	
+X	Vrt i vrtlarstvo	Reč	grablje	der Rechen	der rehen	Der Rechen ist praktisch. — Grablje su praktične.	imenica	
+X	Vrt i vrtlarstvo	Reč	vile (za seno)	die Heugabel	di hojgabel	Die Heugabel ist stark. — Vile su jake.	imenica	
+X	Vrt i vrtlarstvo	Reč	crevo za zalivanje	der Gartenschlauch	der gartenšlauh	Der Gartenschlauch ist lang. — Crevo za zalivanje je dugačko.	imenica	
+X	Vrt i vrtlarstvo	Reč	kanta za zalivanje	die Gießkanne	di giskane	Die Gießkanne ist voll. — Kanta za zalivanje je puna.	imenica	
+X	Vrt i vrtlarstvo	Reč	đubrivo	der Dünger	der dinger	Der Dünger ist natürlich. — Đubrivo je prirodno.	imenica	
+X	Vrt i vrtlarstvo	Reč	korov	das Unkraut	das unkraut	Das Unkraut wächst schnell. — Korov raste brzo.	imenica	
+X	Vrt i vrtlarstvo	Reč	plevljenje	das Jäten	das jeten	Das Jäten ist langweilig. — Plevljenje je dosadno.	imenica	
+X	Vrt i vrtlarstvo	Reč	otporan	widerstandsfähig	viderštandsfehih	Die Pflanze ist widerstandsfähig. — Biljka je otporna.	ostalo	
+X	Vrt i vrtlarstvo	Reč	raste	wächst	vekst	Die Pflanze wächst schnell. — Biljka raste brzo.	ostalo	
+X	Vrt i vrtlarstvo	Reč	cveta	blüht	blit	Die Rose blüht. — Ruža cveta.	ostalo	
+X	Vrt i vrtlarstvo	Reč	vene	verwelkt	fervelkt	Die Blume verwelkt. — Cvet vene.	ostalo	
+X	Vrt i vrtlarstvo	Reč	plasteni k	das Gewächshaus	das gevehshaus	Das Gewächshaus ist warm. — Plastenik je topao.	imenica	
+X	Vrt i vrtlarstvo	Reč	kompost	der Kompost	der kompost	Der Kompost ist reich. — Kompost je bogat.	imenica	
+X	Vrt i vrtlarstvo	Reč	voćnjak	der Obstgarten	der opstgarten	Der Obstgarten ist groß. — Voćnjak je velik.	imenica	
+X	Vrt i vrtlarstvo	Reč	povrtnjak	der Gemüsegarten	der gemizegarten	Der Gemüsegarten ist gepflegt. — Povrtnjak je negovan.	imenica	
+X	Vrt i vrtlarstvo	Rečenica	Volim da radim u vrtu.	Ich arbeite gern im Garten.	ih arbajte gern im garten	Ich arbeite gern im Garten. — Volim da radim u vrtu.	rečenica	
+X	Vrt i vrtlarstvo	Rečenica	Zalivam cveće.	Ich gieße die Blumen.	ih gise di blumen	Ich gieße die Blumen jeden Tag. — Zalivam cveće svaki dan.	rečenica	
+X	Vrt i vrtlarstvo	Rečenica	Sadim povrće.	Ich pflanze Gemüse.	ih pflance gemize	Ich pflanze Gemüse im Frühling. — Sadim povrće u proleće.	rečenica	
+X	Ljubav i veze	Reč	sastanak (romantični)	das Date	das dejt	Wir haben ein Date. — Imamo sastanak.	imenica	
+X	Ljubav i veze	Reč	poljubac	der Kuss	der kus	Der Kuss war schön. — Poljubac je bio lep.	imenica	
+X	Ljubav i veze	Reč	poljubiti	küssen	kisen	Ich küsse dich. — Ljubim te.	glagol	
+X	Ljubav i veze	Reč	zagrljaj	die Umarmung	di umarmung	Die Umarmung ist warm. — Zagrljaj je topao.	imenica	
+X	Ljubav i veze	Reč	zagrliti	umarmen	umarmen	Ich umarme dich. — Grlim te.	glagol	
+X	Ljubav i veze	Reč	držati za ruku	Händchen halten	henhen halten	Wir halten Händchen. — Držimo se za ruke.	ostalo	
+X	Ljubav i veze	Reč	verenik	der Verlobte	der ferlobte	Mein Verlobter ist nett. — Moj verenik je ljubazan.	imenica	
+X	Ljubav i veze	Reč	verenica	die Verlobte	di ferlobte	Meine Verlobte ist schön. — Moja verenica je lepa.	imenica	
+X	Ljubav i veze	Reč	veridba	die Verlobung	di ferlobung	Die Verlobung ist morgen. — Veridba je sutra.	imenica	
+X	Ljubav i veze	Reč	raskid	die Trennung	di trenung	Die Trennung ist schwer. — Raskid je težak.	imenica	
+X	Ljubav i veze	Reč	varati	betrügen	betrigen	Er betrügt sie. — On je vara.	glagol	
+X	Ljubav i veze	Reč	nežan	zärtlich	certlih	Er ist zärtlich. — On je nežan.	ostalo	
+X	Ljubav i veze	Reč	romantičan	romantisch	romantiš	Der Abend ist romantisch. — Veče je romantično.	ostalo	
+X	Ljubav i veze	Reč	partner (u braku)	der Lebenspartner	der lebenspartner	Mein Lebenspartner ist toll. — Moj partner je sjajan.	imenica	
+X	Ljubav i veze	Reč	zaljubljivanje	das Verlieben	das ferliben	Das Verlieben ist schön. — Zaljubljivanje je lepo.	imenica	
+X	Ljubav i veze	Reč	buket	der Blumenstrauß	der blumenštraus	Der Blumenstrauß ist schön. — Buket je lep.	imenica	
+X	Ljubav i veze	Reč	cveće	die Blumen	di blumen	Die Blumen sind schön. — Cveće je lepo.	imenica	
+X	Ljubav i veze	Rečenica	Volim te.	Ich liebe dich.	ih libe dih	Ich liebe dich. — Volim te.	rečenica	
+X	Ljubav i veze	Rečenica	Nedostaješ mi.	Du fehlst mir.	du felst mir	Du fehlst mir sehr. — Jako mi nedostaješ.	rečenica	
+X	Ljubav i veze	Rečenica	Zaljubljen sam u tebe.	Ich bin in dich verliebt.	ih bin in dih ferlipt	Ich bin in dich verliebt. — Zaljubljen sam u tebe.	rečenica	
+X	Ljubav i veze	Rečenica	Hoćeš da izađeš sa mnom?	Willst du mit mir ausgehen?	vilst du mit mir ausgen	Willst du mit mir ausgehen? — Hoćeš da izađeš sa mnom?	rečenica	
+X	Ljubav i veze	Rečenica	Da li me voliš?	Liebst du mich?	lipst du mih	Liebst du mich? — Da li me voliš?	rečenica	
+X	Ljubav i veze	Rečenica	Uzmi me za ruku.	Nimm meine Hand.	nim majne hand	Nimm meine Hand. — Uzmi me za ruku.	rečenica	
+X	Ljubav i veze	Rečenica	Poljubi me.	Küss mich.	kus mih	Küss mich. — Poljubi me.	rečenica	
+X	Ljubav i veze	Rečenica	Grlim te.	Ich umarme dich.	ih umarme dih	Ich umarme dich. — Grlim te.	rečenica	
+X	Ljubav i veze	Rečenica	Venčavamo se u junu.	Wir heiraten im Juni.	vir hajraten im juni	Wir heiraten im Juni. — Venčavamo se u junu.	rečenica	
+X	Ljubav i veze	Rečenica	Raskinuli smo.	Wir haben uns getrennt.	vir haben uns getrent	Wir haben uns getrennt. — Raskinuli smo.	rečenica	
+X	Bube i insekti	Reč	buba	der Käfer	der kefer	Der Käfer ist klein. — Buba je mala.	imenica	
+X	Bube i insekti	Reč	osa	die Wespe	di vespe	Die Wespe sticht. — Osa bode.	imenica	
+X	Bube i insekti	Reč	bumbar	die Hummel	di humel	Die Hummel ist dick. — Bumbar je debeo.	imenica	
+X	Bube i insekti	Reč	muva	die Fliege	di flige	Die Fliege ist lästig. — Muva je dosadna.	imenica	
+X	Bube i insekti	Reč	komarac	die Mücke	di mike	Die Mücke sticht. — Komarac ujeda.	imenica	
+X	Bube i insekti	Reč	bubamara	der Marienkäfer	der marienkefer	Der Marienkäfer ist rot. — Bubamara je crvena.	imenica	
+X	Bube i insekti	Reč	skakavac	die Heuschrecke	di hojšreke	Die Heuschrecke springt. — Skakavac skače.	imenica	
+X	Bube i insekti	Reč	cvrčak	die Grille	di grile	Die Grille zirpt. — Cvrčak cvrkuće.	imenica	
+X	Bube i insekti	Reč	bogomoljka	die Gottesanbeterin	di gotesanbeterin	Die Gottesanbeterin ist grün. — Bogomoljka je zelena.	imenica	
+X	Bube i insekti	Reč	vilin konjic	die Libelle	di libele	Die Libelle fliegt schnell. — Vilin konjic leti brzo.	imenica	
+X	Bube i insekti	Reč	moljac	die Motte	di mote	Die Motte frisst Kleidung. — Moljac jede odeću.	imenica	
+X	Bube i insekti	Reč	noćni leptir	der Nachtfalter	der nahtfalter	Der Nachtfalter fliegt nachts. — Noćni leptir leti noću.	imenica	
+X	Bube i insekti	Reč	gusenica	die Raupe	di raupe	Die Raupe kriecht. — Gusenica puzi.	imenica	
+X	Bube i insekti	Reč	lutka (insekta)	die Puppe	di pupe	Die Puppe ist ruhig. — Lutka je mirna.	imenica	
+X	Bube i insekti	Reč	crv	der Wurm	der vurm	Der Wurm ist lang. — Crv je dugačak.	imenica	
+X	Bube i insekti	Reč	glista	der Regenwurm	der regenvurm	Der Regenwurm ist im Boden. — Glista je u zemlji.	imenica	
+X	Bube i insekti	Reč	larva	die Larve	di larve	Die Larve ist klein. — Larva je mala.	imenica	
+X	Bube i insekti	Reč	bubašvaba	die Kakerlake	di kakerlake	Die Kakerlake läuft schnell. — Bubašvaba brzo trči.	imenica	
+X	Bube i insekti	Reč	žohar	die Schabe	di šabe	Die Schabe ist unangenehm. — Žohar je neprijatan.	imenica	
+X	Bube i insekti	Reč	stenica	die Wanze	di vance	Die Wanze beißt. — Stenica ujeda.	imenica	
+X	Bube i insekti	Reč	buva	der Floh	der flo	Der Floh springt hoch. — Buva skače visoko.	imenica	
+X	Bube i insekti	Reč	krpelj	die Zecke	di ceke	Die Zecke ist gefährlich. — Krpelj je opasan.	imenica	
+X	Bube i insekti	Reč	vaš	die Laus	di laus	Die Laus ist klein. — Vaš je mala.	imenica	
+X	Bube i insekti	Reč	svitac	das Glühwürmchen	das glivirmhen	Das Glühwürmchen leuchtet. — Svitac svetli.	imenica	
+X	Bube i insekti	Reč	mravlji dom	der Ameisenhaufen	der ajmajzenhaufen	Der Ameisenhaufen ist groß. — Mravlji dom je velik.	imenica	
+X	Bube i insekti	Reč	košnica	der Bienenstock	der binenštok	Der Bienenstock ist voll. — Košnica je puna.	imenica	
+X	Bube i insekti	Reč	vosak	das Wachs	das vaks	Das Wachs ist gelb. — Vosak je žut.	imenica	
+X	Bube i insekti	Reč	matica	die Bienenkönigin	di binenkenigin	Die Bienenkönigin ist wichtig. — Matica je važna.	imenica	
+X	Bube i insekti	Reč	roj	der Schwarm	der švarm	Der Schwarm fliegt. — Roj leti.	imenica	
+X	Bube i insekti	Reč	ubod	der Stich	der štih	Der Stich tut weh. — Ubod boli.	imenica	
+X	Bube i insekti	Reč	žaoka	der Stachel	der štahel	Der Stachel ist spitz. — Žaoka je šiljata.	imenica	
+X	Bube i insekti	Reč	pauk	die Spinne	di špine	Die Spinne webt ein Netz. — Pauk plete mrežu.	imenica	
+X	Bube i insekti	Reč	paučina	das Spinnennetz	das špinennec	Das Spinnennetz ist groß. — Paučina je velika.	imenica	
+X	Bube i insekti	Reč	škorpion	der Skorpion	der skorpion	Der Skorpion ist gefährlich. — Škorpion je opasan.	imenica	
+X	Bube i insekti	Reč	stonoža	der Tausendfüßler	der tauzentfisler	Der Tausendfüßler hat viele Beine. — Stonoža ima mnogo nogu.	imenica	
+X	Bube i insekti	Reč	gusenica (dlakava)	die behaarte Raupe	di beharte raupe	Die behaarte Raupe ist giftig. — Dlakava gusenica je otrovna.	ostalo	
+X	Bube i insekti	Reč	puž	die Schnecke	di šneke	Die Schnecke ist langsam. — Puž je spor.	imenica	
+X	Bube i insekti	Reč	puževa kućica	das Schneckenhaus	das šnekenhaus	Das Schneckenhaus ist spiralig. — Puževa kućica je spiralna.	imenica	
+X	Bube i insekti	Reč	golać	die Nacktschnecke	di naktšneke	Die Nacktschnecke ist ohne Haus. — Golać je bez kućice.	imenica	
+X	Bube i insekti	Reč	morski puž	die Meeresschnecke	di meresšneke	Die Meeresschnecke ist bunt. — Morski puž je šaren.	imenica	
+X	Gmizavci i vodozemci	Reč	krastača	die Kröte	di krete	Die Kröte ist braun. — Krastača je braon.	imenica	
+X	Gmizavci i vodozemci	Reč	punoglavac	die Kaulquappe	di kaulkvape	Die Kaulquappe wird zum Frosch. — Punoglavac postaje žaba.	imenica	
+X	Gmizavci i vodozemci	Reč	zmija otrovnica	die Giftschlange	di giftšlange	Die Giftschlange ist gefährlich. — Otrovnica je opasna.	imenica	
+X	Gmizavci i vodozemci	Reč	kornjača	die Schildkröte	di šiltkrete	Die Schildkröte ist langsam. — Kornjača je spora.	imenica	
+X	Gmizavci i vodozemci	Reč	krokodil	das Krokodil	das krokodil	Das Krokodil ist gefährlich. — Krokodil je opasan.	imenica	
+X	Bube — fraze	Rečenica	Ujela me pčela.	Eine Biene hat mich gestochen.	ajne bine hat mih geštohen	Eine Biene hat mich gestochen. — Ujela me pčela.	rečenica	
+X	Bube — fraze	Rečenica	Ima komaraca napolju.	Es gibt Mücken draußen.	es gipt miken drausen	Es gibt viele Mücken draußen. — Ima mnogo komaraca napolju.	rečenica	
+X	Bube — fraze	Rečenica	Pauk je u uglu.	Die Spinne ist in der Ecke.	di špine ist in der eke	Die Spinne ist in der Ecke. — Pauk je u uglu.	rečenica	
+X	Bube — fraze	Rečenica	Bubašvabe su u kuhinji.	Kakerlaken sind in der Küche.	kakerlaken zint in der kihe	Kakerlaken sind in der Küche. — Bubašvabe su u kuhinji.	rečenica	
+X	Bube — fraze	Rečenica	Leptiri lete po bašti.	Schmetterlinge fliegen im Garten.	šmeterlinge fligen im garten	Schmetterlinge fliegen im Garten. — Leptiri lete po bašti.	rečenica	
+X	Bube — fraze	Rečenica	Mravi rade zajedno.	Ameisen arbeiten zusammen.	ajmajzen arbajten cuzamen	Ameisen arbeiten zusammen. — Mravi rade zajedno.	rečenica	
+X	Bube — fraze	Rečenica	Pčele prave med.	Bienen machen Honig.	binen mahen honik	Bienen machen Honig. — Pčele prave med.	rečenica	
+X	Bube — fraze	Rečenica	Pazi, zmija!	Vorsicht, eine Schlange!	forziht, ajne šlange	Vorsicht, eine Schlange! — Pazi, zmija!	rečenica	
+X	Bube — fraze	Rečenica	Puž je spor.	Die Schnecke ist langsam.	di šneke ist langzam	Die Schnecke ist langsam. — Puž je spor.	rečenica	
+X	Bube — fraze	Rečenica	Buba je na listu.	Der Käfer ist auf dem Blatt.	der kefer ist auf dem blat	Der Käfer ist auf dem Blatt. — Buba je na listu.	rečenica	
+X	Bube — fraze	Rečenica	Svitac svetli noću.	Das Glühwürmchen leuchtet nachts.	das glivirmhen lojhtet nahts	Das Glühwürmchen leuchtet nachts. — Svitac svetli noću.	rečenica	
+X	Bube — fraze	Rečenica	Pauk plete mrežu.	Die Spinne webt ein Netz.	di špine vebt ajn nec	Die Spinne webt ein Netz. — Pauk plete mrežu.	rečenica	
+X	Bube — fraze	Rečenica	Skakavac skače visoko.	Die Heuschrecke springt hoch.	di hojšreke špringt hoh	Die Heuschrecke springt hoch. — Skakavac skače visoko.	rečenica	
+X	Bube — fraze	Rečenica	Mravi idu u redu.	Ameisen gehen in einer Reihe.	ajmajzen geen in ajner raje	Ameisen gehen in einer Reihe. — Mravi idu u redu.	rečenica	

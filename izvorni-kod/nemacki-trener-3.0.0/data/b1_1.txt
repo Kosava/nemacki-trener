@@ -1,0 +1,185 @@
+# Nivo B1 — deo 1
+
+## Lični podaci i porodica
+N | die Beziehung | die Beziehungen | odnos, veza | Wir haben eine gute Beziehung. | Imamo dobar odnos.
+N | die Verwandtschaft | die Verwandtschaften | rodbina | Die ganze Verwandtschaft kommt zur Hochzeit. | Cela rodbina dolazi na venčanje.
+N | der Verwandte | die Verwandten | rođak | Ich besuche meine Verwandten in Bosnien. | Posećujem rođake u Bosni.
+N | der Schwiegervater | die Schwiegerväter | svekar, tast | Mein Schwiegervater ist Arzt. | Moj tast je lekar.
+N | die Schwiegermutter | die Schwiegermütter | svekrva, tašta | Die Schwiegermutter kocht für alle. | Tašta kuva za sve.
+N | der Schwager | die Schwäger | dever, šurak, zet | Mein Schwager hilft beim Umzug. | Šurak pomaže pri selidbi.
+N | die Schwägerin | die Schwägerinnen | snaja, svastika, zaova | Meine Schwägerin wohnt in Linz. | Moja svastika živi u Lincu.
+N | der Witwer | die Witwer | udovac | Er ist seit zwei Jahren Witwer. | On je udovac već dve godine.
+N | die Witwe | die Witwen | udovica | Die Witwe lebt allein. | Udovica živi sama.
+N | die Generation | die Generationen | generacija | Drei Generationen wohnen in diesem Haus. | Tri generacije žive u ovoj kući.
+N | die Erziehung | — | vaspitanje | Die Erziehung der Kinder ist nicht leicht. | Vaspitanje dece nije lako.
+N | die Scheidung | die Scheidungen | razvod | Nach der Scheidung zog sie um. | Posle razvoda se preselila.
+N | die Lebensgefährtin | die Lebensgefährtinnen | životna saputnica | Er wohnt mit seiner Lebensgefährtin zusammen. | Živi sa svojom partnerkom.
+N | der Alltag | — | svakodnevica | Im Alltag habe ich wenig Zeit. | U svakodnevici imam malo vremena.
+N | die Gewohnheit | die Gewohnheiten | navika | Das ist eine schlechte Gewohnheit. | To je loša navika.
+N | die Erinnerung | die Erinnerungen | sećanje; podsetnik | Ich habe schöne Erinnerungen an meine Kindheit. | Imam lepa sećanja na detinjstvo.
+N | die Persönlichkeit | die Persönlichkeiten | ličnost | Sie hat eine starke Persönlichkeit. | Ona ima jaku ličnost.
+N | das Verhältnis | die Verhältnisse | odnos | Wir haben ein gutes Verhältnis zu den Nachbarn. | Imamo dobar odnos sa komšijama.
+N | die Freundschaft | die Freundschaften | prijateljstvo | Unsere Freundschaft ist sehr wichtig für mich. | Naše prijateljstvo mi je veoma važno.
+N | der Streit | die Streite | svađa | Sie hatten einen großen Streit. | Imali su veliku svađu.
+V | sich verstehen | hat sich verstanden | slagati se | Ich verstehe mich gut mit meinem Bruder. | Dobro se slažem sa bratom.
+V | sich streiten | hat sich gestritten | svađati se | Die Kinder streiten sich oft. | Deca se često svađaju.
+V | sich versöhnen | hat sich versöhnt | pomiriti se | Nach dem Streit haben sie sich versöhnt. | Posle svađe su se pomirili.
+V | sich kümmern um | hat sich gekümmert | brinuti o | Sie kümmert sich um ihre alte Mutter. | Ona brine o staroj majci.
+V | vertrauen | hat vertraut | verovati (nekome) | Ich vertraue dir. | Verujem ti.
+V | sich verloben | hat sich verlobt | veriti se | Sie haben sich im Sommer verlobt. | Verili su se leti.
+V | sich scheiden lassen | hat sich scheiden lassen | razvesti se | Seine Eltern haben sich scheiden lassen. | Njegovi roditelji su se razveli.
+V | betreuen | hat betreut | brinuti o, čuvati | Die Oma betreut die Kinder. | Baka čuva decu.
+V | ähneln | hat geähnelt | ličiti | Du ähnelst deinem Vater. | Ličiš na oca.
+V | sich gewöhnen an | hat sich gewöhnt | navići se na | Ich habe mich an das Wetter gewöhnt. | Navikao sam se na vreme.
+A | alleinerziehend | | samohrani roditelj | Sie ist alleinerziehend. | Ona je samohrana majka.
+A | selbstbewusst | | samouveren | Er ist sehr selbstbewusst. | On je veoma samouveren.
+A | zuverlässig | | pouzdan | Mein Kollege ist zuverlässig. | Moj kolega je pouzdan.
+A | hilfsbereit | | spreman da pomogne | Die Nachbarn sind sehr hilfsbereit. | Komšije su uvek spremne da pomognu.
+A | eifersüchtig | | ljubomoran | Er ist eifersüchtig. | On je ljubomoran.
+A | treu | | veran | Der Hund ist sehr treu. | Pas je veoma veran.
+A | neugierig | | radoznao | Kinder sind neugierig. | Deca su radoznala.
+A | großzügig | | velikodušan | Mein Onkel ist sehr großzügig. | Moj ujak je veoma velikodušan.
+A | ordentlich | | uredan | Ihr Zimmer ist immer ordentlich. | Njena soba je uvek uredna.
+A | verantwortlich | | odgovoran | Wer ist dafür verantwortlich? | Ko je odgovoran za to?
+S | Wir verstehen uns sehr gut. | Veoma se dobro slažemo.
+S | Ich kann mich auf ihn verlassen. | Mogu da se oslonim na njega.
+S | Er ist mir sehr ähnlich. | On je veoma sličan meni.
+
+## Posao i zanimanja
+N | die Berufserfahrung | — | radno iskustvo | Ich habe fünf Jahre Berufserfahrung. | Imam pet godina radnog iskustva.
+N | die Qualifikation | die Qualifikationen | kvalifikacija | Welche Qualifikationen haben Sie? | Koje kvalifikacije imate?
+N | die Fähigkeit | die Fähigkeiten | sposobnost | Er hat viele Fähigkeiten. | On ima mnogo sposobnosti.
+N | die Kenntnis | die Kenntnisse | znanje | Gute Deutschkenntnisse sind wichtig. | Dobro znanje nemačkog je važno.
+N | die Stellenanzeige | die Stellenanzeigen | oglas za posao | Ich habe eine interessante Stellenanzeige gefunden. | Našao sam zanimljiv oglas za posao.
+N | der Arbeitsvertrag | die Arbeitsverträge | ugovor o radu | Lesen Sie den Arbeitsvertrag genau. | Pažljivo pročitajte ugovor o radu.
+N | die Probezeit | die Probezeiten | probni rad | Die Probezeit dauert sechs Monate. | Probni rad traje šest meseci.
+N | die Kündigung | die Kündigungen | otkaz | Er hat die Kündigung bekommen. | Dobio je otkaz.
+N | der Vorgesetzte | die Vorgesetzten | pretpostavljeni | Mein Vorgesetzter ist zufrieden. | Moj pretpostavljeni je zadovoljan.
+N | der Auftrag | die Aufträge | nalog, porudžbina | Wir haben einen großen Auftrag bekommen. | Dobili smo veliku porudžbinu.
+N | das Projekt | die Projekte | projekat | Das Projekt ist fast fertig. | Projekat je skoro gotov.
+N | die Verantwortung | die Verantwortungen | odgovornost | Er trägt die Verantwortung für das Team. | On nosi odgovornost za tim.
+N | die Leistung | die Leistungen | učinak, dostignuće | Ihre Leistung ist sehr gut. | Vaš učinak je veoma dobar.
+N | der Erfolg | die Erfolge | uspeh | Ich wünsche dir viel Erfolg! | Želim ti mnogo uspeha!
+N | die Karriere | die Karrieren | karijera | Sie macht Karriere in einer Bank. | Ona pravi karijeru u banci.
+N | die Fortbildung | die Fortbildungen | stručno usavršavanje | Die Firma bezahlt die Fortbildung. | Firma plaća usavršavanje.
+N | das Praktikum | die Praktika | praksa | Ich mache ein Praktikum bei einer Zeitung. | Radim praksu u novinama.
+N | die Gewerkschaft | die Gewerkschaften | sindikat | Die Gewerkschaft fordert mehr Lohn. | Sindikat traži veće plate.
+N | der Streik | die Streiks | štrajk | Wegen des Streiks fahren keine Züge. | Zbog štrajka ne saobraćaju vozovi.
+N | die Lieferung | die Lieferungen | isporuka, dostava | Die Lieferung kommt morgen. | Isporuka stiže sutra.
+N | die Logistik | — | logistika | Er arbeitet in der Logistik. | On radi u logistici.
+N | das Lager | die Lager | magacin | Die Ware ist im Lager. | Roba je u magacinu.
+N | die Frist | die Fristen | rok | Die Frist endet am Freitag. | Rok ističe u petak.
+N | das Ergebnis | die Ergebnisse | rezultat | Das Ergebnis ist positiv. | Rezultat je pozitivan.
+N | die Zusammenarbeit | — | saradnja | Danke für die gute Zusammenarbeit! | Hvala na dobroj saradnji!
+N | die Einarbeitung | die Einarbeitungen | uvođenje u posao | Die Einarbeitung dauert zwei Wochen. | Uvođenje u posao traje dve nedelje.
+N | der Arbeitsplatz | die Arbeitsplätze | radno mesto | Mein Arbeitsplatz ist sehr modern. | Moje radno mesto je veoma moderno.
+N | die Sicherheit | die Sicherheiten | bezbednost | Sicherheit ist bei der Arbeit sehr wichtig. | Bezbednost na poslu je veoma važna.
+N | die Vorschrift | die Vorschriften | propis | Bitte halten Sie die Vorschriften ein. | Molim poštujte propise.
+V | leiten | hat geleitet | voditi, rukovoditi | Sie leitet die Abteilung. | Ona vodi sektor.
+V | verantworten | hat verantwortet | biti odgovoran za | Er verantwortet das Projekt. | On je odgovoran za projekat.
+V | sich kümmern | hat sich gekümmert | pobrinuti se | Ich kümmere mich darum. | Pobrinuću se za to.
+V | zustellen | hat zugestellt | uručiti (pošiljku) | Das Paket wird morgen zugestellt. | Paket se uručuje sutra.
+V | beraten | hat beraten | savetovati | Der Verkäufer berät die Kunden. | Prodavac savetuje kupce.
+V | bearbeiten | hat bearbeitet | obraditi | Wir bearbeiten Ihren Antrag. | Obrađujemo vaš zahtev.
+V | sich einarbeiten | hat sich eingearbeitet | uhodati se (na poslu) | Ich habe mich schnell eingearbeitet. | Brzo sam se uhodao.
+V | befördern | hat befördert | unaprediti; prevoziti | Er wurde zum Chef befördert. | Unapređen je u šefa.
+V | entlassen | hat entlassen | otpustiti | Die Firma hat zwanzig Mitarbeiter entlassen. | Firma je otpustila dvadeset radnika.
+V | streiken | hat gestreikt | štrajkovati | Die Lokführer streiken. | Mašinovođe štrajkuju.
+V | verhandeln | hat verhandelt | pregovarati | Wir verhandeln über den Preis. | Pregovaramo o ceni.
+V | sich einigen | hat sich geeinigt | dogovoriti se | Wir haben uns auf einen Termin geeinigt. | Dogovorili smo se oko termina.
+V | erfüllen | hat erfüllt | ispuniti | Sie erfüllt alle Anforderungen. | Ona ispunjava sve uslove.
+V | überprüfen | hat überprüft | proveriti | Bitte überprüfen Sie die Daten. | Molim proverite podatke.
+V | einhalten | hat eingehalten | poštovati (rok, pravilo) | Wir müssen die Frist einhalten. | Moramo da poštujemo rok.
+A | erfolgreich | | uspešan | Das Projekt war sehr erfolgreich. | Projekat je bio veoma uspešan.
+A | beruflich | | poslovni, profesionalni | Ich bin beruflich in Berlin. | Poslovno sam u Berlinu.
+A | befristet | | na određeno vreme | Der Vertrag ist befristet. | Ugovor je na određeno vreme.
+A | unbefristet | | na neodređeno vreme | Ich habe einen unbefristeten Vertrag. | Imam ugovor na neodređeno.
+A | flexibel | | fleksibilan | Die Arbeitszeiten sind flexibel. | Radno vreme je fleksibilno.
+A | stressig | | stresan | Der Job ist sehr stressig. | Posao je veoma stresan.
+A | zuständig | | nadležan | Wer ist hier zuständig? | Ko je ovde nadležan?
+S | Ich habe Erfahrung in der Logistik. | Imam iskustva u logistici.
+S | Wann kann ich anfangen? | Kada mogu da počnem?
+S | Ich hätte gern mehr Informationen über die Stelle. | Želeo bih više informacija o poslu.
+S | Wie hoch ist das Gehalt? | Kolika je plata?
+S | Ich arbeite im Schichtdienst. | Radim u smenama.
+
+## Škola i učenje
+N | die Bildung | — | obrazovanje | Bildung ist sehr wichtig. | Obrazovanje je veoma važno.
+N | das Abitur | die Abiture | matura | Sie macht nächstes Jahr Abitur. | Ona sledeće godine polaže maturu.
+N | die Berufsschule | die Berufsschulen | stručna škola | Er geht zweimal pro Woche in die Berufsschule. | On ide u stručnu školu dva puta nedeljno.
+N | die Hochschule | die Hochschulen | visoka škola | Sie studiert an einer Hochschule. | Ona studira na visokoj školi.
+N | der Abschluss | die Abschlüsse | diploma, završetak | Welchen Abschluss haben Sie? | Koju diplomu imate?
+N | das Semester | die Semester | semestar | Das Semester beginnt im Oktober. | Semestar počinje u oktobru.
+N | die Vorlesung | die Vorlesungen | predavanje | Die Vorlesung ist sehr interessant. | Predavanje je veoma zanimljivo.
+N | das Stipendium | die Stipendien | stipendija | Sie hat ein Stipendium bekommen. | Dobila je stipendiju.
+N | die Weiterbildung | die Weiterbildungen | dodatno obrazovanje | Ich mache eine Weiterbildung. | Pohađam dodatnu obuku.
+N | die Kenntnisse | (samo mn.) | znanja | Meine Deutschkenntnisse werden besser. | Moje znanje nemačkog je sve bolje.
+N | das Wissen | — | znanje | Wissen ist Macht. | Znanje je moć.
+N | die Erklärung | die Erklärungen | objašnjenje | Danke für die Erklärung. | Hvala na objašnjenju.
+N | der Vortrag | die Vorträge | izlaganje, predavanje | Ich halte einen Vortrag über Serbien. | Držim izlaganje o Srbiji.
+N | die Präsentation | die Präsentationen | prezentacija | Die Präsentation war gut. | Prezentacija je bila dobra.
+N | die Zusammenfassung | die Zusammenfassungen | rezime | Schreiben Sie eine Zusammenfassung. | Napišite rezime.
+N | der Inhalt | die Inhalte | sadržaj | Der Inhalt des Buches ist spannend. | Sadržaj knjige je napet.
+N | die Regel | die Regeln | pravilo | Lernen Sie die Regel. | Naučite pravilo.
+N | die Ausnahme | die Ausnahmen | izuzetak | Keine Regel ohne Ausnahme. | Nema pravila bez izuzetka.
+V | sich vorbereiten | hat sich vorbereitet | pripremiti se | Ich bereite mich auf die Prüfung vor. | Pripremam se za ispit.
+V | zusammenfassen | hat zusammengefasst | sažeti | Fassen Sie den Text zusammen. | Sažmite tekst.
+V | sich merken | hat sich gemerkt | zapamtiti | Ich kann mir die Wörter nicht merken. | Ne mogu da zapamtim reči.
+V | auswendig lernen | hat auswendig gelernt | naučiti napamet | Ich lerne das Gedicht auswendig. | Učim pesmu napamet.
+V | begründen | hat begründet | obrazložiti | Begründen Sie Ihre Meinung. | Obrazložite svoje mišljenje.
+V | darstellen | hat dargestellt | prikazati | Die Grafik stellt die Ergebnisse dar. | Grafikon prikazuje rezultate.
+V | unterrichten | hat unterrichtet | predavati | Sie unterrichtet Deutsch. | Ona predaje nemački.
+V | durchfallen | ist durchgefallen | pasti (na ispitu) | Er ist durch die Prüfung durchgefallen. | Pao je na ispitu.
+V | sich verbessern | hat sich verbessert | popraviti se | Dein Deutsch hat sich sehr verbessert. | Tvoj nemački se mnogo popravio.
+A | gebildet | | obrazovan | Sie ist eine gebildete Frau. | Ona je obrazovana žena.
+A | sinnvoll | | smislen, koristan | Das ist eine sinnvolle Übung. | To je korisna vežba.
+A | verständlich | | razumljiv | Die Erklärung ist verständlich. | Objašnjenje je razumljivo.
+A | ausführlich | | detaljan | Schreiben Sie eine ausführliche Antwort. | Napišite detaljan odgovor.
+S | Ich bereite mich auf die B1-Prüfung vor. | Pripremam se za ispit B1.
+S | Kannst du mir das noch einmal erklären? | Možeš li mi to još jednom objasniti?
+S | Ich habe das Wort vergessen. | Zaboravio sam reč.
+
+## Telo i zdravlje
+N | das Symptom | die Symptome | simptom | Welche Symptome haben Sie? | Koje simptome imate?
+N | die Behandlung | die Behandlungen | lečenje | Die Behandlung dauert drei Wochen. | Lečenje traje tri nedelje.
+N | die Therapie | die Therapien | terapija | Die Therapie hilft ihm. | Terapija mu pomaže.
+N | die Operation | die Operationen | operacija | Die Operation ist gut gelaufen. | Operacija je dobro prošla.
+N | die Spritze | die Spritzen | injekcija | Die Spritze tut nicht weh. | Injekcija ne boli.
+N | die Impfung | die Impfungen | vakcinacija | Die Impfung ist kostenlos. | Vakcinacija je besplatna.
+N | die Nebenwirkung | die Nebenwirkungen | neželjeno dejstvo | Das Medikament hat keine Nebenwirkungen. | Lek nema neželjena dejstva.
+N | der Facharzt | die Fachärzte | specijalista | Der Facharzt hat wenig Termine. | Specijalista ima malo termina.
+N | der Patient | die Patienten | pacijent | Der Patient wartet im Wartezimmer. | Pacijent čeka u čekaonici.
+N | das Wartezimmer | die Wartezimmer | čekaonica | Bitte nehmen Sie im Wartezimmer Platz. | Molim sedite u čekaonici.
+N | die Sprechstunde | die Sprechstunden | radno vreme ordinacije | Die Sprechstunde ist von acht bis zwölf. | Ordinacija radi od osam do dvanaest.
+N | die Ernährung | — | ishrana | Gesunde Ernährung ist wichtig. | Zdrava ishrana je važna.
+N | die Bewegung | die Bewegungen | kretanje | Du brauchst mehr Bewegung. | Treba ti više kretanja.
+N | der Stress | — | stres | Ich habe viel Stress bei der Arbeit. | Imam mnogo stresa na poslu.
+N | die Pflege | — | nega | Die Pflege der alten Leute ist teuer. | Nega starih ljudi je skupa.
+N | der Knochen | die Knochen | kost | Der Knochen ist gebrochen. | Kost je slomljena.
+N | der Muskel | die Muskeln | mišić | Nach dem Training tun mir die Muskeln weh. | Posle treninga me bole mišići.
+N | das Gehirn | die Gehirne | mozak | Das Gehirn braucht viel Sauerstoff. | Mozgu treba mnogo kiseonika.
+N | die Lunge | die Lungen | pluća | Rauchen schadet der Lunge. | Pušenje šteti plućima.
+N | das Gewicht | die Gewichte | težina | Ich muss auf mein Gewicht achten. | Moram da pazim na težinu.
+N | der Blutdruck | — | krvni pritisak | Mein Blutdruck ist zu hoch. | Pritisak mi je previsok.
+V | behandeln | hat behandelt | lečiti | Der Arzt behandelt die Wunde. | Lekar leči ranu.
+V | operieren | hat operiert | operisati | Er muss am Knie operiert werden. | Mora da se operiše koleno.
+V | impfen | hat geimpft | vakcinisati | Das Kind wird gegen Grippe geimpft. | Dete se vakciniše protiv gripa.
+V | verschreiben | hat verschrieben | prepisati (lek) | Der Arzt verschreibt mir Tabletten. | Lekar mi prepisuje tablete.
+V | sich ernähren | hat sich ernährt | hraniti se | Ich ernähre mich gesund. | Zdravo se hranim.
+V | schaden | hat geschadet | štetiti | Zu viel Zucker schadet der Gesundheit. | Previše šećera šteti zdravlju.
+V | brechen | hat gebrochen | slomiti | Er hat sich den Arm gebrochen. | Slomio je ruku.
+V | sich erkälten | hat sich erkältet | prehladiti se | Pass auf, dass du dich nicht erkältest. | Pazi da se ne prehladiš.
+V | heilen | hat/ist geheilt | izlečiti; zarasti | Die Wunde heilt gut. | Rana dobro zarasta.
+V | pflegen | hat gepflegt | negovati | Sie pflegt ihren kranken Vater. | Ona neguje bolesnog oca.
+V | aufpassen | hat aufgepasst | paziti | Pass auf dich auf! | Pazi na sebe!
+A | chronisch | | hroničan | Er hat eine chronische Krankheit. | On ima hroničnu bolest.
+A | ansteckend | | zarazan | Die Grippe ist ansteckend. | Grip je zarazan.
+A | erschöpft | | iscrpljen | Nach der Arbeit bin ich erschöpft. | Posle posla sam iscrpljen.
+A | schwindlig | | ošamućen (vrti mi se) | Mir ist schwindlig. | Vrti mi se u glavi.
+A | körperlich | | fizički | Die Arbeit ist körperlich schwer. | Posao je fizički težak.
+A | psychisch | | psihički | Psychische Gesundheit ist wichtig. | Psihičko zdravlje je važno.
+S | Ich habe seit drei Tagen Fieber. | Imam temperaturu već tri dana.
+S | Mir ist schwindlig. | Vrti mi se u glavi.
+S | Ich bin gegen Penicillin allergisch. | Alergičan sam na penicilin.
+S | Muss ich nüchtern kommen? | Da li moram da dođem natašte?
+S | Ich brauche eine Krankschreibung. | Treba mi bolovanje (potvrda).

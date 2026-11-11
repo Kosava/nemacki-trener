@@ -1,0 +1,205 @@
+# Nivo B2 — deo 2
+
+## Kupovina i novac
+N | die Wirtschaft | — | privreda, ekonomija | Die Wirtschaft wächst langsam. | Privreda sporo raste.
+N | die Konjunktur | die Konjunkturen | privredna konjunktura | Die Konjunktur hat sich erholt. | Privreda se oporavila.
+N | die Inflation | die Inflationen | inflacija | Die Inflation ist dieses Jahr hoch. | Inflacija je ove godine visoka.
+N | die Kaufkraft | — | kupovna moć | Die Kaufkraft der Menschen sinkt. | Kupovna moć ljudi opada.
+N | der Konsum | — | potrošnja | Der Konsum ist gestiegen. | Potrošnja je porasla.
+N | der Verbraucherschutz | — | zaštita potrošača | Der Verbraucherschutz hilft bei Problemen. | Zaštita potrošača pomaže kod problema.
+N | die Ersparnisse | (samo mn.) | ušteđevina | Wir haben unsere Ersparnisse für das Haus ausgegeben. | Potrošili smo ušteđevinu na kuću.
+N | das Vermögen | die Vermögen | imovina, bogatstvo | Er hat ein großes Vermögen geerbt. | Nasledio je veliko bogatstvo.
+N | die Anlage | die Anlagen | investicija; postrojenje | Gold ist eine sichere Anlage. | Zlato je sigurna investicija.
+N | die Aktie | die Aktien | akcija (berzanska) | Er hat Aktien gekauft. | Kupio je akcije.
+N | die Börse | die Börsen | berza | Die Börse ist heute gefallen. | Berza je danas pala.
+N | die Hypothek | die Hypotheken | hipoteka | Wir zahlen noch die Hypothek ab. | Još otplaćujemo hipoteku.
+N | die Bürgschaft | die Bürgschaften | jemstvo | Mein Vater übernimmt die Bürgschaft. | Moj otac preuzima jemstvo.
+N | die Mahnung | die Mahnungen | opomena (za plaćanje) | Ich habe eine Mahnung bekommen. | Dobio sam opomenu.
+N | die Zahlungsfrist | die Zahlungsfristen | rok plaćanja | Die Zahlungsfrist beträgt 14 Tage. | Rok plaćanja je 14 dana.
+N | der Dauerauftrag | die Daueraufträge | trajni nalog | Die Miete zahle ich per Dauerauftrag. | Kiriju plaćam trajnim nalogom.
+N | die Lastschrift | die Lastschriften | direktno zaduženje | Der Betrag wird per Lastschrift eingezogen. | Iznos se naplaćuje direktnim zaduženjem.
+N | der Betrag | die Beträge | iznos | Der Betrag ist zu hoch. | Iznos je previsok.
+N | die Mehrwertsteuer | — | PDV | Der Preis enthält die Mehrwertsteuer. | Cena sadrži PDV.
+N | die Gewährleistung | — | zakonska garancija | Die Gewährleistung beträgt zwei Jahre. | Zakonska garancija iznosi dve godine.
+N | der Kassenzettel | die Kassenzettel | fiskalni račun | Ohne Kassenzettel kein Umtausch. | Bez računa nema zamene.
+N | das Schnäppchen | die Schnäppchen | povoljna kupovina | Das war ein echtes Schnäppchen! | To je bila prava prilika!
+N | der Wucher | — | zelenaštvo | Diese Preise sind Wucher! | Ove cene su zelenaške!
+V | investieren | hat investiert | investirati | Die Firma investiert in neue Technik. | Firma investira u novu tehniku.
+V | sich verschulden | hat sich verschuldet | zadužiti se | Viele junge Leute verschulden sich. | Mnogi mladi se zadužuju.
+V | abzahlen | hat abgezahlt | otplatiti | Wir haben das Auto abgezahlt. | Otplatili smo auto.
+V | erben | hat geerbt | naslediti | Sie hat das Haus geerbt. | Nasledila je kuću.
+V | anlegen | hat angelegt | uložiti (novac) | Er legt sein Geld in Aktien an. | Ulaže novac u akcije.
+V | sich beschweren über | hat sich beschwert | žaliti se na (+ Akk) | Der Kunde beschwert sich über den Service. | Kupac se žali na uslugu.
+V | handeln | hat gehandelt | cenkati se; delovati | Auf dem Markt kann man handeln. | Na pijaci može da se cenka.
+V | feilschen | hat gefeilscht | cenkati se | Er feilscht um jeden Euro. | Cenka se za svaki evro.
+V | kalkulieren | hat kalkuliert | izračunati, kalkulisati | Wir müssen die Kosten genau kalkulieren. | Moramo tačno da izračunamo troškove.
+V | finanzieren | hat finanziert | finansirati | Wie finanzieren Sie das Studium? | Kako finansirate studije?
+A | wirtschaftlich | | ekonomski | Das Land hat wirtschaftliche Probleme. | Zemlja ima ekonomskih problema.
+A | verschuldet | | zadužen | Die Familie ist hoch verschuldet. | Porodica je mnogo zadužena.
+A | zahlungsunfähig | | nesposoban za plaćanje | Die Firma ist zahlungsunfähig. | Firma je nelikvidna.
+A | kostspielig | | skup | Das ist ein kostspieliges Hobby. | To je skup hobi.
+A | erschwinglich | | pristupačan (cenom) | Die Wohnungen sind kaum erschwinglich. | Stanovi su jedva pristupačni.
+A | überteuert | | preskup | Die Getränke sind überteuert. | Pića su preskupa.
+A | steuerfrei | | oslobođen poreza | Das Geschenk ist steuerfrei. | Poklon je oslobođen poreza.
+S | Ich möchte gegen die Rechnung Einspruch einlegen. | Želim da uložim prigovor na račun.
+S | Die Rechnung ist noch offen. | Račun još nije plaćen.
+S | Können Sie mir einen Rabatt geben? | Možete li mi dati popust?
+
+## Stan i kuća
+N | der Wohnungsmarkt | die Wohnungsmärkte | tržište stanova | Der Wohnungsmarkt in Berlin ist angespannt. | Tržište stanova u Berlinu je napeto.
+N | die Wohnungsnot | — | nestašica stanova | In vielen Städten herrscht Wohnungsnot. | U mnogim gradovima vlada nestašica stanova.
+N | der Makler | die Makler | posrednik (agent) | Der Makler zeigt uns die Wohnung. | Agent nam pokazuje stan.
+N | die Provision | die Provisionen | provizija | Der Makler verlangt zwei Monatsmieten Provision. | Agent traži proviziju od dve kirije.
+N | die Besichtigung | die Besichtigungen | razgledanje (stana) | Die Besichtigung ist am Samstag. | Razgledanje je u subotu.
+N | der Grundriss | die Grundrisse | tlocrt | Der Grundriss der Wohnung ist praktisch. | Raspored stana je praktičan.
+N | die Mieterhöhung | die Mieterhöhungen | povećanje kirije | Wir haben eine Mieterhöhung bekommen. | Dobili smo povećanje kirije.
+N | die Kündigungsfrist | die Kündigungsfristen | otkazni rok | Die Kündigungsfrist beträgt drei Monate. | Otkazni rok je tri meseca.
+N | der Mangel | die Mängel | nedostatak, mana | Die Wohnung hat einige Mängel. | Stan ima nekoliko nedostataka.
+N | der Schimmel | — | buđ | Im Bad ist Schimmel. | U kupatilu ima buđi.
+N | die Feuchtigkeit | — | vlaga | Die Feuchtigkeit verursacht Schimmel. | Vlaga izaziva buđ.
+N | die Dämmung | die Dämmungen | izolacija | Eine gute Dämmung spart Energie. | Dobra izolacija štedi energiju.
+N | die Heizkosten | (samo mn.) | troškovi grejanja | Die Heizkosten sind stark gestiegen. | Troškovi grejanja su znatno porasli.
+N | der Zähler | die Zähler | brojilo | Der Zähler wird einmal im Jahr abgelesen. | Brojilo se očitava jednom godišnje.
+N | die Lärmbelästigung | die Lärmbelästigungen | uznemiravanje bukom | Wir beschweren uns über die Lärmbelästigung. | Žalimo se na buku.
+N | die Ruhezeit | die Ruhezeiten | vreme kućnog reda (tišine) | Von 22 bis 6 Uhr ist Ruhezeit. | Od 22 do 6 je vreme tišine.
+N | das Treppenhaus | die Treppenhäuser | stepenište | Im Treppenhaus darf man keine Fahrräder abstellen. | U stepeništu se ne smeju ostavljati bicikli.
+N | die Eigentümerversammlung | die Eigentümerversammlungen | skupština stanara | Die Eigentümerversammlung findet im Mai statt. | Skupština stanara je u maju.
+N | der Kostenvoranschlag | die Kostenvoranschläge | predračun | Der Handwerker macht einen Kostenvoranschlag. | Majstor pravi predračun.
+N | die Sanierung | die Sanierungen | sanacija, obnova | Die Sanierung des Hauses kostet viel. | Obnova kuće mnogo košta.
+N | der Umbau | die Umbauten | preuređenje | Wegen des Umbaus ist das Bad gesperrt. | Zbog preuređenja kupatilo je zatvoreno.
+V | sanieren | hat saniert | sanirati, obnoviti | Das alte Haus wurde saniert. | Stara kuća je obnovljena.
+V | dämmen | hat gedämmt | izolovati | Wir dämmen das Dach. | Izolujemo krov.
+V | ablesen | hat abgelesen | očitati | Der Techniker liest den Zähler ab. | Tehničar očitava brojilo.
+V | instand halten | hat instand gehalten | održavati (u ispravnom stanju) | Der Vermieter muss das Haus instand halten. | Stanodavac mora da održava kuću.
+V | untervermieten | hat untervermietet | izdati u podzakup | Darf ich ein Zimmer untervermieten? | Smem li da izdam sobu u podzakup?
+V | beseitigen | hat beseitigt | ukloniti, otkloniti | Der Schaden muss beseitigt werden. | Šteta mora biti otklonjena.
+V | entsorgen | hat entsorgt | odložiti (otpad) | Alte Möbel muss man richtig entsorgen. | Stari nameštaj treba pravilno odložiti.
+V | sich einleben | hat sich eingelebt | odomaćiti se | Wir haben uns gut eingelebt. | Dobro smo se odomaćili.
+A | sanierungsbedürftig | | potreban obnove | Das Haus ist sanierungsbedürftig. | Kuća je za renoviranje.
+A | provisionsfrei | | bez provizije | Die Wohnung ist provisionsfrei. | Stan je bez provizije.
+A | lichtdurchflutet | | pun svetla | Die Wohnung ist hell und lichtdurchflutet. | Stan je svetao i pun svetla.
+A | verkehrsgünstig | | dobro povezan (saobraćajno) | Die Wohnung liegt verkehrsgünstig. | Stan je dobro povezan.
+A | baufällig | | trošan, ruiniran | Das Gebäude ist baufällig. | Zgrada je trošna.
+A | schalldicht | | zvučno izolovan | Die Fenster sind schalldicht. | Prozori su zvučno izolovani.
+S | Die Wohnung ist frisch saniert. | Stan je tek renoviran.
+S | Der Vermieter reagiert nicht auf meine Beschwerden. | Stanodavac ne reaguje na moje žalbe.
+
+## Grad, saobraćaj i putovanje
+N | die Infrastruktur | die Infrastrukturen | infrastruktura | Die Infrastruktur muss modernisiert werden. | Infrastruktura mora da se modernizuje.
+N | der Nahverkehr | — | gradski i prigradski prevoz | Der Nahverkehr ist gut ausgebaut. | Gradski prevoz je dobro razvijen.
+N | der Fernverkehr | — | međugradski saobraćaj | Im Fernverkehr fahren ICE-Züge. | U međugradskom saobraćaju voze ICE vozovi.
+N | der Güterverkehr | — | teretni saobraćaj | Der Güterverkehr soll auf die Schiene. | Teretni saobraćaj treba da pređe na železnicu.
+N | das Verkehrsmittel | die Verkehrsmittel | prevozno sredstvo | Das Fahrrad ist ein umweltfreundliches Verkehrsmittel. | Bicikl je ekološko prevozno sredstvo.
+N | der Pendler | die Pendler | putnik na posao (dnevni migrant) | Viele Pendler fahren mit dem Zug. | Mnogi putuju vozom na posao.
+N | die Fahrgemeinschaft | die Fahrgemeinschaften | zajednička vožnja | Wir bilden eine Fahrgemeinschaft. | Vozimo se zajedno na posao.
+N | die Fahrbahn | die Fahrbahnen | kolovoz | Die Fahrbahn ist glatt. | Kolovoz je klizav.
+N | der Fahrstreifen | die Fahrstreifen | saobraćajna traka | Bleiben Sie auf dem rechten Fahrstreifen. | Ostanite u desnoj traci.
+N | die Vorfahrt | — | prvenstvo prolaza | Wer hat hier Vorfahrt? | Ko ovde ima prvenstvo?
+N | das Verkehrsschild | die Verkehrsschilder | saobraćajni znak | Achten Sie auf die Verkehrsschilder! | Obratite pažnju na saobraćajne znake!
+N | die Verkehrsregel | die Verkehrsregeln | saobraćajno pravilo | Man muss die Verkehrsregeln beachten. | Moraju se poštovati saobraćajna pravila.
+N | das Bußgeld | die Bußgelder | novčana kazna | Das Bußgeld beträgt 80 Euro. | Kazna iznosi 80 evra.
+N | der Punkt in Flensburg | die Punkte in Flensburg | kazneni poen (Nemačka) | Für zu schnelles Fahren gibt es einen Punkt in Flensburg. | Za brzu vožnju dobija se kazneni poen.
+N | die Geschwindigkeitsbegrenzung | die Geschwindigkeitsbegrenzungen | ograničenje brzine | Hier gilt eine Geschwindigkeitsbegrenzung von 50. | Ovde važi ograničenje brzine od 50.
+N | der Blitzer | die Blitzer | radar (kamera) | Pass auf, da steht ein Blitzer! | Pazi, tamo je radar!
+N | der Abschleppdienst | die Abschleppdienste | šlep služba | Wir rufen den Abschleppdienst. | Zovemo šlep službu.
+N | die Autowerkstatt | die Autowerkstätten | auto-servis | Das Auto ist in der Autowerkstatt. | Auto je u servisu.
+N | die Hauptuntersuchung | die Hauptuntersuchungen | tehnički pregled | Das Auto muss zur Hauptuntersuchung. | Auto mora na tehnički pregled.
+N | der Fahrgastverband | die Fahrgastverbände | udruženje putnika | Der Fahrgastverband kritisiert die Verspätungen. | Udruženje putnika kritikuje kašnjenja.
+N | die Fahrgastrechte | (samo mn.) | prava putnika | Bei Verspätung gelten die Fahrgastrechte. | Kod kašnjenja važe prava putnika.
+N | die Entschädigung | die Entschädigungen | odšteta | Ich bekomme eine Entschädigung für die Verspätung. | Dobijam odštetu za kašnjenje.
+N | die Erstattung | die Erstattungen | refundacija | Die Erstattung dauert vier Wochen. | Refundacija traje četiri nedelje.
+N | die Streckensperrung | die Streckensperrungen | zatvaranje pruge | Wegen einer Streckensperrung fallen Züge aus. | Zbog zatvaranja pruge otkazuju se vozovi.
+N | die Oberleitung | die Oberleitungen | kontaktni vod | Eine Störung an der Oberleitung blockiert den Verkehr. | Kvar na kontaktnom vodu blokira saobraćaj.
+N | das Gleisbett | die Gleisbetten | kolosečni zastor | Das Gleisbett wird erneuert. | Kolosečni zastor se obnavlja.
+N | der Bahnübergang | die Bahnübergänge | putni prelaz | Am Bahnübergang muss man warten. | Na putnom prelazu mora da se čeka.
+N | der Prellbock | die Prellböcke | odbojnik (kraj koloseka) | Der Zug hielt kurz vor dem Prellbock. | Voz je stao malo pre odbojnika.
+N | die Radsatzwelle | die Radsatzwellen | osovina osovinskog sklopa | Die Radsatzwelle zeigt einen Riss. | Osovina pokazuje pukotinu.
+N | der Bremsklotz | die Bremsklötze | kočna papuča | Die Bremsklötze sind abgenutzt. | Kočne papuče su istrošene.
+N | die Bremsprobe | die Bremsproben | proba kočnica | Vor der Abfahrt wird eine Bremsprobe gemacht. | Pre polaska se vrši proba kočnica.
+N | der Wagenzettel | die Wagenzettel | tovarni list vagona | Der Wagenzettel muss am Wagen hängen. | Tovarni list mora da visi na vagonu.
+N | die Zugbildung | die Zugbildungen | formiranje voza | Die Zugbildung erfolgt im Rangierbahnhof. | Formiranje voza vrši se na ranžirnoj stanici.
+N | der Rangierbahnhof | die Rangierbahnhöfe | ranžirna stanica | Der Güterzug steht im Rangierbahnhof. | Teretni voz stoji na ranžirnoj stanici.
+N | die Ladung | die Ladungen | tovar, teret | Die Ladung muss gesichert werden. | Tovar mora biti osiguran.
+N | das Gefahrgut | die Gefahrgüter | opasna roba | Der Wagen transportiert Gefahrgut. | Vagon prevozi opasnu robu.
+N | die Achslast | die Achslasten | osovinsko opterećenje | Die Achslast darf nicht überschritten werden. | Osovinsko opterećenje ne sme biti prekoračeno.
+V | pendeln | ist gependelt | putovati svakodnevno (na posao) | Ich pendle jeden Tag nach Novi Sad. | Svaki dan putujem u Novi Sad na posao.
+V | ausbauen | hat ausgebaut | proširiti, razviti | Das Radwegenetz wird ausgebaut. | Mreža biciklističkih staza se proširuje.
+V | sperren | hat gesperrt | zatvoriti (put, prugu) | Die Strecke ist gesperrt. | Pruga je zatvorena.
+V | umleiten | hat umgeleitet | preusmeriti | Der Verkehr wird umgeleitet. | Saobraćaj se preusmerava.
+V | entgleisen | ist entgleist | iskočiti iz šina | Der Güterzug ist entgleist. | Teretni voz je iskočio iz šina.
+V | beladen | hat beladen | natovariti | Der Wagen wird mit Holz beladen. | Vagon se tovari drvetom.
+V | entladen | hat entladen | istovariti | Die Ware wird am Bahnhof entladen. | Roba se istovara na stanici.
+V | sichern | hat gesichert | osigurati; napraviti rezervnu kopiju | Die Ladung ist nicht richtig gesichert. | Tovar nije pravilno osiguran.
+V | abnutzen | hat abgenutzt | istrošiti | Die Räder nutzen sich mit der Zeit ab. | Točkovi se vremenom troše.
+V | instand setzen | hat instand gesetzt | popraviti, dovesti u ispravno stanje | Der Wagen wird in der Werkstatt instand gesetzt. | Vagon se popravlja u radionici.
+V | überschreiten | hat überschritten | prekoračiti | Er hat die Geschwindigkeit überschritten. | Prekoračio je brzinu.
+V | Vorfahrt gewähren | hat Vorfahrt gewährt | propustiti (dati prvenstvo) | Hier müssen Sie Vorfahrt gewähren. | Ovde morate da date prvenstvo.
+A | abgenutzt | | istrošen | Die Bremsbeläge sind abgenutzt. | Kočne obloge su istrošene.
+A | betriebsbereit | | spreman za rad | Der Zug ist betriebsbereit. | Voz je spreman za saobraćaj.
+A | verkehrstauglich | | ispravan za saobraćaj | Der Wagen ist nicht mehr verkehrstauglich. | Vagon više nije ispravan za saobraćaj.
+A | überfüllt | | prepun | Der Zug ist völlig überfüllt. | Voz je potpuno prepun.
+A | gesperrt | | zatvoren (put) | Die Brücke ist gesperrt. | Most je zatvoren.
+S | Der Wagen muss ausgesetzt werden. | Vagon mora da se isključi iz saobraćaja.
+S | Die Bremse ist nicht in Ordnung. | Kočnica nije ispravna.
+S | Ich möchte eine Entschädigung für die Verspätung beantragen. | Želim da zatražim odštetu za kašnjenje.
+S | Die Strecke ist wegen Bauarbeiten gesperrt. | Pruga je zatvorena zbog radova.
+
+## Posao i zanimanja
+N | der Arbeitsmarkt | die Arbeitsmärkte | tržište rada | Der Arbeitsmarkt braucht Fachkräfte. | Tržištu rada su potrebni stručnjaci.
+N | die Fachkraft | die Fachkräfte | stručnjak, kvalifikovan radnik | Es fehlen Fachkräfte in der Pflege. | U nezi nedostaju kvalifikovani radnici.
+N | der Fachkräftemangel | — | nedostatak stručnjaka | Der Fachkräftemangel ist ein großes Problem. | Nedostatak stručnjaka je veliki problem.
+N | die Arbeitslosigkeit | — | nezaposlenost | Die Arbeitslosigkeit ist gesunken. | Nezaposlenost je opala.
+N | die Beschäftigung | die Beschäftigungen | zaposlenje | Er sucht eine feste Beschäftigung. | Traži stalno zaposlenje.
+N | das Arbeitsverhältnis | die Arbeitsverhältnisse | radni odnos | Das Arbeitsverhältnis endet im Juni. | Radni odnos se završava u junu.
+N | das Arbeitszeugnis | die Arbeitszeugnisse | preporuka poslodavca | Ich brauche ein Arbeitszeugnis. | Treba mi preporuka poslodavca.
+N | die Anforderung | die Anforderungen | zahtev, uslov | Er erfüllt alle Anforderungen. | Ispunjava sve uslove.
+N | die Stärke | die Stärken | jaka strana | Was sind Ihre Stärken? | Koje su vaše jake strane?
+N | die Schwäche | die Schwächen | slabost | Ich kenne meine Schwächen. | Znam svoje slabosti.
+N | die Teamfähigkeit | — | sposobnost za timski rad | Teamfähigkeit ist sehr wichtig. | Sposobnost za timski rad je veoma važna.
+N | die Belastung | die Belastungen | opterećenje | Die Belastung bei der Arbeit ist hoch. | Opterećenje na poslu je visoko.
+N | der Burnout | — | izgaranje (burnout) | Sie hatte einen Burnout. | Imala je burnout.
+N | die Work-Life-Balance | — | ravnoteža posla i privatnog života | Eine gute Work-Life-Balance ist wichtig. | Dobra ravnoteža posla i života je važna.
+N | das Homeoffice | die Homeoffices | rad od kuće | Zweimal pro Woche arbeite ich im Homeoffice. | Dva puta nedeljno radim od kuće.
+N | die Gleitzeit | — | klizno radno vreme | Wir haben Gleitzeit. | Imamo klizno radno vreme.
+N | der Tarifvertrag | die Tarifverträge | kolektivni ugovor | Der Lohn richtet sich nach dem Tarifvertrag. | Plata se određuje po kolektivnom ugovoru.
+N | die Gehaltserhöhung | die Gehaltserhöhungen | povišica | Ich bitte um eine Gehaltserhöhung. | Molim za povišicu.
+N | der Betriebsrat | die Betriebsräte | radnički savet | Der Betriebsrat vertritt die Mitarbeiter. | Radnički savet zastupa zaposlene.
+N | der Kündigungsschutz | — | zaštita od otkaza | Nach der Probezeit gilt Kündigungsschutz. | Posle probnog rada važi zaštita od otkaza.
+N | die Abfindung | die Abfindungen | otpremnina | Er bekam eine hohe Abfindung. | Dobio je veliku otpremninu.
+N | die Unternehmensführung | — | rukovodstvo preduzeća | Die Unternehmensführung hat neue Ziele. | Rukovodstvo ima nove ciljeve.
+N | das Unternehmen | die Unternehmen | preduzeće | Das Unternehmen hat 500 Mitarbeiter. | Preduzeće ima 500 zaposlenih.
+N | der Umsatz | die Umsätze | promet | Der Umsatz ist um zehn Prozent gestiegen. | Promet je porastao za deset odsto.
+N | der Gewinn | die Gewinne | dobit | Die Firma macht Gewinn. | Firma ostvaruje dobit.
+N | der Verlust | die Verluste | gubitak | Das Jahr endete mit Verlust. | Godina se završila gubitkom.
+N | die Konkurrenz | — | konkurencija | Die Konkurrenz ist groß. | Konkurencija je velika.
+N | die Branche | die Branchen | grana, sektor | In welcher Branche arbeiten Sie? | U kojoj grani radite?
+N | die Kompetenz | die Kompetenzen | kompetencija | Er hat hohe soziale Kompetenz. | On ima visoku socijalnu kompetenciju.
+N | die Zuständigkeit | die Zuständigkeiten | nadležnost | Das liegt nicht in meiner Zuständigkeit. | To nije u mojoj nadležnosti.
+N | das Protokoll | die Protokolle | zapisnik | Wer schreibt das Protokoll? | Ko piše zapisnik?
+N | die Tagesordnung | die Tagesordnungen | dnevni red | Was steht auf der Tagesordnung? | Šta je na dnevnom redu?
+V | sich bewerben um | hat sich beworben | konkurisati za (+ Akk) | Er bewirbt sich um eine Stelle als Ingenieur. | Konkuriše za mesto inženjera.
+V | sich durchsetzen gegen | hat sich durchgesetzt | izboriti se protiv (+ Akk) | Sie hat sich gegen viele Bewerber durchgesetzt. | Izborila se protiv mnogo kandidata.
+V | sich spezialisieren auf | hat sich spezialisiert | specijalizovati se za (+ Akk) | Die Firma hat sich auf Logistik spezialisiert. | Firma se specijalizovala za logistiku.
+V | delegieren | hat delegiert | delegirati | Ein guter Chef delegiert Aufgaben. | Dobar šef delegira zadatke.
+V | koordinieren | hat koordiniert | koordinisati | Sie koordiniert das Projekt. | Ona koordiniše projekat.
+V | sich weiterbilden | hat sich weitergebildet | dodatno se obrazovati | Ich bilde mich regelmäßig weiter. | Redovno se dodatno obrazujem.
+V | vereinbaren | hat vereinbart | dogovoriti | Wir haben einen Termin vereinbart. | Dogovorili smo termin.
+V | erfordern | hat erfordert | zahtevati | Die Arbeit erfordert viel Geduld. | Posao zahteva mnogo strpljenja.
+V | vertreten | hat vertreten | zastupati, menjati (nekoga) | Wer vertritt Sie im Urlaub? | Ko vas menja dok ste na odmoru?
+V | umsetzen | hat umgesetzt | sprovesti | Wir setzen den Plan um. | Sprovodimo plan.
+V | sich bewähren | hat sich bewährt | dokazati se | Das System hat sich bewährt. | Sistem se dokazao.
+V | gründen | hat gegründet | osnovati | Er hat eine eigene Firma gegründet. | Osnovao je sopstvenu firmu.
+V | beauftragen | hat beauftragt | zadužiti, naručiti | Wir beauftragen eine Firma mit der Reparatur. | Angažujemo firmu za popravku.
+A | qualifiziert | | kvalifikovan | Wir suchen qualifizierte Mitarbeiter. | Tražimo kvalifikovane radnike.
+A | teamfähig | | sposoban za timski rad | Sie ist sehr teamfähig. | Ona je veoma sposobna za timski rad.
+A | kompetent | | kompetentan | Der Berater war sehr kompetent. | Savetnik je bio veoma kompetentan.
+A | belastend | | opterećujući | Die Situation ist sehr belastend. | Situacija je veoma opterećujuća.
+A | leistungsfähig | | efikasan, produktivan | Das Team ist sehr leistungsfähig. | Tim je veoma efikasan.
+A | branchenüblich | | uobičajen u grani | Das Gehalt ist branchenüblich. | Plata je uobičajena za granu.
+A | übertariflich | | iznad kolektivnog ugovora | Wir zahlen übertariflich. | Plaćamo iznad kolektivnog ugovora.
+A | hauptberuflich | | kao glavno zanimanje | Er ist hauptberuflich Lokführer. | Po glavnom zanimanju je mašinovođa.
+A | nebenberuflich | | kao dodatni posao | Sie arbeitet nebenberuflich als Übersetzerin. | Ona dodatno radi kao prevodilac.
+S | Ich bewerbe mich hiermit um die Stelle als … | Ovim putem konkurišem za mesto …
+S | Über eine Einladung zu einem Vorstellungsgespräch würde ich mich freuen. | Bilo bi mi drago da me pozovete na razgovor.
+S | Ich bin bereit, Verantwortung zu übernehmen. | Spreman sam da preuzmem odgovornost.
+S | Wir müssen die Frist einhalten. | Moramo da ispoštujemo rok.

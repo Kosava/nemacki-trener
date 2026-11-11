@@ -1,0 +1,223 @@
+# Nivo A2 — deo 2
+
+## Grad, saobraćaj i putovanje
+N | der Verkehr | — | saobraćaj | Um acht Uhr ist viel Verkehr. | U osam sati je gust saobraćaj.
+N | der Stau | die Staus | gužva (u saobraćaju) | Wir stehen im Stau. | Stojimo u gužvi.
+N | die Autobahn | die Autobahnen | autoput | Auf der Autobahn fahren wir schnell. | Na autoputu vozimo brzo.
+N | die Tankstelle | die Tankstellen | benzinska pumpa | Wir müssen zur Tankstelle. | Moramo do pumpe.
+N | das Benzin | — | benzin | Das Benzin ist teuer geworden. | Benzin je poskupeo.
+N | der Führerschein | die Führerscheine | vozačka dozvola | Ich habe den Führerschein seit zehn Jahren. | Imam vozačku dozvolu deset godina.
+N | der Parkplatz | die Parkplätze | parking | Ich finde keinen Parkplatz. | Ne mogu da nađem parking.
+N | das Parkhaus | die Parkhäuser | garaža (javna) | Das Parkhaus ist voll. | Garaža je puna.
+N | der Unfall | die Unfälle | nesreća, sudar | Auf der Autobahn gab es einen Unfall. | Na autoputu se dogodila nesreća.
+N | die Verspätung | die Verspätungen | kašnjenje | Der Zug hat zwanzig Minuten Verspätung. | Voz kasni dvadeset minuta.
+N | der Bahnsteig | die Bahnsteige | peron | Der Zug hält am Bahnsteig zwei. | Voz staje na drugom peronu.
+N | der Fahrgast | die Fahrgäste | putnik | Die Fahrgäste steigen aus. | Putnici izlaze.
+N | der Schaffner | die Schaffner | kondukter | Der Schaffner kontrolliert die Fahrkarten. | Kondukter proverava karte.
+N | der Wagen | die Wagen | vagon; kola | Ich sitze im Wagen Nummer fünf. | Sedim u vagonu broj pet.
+N | der Sitzplatz | die Sitzplätze | sedište | Ich habe einen Sitzplatz reserviert. | Rezervisao sam sedište.
+N | der Fahrkartenautomat | die Fahrkartenautomaten | automat za karte | Der Fahrkartenautomat nimmt keine Karten. | Automat za karte ne prima kartice.
+N | die Durchsage | die Durchsagen | obaveštenje (razglas) | Hast du die Durchsage verstanden? | Jesi li razumeo obaveštenje?
+N | die Verbindung | die Verbindungen | veza (prevoz, internet) | Gibt es eine direkte Verbindung nach Wien? | Postoji li direktna veza za Beč?
+N | das Ziel | die Ziele | cilj, odredište | Unser Ziel ist Salzburg. | Naše odredište je Salcburg.
+N | die Grenze | die Grenzen | granica | An der Grenze müssen wir warten. | Na granici moramo da čekamo.
+N | der Zoll | die Zölle | carina | Am Zoll werden die Koffer kontrolliert. | Na carini se proveravaju koferi.
+N | das Gepäck | — | prtljag | Wo kann ich mein Gepäck abgeben? | Gde mogu da predam prtljag?
+N | der Flug | die Flüge | let | Der Flug dauert zwei Stunden. | Let traje dva sata.
+N | der Rucksack | die Rucksäcke | ranac | Mein Rucksack ist schwer. | Moj ranac je težak.
+N | die Unterkunft | die Unterkünfte | smeštaj | Wir suchen eine günstige Unterkunft. | Tražimo povoljan smeštaj.
+N | die Pension | die Pensionen | pansion | Wir übernachten in einer Pension. | Noćimo u pansionu.
+N | die Jugendherberge | die Jugendherbergen | omladinsko prenoćište | Die Jugendherberge ist billig. | Omladinsko prenoćište je jeftino.
+N | das Einzelzimmer | die Einzelzimmer | jednokrevetna soba | Ich möchte ein Einzelzimmer. | Želim jednokrevetnu sobu.
+N | das Doppelzimmer | die Doppelzimmer | dvokrevetna soba | Ein Doppelzimmer kostet achtzig Euro. | Dvokrevetna soba košta osamdeset evra.
+N | die Rezeption | die Rezeptionen | recepcija | Der Schlüssel liegt an der Rezeption. | Ključ je na recepciji.
+N | der Tourist | die Touristen | turista | Im Sommer kommen viele Touristen. | Leti dolazi mnogo turista.
+N | die Sehenswürdigkeit | die Sehenswürdigkeiten | znamenitost | Welche Sehenswürdigkeiten gibt es hier? | Koje znamenitosti postoje ovde?
+N | die Führung | die Führungen | obilazak sa vodičem | Die Führung beginnt um zehn. | Obilazak počinje u deset.
+N | das Rathaus | die Rathäuser | gradska većnica | Das Rathaus ist am Marktplatz. | Gradska većnica je na pijačnom trgu.
+N | das Schloss | die Schlösser | dvorac; brava | Das Schloss ist sehr alt. | Dvorac je veoma star.
+N | die Umgebung | die Umgebungen | okolina | Die Umgebung von Wien ist schön. | Okolina Beča je lepa.
+N | die Richtung | die Richtungen | pravac | In welche Richtung fährt der Bus? | U kom pravcu ide autobus?
+N | der Fußgänger | die Fußgänger | pešak | Fußgänger müssen auf dem Gehweg gehen. | Pešaci moraju da idu trotoarom.
+V | tanken | hat getankt | sipati gorivo | Ich muss noch tanken. | Moram još da sipam gorivo.
+V | halten | hat gehalten | stati; držati | Der Bus hält vor dem Rathaus. | Autobus staje ispred većnice.
+V | abbiegen | ist abgebogen | skrenuti | Biegen Sie an der Ampel links ab. | Skrenite levo na semaforu.
+V | überqueren | hat überquert | preći (ulicu) | Überquere die Straße bei Grün. | Pređi ulicu na zeleno.
+V | verpassen | hat verpasst | propustiti (prevoz) | Ich habe den Bus verpasst. | Propustio sam autobus.
+V | übernachten | hat übernachtet | prenoćiti | Wir übernachten im Hotel. | Noćimo u hotelu.
+V | buchen | hat gebucht | rezervisati, bukirati | Ich habe den Flug online gebucht. | Bukirao sam let onlajn.
+V | packen | hat gepackt | pakovati | Hast du den Koffer schon gepackt? | Jesi li već spakovao kofer?
+V | abholen | hat abgeholt | sačekati, pokupiti | Ich hole dich am Bahnhof ab. | Sačekaću te na stanici.
+V | sich verlaufen | hat sich verlaufen | zalutati (pešice) | Ich habe mich verlaufen. | Zalutao sam.
+V | besichtigen | hat besichtigt | razgledati | Wir besichtigen die Altstadt. | Razgledamo stari grad.
+V | landen | ist gelandet | sleteti | Das Flugzeug ist pünktlich gelandet. | Avion je sleteo na vreme.
+V | starten | ist gestartet | poleteti, startovati | Das Flugzeug startet in zehn Minuten. | Avion poleće za deset minuta.
+A | direkt | | direktan | Der Zug fährt direkt nach München. | Voz ide direktno za Minhen.
+A | besetzt | | zauzet | Ist der Platz besetzt? | Da li je mesto zauzeto?
+A | gefährlich | | opasan | Die Straße ist gefährlich. | Ulica je opasna.
+A | international | | međunarodni | Das ist ein internationaler Flughafen. | To je međunarodni aerodrom.
+S | Ist dieser Platz noch frei? | Da li je ovo mesto slobodno?
+S | Wie lange dauert die Fahrt? | Koliko traje vožnja?
+S | Ich habe meinen Zug verpasst. | Propustio sam voz.
+S | Haben Sie noch ein Zimmer frei? | Imate li još slobodnu sobu?
+S | Das Frühstück ist inklusive. | Doručak je uključen.
+
+## Posao i zanimanja
+N | die Ausbildung | die Ausbildungen | obrazovanje, obuka za zanat | Er macht eine Ausbildung als Koch. | On se obučava za kuvara.
+N | die Stelle | die Stellen | radno mesto | Ich habe eine neue Stelle gefunden. | Našao sam novo radno mesto.
+N | die Bewerbung | die Bewerbungen | prijava za posao | Ich schreibe eine Bewerbung. | Pišem prijavu za posao.
+N | der Lebenslauf | die Lebensläufe | biografija (CV) | Schicken Sie bitte Ihren Lebenslauf. | Pošaljite svoj CV, molim.
+N | das Vorstellungsgespräch | die Vorstellungsgespräche | razgovor za posao | Morgen habe ich ein Vorstellungsgespräch. | Sutra imam razgovor za posao.
+N | die Erfahrung | die Erfahrungen | iskustvo | Ich habe viel Erfahrung als Fahrer. | Imam mnogo iskustva kao vozač.
+N | das Gehalt | die Gehälter | plata | Das Gehalt kommt am Monatsende. | Plata stiže krajem meseca.
+N | der Lohn | die Löhne | nadnica, plata | Der Lohn ist zu niedrig. | Nadnica je preniska.
+N | die Arbeitszeit | die Arbeitszeiten | radno vreme | Meine Arbeitszeit ist von acht bis vier. | Moje radno vreme je od osam do četiri.
+N | die Schicht | die Schichten | smena | Ich arbeite in der Nachtschicht. | Radim u noćnoj smeni.
+N | die Überstunde | die Überstunden | prekovremeni sat | Diese Woche habe ich viele Überstunden gemacht. | Ove nedelje sam radio mnogo prekovremeno.
+N | der Feierabend | die Feierabende | kraj radnog dana | Um fünf habe ich Feierabend. | U pet završavam s poslom.
+N | die Besprechung | die Besprechungen | sastanak | Die Besprechung dauert eine Stunde. | Sastanak traje sat vremena.
+N | der Arbeitgeber | die Arbeitgeber | poslodavac | Mein Arbeitgeber zahlt pünktlich. | Moj poslodavac plaća na vreme.
+N | der Arbeitnehmer | die Arbeitnehmer | zaposleni, radnik | Die Arbeitnehmer bekommen mehr Geld. | Zaposleni dobijaju više novca.
+N | der Mitarbeiter | die Mitarbeiter | saradnik, zaposleni | Die Firma hat fünfzig Mitarbeiter. | Firma ima pedeset zaposlenih.
+N | der Betrieb | die Betriebe | preduzeće, pogon | Ich arbeite in einem kleinen Betrieb. | Radim u malom preduzeću.
+N | die Werkstatt | die Werkstätten | radionica, servis | Das Auto ist in der Werkstatt. | Auto je u servisu.
+N | die Fabrik | die Fabriken | fabrika | Mein Vater arbeitet in einer Fabrik. | Moj otac radi u fabrici.
+N | der Ingenieur | die Ingenieure | inženjer | Der Ingenieur plant die Brücke. | Inženjer projektuje most.
+N | der Elektriker | die Elektriker | električar | Der Elektriker repariert die Steckdose. | Električar popravlja utičnicu.
+N | der Friseur | die Friseure | frizer | Ich gehe zum Friseur. | Idem kod frizera.
+N | der Bäcker | die Bäcker | pekar | Der Bäcker steht um drei Uhr auf. | Pekar ustaje u tri.
+N | der Bauer | die Bauern | seljak, poljoprivrednik | Der Bauer arbeitet auf dem Feld. | Seljak radi u polju.
+N | der Zahnarzt | die Zahnärzte | zubar | Ich habe Angst vor dem Zahnarzt. | Bojim se zubara.
+N | der Rentner | die Rentner | penzioner | Mein Opa ist Rentner. | Moj deda je penzioner.
+N | die Rente | die Renten | penzija | Mit 65 geht man in Rente. | Sa 65 se ide u penziju.
+N | der Urlaubstag | die Urlaubstage | dan godišnjeg odmora | Ich habe dreißig Urlaubstage. | Imam trideset dana godišnjeg odmora.
+N | die Krankmeldung | die Krankmeldungen | bolovanje (potvrda) | Ich bringe morgen die Krankmeldung. | Sutra donosim potvrdu o bolovanju.
+V | sich bewerben | hat sich beworben | konkurisati | Ich bewerbe mich als Verkäufer. | Konkurišem za mesto prodavca.
+V | einstellen | hat eingestellt | zaposliti | Die Firma stellt neue Mitarbeiter ein. | Firma zapošljava nove radnike.
+V | kündigen | hat gekündigt | dati otkaz; otkazati (ugovor, stan) | Er hat gekündigt. | Dao je otkaz.
+V | verlieren | hat verloren | izgubiti | Er hat seine Arbeit verloren. | Izgubio je posao.
+V | erledigen | hat erledigt | obaviti, završiti | Ich muss noch etwas erledigen. | Moram još nešto da obavim.
+V | organisieren | hat organisiert | organizovati | Wer organisiert das Fest? | Ko organizuje proslavu?
+V | kontrollieren | hat kontrolliert | kontrolisati | Der Chef kontrolliert die Arbeit. | Šef kontroliše rad.
+V | ausliefern | hat ausgeliefert | razvoziti, dostaviti | Heute habe ich hundert Pakete ausgeliefert. | Danas sam dostavio sto paketa.
+A | arbeitslos | | nezaposlen | Er ist seit einem Monat arbeitslos. | On je nezaposlen već mesec dana.
+A | selbstständig | | samostalan (preduzetnik) | Sie ist selbstständig. | Ona radi za sebe.
+A | fleißig | | vredan | Die Mitarbeiter sind sehr fleißig. | Zaposleni su veoma vredni.
+S | Ich suche eine Stelle als Fahrer. | Tražim posao vozača.
+S | Ich arbeite Vollzeit. | Radim puno radno vreme.
+S | Ich arbeite Teilzeit. | Radim pola radnog vremena.
+S | Ich bin heute krank und komme nicht zur Arbeit. | Danas sam bolestan i ne dolazim na posao.
+S | Wie viele Stunden arbeiten Sie pro Woche? | Koliko sati nedeljno radite?
+
+## Škola i učenje
+N | der Kindergarten | die Kindergärten | vrtić | Mein Sohn geht in den Kindergarten. | Moj sin ide u vrtić.
+N | die Grundschule | die Grundschulen | osnovna škola (niži razredi) | Meine Tochter ist in der Grundschule. | Moja ćerka je u osnovnoj školi.
+N | die Universität | die Universitäten | univerzitet | Sie studiert an der Universität. | Ona studira na univerzitetu.
+N | das Studium | die Studien | studije | Das Studium dauert fünf Jahre. | Studije traju pet godina.
+N | das Fach | die Fächer | predmet | Mein Lieblingsfach ist Mathe. | Moj omiljeni predmet je matematika.
+N | die Note | die Noten | ocena; nota | Er hat gute Noten. | On ima dobre ocene.
+N | das Zeugnis | die Zeugnisse | svedočanstvo; preporuka | Im Juni gibt es Zeugnisse. | U junu se dele svedočanstva.
+N | das Zertifikat | die Zertifikate | sertifikat | Ich brauche ein Zertifikat für Deutsch. | Treba mi sertifikat iz nemačkog.
+N | der Unterricht | — | nastava | Der Unterricht beginnt um acht. | Nastava počinje u osam.
+N | die Übung | die Übungen | vežba | Machen Sie Übung drei. | Uradite vežbu tri.
+N | die Grammatik | — | gramatika | Die Grammatik ist nicht leicht. | Gramatika nije laka.
+N | die Aussprache | — | izgovor | Deine Aussprache ist sehr gut. | Tvoj izgovor je veoma dobar.
+N | das Wörterbuch | die Wörterbücher | rečnik | Ich suche das Wort im Wörterbuch. | Tražim reč u rečniku.
+N | die Bedeutung | die Bedeutungen | značenje | Was ist die Bedeutung von diesem Wort? | Koje je značenje ove reči?
+N | der Teilnehmer | die Teilnehmer | učesnik, polaznik | Der Kurs hat zehn Teilnehmer. | Kurs ima deset polaznika.
+N | die Anmeldung | die Anmeldungen | prijava, upis; prijava prebivališta | Die Anmeldung für den Kurs ist online. | Prijava za kurs je onlajn.
+N | die Lösung | die Lösungen | rešenje | Die Lösung ist auf Seite 50. | Rešenje je na strani 50.
+N | das Thema | die Themen | tema | Das Thema ist Umwelt. | Tema je životna sredina.
+V | studieren | hat studiert | studirati | Er studiert Medizin. | On studira medicinu.
+V | üben | hat geübt | vežbati | Du musst mehr üben. | Moraš više da vežbaš.
+V | sich anmelden | hat sich angemeldet | prijaviti se | Ich melde mich für den Kurs an. | Prijavljujem se za kurs.
+V | bestehen | hat bestanden | položiti (ispit) | Ich habe die Prüfung bestanden. | Položio sam ispit.
+V | korrigieren | hat korrigiert | ispraviti | Der Lehrer korrigiert die Tests. | Nastavnik ispravlja testove.
+V | übersetzen | hat übersetzt | prevesti | Kannst du den Text übersetzen? | Možeš li da prevedeš tekst?
+V | aussprechen | hat ausgesprochen | izgovoriti | Wie spricht man das aus? | Kako se to izgovara?
+V | nachschlagen | hat nachgeschlagen | potražiti (u knjizi) | Ich schlage das Wort nach. | Potražiću reč.
+V | sich konzentrieren | hat sich konzentriert | koncentrisati se | Ich kann mich nicht konzentrieren. | Ne mogu da se koncentrišem.
+A | fremd | | stran | Deutsch ist eine fremde Sprache für mich. | Nemački mi je strani jezik.
+A | schwierig | | težak, komplikovan | Die Aufgabe ist schwierig. | Zadatak je težak.
+A | durchgefallen | | pao (na ispitu) | Er ist durch die Prüfung durchgefallen. | Pao je na ispitu.
+S | Ich habe die Prüfung bestanden! | Položio sam ispit!
+S | Was bedeutet dieses Wort? | Šta znači ova reč?
+S | Können Sie das bitte buchstabieren? | Možete li to da srišete?
+
+## Telo i zdravlje
+N | die Krankheit | die Krankheiten | bolest | Das ist eine gefährliche Krankheit. | To je opasna bolest.
+N | die Erkältung | die Erkältungen | prehlada | Ich habe eine Erkältung. | Prehlađen sam.
+N | die Grippe | — | grip | Er liegt mit Grippe im Bett. | Leži u krevetu sa gripom.
+N | der Husten | — | kašalj | Der Husten ist schlimmer geworden. | Kašalj se pogoršao.
+N | der Schnupfen | — | kijavica | Ich habe Schnupfen. | Imam kijavicu.
+N | die Verletzung | die Verletzungen | povreda | Die Verletzung ist nicht schlimm. | Povreda nije ozbiljna.
+N | die Wunde | die Wunden | rana | Die Wunde blutet. | Rana krvari.
+N | das Pflaster | die Pflaster | flaster | Hast du ein Pflaster? | Imaš li flaster?
+N | das Blut | — | krv | Der Arzt nimmt Blut ab. | Lekar vadi krv.
+N | das Herz | die Herzen | srce | Sein Herz ist gesund. | Srce mu je zdravo.
+N | der Magen | die Mägen | želudac | Mir tut der Magen weh. | Boli me želudac.
+N | die Haut | die Häute | koža | Die Sonne ist schlecht für die Haut. | Sunce je loše za kožu.
+N | das Knie | die Knie | koleno | Mein Knie tut weh. | Boli me koleno.
+N | die Schulter | die Schultern | rame | Ich habe Schmerzen in der Schulter. | Imam bolove u ramenu.
+N | der Zeh | die Zehen | nožni prst | Ich habe mir den Zeh gestoßen. | Udario sam nožni prst.
+N | die Untersuchung | die Untersuchungen | pregled | Die Untersuchung dauert nicht lange. | Pregled ne traje dugo.
+N | der Notarzt | die Notärzte | hitna pomoć (lekar) | Ruf den Notarzt! | Zovi hitnu pomoć!
+N | der Notfall | die Notfälle | hitan slučaj | Das ist ein Notfall! | Ovo je hitan slučaj!
+N | der Krankenwagen | die Krankenwagen | kola hitne pomoći | Der Krankenwagen kommt sofort. | Kola hitne pomoći dolaze odmah.
+N | die Versicherungskarte | die Versicherungskarten | zdravstvena kartica | Ihre Versicherungskarte, bitte. | Vašu zdravstvenu karticu, molim.
+N | die Krankenkasse | die Krankenkassen | zdravstveno osiguranje | Die Krankenkasse bezahlt das. | Zdravstveno osiguranje to plaća.
+N | die Salbe | die Salben | mast (lek) | Die Salbe hilft gegen die Schmerzen. | Mast pomaže protiv bolova.
+N | die Allergie | die Allergien | alergija | Ich habe eine Allergie gegen Katzen. | Alergičan sam na mačke.
+N | die Diät | die Diäten | dijeta | Ich mache eine Diät. | Na dijeti sam.
+V | sich fühlen | hat sich gefühlt | osećati se | Ich fühle mich nicht wohl. | Ne osećam se dobro.
+V | sich verletzen | hat sich verletzt | povrediti se | Er hat sich beim Fußball verletzt. | Povredio se na fudbalu.
+V | husten | hat gehustet | kašljati | Das Kind hustet die ganze Nacht. | Dete kašlje celu noć.
+V | untersuchen | hat untersucht | pregledati | Der Arzt untersucht den Patienten. | Lekar pregleda pacijenta.
+V | sich ausruhen | hat sich ausgeruht | odmoriti se | Du musst dich ausruhen. | Moraš da se odmoriš.
+V | sich erholen | hat sich erholt | oporaviti se | Ich habe mich gut erholt. | Dobro sam se oporavio.
+V | bluten | hat geblutet | krvariti | Die Nase blutet. | Nos krvari.
+V | atmen | hat geatmet | disati | Atmen Sie tief ein. | Udahnite duboko.
+V | rauchen | hat geraucht | pušiti | Rauchen ist ungesund. | Pušenje je nezdravo.
+V | abnehmen | hat abgenommen | smršati | Ich habe fünf Kilo abgenommen. | Smršao sam pet kila.
+V | zunehmen | hat zugenommen | ugojiti se; povećati se | Im Urlaub habe ich zugenommen. | Na odmoru sam se ugojio.
+A | schlimm | | loš, ozbiljan | Ist es schlimm? | Je li ozbiljno?
+A | verletzt | | povređen | Er ist am Bein verletzt. | Povređen je u nogu.
+A | schwanger | | trudna | Meine Frau ist schwanger. | Moja žena je trudna.
+A | fit | | u formi | Durch Sport bleibe ich fit. | Sportom ostajem u formi.
+A | ungesund | | nezdrav | Fast Food ist ungesund. | Brza hrana je nezdrava.
+S | Mir ist schlecht. | Muka mi je.
+S | Ich habe mich erkältet. | Prehladio sam se.
+S | Wie oft muss ich die Tabletten nehmen? | Koliko često moram da pijem tablete?
+S | Dreimal täglich nach dem Essen. | Tri puta dnevno posle jela.
+S | Rufen Sie bitte einen Krankenwagen! | Pozovite hitnu pomoć, molim!
+
+## Odeća
+N | der Anzug | die Anzüge | odelo | Zur Hochzeit trägt er einen Anzug. | Na venčanje nosi odelo.
+N | die Krawatte | die Krawatten | kravata | Die Krawatte passt zum Hemd. | Kravata ide uz košulju.
+N | die Jeans | die Jeans | farmerke | Ich trage gern Jeans. | Rado nosim farmerke.
+N | der Stiefel | die Stiefel | čizma | Im Winter trage ich Stiefel. | Zimi nosim čizme.
+N | der Handschuh | die Handschuhe | rukavica | Ich habe meine Handschuhe verloren. | Izgubio sam rukavice.
+N | der Schal | die Schals | šal | Der Schal ist aus Wolle. | Šal je od vune.
+N | der Gürtel | die Gürtel | kaiš | Der Gürtel ist zu kurz. | Kaiš je prekratak.
+N | die Unterwäsche | — | donji veš | Ich packe Unterwäsche in den Koffer. | Pakujem donji veš u kofer.
+N | der Schlafanzug | die Schlafanzüge | pidžama | Das Kind trägt einen Schlafanzug. | Dete nosi pidžamu.
+N | der Badeanzug | die Badeanzüge | kupaći kostim | Vergiss den Badeanzug nicht! | Ne zaboravi kupaći!
+N | die Wolle | — | vuna | Der Pullover ist aus Wolle. | Džemper je od vune.
+N | die Baumwolle | — | pamuk | Das Hemd ist aus Baumwolle. | Košulja je od pamuka.
+N | das Leder | — | koža (materijal) | Die Tasche ist aus Leder. | Torba je od kože.
+N | der Schmuck | — | nakit | Sie trägt viel Schmuck. | Ona nosi mnogo nakita.
+N | der Ring | die Ringe | prsten | Er schenkt ihr einen Ring. | Poklanja joj prsten.
+N | die Mode | die Moden | moda | Sie interessiert sich für Mode. | Ona se zanima za modu.
+N | die Umkleidekabine | die Umkleidekabinen | kabina za presvlačenje | Die Umkleidekabine ist dort hinten. | Kabina za presvlačenje je tamo pozadi.
+V | sich umziehen | hat sich umgezogen | presvući se | Ich muss mich noch umziehen. | Moram još da se presvučem.
+V | aussehen | hat ausgesehen | izgledati | Du siehst toll aus! | Izgledaš sjajno!
+A | elegant | | elegantan | Das Kleid ist sehr elegant. | Haljina je veoma elegantna.
+A | modisch | | moderan (u modi) | Er ist immer modisch angezogen. | Uvek je moderno obučen.
+A | rosa | | roze | Das Baby trägt ein rosa Kleid. | Beba nosi roze haljinu.
+A | lila | | ljubičast | Die Blumen sind lila. | Cveće je ljubičasto.
+A | orange | | narandžast | Die Jacke ist orange. | Jakna je narandžasta.
+A | gestreift | | prugast | Er trägt ein gestreiftes Hemd. | Nosi prugastu košulju.
+A | kariert | | kariran | Der Rock ist kariert. | Suknja je karirana.
+S | Die Jacke steht dir gut. | Jakna ti lepo stoji.
+S | Kann ich die Hose anprobieren? | Mogu li da probam pantalone?
+S | Die Schuhe drücken. | Cipele me žuljaju.

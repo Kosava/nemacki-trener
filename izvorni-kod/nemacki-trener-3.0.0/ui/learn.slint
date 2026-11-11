@@ -1,0 +1,272 @@
+import { LineEdit, ComboBox } from "std-widgets.slint";
+import { Theme } from "theme.slint";
+import { Btn, Card, Label, Muted } from "widgets.slint";
+
+export global Learn {
+    in property <[string]> filters;
+    in-out property <int> filter-index;
+    in-out property <int> content-index;     // 0 reči, 1 rečenice, 2 sve
+    in-out property <int> mode-index: 1;     // 0 za danas, 1 novo, 2 sve
+    in-out property <int> direction-index;   // 0 srpski→nemački, 1 nemački→srpski
+    in-out property <int> answer-index;      // 0 okretanje kartice, 1 kucanje
+    in property <string> stats-text;
+
+    in property <bool> active;
+    in property <bool> typing;
+    in property <string> progress-text;
+    in property <string> score-text;
+    in property <string> front;
+    in property <string> front-note;
+    in property <bool> revealed;
+    in property <string> back;
+    in property <string> pron;
+    in property <string> example-de;
+    in property <string> example-sr;
+    in property <string> result-text;
+    in property <int> result-kind;           // 0 ništa, 1 tačno, 2 netačno
+    in property <bool> can-override;
+    in-out property <string> answer;
+
+    callback filter-changed();
+    callback start();
+    callback stop();
+    callback reveal();
+    callback grade(known: bool);
+    callback check();
+    callback next();
+    callback override-correct();
+    callback reset-progress();
+}
+
+export component LearnPage inherits Rectangle {
+    background: Theme.bg;
+
+    public function focus-card() {
+        if (Learn.typing && !Learn.revealed) {
+            answer-edit.focus();
+        } else {
+            keys.focus();
+        }
+    }
+
+    keys := FocusScope {
+        key-pressed(event) => {
+            if (!Learn.active) {
+                if (event.text == Key.Return) { Learn.start(); return accept; }
+                return reject;
+            }
+            if (Learn.typing) {
+                if (Learn.revealed && (event.text == Key.Return || event.text == " " || event.text == Key.RightArrow)) {
+                    Learn.next();
+                    return accept;
+                }
+                return reject;
+            }
+            if (!Learn.revealed) {
+                if (event.text == " " || event.text == Key.Return) { Learn.reveal(); return accept; }
+            } else {
+                if (event.text == Key.RightArrow || event.text == "1" || event.text == Key.Return) {
+                    Learn.grade(true);
+                    return accept;
+                }
+                if (event.text == Key.LeftArrow || event.text == "2") {
+                    Learn.grade(false);
+                    return accept;
+                }
+            }
+            return reject;
+        }
+
+        VerticalLayout {
+            padding: Theme.pad;
+            spacing: 10px;
+
+            // ---- izbor ----
+            HorizontalLayout {
+                spacing: 8px;
+                height: 36px;
+                ComboBox {
+                    horizontal-stretch: 3;
+                    model: Learn.filters;
+                    current-index <=> Learn.filter-index;
+                    selected => { Learn.filter-changed(); }
+                }
+                ComboBox {
+                    horizontal-stretch: 1;
+                    model: ["Reči", "Rečenice", "Reči i rečenice"];
+                    current-index <=> Learn.content-index;
+                    selected => { Learn.filter-changed(); }
+                }
+                ComboBox {
+                    horizontal-stretch: 1;
+                    model: ["Za ponavljanje danas", "Nove (20)", "Sve (nasumično)"];
+                    current-index <=> Learn.mode-index;
+                }
+                ComboBox {
+                    horizontal-stretch: 1;
+                    model: ["Srpski → nemački", "Nemački → srpski"];
+                    current-index <=> Learn.direction-index;
+                }
+                ComboBox {
+                    horizontal-stretch: 1;
+                    model: ["Okretanje kartice", "Kucanje odgovora"];
+                    current-index <=> Learn.answer-index;
+                }
+                Btn {
+                    text: Learn.active ? "■ Prekini" : "▶ Započni";
+                    kind: Learn.active ? "plain" : "primary";
+                    clicked => {
+                        if (Learn.active) { Learn.stop(); } else { Learn.start(); }
+                        root.focus-card();
+                    }
+                }
+            }
+
+            HorizontalLayout {
+                height: 22px;
+                Muted { text: Learn.stats-text; horizontal-stretch: 1; }
+                Muted { text: Learn.progress-text; }
+                Rectangle { width: 18px; }
+                Muted { text: Learn.score-text; }
+            }
+
+            // ---- kartica ----
+            Card {
+                vertical-stretch: 1;
+                VerticalLayout {
+                    padding: 28px;
+                    spacing: 10px;
+                    alignment: center;
+
+                    Text {
+                        text: Learn.active ? Learn.front : "Izaberi nivo ili temu i klikni „Započni”.";
+                        color: Learn.active ? Theme.text : Theme.muted;
+                        font-size: Learn.active ? 34px : 18px;
+                        font-weight: Learn.active ? 700 : 400;
+                        horizontal-alignment: center;
+                        wrap: word-wrap;
+                    }
+                    if Learn.active && Learn.front-note != "": Text {
+                        text: Learn.front-note;
+                        color: Theme.muted;
+                        font-size: 14px;
+                        font-italic: true;
+                        horizontal-alignment: center;
+                        wrap: word-wrap;
+                    }
+
+                    HorizontalLayout {
+                        property <bool> shown: Learn.active && Learn.typing;
+                        visible: self.shown;
+                        alignment: center;
+                        spacing: 8px;
+                        padding-top: self.shown ? 12px : 0px;
+                        height: self.shown ? 52px : 0px;
+                        answer-edit := LineEdit {
+                            width: 420px;
+                            font-size: 17px;
+                            placeholder-text: "Ukucaj prevod i pritisni Enter";
+                            read-only: Learn.revealed;
+                            text <=> Learn.answer;
+                            accepted => {
+                                if (Learn.revealed) { Learn.next(); } else { Learn.check(); }
+                                root.focus-card();
+                            }
+                        }
+                        Btn {
+                            text: "Proveri";
+                            kind: "primary";
+                            enabled: !Learn.revealed;
+                            height: 40px;
+                            clicked => { Learn.check(); root.focus-card(); }
+                        }
+                    }
+
+                    if Learn.active && Learn.revealed: Rectangle {
+                        height: 1px;
+                        background: Theme.border;
+                    }
+                    if Learn.active && Learn.revealed && Learn.result-text != "": Text {
+                        text: Learn.result-text;
+                        color: Learn.result-kind == 1 ? Theme.ok : Theme.bad;
+                        font-size: 17px;
+                        font-weight: 700;
+                        horizontal-alignment: center;
+                        wrap: word-wrap;
+                    }
+                    if Learn.active && Learn.revealed: Text {
+                        text: Learn.back;
+                        color: Theme.accent;
+                        font-size: 30px;
+                        font-weight: 700;
+                        horizontal-alignment: center;
+                        wrap: word-wrap;
+                    }
+                    if Learn.active && Learn.revealed && Learn.pron != "": Text {
+                        text: Learn.pron;
+                        color: Theme.muted;
+                        font-size: 15px;
+                        font-italic: true;
+                        horizontal-alignment: center;
+                        wrap: word-wrap;
+                    }
+                    if Learn.active && Learn.revealed && Learn.example-de != "": Text {
+                        text: "„" + Learn.example-de + "”";
+                        color: Theme.text;
+                        font-size: 16px;
+                        horizontal-alignment: center;
+                        wrap: word-wrap;
+                    }
+                    if Learn.active && Learn.revealed && Learn.example-sr != "": Text {
+                        text: Learn.example-sr;
+                        color: Theme.muted;
+                        font-size: 14px;
+                        horizontal-alignment: center;
+                        wrap: word-wrap;
+                    }
+                }
+            }
+
+            // ---- dugmad ----
+            HorizontalLayout {
+                spacing: 10px;
+                height: 42px;
+                if Learn.active && !Learn.typing && !Learn.revealed: Btn {
+                    text: "Prikaži odgovor   [Space]";
+                    kind: "primary";
+                    height: 42px;
+                    clicked => { Learn.reveal(); root.focus-card(); }
+                }
+                if Learn.active && !Learn.typing && Learn.revealed: Btn {
+                    text: "✓ Znam   [→]";
+                    kind: "ok";
+                    height: 42px;
+                    clicked => { Learn.grade(true); root.focus-card(); }
+                }
+                if Learn.active && !Learn.typing && Learn.revealed: Btn {
+                    text: "✗ Ne znam   [←]";
+                    kind: "bad";
+                    height: 42px;
+                    clicked => { Learn.grade(false); root.focus-card(); }
+                }
+                if Learn.active && Learn.typing && Learn.revealed: Btn {
+                    text: "Dalje   [Enter]";
+                    kind: "primary";
+                    height: 42px;
+                    clicked => { Learn.next(); root.focus-card(); }
+                }
+                if Learn.active && Learn.typing && Learn.revealed && Learn.can-override: Btn {
+                    text: "Ipak sam znao";
+                    height: 42px;
+                    clicked => { Learn.override-correct(); root.focus-card(); }
+                }
+                Rectangle { horizontal-stretch: 1; }
+                Btn {
+                    text: "Resetuj napredak";
+                    height: 42px;
+                    clicked => { Learn.reset-progress(); }
+                }
+            }
+        }
+    }
+}

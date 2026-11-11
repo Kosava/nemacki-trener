@@ -1,0 +1,179 @@
+# Nivo B1 — deo 4 (dopuna)
+
+## Posao i zanimanja
+N | der Metzger | die Metzger | mesar | Der Metzger verkauft frisches Fleisch. | Mesar prodaje sveže meso.
+N | der Maurer | die Maurer | zidar | Der Maurer baut eine Wand. | Zidar zida zid.
+N | der Klempner | die Klempner | vodoinstalater | Wir müssen den Klempner rufen. | Moramo da zovemo vodoinstalatera.
+N | der Maler | die Maler | moler; slikar | Der Maler streicht die Wohnung. | Moler kreči stan.
+N | der Schreiner | die Schreiner | stolar | Der Schreiner baut einen Schrank. | Stolar pravi orman.
+N | der Tischler | die Tischler | stolar | Mein Onkel ist Tischler von Beruf. | Moj ujak je stolar po zanimanju.
+N | der Dachdecker | die Dachdecker | krovopokrivač | Der Dachdecker repariert das Dach. | Krovopokrivač popravlja krov.
+N | der Schlosser | die Schlosser | bravar | Er hat eine Ausbildung als Schlosser gemacht. | Završio je obuku za bravara.
+N | der Schweißer | die Schweißer | zavarivač | Die Firma sucht einen Schweißer. | Firma traži zavarivača.
+N | der Lagerarbeiter | die Lagerarbeiter | magacioner | Er arbeitet als Lagerarbeiter. | On radi kao magacioner.
+N | der Staplerfahrer | die Staplerfahrer | viljuškarista | Wir brauchen einen Staplerfahrer mit Erfahrung. | Treba nam viljuškarista sa iskustvom.
+N | der Lkw-Fahrer | die Lkw-Fahrer | vozač kamiona | Der Lkw-Fahrer macht eine Pause. | Vozač kamiona pravi pauzu.
+N | der Pilot | die Piloten | pilot | Der Pilot begrüßt die Passagiere. | Pilot pozdravlja putnike.
+N | der Flugbegleiter | die Flugbegleiter | stjuard | Der Flugbegleiter bringt die Getränke. | Stjuard donosi piće.
+N | der Briefträger | die Briefträger | poštar | Der Briefträger kommt gegen zehn Uhr. | Poštar dolazi oko deset sati.
+N | der Paketbote | die Paketboten | dostavljač paketa | Der Paketbote hat geklingelt. | Dostavljač paketa je zvonio.
+N | der Kurier | die Kuriere | kurir | Ich arbeite als Kurier. | Radim kao kurir.
+N | der Gärtner | die Gärtner | baštovan | Der Gärtner schneidet die Hecke. | Baštovan šiša živu ogradu.
+N | der Landwirt | die Landwirte | poljoprivrednik | Der Landwirt arbeitet auf dem Feld. | Poljoprivrednik radi na njivi.
+N | der Förster | die Förster | šumar | Der Förster kennt jeden Baum. | Šumar poznaje svako drvo.
+N | der Fischer | die Fischer | ribar | Die Fischer fahren früh aufs Meer. | Ribari rano isplovljavaju.
+N | der Jäger | die Jäger | lovac | Der Jäger geht mit seinem Hund in den Wald. | Lovac ide sa psom u šumu.
+N | der Anwalt | die Anwälte | advokat | Ich muss mit meinem Anwalt sprechen. | Moram da razgovaram sa svojim advokatom.
+N | der Steuerberater | die Steuerberater | poreski savetnik | Der Steuerberater macht meine Steuererklärung. | Poreski savetnik mi radi poresku prijavu.
+N | der Buchhalter | die Buchhalter | knjigovođa | Der Buchhalter prüft die Rechnungen. | Knjigovođa proverava račune.
+N | der Kassierer | die Kassierer | kasir | Der Kassierer gibt mir das Wechselgeld. | Kasir mi vraća kusur.
+N | der Kaufmann | die Kaufleute | trgovac | Er ist gelernter Kaufmann. | On je trgovac po struci.
+N | der Vertreter | die Vertreter | zastupnik, predstavnik | Ein Vertreter der Firma kommt morgen. | Predstavnik firme dolazi sutra.
+N | der Architekt | die Architekten | arhitekta | Der Architekt zeichnet den Plan. | Arhitekta crta plan.
+N | der Bauarbeiter | die Bauarbeiter | građevinski radnik | Die Bauarbeiter beginnen um sieben Uhr. | Građevinski radnici počinju u sedam sati.
+N | der Bauleiter | die Bauleiter | šef gradilišta | Der Bauleiter kontrolliert die Arbeit. | Šef gradilišta kontroliše rad.
+N | der Vorarbeiter | die Vorarbeiter | poslovođa, predradnik | Frag bitte den Vorarbeiter. | Pitaj predradnika, molim te.
+N | der Meister | die Meister | majstor; šampion | Der Meister erklärt dem Lehrling die Maschine. | Majstor objašnjava šegrtu mašinu.
+N | der Geselle | die Gesellen | kalfa | Nach der Lehre ist er Geselle. | Posle zanata on je kalfa.
+N | der Lehrling | die Lehrlinge | šegrt, učenik u privredi | Der Lehrling lernt schnell. | Šegrt brzo uči.
+N | der Azubi | die Azubis | učenik na stručnoj obuci | Wir haben zwei neue Azubis. | Imamo dva nova učenika na obuci.
+N | der Praktikant | die Praktikanten | praktikant | Der Praktikant bleibt drei Monate. | Praktikant ostaje tri meseca.
+N | die Aushilfe | die Aushilfen | ispomoć, privremeni radnik | Wir suchen eine Aushilfe für den Sommer. | Tražimo ispomoć za leto.
+N | der Leiharbeiter | die Leiharbeiter | radnik preko agencije | Viele Leiharbeiter arbeiten im Lager. | Mnogo radnika preko agencije radi u magacinu.
+N | der Angestellte | die Angestellten | službenik, zaposleni | Die Firma hat fünfzig Angestellte. | Firma ima pedeset zaposlenih.
+N | der Beamte | die Beamten | državni službenik | Der Beamte prüft meine Unterlagen. | Službenik proverava moja dokumenta.
+N | der Arbeiter | die Arbeiter | radnik | Die Arbeiter machen Mittagspause. | Radnici imaju pauzu za ručak.
+N | der Selbstständige | die Selbstständigen | samostalni preduzetnik | Als Selbstständiger zahlt er selbst die Versicherung. | Kao samostalac sam plaća osiguranje.
+N | der Unternehmer | die Unternehmer | preduzetnik | Der Unternehmer hat zwei Firmen. | Preduzetnik ima dve firme.
+N | der Geschäftsführer | die Geschäftsführer | direktor firme | Der Geschäftsführer unterschreibt den Vertrag. | Direktor potpisuje ugovor.
+N | der Abteilungsleiter | die Abteilungsleiter | šef odeljenja | Der Abteilungsleiter hat das genehmigt. | Šef odeljenja je to odobrio.
+N | die Belegschaft | die Belegschaften | svi zaposleni, kolektiv | Die ganze Belegschaft war bei der Feier. | Ceo kolektiv je bio na proslavi.
+N | der Stundenlohn | die Stundenlöhne | satnica | Der Stundenlohn beträgt fünfzehn Euro. | Satnica iznosi petnaest evra.
+N | der Mindestlohn | die Mindestlöhne | minimalna zarada | Er bekommt nur den Mindestlohn. | On dobija samo minimalac.
+W | brutto | | bruto | Ich verdiene 3000 Euro brutto. | Zarađujem 3000 evra bruto.
+W | netto | | neto | Wie viel bleibt netto? | Koliko ostaje neto?
+N | die Lohnabrechnung | die Lohnabrechnungen | platni listić | Die Lohnabrechnung kommt am Monatsende. | Platni listić stiže krajem meseca.
+N | die Lohnsteuer | die Lohnsteuern | porez na zaradu | Die Lohnsteuer wird direkt abgezogen. | Porez na zaradu se odmah odbija.
+N | die Sozialversicherung | die Sozialversicherungen | socijalno osiguranje | Der Arbeitgeber zahlt die Hälfte der Sozialversicherung. | Poslodavac plaća polovinu socijalnog osiguranja.
+N | die Abgabe | die Abgaben | dažbina; predaja | Die Abgaben sind in Deutschland hoch. | Dažbine su u Nemačkoj visoke.
+N | der Abzug | die Abzüge | odbitak | Nach allen Abzügen bleiben 2000 Euro. | Posle svih odbitaka ostaje 2000 evra.
+N | die Frühschicht | die Frühschichten | prva (jutarnja) smena | Diese Woche habe ich Frühschicht. | Ove nedelje radim prvu smenu.
+N | die Spätschicht | die Spätschichten | druga (popodnevna) smena | Die Spätschicht endet um 22 Uhr. | Druga smena se završava u 22 časa.
+N | die Nachtschicht | die Nachtschichten | noćna smena | Nach der Nachtschicht schlafe ich lange. | Posle noćne smene dugo spavam.
+N | die Schichtarbeit | — | rad u smenama | Schichtarbeit ist anstrengend. | Rad u smenama je naporan.
+N | die Teilzeit | — | nepuno radno vreme | Sie arbeitet in Teilzeit. | Ona radi sa nepunim radnim vremenom.
+N | die Vollzeit | — | puno radno vreme | Ich suche eine Stelle in Vollzeit. | Tražim posao sa punim radnim vremenom.
+N | der Minijob | die Minijobs | mali posao (do određene zarade) | Neben dem Studium hat sie einen Minijob. | Pored studija ima mali posao.
+N | das Anschreiben | die Anschreiben | propratno pismo | Das Anschreiben sollte kurz sein. | Propratno pismo treba da bude kratko.
+N | der Urlaubsantrag | die Urlaubsanträge | zahtev za odmor | Ich habe den Urlaubsantrag abgegeben. | Predao sam zahtev za odmor.
+W | frei haben | | imati slobodan dan | Morgen habe ich frei. | Sutra sam slobodan.
+N | die Dienstreise | die Dienstreisen | službeni put | Mein Chef ist auf Dienstreise. | Moj šef je na službenom putu.
+N | die Sitzung | die Sitzungen | sednica, sastanak | Die Sitzung beginnt um neun. | Sastanak počinje u devet.
+N | der Lieferschein | die Lieferscheine | otpremnica | Bitte unterschreiben Sie den Lieferschein. | Molim potpišite otpremnicu.
+N | der Bestand | die Bestände | zalihe, stanje | Wir prüfen den Bestand im Lager. | Proveravamo stanje u magacinu.
+N | die Inventur | die Inventuren | popis | Wegen Inventur ist das Geschäft geschlossen. | Radnja je zatvorena zbog popisa.
+N | die Palette | die Paletten | paleta | Die Ware steht auf der Palette. | Roba je na paleti.
+V | verpacken | hat verpackt | zapakovati | Wir verpacken die Ware sorgfältig. | Pažljivo pakujemo robu.
+V | stapeln | hat gestapelt | slagati (jedno na drugo) | Die Kartons werden im Lager gestapelt. | Kutije se slažu u magacinu.
+N | die Zustellung | die Zustellungen | dostava, uručenje | Die Zustellung erfolgt morgen. | Dostava će biti sutra.
+V | quittieren | hat quittiert | potvrditi prijem (potpisom) | Bitte quittieren Sie den Empfang. | Molim potvrdite prijem.
+N | das Päckchen | die Päckchen | paketić | Ich schicke ein Päckchen nach Serbien. | Šaljem paketić u Srbiju.
+N | die Fracht | die Frachten | teret, tovar | Das Schiff transportiert Fracht. | Brod prevozi teret.
+N | die Spedition | die Speditionen | špedicija | Die Spedition holt die Möbel ab. | Špedicija preuzima nameštaj.
+N | der Transport | die Transporte | prevoz, transport | Der Transport dauert drei Tage. | Prevoz traje tri dana.
+N | die Rampe | die Rampen | rampa | Der Lkw steht an der Rampe. | Kamion stoji na rampi.
+N | die Halle | die Hallen | hala | Die Maschinen stehen in der Halle. | Mašine su u hali.
+N | die Maschine | die Maschinen | mašina | Die Maschine läuft Tag und Nacht. | Mašina radi dan i noć.
+N | der Schraubenzieher | die Schraubenzieher | šrafciger | Gib mir bitte den Schraubenzieher. | Dodaj mi šrafciger, molim te.
+V | schrauben | hat geschraubt | šrafiti | Er schraubt das Regal an die Wand. | On šrafi policu na zid.
+V | hämmern | hat gehämmert | kucati čekićem | Der Nachbar hämmert schon seit Stunden. | Komšija već satima kuca čekićem.
+V | sägen | hat gesägt | testerisati | Er sägt das Holz. | On testeriše drvo.
+N | das Seil | die Seile | uže | Das Seil ist stark genug. | Uže je dovoljno jako.
+N | der Hebel | die Hebel | poluga, ručica | Ziehen Sie den Hebel nach unten. | Povucite ručicu nadole.
+W | ein- und ausschalten | | uključiti i isključiti | Hier kann man das Gerät ein- und ausschalten. | Ovde se uređaj uključuje i isključuje.
+N | die Bedienung | die Bedienungen | rukovanje; posluga | Die Bedienung der Maschine ist einfach. | Rukovanje mašinom je jednostavno.
+N | die Anleitung | die Anleitungen | uputstvo | Lies zuerst die Anleitung. | Prvo pročitaj uputstvo.
+N | die Gebrauchsanweisung | die Gebrauchsanweisungen | uputstvo za upotrebu | Die Gebrauchsanweisung liegt im Karton. | Uputstvo za upotrebu je u kutiji.
+N | der Arbeitsunfall | die Arbeitsunfälle | povreda na radu | Er hatte einen Arbeitsunfall. | Imao je povredu na radu.
+N | die Schutzbrille | die Schutzbrillen | zaštitne naočare | Beim Schweißen trägt man eine Schutzbrille. | Pri zavarivanju se nose zaštitne naočare.
+N | die Sicherheitsschuhe | (samo mn.) | zaštitne cipele | Im Lager sind Sicherheitsschuhe Pflicht. | U magacinu su zaštitne cipele obavezne.
+N | die Erlaubnis | die Erlaubnisse | dozvola | Ich brauche eine Erlaubnis vom Chef. | Treba mi dozvola od šefa.
+A | verboten | | zabranjen | Rauchen ist hier verboten. | Pušenje je ovde zabranjeno.
+A | erlaubt | | dozvoljen | Parken ist hier nicht erlaubt. | Parkiranje ovde nije dozvoljeno.
+N | der Spind | die Spinde | ormarić (u garderobi) | Meine Jacke ist im Spind. | Jakna mi je u ormariću.
+N | die Stempeluhr | die Stempeluhren | sat za evidenciju radnog vremena | Vergiss nicht, an der Stempeluhr zu stempeln. | Ne zaboravi da se otkucaš na satu.
+N | die Buchhaltung | die Buchhaltungen | računovodstvo | Die Rechnung geht an die Buchhaltung. | Račun ide u računovodstvo.
+N | der Vertrieb | die Vertriebe | prodaja (odeljenje), distribucija | Sie arbeitet im Vertrieb. | Ona radi u prodaji.
+N | der Einkauf | die Einkäufe | nabavka; kupovina | Er leitet den Einkauf. | On vodi nabavku.
+N | die Produktion | die Produktionen | proizvodnja | Die Produktion läuft in drei Schichten. | Proizvodnja radi u tri smene.
+N | die Herstellung | — | izrada, proizvodnja | Die Herstellung dauert zwei Wochen. | Izrada traje dve nedelje.
+V | produzieren | hat produziert | proizvoditi | Die Firma produziert Autoteile. | Firma proizvodi auto-delove.
+N | das Produkt | die Produkte | proizvod | Das Produkt ist neu auf dem Markt. | Proizvod je nov na tržištu.
+N | die Qualitätskontrolle | die Qualitätskontrollen | kontrola kvaliteta | Jedes Teil geht durch die Qualitätskontrolle. | Svaki deo prolazi kontrolu kvaliteta.
+N | die Umschulung | die Umschulungen | prekvalifikacija | Er macht eine Umschulung zum Lokführer. | On ide na prekvalifikaciju za mašinovođu.
+N | die Beförderung | die Beförderungen | unapređenje; prevoz | Sie hat eine Beförderung bekommen. | Dobila je unapređenje.
+N | der Misserfolg | die Misserfolge | neuspeh | Aus Misserfolgen lernt man. | Na neuspesima se uči.
+N | die Tätigkeit | die Tätigkeiten | delatnost, posao | Welche Tätigkeit haben Sie zuletzt ausgeübt? | Koji posao ste poslednje obavljali?
+N | das Arbeitslosengeld | — | naknada za nezaposlene | Er bekommt Arbeitslosengeld. | On prima naknadu za nezaposlene.
+W | in Rente gehen | | otići u penziju | Mein Vater geht nächstes Jahr in Rente. | Moj otac sledeće godine ide u penziju.
+A | pensioniert | | penzionisan | Mein Onkel ist seit zwei Jahren pensioniert. | Moj stric je dve godine u penziji.
+N | das Arbeitsamt | die Arbeitsämter | biro za zapošljavanje | Ich habe einen Termin beim Arbeitsamt. | Imam termin u birou za zapošljavanje.
+V | zusammenarbeiten | hat zusammengearbeitet | sarađivati | Wir arbeiten gut zusammen. | Dobro sarađujemo.
+
+## Telo i zdravlje
+N | der Oberschenkel | die Oberschenkel | butina | Ich habe Muskelkater im Oberschenkel. | Boli me mišić u butini.
+N | der Nerv | die Nerven | nerv; živac | Du gehst mir auf die Nerven. | Ideš mi na živce.
+N | die Rippe | die Rippen | rebro | Er hat sich eine Rippe gebrochen. | Slomio je rebro.
+N | die Glatze | die Glatzen | ćela | Mein Vater hat eine Glatze. | Moj otac je ćelav.
+N | die Locke | die Locken | lokna, kovrdža | Sie hat schöne Locken. | Ona ima lepe lokne.
+N | die Falte | die Falten | bora; nabor | Mit dem Alter bekommt man Falten. | Sa godinama se dobijaju bore.
+N | die Narbe | die Narben | ožiljak | Die Narbe ist kaum zu sehen. | Ožiljak se jedva vidi.
+N | der Krankenschein | die Krankenscheine | potvrda o bolovanju | Ich brauche einen Krankenschein für den Arbeitgeber. | Treba mi potvrda o bolovanju za poslodavca.
+V | krankschreiben | hat krankgeschrieben | otvoriti bolovanje | Der Arzt hat mich eine Woche krankgeschrieben. | Lekar mi je otvorio bolovanje na nedelju dana.
+N | der Chirurg | die Chirurgen | hirurg | Der Chirurg operiert morgen. | Hirurg operiše sutra.
+N | der Pfleger | die Pfleger | negovatelj, medicinski tehničar | Der Pfleger hilft den Patienten. | Negovatelj pomaže pacijentima.
+V | röntgen | hat geröntgt | snimiti rendgenom | Der Arzt röntgt mein Knie. | Lekar mi snima koleno.
+N | der Gips | die Gipse | gips | Mein Arm ist in Gips. | Ruka mi je u gipsu.
+N | die Krücke | die Krücken | štaka | Er geht an Krücken. | On ide na štakama.
+N | der Rollstuhl | die Rollstühle | invalidska kolica | Sie sitzt im Rollstuhl. | Ona je u invalidskim kolicima.
+N | der Ausschlag | die Ausschläge | osip | Ich habe einen Ausschlag am Arm. | Imam osip na ruci.
+N | die Übelkeit | — | mučnina | Ich leide unter Übelkeit. | Imam mučninu.
+V | sich übergeben | hat sich übergeben | povraćati | Das Kind hat sich übergeben. | Dete je povraćalo.
+N | die Verstopfung | die Verstopfungen | zatvor (probava) | Gegen Verstopfung hilft viel Wasser. | Protiv zatvora pomaže mnogo vode.
+N | der Schwindel | — | vrtoglavica | Ich leide oft unter Schwindel. | Često imam vrtoglavicu.
+N | die Ohnmacht | die Ohnmachten | nesvestica | Sie ist in Ohnmacht gefallen. | Pala je u nesvest.
+N | der Krampf | die Krämpfe | grč | Ich habe einen Krampf im Bein. | Imam grč u nozi.
+N | die Migräne | die Migränen | migrena | Sie hat oft Migräne. | Ona često ima migrenu.
+V | schmerzen | hat geschmerzt | boleti | Mein Rücken schmerzt. | Bole me leđa.
+N | die Heilung | die Heilungen | izlečenje, zarastanje | Die Heilung dauert einige Wochen. | Zarastanje traje nekoliko nedelja.
+V | gebären | hat geboren | roditi | Sie hat ein gesundes Kind geboren. | Rodila je zdravo dete.
+V | stillen | hat gestillt | dojiti | Sie stillt ihr Baby. | Ona doji bebu.
+N | die Hebamme | die Hebammen | babica | Die Hebamme hilft bei der Geburt. | Babica pomaže pri porođaju.
+N | der Schnuller | die Schnuller | cucla | Das Baby sucht seinen Schnuller. | Beba traži cuclu.
+N | der Atem | — | dah | Halten Sie bitte den Atem an. | Zadržite dah, molim.
+A | nüchtern | | natašte; trezan | Kommen Sie bitte nüchtern zur Blutabnahme. | Dođite natašte na vađenje krvi.
+N | die Droge | die Drogen | droga | Drogen sind gefährlich. | Droge su opasne.
+N | der Therapeut | die Therapeuten | terapeut | Der Therapeut zeigt mir Übungen. | Terapeut mi pokazuje vežbe.
+N | die Krankengymnastik | — | fizikalna terapija | Der Arzt hat mir Krankengymnastik verschrieben. | Lekar mi je prepisao fizikalnu terapiju.
+N | die Kur | die Kuren | banjsko lečenje | Nach der Operation fährt er zur Kur. | Posle operacije ide u banju.
+N | die Blutprobe | die Blutproben | uzorak krvi | Die Blutprobe wird im Labor untersucht. | Uzorak krvi se ispituje u laboratoriji.
+N | der Puls | die Pulse | puls | Die Schwester misst den Puls. | Sestra meri puls.
+N | der Befund | die Befunde | nalaz | Der Befund ist negativ. | Nalaz je negativan.
+N | die Sprechstundenhilfe | die Sprechstundenhilfen | medicinska sestra u ordinaciji | Die Sprechstundenhilfe gibt mir einen Termin. | Sestra mi zakazuje termin.
+N | die Station | die Stationen | odeljenje (bolnice); stanica | Er liegt auf Station drei. | On leži na trećem odeljenju.
+N | die Besuchszeit | die Besuchszeiten | vreme posete | Die Besuchszeit ist von 14 bis 18 Uhr. | Vreme posete je od 14 do 18 časova.
+N | das Altersheim | die Altersheime | starački dom | Meine Oma lebt im Altersheim. | Moja baka živi u staračkom domu.
+A | stumm | | nem; bez zvuka | Stell bitte dein Handy stumm. | Utišaj telefon, molim te.
+A | gehörlos | | gluv (potpuno) | Sie ist von Geburt an gehörlos. | Ona je gluva od rođenja.
+N | der Zahnersatz | — | zubna nadoknada (proteza) | Der Zahnersatz ist teuer. | Zubna nadoknada je skupa.
+N | die Zahnspange | die Zahnspangen | proteza za ispravljanje zuba | Meine Tochter trägt eine Zahnspange. | Moja ćerka nosi protezu.
+N | die Füllung | die Füllungen | plomba; nadev | Ich brauche eine neue Füllung. | Treba mi nova plomba.
+N | die Karies | — | karijes | Zucker verursacht Karies. | Šećer izaziva karijes.
+N | die Hygiene | — | higijena | Hygiene ist im Krankenhaus sehr wichtig. | Higijena je u bolnici veoma važna.
+N | der Nagellack | die Nagellacke | lak za nokte | Der Nagellack ist rot. | Lak za nokte je crven.
+N | die Schminke | — | šminka | Sie trägt wenig Schminke. | Ona nosi malo šminke.
+N | die Nagelschere | die Nagelscheren | makazice za nokte | Wo ist die Nagelschere? | Gde su makazice za nokte?
+N | die Pinzette | die Pinzetten | pinceta | Mit der Pinzette ziehe ich den Splitter heraus. | Pincetom vadim trn.
+N | die Watte | — | vata | Ich brauche etwas Watte. | Treba mi malo vate.
+N | der Erste-Hilfe-Kasten | die Erste-Hilfe-Kästen | kutija prve pomoći | Der Erste-Hilfe-Kasten hängt neben der Tür. | Kutija prve pomoći visi pored vrata.
+N | die Klinik | die Kliniken | klinika | Er wurde in die Klinik gebracht. | Odvezen je na kliniku.

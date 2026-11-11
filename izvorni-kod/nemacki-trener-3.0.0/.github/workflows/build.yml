@@ -1,0 +1,35 @@
+# Ako projekat staviš na GitHub, ovo samo pravi Linux binarni fajl i Windows instalaciju.
+# Pokreće se kad napraviš oznaku verzije (git tag v3.0.0 && git push --tags) ili ručno.
+name: build
+
+on:
+  push:
+    tags: ["v*"]
+  workflow_dispatch:
+
+jobs:
+  linux:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: sudo apt-get update && sudo apt-get install -y libfontconfig1-dev libxkbcommon-dev
+      - run: cargo test --release --locked
+      - run: cargo build --release --locked
+      - run: tar -czf nemacki-trener-linux-x86_64.tar.gz -C target/release nemacki-trener
+      - uses: actions/upload-artifact@v4
+        with:
+          name: linux
+          path: nemacki-trener-linux-x86_64.tar.gz
+
+  windows:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: cargo test --release --locked
+      - name: Instalacija (Inno Setup je već na GitHub mašinama)
+        shell: pwsh
+        run: packaging\windows\napravi-instalaciju.ps1
+      - uses: actions/upload-artifact@v4
+        with:
+          name: windows
+          path: dist/*

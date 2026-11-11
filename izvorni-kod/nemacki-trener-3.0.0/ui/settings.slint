@@ -1,0 +1,95 @@
+import { ComboBox } from "std-widgets.slint";
+import { Theme } from "theme.slint";
+import { Btn, Card, Label, Muted } from "widgets.slint";
+
+export global Settings {
+    in-out property <int> theme-index;       // 0 svetla, 1 tamna
+    in property <string> version;
+    in property <string> db-path;
+    in property <string> user-dir;
+    in property <string> counts-text;
+
+    callback theme-changed(index: int);
+    callback open-data-folder();
+}
+
+component Section inherits Card {
+    in property <string> title;
+    height: body.preferred-height;
+    body := VerticalLayout {
+        padding: 18px;
+        spacing: 10px;
+        Text {
+            text: root.title;
+            color: Theme.text;
+            font-size: 16px;
+            font-weight: 700;
+        }
+        @children
+    }
+}
+
+export component SettingsPage inherits Rectangle {
+    background: Theme.bg;
+    VerticalLayout {
+        padding: Theme.pad;
+        spacing: Theme.pad;
+        alignment: start;
+
+        Section {
+            title: "Izgled";
+            HorizontalLayout {
+                spacing: 10px;
+                height: 36px;
+                alignment: start;
+                Label { text: "Tema:"; }
+                ComboBox {
+                    width: 180px;
+                    model: ["Svetla", "Tamna"];
+                    current-index <=> Settings.theme-index;
+                    selected => { Settings.theme-changed(Settings.theme-index); }
+                }
+            }
+        }
+
+        Section {
+            title: "Rečnik i podaci";
+            Muted { text: Settings.counts-text; wrap: word-wrap; }
+            Label { text: "Baza (rečnik + tvoj napredak):"; }
+            Text {
+                text: Settings.db-path;
+                color: Theme.accent;
+                font-size: 13px;
+                wrap: char-wrap;
+            }
+            Muted {
+                text: "Da preneseš napredak iz starije (Python) verzije, zatvori aplikaciju i prekopiraj svoj nemacki_recnik.db preko ovog fajla.";
+                wrap: word-wrap;
+            }
+            Label { text: "Tvoje dodatne liste reči (.txt, isti format kao a1_1.txt):"; }
+            Text {
+                text: Settings.user-dir;
+                color: Theme.accent;
+                font-size: 13px;
+                wrap: char-wrap;
+            }
+            HorizontalLayout {
+                alignment: start;
+                height: 36px;
+                Btn {
+                    text: "Otvori folder sa podacima";
+                    clicked => { Settings.open-data-folder(); }
+                }
+            }
+        }
+
+        Section {
+            title: "O programu";
+            Label { text: "Nemački Trener " + Settings.version; }
+            Muted {
+                text: "Srpsko-nemački rečnik po nivoima A1–B2, kartice sa ponavljanjem po kutijama i vežba roda imenica.\nNapisano u Rustu, interfejs: Slint.";
+                wrap: word-wrap;
+            }
+        }
+    }
+}

@@ -1,0 +1,81 @@
+import { Theme } from "theme.slint";
+
+// Mala oznaka nivoa (A1, A2 ...)
+export component Badge inherits Rectangle {
+    in property <string> level;
+    in property <string> label: level == "X" ? "Dod." : (level == "" ? "—" : level);
+    width: 42px;
+    height: 22px;
+    border-radius: 11px;
+    background: Theme.level-color(level);
+    Text {
+        text: root.label;
+        color: white;
+        font-size: 12px;
+        font-weight: 700;
+        horizontal-alignment: center;
+        vertical-alignment: center;
+    }
+}
+
+// Dugme u bojama teme. kind: "primary", "ok", "bad", "plain"
+export component Btn inherits Rectangle {
+    in property <string> text;
+    in property <string> kind: "plain";
+    in property <bool> enabled: true;
+    in property <length> font-size: 14px;
+    callback clicked();
+
+    property <color> base: kind == "primary" ? Theme.accent-bg
+        : kind == "ok" ? Theme.ok-bg
+        : kind == "bad" ? Theme.bad-bg
+        : Theme.surface;
+    property <bool> filled: kind != "plain";
+
+    min-width: label.preferred-width + 28px;
+    height: 36px;
+    horizontal-stretch: 0;
+    border-radius: Theme.radius;
+    border-width: filled ? 0px : 1px;
+    border-color: Theme.border;
+    background: !root.enabled ? (Theme.dark ? #33363c : #e3e6eb)
+        : ta.pressed ? base.darker(0.15)
+        : ta.has-hover ? (filled ? base.brighter(0.12) : Theme.hover)
+        : base;
+    animate background { duration: 90ms; }
+
+    label := Text {
+        text: root.text;
+        color: !root.enabled ? Theme.muted : (root.filled ? Theme.accent-text : Theme.text);
+        font-size: root.font-size;
+        font-weight: root.filled ? 600 : 500;
+        horizontal-alignment: center;
+        vertical-alignment: center;
+    }
+
+    ta := TouchArea {
+        enabled: root.enabled;
+        mouse-cursor: pointer;
+        clicked => { root.clicked(); }
+    }
+}
+
+// Kartica (bela površina sa okvirom)
+export component Card inherits Rectangle {
+    background: Theme.surface;
+    border-radius: 12px;
+    border-width: 1px;
+    border-color: Theme.border;
+}
+
+export component Label inherits Text {
+    color: Theme.text;
+    font-size: 14px;
+    vertical-alignment: center;
+}
+
+export component Muted inherits Text {
+    color: Theme.muted;
+    font-size: 13px;
+    vertical-alignment: center;
+}

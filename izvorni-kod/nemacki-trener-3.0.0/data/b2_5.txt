@@ -1,0 +1,176 @@
+# Nivo B2 — deo 5
+
+## Mišljenje i apstraktni pojmovi
+N | die Auswirkung | die Auswirkungen | posledica, uticaj | Die Auswirkungen sind noch nicht klar. | Posledice još nisu jasne.
+N | der Einfluss | die Einflüsse | uticaj | Die Medien haben großen Einfluss. | Mediji imaju veliki uticaj.
+N | der Stellenwert | — | značaj, mesto (u vrednostima) | Familie hat bei uns einen hohen Stellenwert. | Porodica kod nas ima veliki značaj.
+N | der Aspekt | die Aspekte | aspekt | Wir müssen alle Aspekte berücksichtigen. | Moramo uzeti u obzir sve aspekte.
+N | der Gesichtspunkt | die Gesichtspunkte | gledište | Unter diesem Gesichtspunkt hast du recht. | Sa tog gledišta si u pravu.
+N | die Perspektive | die Perspektiven | perspektiva | Aus meiner Perspektive ist das anders. | Iz moje perspektive to je drugačije.
+N | die Einstellung | die Einstellungen | stav; podešavanje | Er hat eine positive Einstellung zur Arbeit. | Ima pozitivan stav prema poslu.
+N | die Haltung | die Haltungen | stav; držanje | Wie ist Ihre Haltung zu diesem Thema? | Kakav je vaš stav o ovoj temi?
+N | die Überzeugung | die Überzeugungen | uverenje | Das ist meine feste Überzeugung. | To je moje čvrsto uverenje.
+N | der Zweifel | die Zweifel | sumnja | Ich habe Zweifel an seiner Ehrlichkeit. | Sumnjam u njegovu iskrenost.
+N | der Widerspruch | die Widersprüche | protivrečnost; prigovor | Das ist ein Widerspruch. | To je protivrečnost.
+N | die Behauptung | die Behauptungen | tvrdnja | Diese Behauptung ist falsch. | Ova tvrdnja je netačna.
+N | der Beweis | die Beweise | dokaz | Es gibt keine Beweise. | Nema dokaza.
+N | die Begründung | die Begründungen | obrazloženje | Ihre Begründung überzeugt mich nicht. | Vaše obrazloženje me ne ubeđuje.
+N | die Schlussfolgerung | die Schlussfolgerungen | zaključak | Welche Schlussfolgerung ziehen Sie daraus? | Koji zaključak izvlačite iz toga?
+N | das Fazit | die Fazits | zaključak (rezime) | Mein Fazit: Es hat sich gelohnt. | Moj zaključak: isplatilo se.
+N | die Konsequenz | die Konsequenzen | posledica | Das hat ernste Konsequenzen. | To ima ozbiljne posledice.
+N | die Herausforderung | die Herausforderungen | izazov | Das ist eine große Herausforderung. | To je veliki izazov.
+N | das Hindernis | die Hindernisse | prepreka | Die Sprache ist ein Hindernis. | Jezik je prepreka.
+N | der Fortschritt | die Fortschritte | napredak | Du machst große Fortschritte. | Mnogo napreduješ.
+N | der Rückschritt | die Rückschritte | nazadovanje | Das wäre ein Rückschritt. | To bi bilo nazadovanje.
+N | die Veränderung | die Veränderungen | promena | Veränderungen brauchen Zeit. | Promenama je potrebno vreme.
+N | die Tendenz | die Tendenzen | tendencija | Die Tendenz ist steigend. | Tendencija je rastuća.
+N | der Zustand | die Zustände | stanje | Der Zustand des Patienten ist stabil. | Stanje pacijenta je stabilno.
+N | die Umstände | (samo mn.) | okolnosti | Unter diesen Umständen kann ich nicht kommen. | Pod ovim okolnostima ne mogu da dođem.
+N | der Rahmen | die Rahmen | okvir | Im Rahmen des Projekts machen wir eine Umfrage. | U okviru projekta pravimo anketu.
+N | der Bereich | die Bereiche | oblast | Er arbeitet im Bereich Logistik. | Radi u oblasti logistike.
+N | der Hintergrund | die Hintergründe | pozadina | Was ist der Hintergrund der Entscheidung? | Šta je pozadina odluke?
+N | die Voraussicht | — | predviđanje, predostrožnost | Mit Voraussicht hätte man das vermeiden können. | Sa više predostrožnosti to je moglo da se izbegne.
+N | die Absprache | die Absprachen | dogovor | Das war gegen unsere Absprache. | To je bilo protiv našeg dogovora.
+N | der Kompromiss | die Kompromisse | kompromis | Wir haben einen Kompromiss gefunden. | Našli smo kompromis.
+N | das Anliegen | die Anliegen | molba, briga | Was ist Ihr Anliegen? | Šta vas dovodi? / Koja je vaša molba?
+N | die Verbesserung | die Verbesserungen | poboljšanje | Das ist eine deutliche Verbesserung. | To je jasno poboljšanje.
+N | die Verschlechterung | die Verschlechterungen | pogoršanje | Es gibt eine Verschlechterung der Lage. | Dolazi do pogoršanja situacije.
+N | der Nutzen | — | korist | Welchen Nutzen hat das? | Kakva je korist od toga?
+N | der Aufwand | — | trud, utrošak | Der Aufwand lohnt sich nicht. | Trud se ne isplati.
+N | die Wahrscheinlichkeit | die Wahrscheinlichkeiten | verovatnoća | Die Wahrscheinlichkeit ist gering. | Verovatnoća je mala.
+N | die Notwendigkeit | die Notwendigkeiten | neophodnost | Ich sehe keine Notwendigkeit dafür. | Ne vidim potrebu za tim.
+N | die Vorgehensweise | die Vorgehensweisen | postupak, način rada | Die Vorgehensweise ist klar. | Postupak je jasan.
+N | das Verfahren | die Verfahren | postupak, procedura | Das Verfahren dauert lange. | Postupak dugo traje.
+N | die Grundlage | die Grundlagen | osnova | Das ist die Grundlage für unsere Arbeit. | To je osnova našeg rada.
+N | das Prinzip | die Prinzipien | princip | Das ist eine Frage des Prinzips. | To je stvar principa.
+N | der Wert | die Werte | vrednost | Ehrlichkeit ist ein wichtiger Wert. | Iskrenost je važna vrednost.
+N | das Ideal | die Ideale | ideal | Er kämpft für seine Ideale. | Bori se za svoje ideale.
+N | die Gerechtigkeit | — | pravda | Sie kämpft für Gerechtigkeit. | Bori se za pravdu.
+N | die Freiheit | die Freiheiten | sloboda | Freiheit ist ein hohes Gut. | Sloboda je veliko dobro.
+N | die Würde | — | dostojanstvo | Die Würde des Menschen ist unantastbar. | Ljudsko dostojanstvo je neprikosnoveno.
+V | berücksichtigen | hat berücksichtigt | uzeti u obzir | Wir berücksichtigen Ihre Wünsche. | Uzimamo u obzir vaše želje.
+V | beurteilen | hat beurteilt | proceniti, oceniti | Das kann ich nicht beurteilen. | To ne mogu da procenim.
+V | bewerten | hat bewertet | oceniti | Die Kunden bewerten das Produkt positiv. | Kupci ocenjuju proizvod pozitivno.
+V | abwägen | hat abgewogen | odmeriti | Wir müssen die Vor- und Nachteile abwägen. | Moramo da odmerimo prednosti i mane.
+V | einschätzen | hat eingeschätzt | proceniti | Wie schätzen Sie die Situation ein? | Kako procenjujete situaciju?
+V | infrage stellen | hat infrage gestellt | dovesti u pitanje | Er stellt alles infrage. | Sve dovodi u pitanje.
+V | in Frage kommen | ist in Frage gekommen | dolaziti u obzir | Das kommt nicht in Frage. | To ne dolazi u obzir.
+V | eine Rolle spielen | hat eine Rolle gespielt | igrati ulogu | Geld spielt keine Rolle. | Novac ne igra ulogu.
+V | zur Verfügung stehen | hat zur Verfügung gestanden | biti na raspolaganju | Ich stehe Ihnen gern zur Verfügung. | Rado vam stojim na raspolaganju.
+V | in Kauf nehmen | hat in Kauf genommen | pomiriti se sa (manom) | Für den Job nehme ich lange Fahrzeiten in Kauf. | Zbog posla pristajem na duga putovanja.
+V | Bezug nehmen auf | hat Bezug genommen | pozvati se na (+ Akk) | Ich nehme Bezug auf Ihr Schreiben. | Pozivam se na vaš dopis.
+V | zum Ausdruck bringen | hat zum Ausdruck gebracht | izraziti | Er brachte seine Enttäuschung zum Ausdruck. | Izrazio je svoje razočaranje.
+V | Stellung nehmen zu | hat Stellung genommen | zauzeti stav o (+ Dat) | Bitte nehmen Sie zu dem Problem Stellung. | Molim zauzmite stav o problemu.
+V | Kritik üben an | hat Kritik geübt | kritikovati (+ Akk) | Er übt Kritik an der Regierung. | Kritikuje vladu.
+V | eine Entscheidung treffen | hat eine Entscheidung getroffen | doneti odluku | Wir müssen bald eine Entscheidung treffen. | Moramo uskoro da donesemo odluku.
+V | Maßnahmen ergreifen | hat Maßnahmen ergriffen | preduzeti mere | Die Stadt ergreift Maßnahmen gegen den Lärm. | Grad preduzima mere protiv buke.
+V | sich herausstellen | hat sich herausgestellt | ispostaviti se | Es hat sich herausgestellt, dass er recht hatte. | Ispostavilo se da je bio u pravu.
+V | zurückführen auf | hat zurückgeführt | pripisati (uzrok) (+ Akk) | Der Unfall ist auf Müdigkeit zurückzuführen. | Nesreća se može pripisati umoru.
+V | hervorheben | hat hervorgehoben | istaći | Ich möchte zwei Punkte hervorheben. | Želim da istaknem dve tačke.
+V | verdeutlichen | hat verdeutlicht | razjasniti, ilustrovati | Das Beispiel verdeutlicht das Problem. | Primer ilustruje problem.
+V | widerlegen | hat widerlegt | opovrgnuti | Die Studie widerlegt diese These. | Studija opovrgava ovu tezu.
+V | rechtfertigen | hat gerechtfertigt | opravdati | Wie rechtfertigst du das? | Kako to opravdavaš?
+A | entscheidend | | odlučujući | Das ist der entscheidende Punkt. | To je odlučujuća tačka.
+A | ausschlaggebend | | presudan | Der Preis war ausschlaggebend. | Cena je bila presudna.
+A | grundsätzlich | | načelan; u principu | Grundsätzlich bin ich einverstanden. | U principu se slažem.
+A | vorrangig | | prioritetan | Das ist ein vorrangiges Ziel. | To je prioritetan cilj.
+A | zweifelhaft | | sumnjiv, upitan | Das Ergebnis ist zweifelhaft. | Rezultat je upitan.
+A | fragwürdig | | upitan, sumnjiv | Das ist eine fragwürdige Methode. | To je upitna metoda.
+A | berechtigt | | opravdan | Ihre Kritik ist berechtigt. | Vaša kritika je opravdana.
+A | nachvollziehbar | | razumljiv, shvatljiv | Ihre Entscheidung ist nachvollziehbar. | Vaša odluka je razumljiva.
+A | widersprüchlich | | protivrečan | Die Aussagen sind widersprüchlich. | Izjave su protivrečne.
+A | vergleichbar | | uporediv | Die Situation ist nicht vergleichbar. | Situacija nije uporediva.
+A | zutreffend | | tačan, odgovarajući | Die Beschreibung ist zutreffend. | Opis je tačan.
+A | vernünftig | | razuman | Das ist ein vernünftiger Vorschlag. | To je razuman predlog.
+A | unvermeidlich | | neizbežan | Die Veränderung ist unvermeidlich. | Promena je neizbežna.
+A | wirksam | | delotvoran | Die Maßnahme war wirksam. | Mera je bila delotvorna.
+A | effizient | | efikasan | Wir müssen effizienter arbeiten. | Moramo efikasnije da radimo.
+S | Meiner Ansicht nach … | Po mom mišljenju …
+S | Ich bin davon überzeugt, dass … | Uveren sam da …
+S | Es ist fraglich, ob … | Pitanje je da li …
+S | Einerseits ist das richtig, andererseits … | S jedne strane to je tačno, s druge …
+S | Ein wichtiges Argument dafür ist … | Važan argument za to je …
+S | Dagegen spricht, dass … | Protiv toga govori to što …
+S | Im Vergleich zu … | U poređenju sa …
+S | Das hängt in erster Linie davon ab, ob … | To prvenstveno zavisi od toga da li …
+
+## Opšti glagoli
+V | abhängen von | hat abgehangen | zavisiti od (+ Dat) | Das hängt vom Wetter ab. | To zavisi od vremena.
+V | achten auf | hat geachtet | paziti na (+ Akk) | Achten Sie auf die Stufe! | Pazite na stepenik!
+V | sich anmelden für | hat sich angemeldet | prijaviti se za (+ Akk) | Ich melde mich für den Kurs an. | Prijavljujem se za kurs.
+V | antworten auf | hat geantwortet | odgovoriti na (+ Akk) | Er hat nicht auf meine Frage geantwortet. | Nije odgovorio na moje pitanje.
+V | sich bedanken für | hat sich bedankt | zahvaliti se za (+ Akk) | Ich bedanke mich für die Hilfe. | Zahvaljujem se na pomoći.
+V | beitragen zu | hat beigetragen | doprineti (+ Dat) | Jeder kann dazu beitragen. | Svako može da doprinese tome.
+V | bestehen auf | hat bestanden | insistirati na (+ Dat) | Er besteht auf einer Antwort. | Insistira na odgovoru.
+V | sich beteiligen an | hat sich beteiligt | učestvovati u (+ Dat) | Viele haben sich an der Aktion beteiligt. | Mnogi su učestvovali u akciji.
+V | sich bewerben bei | hat sich beworben | konkurisati kod (+ Dat) | Ich habe mich bei der Bahn beworben. | Konkurisao sam na železnici.
+V | bitten um | hat gebeten | moliti za (+ Akk) | Ich bitte um Ihre Hilfe. | Molim za vašu pomoć.
+V | denken an | hat gedacht | misliti na (+ Akk) | Denk an den Termin! | Misli na termin!
+V | diskutieren über | hat diskutiert | diskutovati o (+ Akk) | Wir diskutieren über das Problem. | Diskutujemo o problemu.
+V | sich eignen für | hat sich geeignet | biti pogodan za (+ Akk) | Er eignet sich gut für die Stelle. | Dobro odgovara za to mesto.
+V | sich einigen auf | hat sich geeinigt | dogovoriti se oko (+ Akk) | Wir haben uns auf einen Preis geeinigt. | Dogovorili smo se oko cene.
+V | sich entschließen zu | hat sich entschlossen | odlučiti se na (+ Akk) | Sie hat sich zu einem Umzug entschlossen. | Odlučila se na selidbu.
+V | sich entschuldigen für | hat sich entschuldigt | izviniti se za (+ Akk) | Er entschuldigt sich für die Verspätung. | Izvinjava se zbog kašnjenja.
+V | sich erholen von | hat sich erholt | oporaviti se od (+ Dat) | Ich habe mich von der Grippe erholt. | Oporavio sam se od gripa.
+V | sich erinnern an | hat sich erinnert | sećati se (+ Akk) | Ich erinnere mich gern an den Urlaub. | Rado se sećam odmora.
+V | sich erkundigen nach | hat sich erkundigt | raspitati se o (+ Dat) | Ich erkundige mich nach dem Weg. | Raspitujem se za put.
+V | fragen nach | hat gefragt | pitati za (+ Dat) | Er hat nach dir gefragt. | Pitao je za tebe.
+V | gehören zu | hat gehört | pripadati, spadati u (+ Dat) | Das gehört zu meinen Aufgaben. | To spada u moje zadatke.
+V | glauben an | hat geglaubt | verovati u (+ Akk) | Ich glaube an dich. | Verujem u tebe.
+V | gratulieren zu | hat gratuliert | čestitati (+ Dat) | Ich gratuliere dir zur Hochzeit. | Čestitam ti venčanje.
+V | halten von | hat gehalten | misliti o (+ Dat) | Was hältst du von der Idee? | Šta misliš o toj ideji?
+V | halten für | hat gehalten | smatrati (za) (+ Akk) | Ich halte ihn für einen Experten. | Smatram ga stručnjakom.
+V | helfen bei | hat geholfen | pomoći u (+ Dat) | Kannst du mir beim Umzug helfen? | Možeš li da mi pomogneš pri selidbi?
+V | hoffen auf | hat gehofft | nadati se (+ Dat) | Wir hoffen auf besseres Wetter. | Nadamo se boljem vremenu.
+V | sich informieren über | hat sich informiert | informisati se o (+ Akk) | Ich informiere mich über die Kurse. | Informišem se o kursevima.
+V | sich interessieren für | hat sich interessiert | interesovati se za (+ Akk) | Ich interessiere mich für Geschichte. | Interesuje me istorija.
+V | kämpfen für | hat gekämpft | boriti se za (+ Akk) | Sie kämpfen für ihre Rechte. | Bore se za svoja prava.
+V | sich konzentrieren auf | hat sich konzentriert | koncentrisati se na (+ Akk) | Ich konzentriere mich auf die Arbeit. | Koncentrišem se na posao.
+V | lachen über | hat gelacht | smejati se (+ Dat) | Alle lachen über den Witz. | Svi se smeju vicu.
+V | leiden unter | hat gelitten | patiti zbog (+ Dat) | Viele leiden unter dem Lärm. | Mnogi pate zbog buke.
+V | rechnen mit | hat gerechnet | računati sa (+ Dat) | Wir rechnen mit einer Verspätung. | Računamo na kašnjenje.
+V | reden über | hat geredet | pričati o (+ Akk) | Lass uns über etwas anderes reden. | Hajde da pričamo o nečemu drugom.
+V | riechen nach | hat gerochen | mirisati na (+ Dat) | Es riecht nach Kaffee. | Miriše na kafu.
+V | schmecken nach | hat geschmeckt | imati ukus (+ Dat) | Das schmeckt nach Zitrone. | Ima ukus limuna.
+V | sprechen mit | hat gesprochen | razgovarati sa (+ Dat) | Ich muss mit dem Chef sprechen. | Moram da razgovaram sa šefom.
+V | sterben an | ist gestorben | umreti od (+ Dat) | Er starb an einem Herzinfarkt. | Umro je od srčanog udara.
+V | sich streiten über | hat sich gestritten | svađati se oko (+ Akk) | Sie streiten sich über Geld. | Svađaju se oko novca.
+V | teilnehmen an | hat teilgenommen | učestvovati u (+ Dat) | Ich nehme an der Konferenz teil. | Učestvujem na konferenciji.
+V | telefonieren mit | hat telefoniert | razgovarati telefonom sa (+ Dat) | Ich telefoniere mit meiner Mutter. | Razgovaram telefonom sa majkom.
+V | träumen von | hat geträumt | sanjati o (+ Dat) | Ich träume von einem Haus am Meer. | Sanjam o kući na moru.
+V | überreden zu | hat überredet | nagovoriti na (+ Akk) | Sie hat mich zu dem Ausflug überredet. | Nagovorila me je na izlet.
+V | sich unterhalten über | hat sich unterhalten | razgovarati o (+ Akk) | Wir unterhalten uns über Politik. | Razgovaramo o politici.
+V | sich verabschieden von | hat sich verabschiedet | oprostiti se od (+ Dat) | Ich verabschiede mich von den Kollegen. | Opraštam se od kolega.
+V | vergleichen mit | hat verglichen | uporediti sa (+ Dat) | Vergleiche das nicht mit früher! | Ne upoređuj to sa ranijim!
+V | sich verlieben in | hat sich verliebt | zaljubiti se u (+ Akk) | Er hat sich in sie verliebt. | Zaljubio se u nju.
+V | verstehen von | hat verstanden | razumeti se u (+ Akk) | Er versteht viel von Autos. | Mnogo se razume u automobile.
+V | sich vorbereiten auf | hat sich vorbereitet | pripremiti se za (+ Akk) | Ich bereite mich auf die Prüfung vor. | Pripremam se za ispit.
+V | warnen vor | hat gewarnt | upozoriti na (+ Akk) | Die Polizei warnt vor Glatteis. | Policija upozorava na poledicu.
+V | warten auf | hat gewartet | čekati (+ Akk) | Ich warte auf den Zug. | Čekam voz.
+V | sich wundern über | hat sich gewundert | čuditi se (+ Dat) | Ich wundere mich über seine Reaktion. | Čudim se njegovoj reakciji.
+V | zweifeln an | hat gezweifelt | sumnjati u (+ Akk) | Ich zweifle an seiner Ehrlichkeit. | Sumnjam u njegovu iskrenost.
+V | ablenken | hat abgelenkt | odvratiti pažnju | Das Handy lenkt mich ab. | Mobilni mi odvlači pažnju.
+V | auffallen | ist aufgefallen | upasti u oči | Mir ist etwas aufgefallen. | Nešto mi je upalo u oči.
+V | auslösen | hat ausgelöst | izazvati, pokrenuti | Der Fehler hat einen Alarm ausgelöst. | Greška je pokrenula alarm.
+V | bewältigen | hat bewältigt | savladati | Wir haben die Krise bewältigt. | Savladali smo krizu.
+V | durchführen | hat durchgeführt | sprovesti | Die Kontrolle wird regelmäßig durchgeführt. | Kontrola se redovno sprovodi.
+V | ermöglichen | hat ermöglicht | omogućiti | Das Stipendium ermöglicht ihr das Studium. | Stipendija joj omogućava studije.
+V | erleichtern | hat erleichtert | olakšati | Die App erleichtert die Arbeit. | Aplikacija olakšava posao.
+V | erschweren | hat erschwert | otežati | Der Regen erschwert die Arbeit. | Kiša otežava posao.
+V | gewährleisten | hat gewährleistet | garantovati, obezbediti | Die Sicherheit muss gewährleistet sein. | Bezbednost mora biti obezbeđena.
+V | vermitteln | hat vermittelt | posredovati; preneti (znanje) | Die Agentur vermittelt Wohnungen. | Agencija posreduje u iznajmljivanju stanova.
+V | verfügen über | hat verfügt | raspolagati (+ Akk) | Er verfügt über viel Erfahrung. | Raspolaže velikim iskustvom.
+V | sich ergeben aus | hat sich ergeben | proizaći iz (+ Dat) | Daraus ergeben sich neue Probleme. | Iz toga proizlaze novi problemi.
+V | übernehmen | hat übernommen | preuzeti | Ich übernehme die Verantwortung. | Preuzimam odgovornost.
+V | unterbrechen | hat unterbrochen | prekinuti | Darf ich kurz unterbrechen? | Smem li nakratko da prekinem?
+V | unterscheiden | hat unterschieden | razlikovati | Man muss zwischen den beiden unterscheiden. | Treba razlikovati to dvoje.
+V | sich unterscheiden von | hat sich unterschieden | razlikovati se od (+ Dat) | Die Modelle unterscheiden sich kaum. | Modeli se jedva razlikuju.
+V | verwechseln | hat verwechselt | pomešati, zameniti | Ich verwechsle die beiden Wörter immer. | Uvek mešam te dve reči.
+V | vorkommen | ist vorgekommen | dešavati se; postojati | Das kommt öfter vor. | To se češće dešava.
+V | zögern | hat gezögert | oklevati | Er zögerte keinen Moment. | Nije oklevao ni trenutka.
+V | zurechtkommen mit | ist zurechtgekommen | snaći se sa (+ Dat) | Ich komme mit dem neuen Programm gut zurecht. | Dobro se snalazim sa novim programom.
+V | zusammenhängen mit | hat zusammengehangen | biti povezan sa (+ Dat) | Das hängt mit dem Wetter zusammen. | To je povezano sa vremenom.
+S | Ich warte schon seit einer Stunde auf dich. | Čekam te već sat vremena.
+S | Worauf wartest du noch? | Šta još čekaš?
+S | Woran denkst du? | Na šta misliš?
+S | Darüber haben wir schon gesprochen. | O tome smo već razgovarali.

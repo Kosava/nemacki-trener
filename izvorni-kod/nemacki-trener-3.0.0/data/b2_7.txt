@@ -1,0 +1,149 @@
+# Nivo B2 — deo 7: stalni izrazi i idiomi
+
+## Opšti glagoli
+V | Abschied nehmen von | hat Abschied genommen | oprostiti se od (+ Dat) | Wir nehmen Abschied von unserem Kollegen. | Opraštamo se od kolege.
+V | Anspruch haben auf | hat Anspruch gehabt | imati pravo na (+ Akk) | Sie haben Anspruch auf Urlaub. | Imate pravo na odmor.
+V | Antwort geben auf | hat Antwort gegeben | dati odgovor na (+ Akk) | Er gab keine Antwort auf meine Frage. | Nije dao odgovor na moje pitanje.
+V | einen Antrag stellen | hat einen Antrag gestellt | podneti zahtev | Ich stelle einen Antrag auf Elterngeld. | Podnosim zahtev za roditeljski dodatak.
+V | Bescheid geben | hat Bescheid gegeben | obavestiti | Geben Sie mir bitte Bescheid. | Molim obavestite me.
+V | in Betracht ziehen | hat in Betracht gezogen | uzeti u razmatranje | Wir ziehen alle Möglichkeiten in Betracht. | Uzimamo u obzir sve mogućnosti.
+V | in Betrieb nehmen | hat in Betrieb genommen | pustiti u rad | Die neue Strecke wurde in Betrieb genommen. | Nova pruga je puštena u saobraćaj.
+V | außer Betrieb sein | ist außer Betrieb gewesen | biti van upotrebe | Der Aufzug ist außer Betrieb. | Lift ne radi.
+V | einen Beitrag leisten | hat einen Beitrag geleistet | dati doprinos | Jeder kann einen Beitrag leisten. | Svako može da doprinese.
+V | Bescheid wissen | hat Bescheid gewusst | biti upućen, znati | Weißt du darüber Bescheid? | Znaš li nešto o tome?
+V | Druck ausüben auf | hat Druck ausgeübt | vršiti pritisak na (+ Akk) | Der Chef übt Druck auf die Mitarbeiter aus. | Šef vrši pritisak na zaposlene.
+V | Einfluss nehmen auf | hat Einfluss genommen | uticati na (+ Akk) | Die Eltern nehmen Einfluss auf die Berufswahl. | Roditelji utiču na izbor zanimanja.
+V | in Erfüllung gehen | ist in Erfüllung gegangen | ostvariti se | Mein Traum ist in Erfüllung gegangen. | Moj san se ostvario.
+V | Erfahrungen sammeln | hat Erfahrungen gesammelt | sticati iskustvo | Im Praktikum sammle ich Erfahrungen. | Na praksi stičem iskustvo.
+V | eine Frage stellen | hat eine Frage gestellt | postaviti pitanje | Darf ich eine Frage stellen? | Smem li da postavim pitanje?
+V | Fortschritte machen | hat Fortschritte gemacht | napredovati | Du machst gute Fortschritte. | Dobro napreduješ.
+V | sich Gedanken machen über | hat sich Gedanken gemacht | razmišljati o (+ Akk) | Ich mache mir Gedanken über die Zukunft. | Razmišljam o budućnosti.
+V | Gebrauch machen von | hat Gebrauch gemacht | iskoristiti (+ Akk) | Machen Sie Gebrauch von dem Angebot. | Iskoristite ponudu.
+V | in Gefahr bringen | hat in Gefahr gebracht | dovesti u opasnost | Er bringt andere in Gefahr. | Dovodi druge u opasnost.
+V | Kenntnis nehmen von | hat Kenntnis genommen | primiti k znanju (+ Akk) | Ich habe Ihre Nachricht zur Kenntnis genommen. | Primio sam vašu poruku k znanju.
+V | in Kontakt treten mit | ist in Kontakt getreten | stupiti u kontakt sa (+ Dat) | Bitte treten Sie mit uns in Kontakt. | Molim stupite u kontakt sa nama.
+V | in Kraft treten | ist in Kraft getreten | stupiti na snagu | Das Gesetz tritt im Januar in Kraft. | Zakon stupa na snagu u januaru.
+V | Rücksprache halten mit | hat Rücksprache gehalten | konsultovati se sa (+ Dat) | Ich halte Rücksprache mit meinem Chef. | Konsultovaću se sa šefom.
+V | eine Lösung finden | hat eine Lösung gefunden | naći rešenje | Wir werden eine Lösung finden. | Naći ćemo rešenje.
+V | Platz nehmen | hat Platz genommen | sesti | Bitte nehmen Sie Platz. | Izvolite sesti.
+V | in Rechnung stellen | hat in Rechnung gestellt | naplatiti (fakturisati) | Die Reparatur wird Ihnen in Rechnung gestellt. | Popravka će vam biti naplaćena.
+V | zur Rede stellen | hat zur Rede gestellt | pozvati na odgovornost | Der Chef hat ihn zur Rede gestellt. | Šef ga je pozvao na odgovornost.
+V | Schluss machen | hat Schluss gemacht | prekinuti (vezu); završiti | Sie hat mit ihm Schluss gemacht. | Raskinula je sa njim.
+V | Sorgen bereiten | hat Sorgen bereitet | zadavati brige | Die Situation bereitet mir Sorgen. | Situacija mi zadaje brige.
+V | zur Sprache bringen | hat zur Sprache gebracht | pokrenuti (temu) | Ich möchte das Problem zur Sprache bringen. | Želim da pokrenem taj problem.
+V | in Verbindung stehen mit | hat in Verbindung gestanden | biti u vezi sa (+ Dat) | Wir stehen mit der Firma in Verbindung. | U kontaktu smo sa firmom.
+V | Verantwortung tragen für | hat Verantwortung getragen | snositi odgovornost za (+ Akk) | Wer trägt die Verantwortung dafür? | Ko snosi odgovornost za to?
+V | Vertrauen haben zu | hat Vertrauen gehabt | imati poverenja u (+ Akk) | Ich habe Vertrauen zu dir. | Imam poverenja u tebe.
+V | einen Vorschlag machen | hat einen Vorschlag gemacht | dati predlog | Darf ich einen Vorschlag machen? | Smem li da dam predlog?
+V | einen Vorwurf machen | hat einen Vorwurf gemacht | prebaciti (nekome) | Ich mache dir keinen Vorwurf. | Ne prebacujem ti ništa.
+V | Wert legen auf | hat Wert gelegt | polagati na (+ Akk) | Wir legen großen Wert auf Qualität. | Mnogo polažemo na kvalitet.
+V | zur Verfügung stellen | hat zur Verfügung gestellt | staviti na raspolaganje | Die Firma stellt ein Auto zur Verfügung. | Firma stavlja auto na raspolaganje.
+V | Zeit in Anspruch nehmen | hat Zeit in Anspruch genommen | oduzimati vreme | Das nimmt viel Zeit in Anspruch. | To oduzima mnogo vremena.
+V | zum Abschluss bringen | hat zum Abschluss gebracht | privesti kraju | Wir bringen das Projekt zum Abschluss. | Privodimo projekat kraju.
+V | Folgen haben | hat Folgen gehabt | imati posledice | Das kann ernste Folgen haben. | To može imati ozbiljne posledice.
+V | Bedenken haben | hat Bedenken gehabt | imati sumnje, rezerve | Ich habe Bedenken gegen den Plan. | Imam rezerve prema planu.
+V | Rechnung tragen | hat Rechnung getragen | uzeti u obzir (+ Dat) | Wir tragen Ihren Wünschen Rechnung. | Uzimamo u obzir vaše želje.
+V | sich Mühe geben | hat sich Mühe gegeben | potruditi se | Er gibt sich viel Mühe. | Mnogo se trudi.
+V | Recht haben | hat Recht gehabt | biti u pravu | Da hast du recht. | Tu si u pravu.
+V | Bilanz ziehen | hat Bilanz gezogen | podvući crtu, svesti račun | Nach einem Jahr ziehen wir Bilanz. | Posle godinu dana svodimo račune.
+V | auf den Punkt bringen | hat auf den Punkt gebracht | precizno izreći suštinu | Sie hat es auf den Punkt gebracht. | Pogodila je suštinu.
+V | im Stich lassen | hat im Stich gelassen | ostaviti na cedilu | Er hat mich im Stich gelassen. | Ostavio me je na cedilu.
+V | unter Druck setzen | hat unter Druck gesetzt | staviti pod pritisak | Setz mich nicht unter Druck! | Ne stavljaj me pod pritisak!
+V | aufs Spiel setzen | hat aufs Spiel gesetzt | staviti na kocku | Er setzt seine Gesundheit aufs Spiel. | Stavlja zdravlje na kocku.
+V | in Ordnung bringen | hat in Ordnung gebracht | dovesti u red | Ich bringe das in Ordnung. | Ja ću to srediti.
+V | zur Kenntnis nehmen | hat zur Kenntnis genommen | primiti k znanju | Wir nehmen das zur Kenntnis. | Primamo to k znanju.
+V | ins Gewicht fallen | ist ins Gewicht gefallen | biti od značaja | Der Preis fällt kaum ins Gewicht. | Cena je jedva od značaja.
+
+## Pozdravi i osnovni izrazi
+S | Das ist nicht mein Bier. | To nije moja briga.
+S | Ich drücke dir die Daumen! | Držim ti palčeve!
+S | Er hat zwei linke Hände. | Nespretan je (ima dve leve ruke).
+S | Das ist mir Wurst. | Baš me briga.
+S | Da liegt der Hund begraben. | U tome je zec.
+S | Ich verstehe nur Bahnhof. | Ništa ne razumem.
+S | Hast du Tomaten auf den Augen? | Zar ne vidiš (ono što je očigledno)?
+S | Das ist ein Katzensprung. | To je na dva koraka.
+S | Er hat die Nase voll. | Dosta mu je svega.
+S | Sie nimmt kein Blatt vor den Mund. | Govori otvoreno, bez dlake na jeziku.
+S | Das kostet ein Vermögen. | To košta pravo bogatstvo.
+S | Wir sitzen alle im selben Boot. | Svi smo u istom čamcu.
+S | Jetzt geht's um die Wurst! | Sad je trenutak odluke!
+S | Er hat Schwein gehabt. | Imao je sreće.
+S | Das ist kalter Kaffee. | To je stara vest.
+S | Ich bin fix und fertig. | Potpuno sam iscrpljen.
+S | Alles hat ein Ende, nur die Wurst hat zwei. | Sve ima kraj.
+S | Übung macht den Meister. | Vežba čini majstora.
+S | Aller Anfang ist schwer. | Svaki početak je težak.
+S | Morgenstund hat Gold im Mund. | Ko rano rani, dve sreće grabi.
+S | Wer A sagt, muss auch B sagen. | Ko kaže A, mora reći i B.
+S | Ende gut, alles gut. | Sve je dobro što se dobro svrši.
+S | Zeit ist Geld. | Vreme je novac.
+S | Der Apfel fällt nicht weit vom Stamm. | Iver ne pada daleko od klade.
+S | Viele Köche verderben den Brei. | Puno babica, kilavo dete.
+S | Lügen haben kurze Beine. | U laži su kratke noge.
+S | Ohne Fleiß kein Preis. | Bez muke nema nauke.
+S | Es ist noch kein Meister vom Himmel gefallen. | Niko se nije rodio kao majstor.
+S | Das Leben ist kein Ponyhof. | Život nije bajka.
+S | Ich habe einen Kater. | Mamuran sam.
+S | Das ist nicht der Rede wert. | Nema na čemu (nije vredno pomena).
+S | Na und? | Pa šta?
+S | Mach dir nichts draus! | Ne sekiraj se!
+S | Das kann ja heiter werden! | Ovo će biti zanimljivo! (ironično)
+S | Wie man's nimmt. | Zavisi kako se uzme.
+S | Kopf hoch! | Glavu gore!
+S | Hals- und Beinbruch! | Srećno! (pred ispit, nastup)
+
+## Grad, saobraćaj i putovanje
+N | die Stadtentwicklung | — | razvoj grada | Die Stadtentwicklung ist ein wichtiges Thema. | Razvoj grada je važna tema.
+N | der Ballungsraum | die Ballungsräume | gusto naseljeno područje | Im Ballungsraum sind die Mieten hoch. | U gusto naseljenom području kirije su visoke.
+N | der Stadtrand | die Stadtränder | periferija | Wir wohnen am Stadtrand. | Živimo na periferiji.
+N | der Vorort | die Vororte | predgrađe | Viele Familien ziehen in die Vororte. | Mnoge porodice se sele u predgrađa.
+N | die Fußgängerzone | die Fußgängerzonen | pešačka zona | In der Fußgängerzone gibt es viele Geschäfte. | U pešačkoj zoni ima mnogo prodavnica.
+N | die Grünanlage | die Grünanlagen | zelena površina | Die Stadt braucht mehr Grünanlagen. | Gradu treba više zelenih površina.
+N | die Lebensqualität | — | kvalitet života | Die Lebensqualität in der Stadt ist hoch. | Kvalitet života u gradu je visok.
+N | das Reiseziel | die Reiseziele | odredište putovanja | Kroatien ist ein beliebtes Reiseziel. | Hrvatska je popularno odredište.
+N | der Massentourismus | — | masovni turizam | Der Massentourismus schadet der Umwelt. | Masovni turizam šteti prirodi.
+N | die Reiseversicherung | die Reiseversicherungen | putno osiguranje | Haben Sie eine Reiseversicherung abgeschlossen? | Jeste li uplatili putno osiguranje?
+N | die Einreise | die Einreisen | ulazak (u zemlju) | Für die Einreise brauchen Sie einen Pass. | Za ulazak vam treba pasoš.
+N | die Ausreise | die Ausreisen | izlazak (iz zemlje) | Bei der Ausreise gab es lange Schlangen. | Pri izlasku iz zemlje bili su dugi redovi.
+N | das Visum | die Visa | viza | Brauche ich ein Visum? | Da li mi treba viza?
+N | die Zollkontrolle | die Zollkontrollen | carinska kontrola | An der Grenze gibt es eine Zollkontrolle. | Na granici postoji carinska kontrola.
+N | die Warteschlange | die Warteschlangen | red (za čekanje) | Die Warteschlange war sehr lang. | Red je bio veoma dugačak.
+N | der Anschlusszug | die Anschlusszüge | priključni voz | Ich habe meinen Anschlusszug verpasst. | Propustio sam priključni voz.
+N | die Zugbindung | — | vezanost za određeni voz (karta) | Das Ticket hat Zugbindung. | Karta važi samo za određeni voz.
+N | die Bahncard | die Bahncards | popustna kartica (DB) | Mit der Bahncard fahre ich günstiger. | Sa Bahncard-om putujem jeftinije.
+V | sich zurechtfinden | hat sich zurechtgefunden | snaći se | In der neuen Stadt finde ich mich gut zurecht. | U novom gradu se dobro snalazim.
+V | einreisen | ist eingereist | ući (u zemlju) | Er ist gestern nach Deutschland eingereist. | Juče je ušao u Nemačku.
+V | ausreisen | ist ausgereist | izaći (iz zemlje) | Wir reisen über Ungarn aus. | Izlazimo preko Mađarske.
+V | verzollen | hat verzollt | ocariniti | Haben Sie etwas zu verzollen? | Imate li nešto da prijavite carini?
+V | erkunden | hat erkundet | istražiti (mesto) | Wir erkunden die Altstadt zu Fuß. | Istražujemo stari grad peške.
+A | überlaufen | | prenatrpan (turistima) | Der Strand ist im August überlaufen. | Plaža je u avgustu prenatrpana.
+A | abgelegen | | udaljen, zabačen | Das Dorf liegt sehr abgelegen. | Selo je veoma zabačeno.
+A | malerisch | | slikovit | Das Städtchen ist malerisch. | Gradić je slikovit.
+S | Haben Sie etwas zu verzollen? | Imate li nešto da prijavite?
+S | Die Fahrkarte gilt nur für diesen Zug. | Karta važi samo za ovaj voz.
+
+## Stan i kuća
+N | die Wohnfläche | die Wohnflächen | stambena površina | Die Wohnfläche beträgt 80 Quadratmeter. | Stambena površina je 80 kvadrata.
+N | das Erdgeschoss | die Erdgeschosse | prizemlje | Die Wohnung liegt im Erdgeschoss. | Stan je u prizemlju.
+N | das Obergeschoss | die Obergeschosse | sprat (gornji) | Die Schlafzimmer sind im Obergeschoss. | Spavaće sobe su na spratu.
+N | der Dachboden | die Dachböden | tavan | Die alten Sachen sind auf dem Dachboden. | Stare stvari su na tavanu.
+N | die Garage | die Garagen | garaža | Das Auto steht in der Garage. | Auto je u garaži.
+N | die Einbauküche | die Einbauküchen | ugradna kuhinja | Die Wohnung hat eine Einbauküche. | Stan ima ugradnu kuhinju.
+N | der Fußboden | die Fußböden | pod | Der Fußboden ist aus Holz. | Pod je od drveta.
+N | die Fliese | die Fliesen | pločica | Im Bad sind neue Fliesen. | U kupatilu su nove pločice.
+N | die Tapete | die Tapeten | tapet | Wir haben eine neue Tapete gekauft. | Kupili smo novi tapet.
+N | das Rohr | die Rohre | cev | Das Rohr ist undicht. | Cev curi.
+N | die Leitung | die Leitungen | vod, instalacija | Die Wasserleitung ist eingefroren. | Vodovodna cev se zaledila.
+N | der Rauchmelder | die Rauchmelder | detektor dima | In jedem Zimmer muss ein Rauchmelder sein. | U svakoj sobi mora biti detektor dima.
+N | der Einbruch | die Einbrüche | provala | Bei uns gab es einen Einbruch. | Kod nas je bila provala.
+N | die Alarmanlage | die Alarmanlagen | alarm (sistem) | Das Haus hat eine Alarmanlage. | Kuća ima alarm.
+N | die Nachbarschaft | die Nachbarschaften | komšiluk | Wir haben eine nette Nachbarschaft. | Imamo prijatan komšiluk.
+V | einbrechen | ist eingebrochen | provaliti | Diebe sind in die Wohnung eingebrochen. | Lopovi su provalili u stan.
+V | tapezieren | hat tapeziert | tapetirati | Wir tapezieren das Kinderzimmer. | Tapetiramo dečju sobu.
+V | fliesen | hat gefliest | postaviti pločice | Der Handwerker fliest das Bad. | Majstor postavlja pločice u kupatilu.
+V | verstopfen | hat verstopft | zapušiti | Der Abfluss ist verstopft. | Odvod je zapušen.
+V | tropfen | hat getropft | kapati | Der Wasserhahn tropft. | Slavina kaplje.
+A | pflegeleicht | | lak za održavanje | Der Boden ist pflegeleicht. | Pod je lak za održavanje.
+A | energieeffizient | | energetski efikasan | Das Haus ist energieeffizient. | Kuća je energetski efikasna.
+A | verstopft | | zapušen | Das Waschbecken ist verstopft. | Lavabo je zapušen.

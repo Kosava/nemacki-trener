@@ -1,0 +1,208 @@
+# Nivo B1 — deo 2
+
+## Stan i kuća
+N | das Eigentum | — | vlasništvo | Die Wohnung ist unser Eigentum. | Stan je naše vlasništvo.
+N | der Eigentümer | die Eigentümer | vlasnik | Der Eigentümer verkauft das Haus. | Vlasnik prodaje kuću.
+N | die Eigentumswohnung | die Eigentumswohnungen | stan u vlasništvu | Wir haben eine Eigentumswohnung gekauft. | Kupili smo stan.
+N | das Einfamilienhaus | die Einfamilienhäuser | porodična kuća | Sie wohnen in einem Einfamilienhaus. | Žive u porodičnoj kući.
+N | der Altbau | die Altbauten | stara zgrada | Die Wohnung ist in einem Altbau. | Stan je u staroj zgradi.
+N | der Neubau | die Neubauten | nova zgrada | Der Neubau hat einen Aufzug. | Nova zgrada ima lift.
+N | die Wohngemeinschaft | die Wohngemeinschaften | zajednički stan (cimeri) | Ich wohne in einer Wohngemeinschaft. | Živim u stanu sa cimerima.
+N | der Mitbewohner | die Mitbewohner | cimer | Mein Mitbewohner kocht gern. | Moj cimer rado kuva.
+N | die Lage | die Lagen | lokacija, položaj | Die Lage der Wohnung ist sehr gut. | Lokacija stana je veoma dobra.
+N | die Quadratmeter | (samo mn.) | kvadratni metri | Die Wohnung hat 60 Quadratmeter. | Stan ima 60 kvadrata.
+N | die Renovierung | die Renovierungen | renoviranje | Die Renovierung dauert zwei Monate. | Renoviranje traje dva meseca.
+N | der Schaden | die Schäden | šteta | Der Sturm hat großen Schaden gemacht. | Oluja je napravila veliku štetu.
+N | das Werkzeug | die Werkzeuge | alat | Das Werkzeug liegt im Keller. | Alat je u podrumu.
+N | der Hammer | die Hämmer | čekić | Gib mir bitte den Hammer. | Dodaj mi čekić, molim.
+N | die Schraube | die Schrauben | šraf | Die Schraube ist locker. | Šraf je labav.
+N | der Nagel | die Nägel | ekser; nokat | Ich brauche einen Nagel für das Bild. | Treba mi ekser za sliku.
+N | die Bohrmaschine | die Bohrmaschinen | bušilica | Kann ich deine Bohrmaschine leihen? | Mogu li da pozajmim tvoju bušilicu?
+N | die Leiter | die Leitern | merdevine | Die Leiter steht in der Garage. | Merdevine su u garaži.
+N | die Farbe | die Farben | boja | Welche Farbe hat die Wand? | Koje je boje zid?
+N | der Strom | — | struja | Der Strom ist ausgefallen. | Nestalo je struje.
+N | das Gas | die Gase | gas | Wir kochen mit Gas. | Kuvamo na gas.
+N | der Energieverbrauch | — | potrošnja energije | Der Energieverbrauch ist gestiegen. | Potrošnja energije je porasla.
+N | die Abrechnung | die Abrechnungen | obračun | Die Abrechnung für die Nebenkosten kommt im März. | Obračun režija stiže u martu.
+N | der Haushalt | die Haushalte | domaćinstvo | Wer macht bei euch den Haushalt? | Ko kod vas vodi domaćinstvo?
+N | die Wäsche | — | veš | Die Wäsche hängt auf dem Balkon. | Veš visi na balkonu.
+N | der Staub | — | prašina | Auf dem Regal liegt viel Staub. | Na polici ima mnogo prašine.
+V | renovieren | hat renoviert | renovirati | Wir renovieren die Küche. | Renoviramo kuhinju.
+V | streichen | hat gestrichen | krečiti, farbati | Ich streiche das Wohnzimmer weiß. | Krečim dnevnu sobu u belo.
+V | bohren | hat gebohrt | bušiti | Am Sonntag darf man nicht bohren. | Nedeljom se ne sme bušiti.
+V | befestigen | hat befestigt | pričvrstiti | Ich befestige das Regal an der Wand. | Pričvršćujem policu za zid.
+V | leihen | hat geliehen | pozajmiti | Kannst du mir dein Auto leihen? | Možeš li da mi pozajmiš auto?
+V | ausleihen | hat ausgeliehen | pozajmiti (od nekoga) | Ich leihe mir ein Buch aus. | Pozajmljujem knjigu.
+V | vermieten | hat vermietet | izdavati (stan) | Sie vermieten ihre Wohnung. | Izdaju svoj stan.
+V | sich beschweren | hat sich beschwert | žaliti se | Die Nachbarn beschweren sich über den Lärm. | Komšije se žale na buku.
+V | stören | hat gestört | smetati | Störe ich? | Da li smetam?
+V | lüften | hat gelüftet | provetriti | Bitte lüften Sie jeden Tag. | Molim provetravajte svaki dan.
+V | trocknen | hat getrocknet | sušiti | Die Wäsche trocknet schnell. | Veš se brzo suši.
+V | bügeln | hat gebügelt | peglati | Ich bügle meine Hemden. | Peglam košulje.
+A | renoviert | | renoviran | Die Wohnung ist frisch renoviert. | Stan je tek renoviran.
+A | zentral | | centralni | Die Wohnung liegt zentral. | Stan je u centru.
+A | geräumig | | prostran | Das Wohnzimmer ist geräumig. | Dnevna soba je prostrana.
+A | undicht | | propustljiv (curi) | Das Fenster ist undicht. | Prozor propušta.
+A | locker | | labav | Die Schraube ist locker. | Šraf je labav.
+S | Der Wasserhahn tropft. | Slavina kaplje.
+S | Ich möchte mich über den Lärm beschweren. | Želim da se žalim na buku.
+S | Wann wird die Heizung repariert? | Kada će se popraviti grejanje?
+S | Die Wohnung ist ab dem ersten Mai frei. | Stan je slobodan od prvog maja.
+
+## Grad, saobraćaj i putovanje
+N | die Bahn | die Bahnen | železnica | Ich arbeite bei der Bahn. | Radim na železnici.
+N | die Eisenbahn | die Eisenbahnen | železnica | Die Eisenbahn ist umweltfreundlich. | Železnica je ekološka.
+N | der Lokführer | die Lokführer | mašinovođa | Der Lokführer fährt den Zug. | Mašinovođa vozi voz.
+N | die Lokomotive | die Lokomotiven | lokomotiva | Die Lokomotive zieht zehn Wagen. | Lokomotiva vuče deset vagona.
+N | der Güterzug | die Güterzüge | teretni voz | Der Güterzug transportiert Kohle. | Teretni voz prevozi ugalj.
+N | der Personenzug | die Personenzüge | putnički voz | Der Personenzug hält an jedem Bahnhof. | Putnički voz staje na svakoj stanici.
+N | der Waggon | die Waggons | vagon | Der Waggon wird repariert. | Vagon se popravlja.
+N | die Schiene | die Schienen | šina | Die Schienen werden erneuert. | Šine se obnavljaju.
+N | die Weiche | die Weichen | skretnica | Die Weiche ist defekt. | Skretnica je neispravna.
+N | das Signal | die Signale | signal | Das Signal steht auf Rot. | Signal je na crvenom.
+N | die Bremse | die Bremsen | kočnica | Die Bremse muss geprüft werden. | Kočnica mora da se proveri.
+N | die Kupplung | die Kupplungen | kvačilo; kvačilo (vagona) | Die Kupplung zwischen den Wagen ist fest. | Kvačilo između vagona je čvrsto.
+N | die Achse | die Achsen | osovina | Die Achse ist beschädigt. | Osovina je oštećena.
+N | das Rad | die Räder | točak | Der Wagenmeister prüft die Räder. | Pregledač kola proverava točkove.
+N | der Wagenmeister | die Wagenmeister | pregledač kola | Der Wagenmeister kontrolliert den Zug. | Pregledač kola kontroliše voz.
+N | der Fahrdienstleiter | die Fahrdienstleiter | otpravnik vozova | Der Fahrdienstleiter gibt das Signal. | Otpravnik vozova daje signal.
+N | das Stellwerk | die Stellwerke | postavnica | Im Stellwerk werden die Weichen gestellt. | U postavnici se postavljaju skretnice.
+N | der Fahrplanwechsel | die Fahrplanwechsel | promena reda vožnje | Der Fahrplanwechsel ist im Dezember. | Promena reda vožnje je u decembru.
+N | der Anschluss | die Anschlüsse | priključak (veza) | Ich habe meinen Anschluss verpasst. | Propustio sam vezu.
+N | der Ersatzverkehr | — | zamenski prevoz | Wegen Bauarbeiten gibt es Ersatzverkehr mit Bussen. | Zbog radova postoji zamenski prevoz autobusima.
+N | die Baustelle | die Baustellen | gradilište; radovi na putu | Auf der Autobahn ist eine Baustelle. | Na autoputu su radovi.
+N | die Umleitung | die Umleitungen | obilaznica | Wegen der Baustelle gibt es eine Umleitung. | Zbog radova postoji obilaznica.
+N | die Geschwindigkeit | die Geschwindigkeiten | brzina | Die Höchstgeschwindigkeit ist 130. | Najveća dozvoljena brzina je 130.
+N | die Strafe | die Strafen | kazna | Falsches Parken kostet eine Strafe. | Nepropisno parkiranje se kažnjava.
+N | der Strafzettel | die Strafzettel | kazna (ceduljica) | Ich habe einen Strafzettel bekommen. | Dobio sam kaznu za parkiranje.
+N | die Panne | die Pannen | kvar (vozila) | Wir hatten eine Panne auf der Autobahn. | Imali smo kvar na autoputu.
+N | der Reifen | die Reifen | guma | Der Reifen ist platt. | Guma je prazna.
+N | der Motor | die Motoren | motor | Der Motor macht komische Geräusche. | Motor pravi čudne zvuke.
+N | der Lastwagen | die Lastwagen | kamion | Der Lastwagen liefert die Möbel. | Kamion dostavlja nameštaj.
+N | der Transporter | die Transporter | kombi (dostavni) | Ich fahre einen Transporter. | Vozim dostavni kombi.
+N | das Fahrzeug | die Fahrzeuge | vozilo | Das Fahrzeug muss zur Kontrolle. | Vozilo mora na tehnički pregled.
+N | der Verkehrsunfall | die Verkehrsunfälle | saobraćajna nezgoda | Bei dem Verkehrsunfall wurde niemand verletzt. | U saobraćajnoj nezgodi niko nije povređen.
+N | der Fahrradweg | die Fahrradwege | biciklistička staza | Fahr bitte auf dem Fahrradweg. | Vozi biciklističkom stazom, molim.
+N | der Gehweg | die Gehwege | trotoar | Parken auf dem Gehweg ist verboten. | Parkiranje na trotoaru je zabranjeno.
+N | das Navi | die Navis | navigacija (GPS) | Das Navi zeigt den Weg. | Navigacija pokazuje put.
+N | die Reiseleitung | die Reiseleitungen | vodič (turistički) | Die Reiseleitung spricht Deutsch. | Vodič govori nemački.
+N | die Pauschalreise | die Pauschalreisen | aranžman | Wir buchen eine Pauschalreise nach Griechenland. | Uplaćujemo aranžman za Grčku.
+N | das Reisebüro | die Reisebüros | turistička agencija | Ich buche die Reise im Reisebüro. | Rezervišem putovanje u agenciji.
+N | die Reservierung | die Reservierungen | rezervacija | Ich habe eine Reservierung auf den Namen Petrović. | Imam rezervaciju na ime Petrović.
+N | die Halbpension | — | polupansion | Das Hotel bietet Halbpension. | Hotel nudi polupansion.
+N | die Aussicht | die Aussichten | pogled; izgled | Das Zimmer hat eine schöne Aussicht. | Soba ima lep pogled.
+N | die Beschwerde | die Beschwerden | žalba | Ich habe eine Beschwerde. | Imam žalbu.
+N | die Stornierung | die Stornierungen | otkazivanje (rezervacije) | Die Stornierung ist kostenlos. | Otkazivanje je besplatno.
+V | transportieren | hat transportiert | prevoziti | Der Zug transportiert Autos. | Voz prevozi automobile.
+V | rangieren | hat rangiert | manevrisati (vozom) | Die Lok rangiert die Wagen. | Lokomotiva manevriše vagonima.
+V | ankuppeln | hat angekuppelt | prikačiti | Der Wagen wird angekuppelt. | Vagon se prikačuje.
+V | abkuppeln | hat abgekuppelt | otkačiti | Wir kuppeln den letzten Wagen ab. | Otkačujemo poslednji vagon.
+V | bremsen | hat gebremst | kočiti | Der Fahrer bremst plötzlich. | Vozač naglo koči.
+V | überholen | hat überholt | preticati | Hier darf man nicht überholen. | Ovde se ne sme preticati.
+V | ausfallen | ist ausgefallen | otkazati (se), ne voziti | Der Zug fällt heute aus. | Voz danas ne saobraća.
+V | stornieren | hat storniert | otkazati (rezervaciju) | Ich möchte die Buchung stornieren. | Želim da otkažem rezervaciju.
+V | sich erkundigen | hat sich erkundigt | raspitati se | Ich erkundige mich nach dem Fahrplan. | Raspitujem se za red vožnje.
+V | sich orientieren | hat sich orientiert | snaći se | In der fremden Stadt kann ich mich gut orientieren. | U stranom gradu se dobro snalazim.
+V | erleben | hat erlebt | doživeti | Im Urlaub haben wir viel erlebt. | Na odmoru smo mnogo doživeli.
+A | defekt | | neispravan | Die Bremse ist defekt. | Kočnica je neispravna.
+A | beschädigt | | oštećen | Der Waggon ist beschädigt. | Vagon je oštećen.
+A | umweltfreundlich | | ekološki | Die Bahn ist umweltfreundlich. | Železnica je ekološka.
+A | barrierefrei | | pristupačan (bez barijera) | Der Bahnhof ist barrierefrei. | Stanica je pristupačna za osobe sa invaliditetom.
+A | voraussichtlich | | predviđen, očekivan | Der Zug kommt voraussichtlich zehn Minuten später. | Voz će verovatno kasniti deset minuta.
+S | Der Zug fällt heute aus. | Voz danas ne saobraća.
+S | Wegen einer Störung verzögert sich die Abfahrt. | Zbog smetnje polazak kasni.
+S | Bitte von der Bahnsteigkante zurücktreten! | Molimo odmaknite se od ivice perona!
+S | Ich hatte eine Panne. | Imao sam kvar na kolima.
+S | Können Sie mir einen Abschleppwagen schicken? | Možete li mi poslati šlep službu?
+S | Ich möchte mich über das Zimmer beschweren. | Želim da se žalim na sobu.
+
+## Kupovina i novac
+N | die Ausgabe | die Ausgaben | izdatak, trošak | Unsere Ausgaben sind zu hoch. | Naši troškovi su previsoki.
+N | die Einnahme | die Einnahmen | prihod | Die Einnahmen sind gestiegen. | Prihodi su porasli.
+N | die Kosten | (samo mn.) | troškovi | Die Kosten für die Reparatur sind hoch. | Troškovi popravke su visoki.
+N | das Einkommen | die Einkommen | prihod, primanja | Er hat ein gutes Einkommen. | On ima dobra primanja.
+N | die Steuer | die Steuern | porez | Wir müssen Steuern zahlen. | Moramo da plaćamo porez.
+N | der Kredit | die Kredite | kredit | Wir nehmen einen Kredit für das Haus auf. | Uzimamo kredit za kuću.
+N | die Schulden | (samo mn.) | dugovi | Er hat viele Schulden. | On ima mnogo dugova.
+N | die Zinsen | (samo mn.) | kamata | Die Zinsen sind niedrig. | Kamate su niske.
+N | die Rate | die Raten | rata | Ich zahle das Auto in Raten. | Auto plaćam na rate.
+N | der Vertrag | die Verträge | ugovor | Lesen Sie den Vertrag genau. | Pažljivo pročitajte ugovor.
+N | die Reklamation | die Reklamationen | reklamacija | Ich möchte eine Reklamation machen. | Želim da podnesem reklamaciju.
+N | der Umtausch | — | zamena (robe) | Der Umtausch ist nur mit Kassenbon möglich. | Zamena je moguća samo uz račun.
+N | die Lieferzeit | die Lieferzeiten | rok isporuke | Die Lieferzeit beträgt drei Tage. | Rok isporuke je tri dana.
+N | der Versand | — | slanje, otprema | Der Versand ist kostenlos. | Slanje je besplatno.
+N | das Sonderangebot | die Sonderangebote | specijalna ponuda | Heute gibt es viele Sonderangebote. | Danas ima mnogo specijalnih ponuda.
+N | der Verbraucher | die Verbraucher | potrošač | Die Verbraucher zahlen mehr. | Potrošači plaćaju više.
+V | reklamieren | hat reklamiert | reklamirati | Ich reklamiere den kaputten Fernseher. | Reklamiram pokvaren televizor.
+V | sich lohnen | hat sich gelohnt | isplatiti se | Das Angebot lohnt sich. | Ponuda se isplati.
+V | sich leisten | hat sich geleistet | priuštiti sebi | Das kann ich mir nicht leisten. | To ne mogu sebi da priuštim.
+V | betragen | hat betragen | iznositi | Die Miete beträgt 600 Euro. | Kirija iznosi 600 evra.
+V | steigen | ist gestiegen | rasti, porasti | Die Preise steigen. | Cene rastu.
+V | sinken | ist gesunken | padati, opasti | Die Preise sind gesunken. | Cene su pale.
+V | erstatten | hat erstattet | refundirati | Wir erstatten Ihnen das Geld. | Vraćamo vam novac.
+A | finanziell | | finansijski | Wir haben finanzielle Probleme. | Imamo finansijskih problema.
+A | inklusive | | uključeno | Der Preis ist inklusive Mehrwertsteuer. | Cena uključuje PDV.
+A | monatlich | | mesečni | Die monatliche Rate beträgt 200 Euro. | Mesečna rata iznosi 200 evra.
+A | wertvoll | | vredan, dragocen | Der Ring ist sehr wertvoll. | Prsten je veoma vredan.
+S | Das kann ich mir nicht leisten. | To ne mogu sebi da priuštim.
+S | Ich möchte das Geld zurückhaben. | Želim da mi se vrati novac.
+S | Kann ich in Raten zahlen? | Mogu li da platim na rate?
+
+## Hrana i piće
+N | die Zutat | die Zutaten | sastojak | Welche Zutaten brauchen wir? | Koji su nam sastojci potrebni?
+N | die Mahlzeit | die Mahlzeiten | obrok | Ich esse drei Mahlzeiten am Tag. | Jedem tri obroka dnevno.
+N | das Vollkornbrot | die Vollkornbrote | integralni hleb | Vollkornbrot ist gesund. | Integralni hleb je zdrav.
+N | das Getreide | — | žitarice | Brot wird aus Getreide gemacht. | Hleb se pravi od žitarica.
+N | die Nuss | die Nüsse | orah, orašasti plod | Im Kuchen sind Nüsse. | U kolaču ima oraha.
+N | der Honig | — | med | Ich trinke Tee mit Honig. | Pijem čaj sa medom.
+N | die Marmelade | die Marmeladen | džem | Oma macht Marmelade aus Pflaumen. | Baka pravi džem od šljiva.
+N | die Kalorie | die Kalorien | kalorija | Der Kuchen hat viele Kalorien. | Kolač ima mnogo kalorija.
+N | das Vitamin | die Vitamine | vitamin | Obst hat viele Vitamine. | Voće ima mnogo vitamina.
+N | die Lebensmittelallergie | die Lebensmittelallergien | alergija na hranu | Haben Sie eine Lebensmittelallergie? | Imate li alergiju na hranu?
+N | das Haltbarkeitsdatum | die Haltbarkeitsdaten | rok trajanja | Achte auf das Haltbarkeitsdatum! | Pazi na rok trajanja!
+N | die Bio-Lebensmittel | (samo mn.) | organska hrana | Bio-Lebensmittel sind teurer. | Organska hrana je skuplja.
+V | zubereiten | hat zubereitet | spremiti (jelo) | Wie bereitet man das zu? | Kako se to sprema?
+V | würzen | hat gewürzt | začiniti | Würze die Suppe mit Salz. | Začini supu solju.
+V | rühren | hat gerührt | mešati (kašikom) | Rühr die Soße ständig. | Stalno mešaj sos.
+V | schälen | hat geschält | ljuštiti | Ich schäle die Kartoffeln. | Ljuštim krompir.
+V | kochen lassen | hat kochen lassen | ostaviti da kuva | Lass das Wasser kochen. | Ostavi vodu da proključa.
+V | aufwärmen | hat aufgewärmt | podgrejati | Ich wärme das Essen auf. | Podgrevam hranu.
+V | einfrieren | hat eingefroren | zamrznuti | Das Fleisch friere ich ein. | Meso ću zamrznuti.
+A | haltbar | | trajan | Die Milch ist lange haltbar. | Mleko ima dug rok trajanja.
+A | abgelaufen | | istekao (rok) | Der Joghurt ist abgelaufen. | Jogurtu je istekao rok.
+A | fett | | mastan | Das Essen ist zu fett. | Hrana je previše masna.
+A | mager | | posan, nemastan | Ich kaufe mageres Fleisch. | Kupujem posno meso.
+A | biologisch | | organski | Das Gemüse ist biologisch. | Povrće je organsko.
+S | Was kochen wir heute? | Šta kuvamo danas?
+S | Kannst du mir das Rezept geben? | Možeš li da mi daš recept?
+
+## Slobodno vreme i sport
+N | die Unterhaltung | die Unterhaltungen | zabava; razgovor | Gute Unterhaltung! | Dobra zabava!
+N | die Erholung | — | odmor, oporavak | Ich brauche Erholung. | Treba mi odmor.
+N | die Aktivität | die Aktivitäten | aktivnost | Das Hotel bietet viele Aktivitäten. | Hotel nudi mnogo aktivnosti.
+N | der Ehrgeiz | — | ambicija | Er hat viel Ehrgeiz. | On je veoma ambiciozan.
+N | die Meisterschaft | die Meisterschaften | prvenstvo | Die Meisterschaft beginnt im August. | Prvenstvo počinje u avgustu.
+N | der Schiedsrichter | die Schiedsrichter | sudija (sport) | Der Schiedsrichter pfeift. | Sudija svira.
+N | der Fan | die Fans | navijač | Die Fans singen im Stadion. | Navijači pevaju na stadionu.
+N | das Unentschieden | die Unentschieden | nerešeno | Das Spiel endete unentschieden. | Utakmica je završena nerešeno.
+N | die Kunst | die Künste | umetnost | Sie interessiert sich für Kunst. | Ona se interesuje za umetnost.
+N | der Künstler | die Künstler | umetnik | Der Künstler malt Landschaften. | Umetnik slika pejzaže.
+N | die Bühne | die Bühnen | scena, bina | Die Band steht auf der Bühne. | Bend je na bini.
+N | das Publikum | — | publika | Das Publikum klatscht. | Publika aplaudira.
+N | die Vorstellung | die Vorstellungen | predstava; zamisao | Die Vorstellung beginnt um acht. | Predstava počinje u osam.
+N | die Literatur | die Literaturen | književnost | Er studiert Literatur. | On studira književnost.
+N | der Schriftsteller | die Schriftsteller | pisac | Ivo Andrić ist ein bekannter Schriftsteller. | Ivo Andrić je poznati pisac.
+N | das Gedicht | die Gedichte | pesma (stihovi) | Sie schreibt Gedichte. | Ona piše pesme.
+N | die Serie | die Serien | serija | Ich schaue eine spannende Serie. | Gledam napetu seriju.
+N | der Krimi | die Krimis | krimić | Am Sonntag schaue ich einen Krimi. | Nedeljom gledam krimić.
+V | sich entspannen | hat sich entspannt | opustiti se | Am Wochenende entspanne ich mich. | Vikendom se opuštam.
+V | klatschen | hat geklatscht | aplaudirati | Alle klatschen laut. | Svi glasno aplaudiraju.
+V | auftreten | ist aufgetreten | nastupiti | Die Band tritt heute auf. | Bend danas nastupa.
+V | genießen | hat genossen | uživati | Wir genießen die Sonne. | Uživamo na suncu.
+V | unternehmen | hat unternommen | preduzeti (izaći negde) | Was wollen wir heute unternehmen? | Šta ćemo danas da radimo?
+A | unterhaltsam | | zabavan | Der Abend war sehr unterhaltsam. | Veče je bilo veoma zabavno.
+A | kreativ | | kreativan | Sie ist sehr kreativ. | Ona je veoma kreativna.
+A | künstlerisch | | umetnički | Er ist künstlerisch begabt. | On je umetnički nadaren.
+S | Wie ist das Spiel ausgegangen? | Kako se završila utakmica?
+S | Ich genieße die Ruhe. | Uživam u miru.
+S | Was hast du am Wochenende unternommen? | Šta si radio za vikend?

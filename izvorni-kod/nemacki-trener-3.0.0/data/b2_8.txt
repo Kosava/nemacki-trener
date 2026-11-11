@@ -1,0 +1,165 @@
+# Nivo B2 — deo 8
+
+## Društvo, država i praznici
+N | die Wiedervereinigung | — | ponovno ujedinjenje | Die Wiedervereinigung war 1990. | Ponovno ujedinjenje je bilo 1990.
+N | die Mauer | die Mauern | zid | Die Berliner Mauer fiel 1989. | Berlinski zid je pao 1989.
+N | die Diktatur | die Diktaturen | diktatura | Das Land war lange eine Diktatur. | Zemlja je dugo bila diktatura.
+N | die Revolution | die Revolutionen | revolucija | Die Revolution veränderte das Land. | Revolucija je promenila zemlju.
+N | das Denkmal | die Denkmäler | spomenik | Das Denkmal erinnert an die Opfer. | Spomenik podseća na žrtve.
+N | das Opfer | die Opfer | žrtva | Es gab viele Opfer. | Bilo je mnogo žrtava.
+N | das Erbe | — | nasleđe | Das kulturelle Erbe muss geschützt werden. | Kulturno nasleđe mora biti zaštićeno.
+N | die Identität | die Identitäten | identitet | Sprache ist Teil der Identität. | Jezik je deo identiteta.
+N | die Zugehörigkeit | — | pripadnost | Er spürt keine Zugehörigkeit. | Ne oseća pripadnost.
+N | die Gemeinschaft | die Gemeinschaften | zajednica | Die Gemeinschaft hilft sich gegenseitig. | Zajednica pomaže jedni drugima.
+N | der Zusammenhalt | — | zajedništvo, kohezija | Der Zusammenhalt in der Familie ist stark. | Zajedništvo u porodici je jako.
+N | die Solidarität | — | solidarnost | Wir zeigen Solidarität mit den Opfern. | Pokazujemo solidarnost sa žrtvama.
+N | das Engagement | die Engagements | angažovanje | Ihr Engagement ist bewundernswert. | Njen angažman je za divljenje.
+N | die Teilhabe | — | učešće | Alle sollen gesellschaftliche Teilhabe haben. | Svi treba da učestvuju u društvu.
+N | die Inklusion | — | inkluzija | Inklusion beginnt in der Schule. | Inkluzija počinje u školi.
+N | die Behinderung | die Behinderungen | invaliditet; ometanje | Menschen mit Behinderung haben gleiche Rechte. | Osobe sa invaliditetom imaju jednaka prava.
+N | die Altersarmut | — | siromaštvo u starosti | Altersarmut ist ein wachsendes Problem. | Siromaštvo u starosti je rastući problem.
+N | der demografische Wandel | — | demografske promene | Der demografische Wandel verändert die Gesellschaft. | Demografske promene menjaju društvo.
+N | die Lebenserwartung | — | očekivani životni vek | Die Lebenserwartung steigt. | Očekivani životni vek raste.
+N | die Geburtenrate | die Geburtenraten | stopa rađanja | Die Geburtenrate ist niedrig. | Stopa rađanja je niska.
+N | die Abwanderung | die Abwanderungen | odliv stanovništva | Die Abwanderung junger Menschen ist ein Problem. | Odliv mladih je problem.
+N | der Fachkräftezuzug | — | priliv stručnjaka | Deutschland braucht Fachkräftezuzug. | Nemačkoj je potreban priliv stručnjaka.
+N | die Sitte | die Sitten | običaj | Andere Länder, andere Sitten. | Drugi krajevi, drugi običaji.
+N | die Fastenzeit | die Fastenzeiten | post (period) | In der Fastenzeit isst sie kein Fleisch. | Za vreme posta ne jede meso.
+N | die Taufe | die Taufen | krštenje | Die Taufe ist am Sonntag. | Krštenje je u nedelju.
+N | die Beerdigung | die Beerdigungen | sahrana | Die Beerdigung findet am Freitag statt. | Sahrana je u petak.
+N | die Trauer | — | žalost | In der Familie herrscht große Trauer. | U porodici vlada velika žalost.
+V | erinnern an | hat erinnert | podsećati na (+ Akk) | Das Denkmal erinnert an den Krieg. | Spomenik podseća na rat.
+V | trauern um | hat getrauert | tugovati za (+ Akk) | Die Familie trauert um den Vater. | Porodica tuguje za ocem.
+V | ausgrenzen | hat ausgegrenzt | isključiti (iz društva) | Niemand darf ausgegrenzt werden. | Niko ne sme biti isključen.
+V | sich zugehörig fühlen | hat sich zugehörig gefühlt | osećati pripadnost | Ich fühle mich hier zugehörig. | Ovde osećam da pripadam.
+V | zusammenhalten | hat zusammengehalten | držati se zajedno | In schweren Zeiten halten wir zusammen. | U teškim vremenima držimo se zajedno.
+A | historisch | | istorijski | Das ist ein historischer Tag. | Ovo je istorijski dan.
+A | geschichtlich | | istorijski | Der Ort hat große geschichtliche Bedeutung. | Mesto ima veliki istorijski značaj.
+A | kulturell | | kulturni | Es gibt kulturelle Unterschiede. | Postoje kulturne razlike.
+A | traditionell | | tradicionalan | Wir feiern traditionell mit der Familie. | Tradicionalno slavimo sa porodicom.
+A | solidarisch | | solidaran | Wir müssen solidarisch sein. | Moramo biti solidarni.
+A | behindert | | sa invaliditetom | Der Eingang ist für behinderte Menschen geeignet. | Ulaz je prilagođen osobama sa invaliditetom.
+A | benachteiligt | | zapostavljen | Benachteiligte Kinder brauchen Unterstützung. | Zapostavljenoj deci je potrebna podrška.
+S | Andere Länder, andere Sitten. | Drugi krajevi, drugi običaji.
+S | Mein herzliches Beileid. | Moje iskreno saučešće.
+
+## Telo i zdravlje
+N | das Wohlbefinden | — | dobro osećanje, blagostanje | Sport fördert das Wohlbefinden. | Sport doprinosi dobrom osećanju.
+N | die Erschöpfung | — | iscrpljenost | Nach der Schicht spüre ich große Erschöpfung. | Posle smene osećam veliku iscrpljenost.
+N | der Bewegungsmangel | — | nedostatak kretanja | Bewegungsmangel macht krank. | Nedostatak kretanja izaziva bolest.
+N | die Körperhaltung | die Körperhaltungen | držanje tela | Achten Sie auf Ihre Körperhaltung. | Pazite na držanje tela.
+N | die Ernährungsberatung | die Ernährungsberatungen | savetovanje o ishrani | Ich gehe zur Ernährungsberatung. | Idem na savetovanje o ishrani.
+N | die Entspannung | — | opuštanje | Yoga hilft bei der Entspannung. | Joga pomaže u opuštanju.
+N | die Achtsamkeit | — | svesnost (mindfulness) | Achtsamkeit hilft gegen Stress. | Svesnost pomaže protiv stresa.
+N | die Psyche | die Psychen | psiha | Stress belastet die Psyche. | Stres opterećuje psihu.
+N | die Depression | die Depressionen | depresija | Depression ist eine ernste Krankheit. | Depresija je ozbiljna bolest.
+N | der Herzinfarkt | die Herzinfarkte | srčani udar | Er hatte einen Herzinfarkt. | Imao je srčani udar.
+N | der Schlaganfall | die Schlaganfälle | moždani udar | Nach dem Schlaganfall war er lange in der Reha. | Posle moždanog udara dugo je bio na rehabilitaciji.
+N | der Bluthochdruck | — | visok krvni pritisak | Bluthochdruck ist gefährlich. | Visok pritisak je opasan.
+N | der Verband | die Verbände | zavoj; savez | Die Krankenschwester wechselt den Verband. | Medicinska sestra menja zavoj.
+N | die Erste Hilfe | — | prva pomoć | Jeder sollte Erste Hilfe leisten können. | Svako bi trebalo da ume da pruži prvu pomoć.
+N | der Rettungsdienst | die Rettungsdienste | hitna služba | Der Rettungsdienst war schnell da. | Hitna služba je brzo stigla.
+N | die Notaufnahme | die Notaufnahmen | urgentni centar | Wir mussten in die Notaufnahme. | Morali smo u urgentni centar.
+N | die Bewusstlosigkeit | — | nesvest | Er fiel in Bewusstlosigkeit. | Pao je u nesvest.
+V | Erste Hilfe leisten | hat Erste Hilfe geleistet | pružiti prvu pomoć | Sie hat am Unfallort Erste Hilfe geleistet. | Pružila je prvu pomoć na mestu nesreće.
+V | in Ohnmacht fallen | ist in Ohnmacht gefallen | onesvestiti se | Bei der Hitze ist sie in Ohnmacht gefallen. | Na vrućini se onesvestila.
+V | abbauen | hat abgebaut | smanjiti; demontirati | Sport hilft, Stress abzubauen. | Sport pomaže da se smanji stres.
+V | überanstrengen | hat überanstrengt | preopteretiti (se) | Überanstrenge dich nicht! | Nemoj se preopterećivati!
+V | sich verschlechtern | hat sich verschlechtert | pogoršati se | Sein Zustand hat sich verschlechtert. | Njegovo stanje se pogoršalo.
+V | sich bessern | hat sich gebessert | poboljšati se | Das Wetter bessert sich. | Vreme se popravlja.
+A | bewusstlos | | onesvešćen | Der Mann war bewusstlos. | Čovek je bio u nesvesti.
+A | lebensgefährlich | | opasan po život | Die Verletzung ist lebensgefährlich. | Povreda je opasna po život.
+A | ausgeschlafen | | naspavan | Heute bin ich gut ausgeschlafen. | Danas sam dobro naspavan.
+A | erholsam | | odmarajući | Der Urlaub war sehr erholsam. | Odmor je bio veoma odmarajući.
+S | Ich muss einen Gang zurückschalten. | Moram malo da usporim.
+S | Er ist wieder auf den Beinen. | Ponovo je na nogama.
+
+## Kupovina i novac
+N | der Kundenservice | — | služba za korisnike | Ich rufe beim Kundenservice an. | Zovem službu za korisnike.
+N | die Hotline | die Hotlines | dežurni telefon | Die Hotline ist rund um die Uhr erreichbar. | Dežurni telefon je dostupan non-stop.
+N | die Kundennummer | die Kundennummern | broj kupca | Bitte nennen Sie Ihre Kundennummer. | Molim navedite svoj broj kupca.
+N | die Bestellnummer | die Bestellnummern | broj porudžbine | Die Bestellnummer steht auf der Rechnung. | Broj porudžbine je na računu.
+N | die Lieferadresse | die Lieferadressen | adresa za isporuku | Die Lieferadresse ist falsch. | Adresa za isporuku je pogrešna.
+N | die Rücksendung | die Rücksendungen | vraćanje robe | Die Rücksendung ist kostenlos. | Vraćanje robe je besplatno.
+N | das Widerrufsrecht | — | pravo na odustanak | Sie haben 14 Tage Widerrufsrecht. | Imate 14 dana pravo na odustanak.
+N | die Zahlungsart | die Zahlungsarten | način plaćanja | Wählen Sie eine Zahlungsart. | Izaberite način plaćanja.
+N | die Vorkasse | — | plaćanje unapred | Wir liefern nur gegen Vorkasse. | Isporučujemo samo uz plaćanje unapred.
+N | der Gutschein | die Gutscheine | vaučer | Ich schenke ihr einen Gutschein. | Poklanjam joj vaučer.
+N | die Kundenbewertung | die Kundenbewertungen | ocena kupaca | Die Kundenbewertungen sind sehr gut. | Ocene kupaca su veoma dobre.
+N | der Fehlkauf | die Fehlkäufe | promašena kupovina | Die Jacke war ein Fehlkauf. | Jakna je bila promašaj.
+V | widerrufen | hat widerrufen | opozvati, odustati | Sie können den Vertrag widerrufen. | Možete da odustanete od ugovora.
+V | zurückschicken | hat zurückgeschickt | vratiti (poštom) | Ich schicke das Paket zurück. | Vraćam paket.
+V | gutschreiben | hat gutgeschrieben | uplatiti na račun (odobriti) | Der Betrag wird Ihnen gutgeschrieben. | Iznos će vam biti odobren.
+V | abbuchen | hat abgebucht | skinuti sa računa | Die Miete wird am Monatsanfang abgebucht. | Kirija se skida početkom meseca.
+V | sich verrechnen | hat sich verrechnet | pogrešno izračunati | Die Kassiererin hat sich verrechnet. | Kasirka je pogrešno izračunala.
+A | mangelhaft | | sa nedostacima | Die Ware ist mangelhaft. | Roba ima nedostatke.
+A | einwandfrei | | besprekoran | Das Gerät funktioniert einwandfrei. | Uređaj radi besprekorno.
+A | lieferbar | | dostupan za isporuku | Der Artikel ist sofort lieferbar. | Artikal je odmah dostupan.
+A | vergriffen | | rasprodat | Das Buch ist vergriffen. | Knjiga je rasprodata.
+S | Ich möchte von meinem Widerrufsrecht Gebrauch machen. | Želim da iskoristim pravo na odustanak.
+S | Die Ware ist beschädigt angekommen. | Roba je stigla oštećena.
+
+## Priroda, životinje i vreme
+N | das Gebirge | die Gebirge | planinski venac | Die Alpen sind ein großes Gebirge. | Alpi su veliki planinski venac.
+N | der Gipfel | die Gipfel | vrh (planine) | Wir haben den Gipfel erreicht. | Stigli smo do vrha.
+N | der Hang | die Hänge | padina | Am Hang wachsen Weinreben. | Na padini raste vinova loza.
+N | die Ebene | die Ebenen | ravnica | Die Vojvodina ist eine große Ebene. | Vojvodina je velika ravnica.
+N | die Mündung | die Mündungen | ušće | An der Mündung der Save in die Donau liegt Belgrad. | Na ušću Save u Dunav nalazi se Beograd.
+N | der Kontinent | die Kontinente | kontinent | Europa ist ein kleiner Kontinent. | Evropa je mali kontinent.
+N | der Niederschlag | die Niederschläge | padavine | Im Herbst gibt es viel Niederschlag. | U jesen ima mnogo padavina.
+N | die Luftfeuchtigkeit | — | vlažnost vazduha | Die Luftfeuchtigkeit ist sehr hoch. | Vlažnost vazduha je veoma visoka.
+N | das Glatteis | — | poledica | Vorsicht, Glatteis! | Pažnja, poledica!
+N | der Waldbrand | die Waldbrände | šumski požar | Im Sommer gibt es oft Waldbrände. | Leti su česti šumski požari.
+N | die Tierart | die Tierarten | životinjska vrsta | Viele Tierarten sind bedroht. | Mnoge životinjske vrste su ugrožene.
+N | der Tierschutz | — | zaštita životinja | Tierschutz ist mir wichtig. | Zaštita životinja mi je važna.
+N | das Tierheim | die Tierheime | prihvatilište za životinje | Wir haben den Hund aus dem Tierheim. | Psa smo uzeli iz prihvatilišta.
+V | aufforsten | hat aufgeforstet | pošumiti | Nach dem Brand wird der Wald aufgeforstet. | Posle požara šuma se pošumljava.
+V | überschwemmen | hat überschwemmt | poplaviti | Der Fluss hat die Felder überschwemmt. | Reka je poplavila polja.
+V | austrocknen | ist ausgetrocknet | presušiti | Der Bach ist ausgetrocknet. | Potok je presušio.
+V | schmelzen | ist geschmolzen | topiti se | Der Schnee schmilzt. | Sneg se topi.
+A | gebirgig | | planinski | Die Region ist sehr gebirgig. | Region je veoma planinski.
+A | fruchtbar | | plodan | Der Boden ist sehr fruchtbar. | Zemlja je veoma plodna.
+A | glatt | | klizav; gladak | Die Straßen sind glatt. | Putevi su klizavi.
+A | heiter | | vedar | Morgen wird es heiter bis wolkig. | Sutra će biti vedro do oblačno.
+A | schwül | | sparan | Heute ist es schwül. | Danas je sparno.
+A | frostig | | mrazan | Die Nächte sind frostig. | Noći su mrazne.
+S | Es gießt in Strömen. | Pljušti kao iz kabla.
+S | Laut Wetterbericht soll es morgen gewittern. | Prema prognozi sutra bi trebalo da bude nevreme.
+
+## Lični podaci i porodica
+A | belesen | | načitan | Sie ist sehr belesen. | Ona je veoma načitana.
+A | durchsetzungsfähig | | sposoban da se izbori | Eine Chefin muss durchsetzungsfähig sein. | Šefica mora umeti da se izbori.
+A | einfühlsam | | saosećajan | Er ist ein einfühlsamer Zuhörer. | On je saosećajan slušalac.
+A | humorvoll | | duhovit | Mein Opa ist sehr humorvoll. | Moj deda je veoma duhovit.
+A | kontaktfreudig | | društven | Sie ist sehr kontaktfreudig. | Ona je veoma društvena.
+A | kritikfähig | | sposoban da prihvati kritiku | Man muss kritikfähig sein. | Treba umeti prihvatiti kritiku.
+A | pflichtbewusst | | savestan, odgovoran | Er ist sehr pflichtbewusst. | On je veoma savestan.
+A | stur | | tvrdoglav | Sei nicht so stur! | Ne budi tako tvrdoglav!
+A | eigensinnig | | svojeglav | Das Kind ist sehr eigensinnig. | Dete je veoma svojeglavo.
+A | oberflächlich | | površan | Er ist ziemlich oberflächlich. | On je prilično površan.
+A | tiefgründig | | dubok (misaon) | Das war ein tiefgründiges Gespräch. | To je bio dubok razgovor.
+A | zuvorkommend | | predusretljiv | Das Personal ist sehr zuvorkommend. | Osoblje je veoma predusretljivo.
+A | vertrauenswürdig | | pouzdan, dostojan poverenja | Er wirkt vertrauenswürdig. | Deluje pouzdano.
+N | das Temperament | die Temperamente | temperament | Sie hat viel Temperament. | Ima mnogo temperamenta.
+N | die Lebenseinstellung | die Lebenseinstellungen | životni stav | Er hat eine positive Lebenseinstellung. | Ima pozitivan životni stav.
+N | das Selbstbewusstsein | — | samosvest, samopouzdanje | Sie hat ein gesundes Selbstbewusstsein. | Ima zdravo samopouzdanje.
+S | Er ist ein Mensch mit Ecken und Kanten. | On je osoba sa svojim manama i vrlinama.
+S | Sie hat das Herz am rechten Fleck. | Ona ima dobro srce.
+
+## Škola i učenje
+N | die Bildungschance | die Bildungschancen | šansa za obrazovanje | Alle Kinder sollen gleiche Bildungschancen haben. | Sva deca treba da imaju jednake šanse za obrazovanje.
+N | die Ganztagsschule | die Ganztagsschulen | celodnevna škola | Meine Tochter besucht eine Ganztagsschule. | Moja ćerka ide u celodnevnu školu.
+N | der Leistungsdruck | — | pritisak uspeha | Der Leistungsdruck in der Schule ist hoch. | Pritisak za uspeh u školi je visok.
+N | die Nachhilfe | — | privatni časovi | Er bekommt Nachhilfe in Mathe. | Ima privatne časove iz matematike.
+N | das lebenslange Lernen | — | celoživotno učenje | Lebenslanges Lernen ist heute wichtig. | Celoživotno učenje je danas važno.
+N | der Studienabschluss | die Studienabschlüsse | završene studije | Nach dem Studienabschluss suchte sie eine Stelle. | Posle studija je tražila posao.
+N | die Anerkennung | die Anerkennungen | priznanje; nostrifikacija | Die Anerkennung meines Diploms dauert lange. | Nostrifikacija moje diplome dugo traje.
+N | der Lehrplan | die Lehrpläne | nastavni plan | Das steht nicht im Lehrplan. | To nije u nastavnom planu.
+V | anerkennen | hat anerkannt | priznati (diplomu) | Mein Abschluss wurde anerkannt. | Moja diploma je priznata.
+V | nachholen | hat nachgeholt | nadoknaditi | Ich hole den Schulabschluss nach. | Nadoknađujem završetak škole.
+V | vertiefen | hat vertieft | produbiti | Im Kurs vertiefen wir die Grammatik. | Na kursu produbljujemo gramatiku.
+V | auffrischen | hat aufgefrischt | osvežiti (znanje) | Ich frische meine Englischkenntnisse auf. | Osvežavam znanje engleskog.
+A | lernbereit | | spreman da uči | Wir suchen lernbereite Mitarbeiter. | Tražimo radnike spremne da uče.
+A | anerkannt | | priznat | Das ist ein anerkannter Abschluss. | To je priznata diploma.
+S | Mein Diplom muss in Deutschland anerkannt werden. | Moja diploma mora biti priznata u Nemačkoj.
+S | Man lernt nie aus. | Čovek uči dok je živ.

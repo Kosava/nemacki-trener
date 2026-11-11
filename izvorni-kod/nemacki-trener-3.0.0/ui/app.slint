@@ -1,0 +1,203 @@
+import { Palette } from "std-widgets.slint";
+import { Theme } from "theme.slint";
+import { Btn, Card, Label, Muted } from "widgets.slint";
+import { Browse, BrowsePage, NavItem, WordItem } from "browse.slint";
+import { Editor, EditorDialog } from "editor.slint";
+import { Learn, LearnPage } from "learn.slint";
+import { Gender, GenderPage } from "gender.slint";
+import { Settings, SettingsPage } from "settings.slint";
+
+export { Theme, Browse, Editor, Learn, Gender, Settings, NavItem, WordItem }
+
+export global App {
+    in-out property <int> tab: 0;
+    in property <string> status;
+    in property <string> streak-text;
+
+    // poruka (OK) i pitanje (Da / Ne)
+    in-out property <bool> message-visible;
+    in property <string> message-title;
+    in property <string> message-text;
+    in property <bool> message-is-question;
+    in property <string> message-yes: "Da";
+
+    callback tab-changed(index: int);
+    callback message-answer(yes: bool);
+}
+
+component TabButton inherits Rectangle {
+    in property <string> text;
+    in property <bool> active;
+    callback clicked();
+
+    height: 34px;
+    min-width: label.preferred-width + 30px;
+    border-radius: 17px;
+    background: active ? Theme.accent-bg : (ta.has-hover ? Theme.hover : transparent);
+    animate background { duration: 100ms; }
+
+    label := Text {
+        text: root.text;
+        color: root.active ? Theme.accent-text : Theme.text;
+        font-size: 14px;
+        font-weight: root.active ? 700 : 500;
+        horizontal-alignment: center;
+        vertical-alignment: center;
+    }
+    ta := TouchArea {
+        mouse-cursor: pointer;
+        clicked => { root.clicked(); }
+    }
+}
+
+export component AppWindow inherits Window {
+    title: "Nemački Trener";
+    icon: @image-url("../packaging/nemacki-trener.png");
+    preferred-width: 1180px;
+    preferred-height: 760px;
+    min-width: 920px;
+    min-height: 600px;
+    background: Theme.bg;
+    default-font-size: 14px;
+
+    in-out property <bool> dark-mode: false;
+    changed dark-mode => { root.apply-theme(); }
+    init => { root.apply-theme(); }
+
+    function apply-theme() {
+        Theme.dark = root.dark-mode;
+        Palette.color-scheme = root.dark-mode ? ColorScheme.dark : ColorScheme.light;
+    }
+
+    public function focus-page() {
+        if (App.tab == 2) { learn-page.focus-card(); }
+        if (App.tab == 3) { gender-page.focus-card(); }
+    }
+
+    public function focus-editor() {
+        editor.focus-first();
+    }
+
+    property <[string]> tabs: ["Rečnik", "Fraze i rečenice", "Učenje", "Der / Die / Das", "Podešavanja"];
+
+    VerticalLayout {
+        // ---- gornja traka ----
+        Rectangle {
+            height: 54px;
+            background: Theme.surface;
+            HorizontalLayout {
+                padding-left: 16px;
+                padding-right: 16px;
+                spacing: 6px;
+                Text {
+                    text: "Nemački Trener";
+                    color: Theme.accent;
+                    font-size: 18px;
+                    font-weight: 800;
+                    vertical-alignment: center;
+                }
+                Rectangle { width: 18px; }
+                for t[i] in root.tabs: VerticalLayout {
+                    alignment: center;
+                    TabButton {
+                        text: t;
+                        active: App.tab == i;
+                        clicked => {
+                            App.tab = i;
+                            App.tab-changed(i);
+                            root.focus-page();
+                        }
+                    }
+                }
+                Rectangle { horizontal-stretch: 1; }
+                Text {
+                    text: App.streak-text;
+                    color: Theme.muted;
+                    font-size: 13px;
+                    vertical-alignment: center;
+                }
+            }
+            Rectangle {
+                y: parent.height - 1px;
+                height: 1px;
+                background: Theme.border;
+            }
+        }
+
+        // ---- strane ----
+        Rectangle {
+            vertical-stretch: 1;
+            if App.tab <= 1: BrowsePage { }
+            learn-page := LearnPage { visible: App.tab == 2; }
+            gender-page := GenderPage { visible: App.tab == 3; }
+            if App.tab == 4: SettingsPage { }
+        }
+
+        // ---- statusna traka ----
+        Rectangle {
+            height: 28px;
+            background: Theme.surface;
+            Rectangle { height: 1px; y: 0; background: Theme.border; }
+            Text {
+                x: 14px;
+                width: parent.width - 28px;
+                text: App.status;
+                color: Theme.muted;
+                font-size: 12px;
+                vertical-alignment: center;
+                overflow: elide;
+            }
+        }
+    }
+
+    // ---- dijalog za unos ----
+    editor := EditorDialog {
+        visible: Editor.visible;
+    }
+
+    // ---- poruka / pitanje ----
+    if App.message-visible: Rectangle {
+        background: Theme.shade;
+        TouchArea { }
+        Card {
+            width: min(460px, parent.width - 40px);
+            height: box.preferred-height;
+            x: (parent.width - self.width) / 2;
+            y: (parent.height - self.height) / 2;
+            drop-shadow-blur: 24px;
+            drop-shadow-color: #00000050;
+            box := VerticalLayout {
+                padding: 22px;
+                spacing: 12px;
+                Text {
+                    text: App.message-title;
+                    color: Theme.text;
+                    font-size: 18px;
+                    font-weight: 700;
+                    wrap: word-wrap;
+                }
+                Text {
+                    text: App.message-text;
+                    color: Theme.text;
+                    font-size: 14px;
+                    wrap: word-wrap;
+                }
+                HorizontalLayout {
+                    spacing: 10px;
+                    height: 40px;
+                    padding-top: 4px;
+                    Rectangle { horizontal-stretch: 1; }
+                    if App.message-is-question: Btn {
+                        text: "Otkaži";
+                        clicked => { App.message-answer(false); }
+                    }
+                    Btn {
+                        text: App.message-is-question ? App.message-yes : "U redu";
+                        kind: "primary";
+                        clicked => { App.message-answer(true); }
+                    }
+                }
+            }
+        }
+    }
+}

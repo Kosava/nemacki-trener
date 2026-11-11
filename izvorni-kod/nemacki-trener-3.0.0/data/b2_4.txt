@@ -1,0 +1,207 @@
+# Nivo B2 — deo 4
+
+## Mediji, tehnika i komunikacija
+N | die Digitalisierung | — | digitalizacija | Die Digitalisierung verändert die Arbeitswelt. | Digitalizacija menja svet rada.
+N | die künstliche Intelligenz | — | veštačka inteligencija | Künstliche Intelligenz wird immer wichtiger. | Veštačka inteligencija postaje sve važnija.
+N | die Anwendung | die Anwendungen | primena; aplikacija | Die Anwendung ist einfach zu bedienen. | Aplikacija se lako koristi.
+N | die Benutzeroberfläche | die Benutzeroberflächen | korisnički interfejs | Die Benutzeroberfläche ist übersichtlich. | Korisnički interfejs je pregledan.
+N | die Funktion | die Funktionen | funkcija | Das Gerät hat viele Funktionen. | Uređaj ima mnogo funkcija.
+N | das Update | die Updates | ažuriranje | Installieren Sie das neueste Update. | Instalirajte najnovije ažuriranje.
+N | die Sicherheitslücke | die Sicherheitslücken | bezbednosni propust | Das Update schließt eine Sicherheitslücke. | Ažuriranje zatvara bezbednosni propust.
+N | der Hackerangriff | die Hackerangriffe | hakerski napad | Die Firma wurde Opfer eines Hackerangriffs. | Firma je bila žrtva hakerskog napada.
+N | die Privatsphäre | — | privatnost | Man muss seine Privatsphäre schützen. | Treba štititi svoju privatnost.
+N | das Nutzerkonto | die Nutzerkonten | korisnički nalog | Melden Sie sich mit Ihrem Nutzerkonto an. | Prijavite se svojim korisničkim nalogom.
+N | die Abhängigkeit | die Abhängigkeiten | zavisnost | Die Abhängigkeit vom Handy wächst. | Zavisnost od mobilnog raste.
+N | die Bildschirmzeit | — | vreme pred ekranom | Kinder sollten wenig Bildschirmzeit haben. | Deca bi trebalo da provode malo vremena pred ekranom.
+N | die Falschmeldung | die Falschmeldungen | lažna vest | Im Internet verbreiten sich viele Falschmeldungen. | Na internetu se širi mnogo lažnih vesti.
+N | die Pressefreiheit | — | sloboda štampe | Pressefreiheit ist ein Grundrecht. | Sloboda štampe je osnovno pravo.
+N | die Berichterstattung | — | izveštavanje | Die Berichterstattung war einseitig. | Izveštavanje je bilo jednostrano.
+N | die Schlagzeile | die Schlagzeilen | naslov (u novinama) | Die Schlagzeile ist sehr reißerisch. | Naslov je veoma senzacionalistički.
+N | die Sendezeit | die Sendezeiten | vreme emitovanja | Die Sendung läuft zur besten Sendezeit. | Emisija ide u najgledanijem terminu.
+N | der Zuschauer | die Zuschauer | gledalac | Millionen Zuschauer sahen das Spiel. | Milioni gledalaca su gledali utakmicu.
+N | der Leser | die Leser | čitalac | Die Zeitung hat viele Leser. | Novine imaju mnogo čitalaca.
+N | die Auflage | die Auflagen | tiraž; uslov | Die Zeitung hat eine hohe Auflage. | Novine imaju visok tiraž.
+N | der Kommentar | die Kommentare | komentar | Lies nicht die Kommentare! | Ne čitaj komentare!
+N | die Einschaltquote | die Einschaltquoten | gledanost | Die Einschaltquote war sehr hoch. | Gledanost je bila veoma visoka.
+N | das Netz | die Netze | mreža (internet) | Ich habe kein Netz. | Nemam signal.
+N | die Erreichbarkeit | — | dostupnost | Ständige Erreichbarkeit verursacht Stress. | Stalna dostupnost izaziva stres.
+V | digitalisieren | hat digitalisiert | digitalizovati | Die Behörde digitalisiert ihre Akten. | Služba digitalizuje svoja dokumenta.
+V | bedienen | hat bedient | rukovati; usluživati | Das Gerät ist leicht zu bedienen. | Uređajem se lako rukuje.
+V | hochladen | hat hochgeladen | otpremiti (upload) | Ich lade das Video hoch. | Otpremam video.
+V | posten | hat gepostet | objaviti (na mrežama) | Er postet jeden Tag Fotos. | Svaki dan objavljuje fotografije.
+V | sich vernetzen | hat sich vernetzt | povezati se | Auf der Messe vernetzen sich die Firmen. | Na sajmu se firme povezuju.
+V | berichten über | hat berichtet | izveštavati o (+ Akk) | Die Medien berichten über den Unfall. | Mediji izveštavaju o nesreći.
+V | verbreiten | hat verbreitet | širiti | Er verbreitet falsche Informationen. | On širi netačne informacije.
+V | manipulieren | hat manipuliert | manipulisati | Die Bilder wurden manipuliert. | Slike su izmanipulisane.
+V | überwachen | hat überwacht | nadgledati | Die Kameras überwachen den Bahnhof. | Kamere nadgledaju stanicu.
+V | abstürzen | ist abgestürzt | srušiti se (program); pasti | Der Computer ist abgestürzt. | Računar se srušio.
+A | benutzerfreundlich | | jednostavan za korišćenje | Die App ist sehr benutzerfreundlich. | Aplikacija je veoma jednostavna za korišćenje.
+A | veraltet | | zastareo | Die Software ist veraltet. | Softver je zastareo.
+A | kabellos | | bežični | Ich habe kabellose Kopfhörer. | Imam bežične slušalice.
+A | seriös | | ozbiljan, pouzdan | Ist diese Quelle seriös? | Da li je ovaj izvor pouzdan?
+A | einseitig | | jednostran | Der Bericht ist sehr einseitig. | Izveštaj je veoma jednostran.
+A | objektiv | | objektivan | Journalisten sollten objektiv berichten. | Novinari bi trebalo da izveštavaju objektivno.
+A | erreichbar | | dostupan | Ich bin ab acht Uhr erreichbar. | Dostupan sam od osam sati.
+S | Die Verbindung ist abgebrochen. | Veza je prekinuta.
+S | Man sollte nicht alles glauben, was im Internet steht. | Ne treba verovati svemu što piše na internetu.
+S | Ich bin zurzeit nicht erreichbar. | Trenutno nisam dostupan.
+
+## Osećanja i osobine
+N | die Empfindung | die Empfindungen | osećaj, doživljaj | Jeder hat andere Empfindungen. | Svako ima drugačije osećaje.
+N | die Begeisterung | — | oduševljenje | Die Begeisterung war groß. | Oduševljenje je bilo veliko.
+N | die Gleichgültigkeit | — | ravnodušnost | Seine Gleichgültigkeit ärgert mich. | Ljuti me njegova ravnodušnost.
+N | die Verzweiflung | — | očaj | Aus Verzweiflung rief er die Polizei. | Iz očaja je pozvao policiju.
+N | die Erleichterung | die Erleichterungen | olakšanje | Das war eine große Erleichterung. | To je bilo veliko olakšanje.
+N | die Dankbarkeit | — | zahvalnost | Ich möchte meine Dankbarkeit zeigen. | Želim da pokažem zahvalnost.
+N | das Mitleid | — | sažaljenje | Ich habe Mitleid mit ihm. | Žao mi ga je.
+N | das Mitgefühl | — | saosećanje | Sie zeigt viel Mitgefühl. | Ona pokazuje mnogo saosećanja.
+N | die Eifersucht | — | ljubomora | Eifersucht zerstört Beziehungen. | Ljubomora uništava veze.
+N | die Sehnsucht | die Sehnsüchte | čežnja | Ich habe Sehnsucht nach meiner Heimat. | Čeznem za domovinom.
+N | das Heimweh | — | nostalgija (za domom) | Im ersten Jahr hatte ich oft Heimweh. | Prve godine sam često imao nostalgiju.
+N | die Selbstachtung | — | samopoštovanje | Er hat seine Selbstachtung verloren. | Izgubio je samopoštovanje.
+N | das Selbstvertrauen | — | samopouzdanje | Sie hat viel Selbstvertrauen. | Ona ima mnogo samopouzdanja.
+N | das Vorurteil | die Vorurteile | predrasuda | Wir müssen Vorurteile abbauen. | Moramo da razbijamo predrasude.
+N | die Toleranz | — | tolerancija | Toleranz ist wichtig in einer Gesellschaft. | Tolerancija je važna u društvu.
+N | das Verantwortungsbewusstsein | — | osećaj odgovornosti | Er hat ein starkes Verantwortungsbewusstsein. | Ima jak osećaj odgovornosti.
+N | die Zuverlässigkeit | — | pouzdanost | Zuverlässigkeit ist mir wichtig. | Pouzdanost mi je važna.
+N | die Ehrlichkeit | — | iskrenost | Ehrlichkeit währt am längsten. | Poštenje se uvek isplati.
+N | die Gelassenheit | — | smirenost | Er reagiert mit großer Gelassenheit. | Reaguje sa velikom smirenošću.
+N | die Ungeduld | — | nestrpljivost | Seine Ungeduld ist ein Problem. | Njegova nestrpljivost je problem.
+V | sich ärgern über | hat sich geärgert | ljutiti se na (+ Akk) | Ich ärgere mich über den Verkehr. | Ljutim se na saobraćaj.
+V | sich freuen über | hat sich gefreut | radovati se (nečemu što se desilo) (+ Akk) | Ich freue mich über dein Geschenk. | Radujem se tvom poklonu.
+V | sich freuen auf | hat sich gefreut | radovati se (nečemu što dolazi) (+ Akk) | Ich freue mich auf den Urlaub. | Radujem se odmoru.
+V | sich sorgen um | hat sich gesorgt | brinuti za (+ Akk) | Sie sorgt sich um ihre Kinder. | Brine za svoju decu.
+V | sich fürchten vor | hat sich gefürchtet | plašiti se (+ Dat) | Er fürchtet sich vor Hunden. | Plaši se pasa.
+V | sich schämen für | hat sich geschämt | stideti se (zbog) (+ Akk) | Ich schäme mich für mein Verhalten. | Stidim se svog ponašanja.
+V | sich sehnen nach | hat sich gesehnt | čeznuti za (+ Dat) | Sie sehnt sich nach Ruhe. | Ona čezne za mirom.
+V | neidisch sein auf | ist neidisch gewesen | zavideti (+ Akk) | Er ist neidisch auf seinen Bruder. | Zavidi bratu.
+V | stolz sein auf | ist stolz gewesen | biti ponosan na (+ Akk) | Wir sind stolz auf unsere Tochter. | Ponosni smo na ćerku.
+V | bereuen | hat bereut | pokajati se, žaliti zbog | Ich bereue nichts. | Ni zbog čega ne žalim.
+V | verdrängen | hat verdrängt | potisnuti | Er verdrängt seine Probleme. | Potiskuje svoje probleme.
+V | sich zusammenreißen | hat sich zusammengerissen | sabrati se | Reiß dich zusammen! | Saberi se!
+V | ausrasten | ist ausgerastet | pobesneti | Er ist völlig ausgerastet. | Potpuno je pobesneo.
+V | trösten | hat getröstet | tešiti | Die Mutter tröstet das Kind. | Majka teši dete.
+V | ermutigen | hat ermutigt | ohrabriti | Meine Lehrerin hat mich ermutigt. | Moja nastavnica me je ohrabrila.
+V | kränken | hat gekränkt | uvrediti | Seine Worte haben mich gekränkt. | Njegove reči su me uvredile.
+A | gleichgültig | | ravnodušan | Das ist mir gleichgültig. | To mi je svejedno.
+A | begeistert | | oduševljen | Die Kinder waren begeistert. | Deca su bila oduševljena.
+A | gerührt | | dirnut | Ich war sehr gerührt. | Bio sam veoma dirnut.
+A | beleidigt | | uvređen | Sie ist beleidigt. | Ona je uvređena.
+A | gekränkt | | povređen (emotivno) | Er fühlt sich gekränkt. | Oseća se povređeno.
+A | misstrauisch | | nepoverljiv | Er ist sehr misstrauisch. | On je veoma nepoverljiv.
+A | ausgeglichen | | uravnotežen | Sie ist ein ausgeglichener Mensch. | Ona je uravnotežena osoba.
+A | launisch | | ćudljiv | Er ist manchmal launisch. | Ponekad je ćudljiv.
+A | zurückhaltend | | uzdržan, povučen | Sie ist eher zurückhaltend. | Ona je pre povučena.
+A | aufdringlich | | nametljiv | Der Verkäufer war aufdringlich. | Prodavac je bio nametljiv.
+A | arrogant | | arogantan | Er wirkt arrogant. | Deluje arogantno.
+A | bescheiden | | skroman | Trotz seines Erfolgs ist er bescheiden. | Uprkos uspehu, skroman je.
+A | zuversichtlich | | optimističan, pun poverenja | Ich bin zuversichtlich, dass alles gut wird. | Uveren sam da će sve biti dobro.
+A | skeptisch | | skeptičan | Ich bin da eher skeptisch. | Tu sam pre skeptičan.
+A | hilflos | | bespomoćan | Ich fühlte mich hilflos. | Osećao sam se bespomoćno.
+S | Ich bin stolz darauf, dass … | Ponosan sam na to što …
+S | Das geht mir auf die Nerven. | To mi ide na živce.
+S | Mir fällt ein Stein vom Herzen. | Kamen mi je pao sa srca.
+S | Ich habe Heimweh. | Nedostaje mi dom.
+
+## Društvo, država i praznici
+N | der Rechtsstaat | die Rechtsstaaten | pravna država | Deutschland ist ein Rechtsstaat. | Nemačka je pravna država.
+N | das Grundgesetz | — | Osnovni zakon (nemački ustav) | Das Grundgesetz garantiert die Menschenwürde. | Osnovni zakon garantuje ljudsko dostojanstvo.
+N | die Verfassung | die Verfassungen | ustav | Die Verfassung schützt die Grundrechte. | Ustav štiti osnovna prava.
+N | das Grundrecht | die Grundrechte | osnovno pravo | Meinungsfreiheit ist ein Grundrecht. | Sloboda mišljenja je osnovno pravo.
+N | die Menschenrechte | (samo mn.) | ljudska prava | Die Menschenrechte gelten für alle. | Ljudska prava važe za sve.
+N | die Meinungsfreiheit | — | sloboda mišljenja | Die Meinungsfreiheit ist geschützt. | Sloboda mišljenja je zaštićena.
+N | der Bundestag | — | Bundestag (parlament) | Der Bundestag beschließt die Gesetze. | Bundestag donosi zakone.
+N | die Bundesregierung | — | savezna vlada | Die Bundesregierung plant Reformen. | Savezna vlada planira reforme.
+N | der Bundeskanzler | die Bundeskanzler | savezni kancelar | Der Bundeskanzler hält eine Rede. | Kancelar drži govor.
+N | das Bundesland | die Bundesländer | savezna pokrajina | Deutschland hat 16 Bundesländer. | Nemačka ima 16 pokrajina.
+N | die Gemeinde | die Gemeinden | opština | Die Gemeinde baut eine neue Schule. | Opština gradi novu školu.
+N | die Opposition | die Oppositionen | opozicija | Die Opposition kritisiert die Regierung. | Opozicija kritikuje vladu.
+N | die Koalition | die Koalitionen | koalicija | Die Parteien bilden eine Koalition. | Partije formiraju koaliciju.
+N | der Abgeordnete | die Abgeordneten | poslanik | Der Abgeordnete spricht im Parlament. | Poslanik govori u parlamentu.
+N | die Abstimmung | die Abstimmungen | glasanje | Die Abstimmung ist geheim. | Glasanje je tajno.
+N | das Wahlrecht | — | pravo glasa | Ab 18 hat man das Wahlrecht. | Od 18 godina se ima pravo glasa.
+N | die Wahlbeteiligung | — | izlaznost na izborima | Die Wahlbeteiligung war niedrig. | Izlaznost je bila niska.
+N | die Reform | die Reformen | reforma | Die Reform ist umstritten. | Reforma je sporna.
+N | die Maßnahme | die Maßnahmen | mera | Die Regierung beschließt neue Maßnahmen. | Vlada donosi nove mere.
+N | der Sozialstaat | die Sozialstaaten | socijalna država | Der Sozialstaat hilft bedürftigen Menschen. | Socijalna država pomaže ljudima u potrebi.
+N | die Sozialleistung | die Sozialleistungen | socijalna davanja | Er bekommt Sozialleistungen. | Prima socijalnu pomoć.
+N | das Kindergeld | — | dečiji dodatak | Eltern bekommen Kindergeld. | Roditelji dobijaju dečiji dodatak.
+N | die Rentenversicherung | die Rentenversicherungen | penzijsko osiguranje | Ein Teil des Lohns geht an die Rentenversicherung. | Deo plate ide u penzijsko osiguranje.
+N | die Einwanderung | die Einwanderungen | useljavanje, imigracija | Deutschland ist ein Einwanderungsland. | Nemačka je zemlja useljavanja.
+N | der Flüchtling | die Flüchtlinge | izbeglica | Viele Flüchtlinge suchen Schutz. | Mnoge izbeglice traže zaštitu.
+N | die Staatsbürgerschaft | die Staatsbürgerschaften | državljanstvo | Er hat die deutsche Staatsbürgerschaft beantragt. | Podneo je zahtev za nemačko državljanstvo.
+N | die Vielfalt | — | raznolikost | Kulturelle Vielfalt ist eine Bereicherung. | Kulturna raznolikost je bogatstvo.
+N | die Diskriminierung | die Diskriminierungen | diskriminacija | Diskriminierung ist verboten. | Diskriminacija je zabranjena.
+N | die Benachteiligung | die Benachteiligungen | zapostavljanje | Es gibt Benachteiligung von Frauen im Beruf. | Postoji zapostavljanje žena na poslu.
+N | die Ungleichheit | die Ungleichheiten | nejednakost | Soziale Ungleichheit wächst. | Društvena nejednakost raste.
+N | der Wohlstand | — | blagostanje | Der Wohlstand ist ungleich verteilt. | Blagostanje je nejednako raspoređeno.
+N | die Globalisierung | — | globalizacija | Die Globalisierung hat Vor- und Nachteile. | Globalizacija ima prednosti i mane.
+N | der Protest | die Proteste | protest | Es gab Proteste gegen das Gesetz. | Bilo je protesta protiv zakona.
+N | die Bürgerinitiative | die Bürgerinitiativen | građanska inicijativa | Eine Bürgerinitiative kämpft gegen den Bau. | Građanska inicijativa se bori protiv gradnje.
+N | die Gedenkfeier | die Gedenkfeiern | komemoracija | Die Gedenkfeier findet am Sonntag statt. | Komemoracija je u nedelju.
+N | der Nationalfeiertag | die Nationalfeiertage | državni praznik | Der 3. Oktober ist Nationalfeiertag. | Treći oktobar je državni praznik.
+V | beschließen | hat beschlossen | odlučiti, doneti (zakon) | Das Parlament hat das Gesetz beschlossen. | Parlament je doneo zakon.
+V | verabschieden | hat verabschiedet | usvojiti (zakon); ispratiti | Der Haushalt wurde verabschiedet. | Budžet je usvojen.
+V | einführen | hat eingeführt | uvesti | Die Regierung führt eine neue Steuer ein. | Vlada uvodi novi porez.
+V | abschaffen | hat abgeschafft | ukinuti | Die Wehrpflicht wurde abgeschafft. | Obavezni vojni rok je ukinut.
+V | kritisieren | hat kritisiert | kritikovati | Die Opposition kritisiert den Plan. | Opozicija kritikuje plan.
+V | protestieren gegen | hat protestiert | protestovati protiv (+ Akk) | Die Bürger protestieren gegen die Preise. | Građani protestuju protiv cena.
+V | sich einsetzen für | hat sich eingesetzt | zalagati se za (+ Akk) | Sie setzt sich für Frauenrechte ein. | Zalaže se za prava žena.
+V | benachteiligen | hat benachteiligt | zapostaviti, diskriminisati | Niemand darf benachteiligt werden. | Niko ne sme biti zapostavljen.
+V | einwandern | ist eingewandert | useliti se | Seine Eltern sind aus Serbien eingewandert. | Njegovi roditelji su se doselili iz Srbije.
+V | auswandern | ist ausgewandert | iseliti se | Viele junge Leute wandern aus. | Mnogo mladih se iseljava.
+V | sich einbürgern lassen | hat sich einbürgern lassen | dobiti državljanstvo | Er hat sich einbürgern lassen. | Dobio je državljanstvo.
+V | gedenken | hat gedacht | odati počast (+ Gen) | Wir gedenken der Opfer. | Odajemo počast žrtvama.
+A | umstritten | | sporan | Das Gesetz ist umstritten. | Zakon je sporan.
+A | staatlich | | državni | Das ist eine staatliche Schule. | To je državna škola.
+A | kommunal | | opštinski, komunalni | Die kommunalen Wahlen sind im Herbst. | Lokalni izbori su u jesen.
+A | gesetzlich | | zakonski | Das ist gesetzlich vorgeschrieben. | To je zakonom propisano.
+A | bedürftig | | u potrebi | Wir helfen bedürftigen Familien. | Pomažemo porodicama u potrebi.
+A | multikulturell | | multikulturalni | Berlin ist eine multikulturelle Stadt. | Berlin je multikulturalni grad.
+S | Ich bin der Ansicht, dass der Staat mehr tun sollte. | Smatram da bi država trebalo da učini više.
+S | Das ist eine Frage der Gerechtigkeit. | To je pitanje pravde.
+
+## Usluge i ustanove
+N | der Anspruch | die Ansprüche | pravo (na nešto), zahtev | Sie haben Anspruch auf Urlaub. | Imate pravo na godišnji odmor.
+N | die Klage | die Klagen | tužba | Er hat Klage gegen die Firma erhoben. | Podneo je tužbu protiv firme.
+N | der Prozess | die Prozesse | sudski proces; proces | Der Prozess dauert schon Monate. | Proces traje već mesecima.
+N | das Urteil | die Urteile | presuda; sud (mišljenje) | Das Urteil wird morgen verkündet. | Presuda se objavljuje sutra.
+N | der Richter | die Richter | sudija | Der Richter hat entschieden. | Sudija je odlučio.
+N | der Angeklagte | die Angeklagten | optuženi | Der Angeklagte schweigt. | Optuženi ćuti.
+N | die Geldstrafe | die Geldstrafen | novčana kazna | Er musste eine Geldstrafe zahlen. | Morao je da plati novčanu kaznu.
+N | der Einspruch | die Einsprüche | prigovor, žalba | Sie können Einspruch einlegen. | Možete da uložite prigovor.
+N | die Vollmacht | die Vollmachten | punomoćje | Ich gebe Ihnen eine Vollmacht. | Dajem vam punomoćje.
+N | die Beglaubigung | die Beglaubigungen | overa | Für die Kopie brauchen Sie eine Beglaubigung. | Za kopiju vam je potrebna overa.
+N | der Notar | die Notare | javni beležnik | Der Vertrag wird beim Notar unterschrieben. | Ugovor se potpisuje kod beležnika.
+N | das Bußgeldverfahren | die Bußgeldverfahren | prekršajni postupak | Gegen ihn läuft ein Bußgeldverfahren. | Protiv njega se vodi prekršajni postupak.
+N | die Verwaltung | die Verwaltungen | uprava, administracija | Die Verwaltung arbeitet langsam. | Administracija radi sporo.
+N | die Bürokratie | die Bürokratien | birokratija | Die Bürokratie ist kompliziert. | Birokratija je komplikovana.
+N | der Sachbearbeiter | die Sachbearbeiter | referent, službenik | Der Sachbearbeiter prüft den Antrag. | Referent proverava zahtev.
+N | das Aktenzeichen | die Aktenzeichen | broj predmeta | Bitte geben Sie das Aktenzeichen an. | Molim navedite broj predmeta.
+N | die Bearbeitungsgebühr | die Bearbeitungsgebühren | taksa za obradu | Die Bearbeitungsgebühr beträgt 30 Euro. | Taksa za obradu iznosi 30 evra.
+N | die Wartezeit | die Wartezeiten | vreme čekanja | Die Wartezeit beträgt drei Monate. | Vreme čekanja je tri meseca.
+N | der Nachweis | die Nachweise | dokaz, potvrda | Sie brauchen einen Nachweis über Ihr Einkommen. | Treba vam dokaz o prihodima.
+N | die Meldebescheinigung | die Meldebescheinigungen | potvrda o prijavi boravka | Die Meldebescheinigung bekommen Sie sofort. | Potvrdu o prijavi dobijate odmah.
+N | die Versicherungsnummer | die Versicherungsnummern | broj osiguranja | Wie ist Ihre Versicherungsnummer? | Koji je vaš broj osiguranja?
+N | der Schadensfall | die Schadensfälle | slučaj štete | Melden Sie den Schadensfall sofort. | Odmah prijavite štetu.
+V | klagen gegen | hat geklagt | tužiti (+ Akk) | Er klagt gegen seinen Arbeitgeber. | Tuži poslodavca.
+V | Einspruch einlegen | hat Einspruch eingelegt | uložiti prigovor | Ich lege Einspruch gegen den Bescheid ein. | Ulažem prigovor na rešenje.
+V | verurteilen | hat verurteilt | osuditi | Er wurde zu einer Geldstrafe verurteilt. | Osuđen je na novčanu kaznu.
+V | beglaubigen | hat beglaubigt | overiti | Lassen Sie die Kopie beglaubigen. | Overite kopiju.
+V | bevollmächtigen | hat bevollmächtigt | ovlastiti | Ich bevollmächtige meinen Bruder. | Ovlašćujem brata.
+V | nachweisen | hat nachgewiesen | dokazati | Sie müssen Ihre Deutschkenntnisse nachweisen. | Morate da dokažete znanje nemačkog.
+V | vorlegen | hat vorgelegt | podneti, predočiti | Bitte legen Sie Ihren Pass vor. | Molim predočite pasoš.
+V | anfordern | hat angefordert | zatražiti | Ich fordere die Unterlagen an. | Tražim dokumentaciju.
+V | sich beschweren bei | hat sich beschwert | žaliti se kod (+ Dat) | Ich beschwere mich beim Chef. | Žalim se šefu.
+V | zuständig sein für | ist zuständig gewesen | biti nadležan za (+ Akk) | Wer ist für Visa zuständig? | Ko je nadležan za vize?
+V | haften für | hat gehaftet | odgovarati za (+ Akk) | Eltern haften für ihre Kinder. | Roditelji odgovaraju za decu.
+A | gerichtlich | | sudski | Es kam zu einem gerichtlichen Verfahren. | Došlo je do sudskog postupka.
+A | strafbar | | kažnjiv | Das ist strafbar. | To je kažnjivo.
+A | rechtswidrig | | protivpravan | Die Kündigung war rechtswidrig. | Otkaz je bio nezakonit.
+A | zulässig | | dozvoljen | Das ist rechtlich zulässig. | To je pravno dozvoljeno.
+A | beglaubigt | | overen | Sie brauchen eine beglaubigte Kopie. | Treba vam overena kopija.
+A | bürokratisch | | birokratski | Das Verfahren ist sehr bürokratisch. | Postupak je veoma birokratski.
+A | fristgerecht | | u roku | Bitte reichen Sie die Unterlagen fristgerecht ein. | Molim predajte dokumentaciju u roku.
+S | Hiermit lege ich Widerspruch gegen Ihren Bescheid ein. | Ovim ulažem žalbu na vaše rešenje.
+S | Bitte teilen Sie mir das Aktenzeichen mit. | Molim saopštite mi broj predmeta.
+S | Ich habe Anspruch auf eine Erstattung. | Imam pravo na povraćaj novca.

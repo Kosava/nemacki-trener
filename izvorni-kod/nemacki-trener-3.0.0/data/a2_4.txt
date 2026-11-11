@@ -1,0 +1,163 @@
+# Nivo A2 — deo 4 (dopuna)
+
+## Lični podaci i porodica
+N | das Ehepaar | die Ehepaare | bračni par | Das Ehepaar wohnt nebenan. | Bračni par stanuje u komšiluku.
+N | der Jugendliche | die Jugendlichen | omladinac, tinejdžer | Viele Jugendliche treffen sich im Park. | Mnogi mladi se nalaze u parku.
+A | verwitwet | | udovac, udovica | Meine Oma ist verwitwet. | Moja baka je udovica.
+N | der Säugling | die Säuglinge | odojče | Der Säugling schläft viel. | Odojče mnogo spava.
+N | die Windel | die Windeln | pelena | Ich muss Windeln kaufen. | Moram da kupim pelene.
+N | der Kinderwagen | die Kinderwagen | dečja kolica | Der Kinderwagen steht im Flur. | Dečja kolica stoje u hodniku.
+N | die Schwangerschaft | die Schwangerschaften | trudnoća | Die Schwangerschaft verläuft gut. | Trudnoća protiče dobro.
+
+## Hrana i piće
+N | der Sekt | — | penušavo vino | Wir trinken ein Glas Sekt. | Pijemo čašu penušavog vina.
+N | die Beilage | die Beilagen | prilog (uz jelo) | Als Beilage nehme ich Reis. | Kao prilog uzimam pirinač.
+V | servieren | hat serviert | servirati | Der Kellner serviert das Essen. | Konobar servira hranu.
+V | einschenken | hat eingeschenkt | sipati (piće) | Darf ich Ihnen Wein einschenken? | Smem li da vam sipam vino?
+V | decken | hat gedeckt | postaviti (sto); pokriti | Kannst du bitte den Tisch decken? | Možeš li da postaviš sto?
+A | gar | | kuvan, gotov (jelo) | Die Kartoffeln sind noch nicht gar. | Krompir još nije kuvan.
+N | der Grill | die Grills | roštilj | Das Fleisch liegt auf dem Grill. | Meso je na roštilju.
+W | Prost | | živeli (zdravica) | Prost! Auf dein Wohl! | Živeli! U tvoje zdravlje!
+V | anstoßen | hat angestoßen | nazdraviti, kucnuti se | Wir stoßen auf das neue Jahr an. | Nazdravljamo za Novu godinu.
+
+## Kupovina i novac
+N | der Flohmarkt | die Flohmärkte | buvlja pijaca | Am Sonntag gehen wir auf den Flohmarkt. | U nedelju idemo na buvljak.
+N | der Stand | die Stände | tezga, štand | An diesem Stand gibt es frisches Obst. | Na ovoj tezgi ima svežeg voća.
+V | anstehen | hat angestanden | stajati u redu | Wir mussten lange anstehen. | Morali smo dugo da stojimo u redu.
+N | der Einkaufswagen | die Einkaufswagen | kolica za kupovinu | Der Einkaufswagen ist schon voll. | Kolica su već puna.
+N | die Plastiktüte | die Plastiktüten | plastična kesa | Ich brauche keine Plastiktüte. | Ne treba mi plastična kesa.
+N | die Tube | die Tuben | tuba | Die Tube ist leer. | Tuba je prazna.
+N | das Pfund | die Pfunde | funta, pola kilograma | Ein Pfund Tomaten, bitte. | Pola kile paradajza, molim.
+N | das Dutzend | die Dutzende | tuce | Ich kaufe ein Dutzend Eier. | Kupujem tuce jaja.
+A | reduziert | | snižen | Die Schuhe sind reduziert. | Cipele su snižene.
+N | die Brieftasche | die Brieftaschen | novčanik (za novčanice i dokumenta) | Mein Ausweis ist in der Brieftasche. | Lična karta mi je u novčaniku.
+N | die Drogerie | die Drogerien | drogerija | Shampoo kaufe ich in der Drogerie. | Šampon kupujem u drogeriji.
+N | die Buchhandlung | die Buchhandlungen | knjižara | In der Buchhandlung gibt es auch Zeitschriften. | U knjižari ima i časopisa.
+N | die Bestellung | die Bestellungen | porudžbina | Ihre Bestellung ist fertig. | Vaša porudžbina je gotova.
+N | der Karton | die Kartons | kartonska kutija | Die Bücher sind im Karton. | Knjige su u kutiji.
+N | die Kiste | die Kisten | gajba, sanduk | Wir kaufen eine Kiste Wasser. | Kupujemo gajbu vode.
+V | auspacken | hat ausgepackt | raspakovati | Ich packe die Einkäufe aus. | Raspakujem stvari iz kupovine.
+V | tauschen | hat getauscht | zameniti, razmeniti | Können wir die Plätze tauschen? | Možemo li da zamenimo mesta?
+
+## Odeća
+A | einfarbig | | jednobojan | Ich suche ein einfarbiges Hemd. | Tražim jednobojnu košulju.
+N | das Muster | die Muster | šara, dezen; uzorak | Das Muster gefällt mir nicht. | Dezen mi se ne sviđa.
+N | der Kragen | die Kragen | kragna | Der Kragen ist zu eng. | Kragna je previše uska.
+N | der Ärmel | die Ärmel | rukav | Die Ärmel sind zu lang. | Rukavi su predugački.
+N | der Reißverschluss | die Reißverschlüsse | rajsferšlus | Der Reißverschluss ist kaputt. | Rajsferšlus je pokvaren.
+N | die Strumpfhose | die Strumpfhosen | hulahopke | Sie trägt eine schwarze Strumpfhose. | Ona nosi crne hulahopke.
+N | die Unterhose | die Unterhosen | gaće | Ich brauche neue Unterhosen. | Trebaju mi nove gaće.
+N | das Unterhemd | die Unterhemden | potkošulja | Im Winter trage ich ein Unterhemd. | Zimi nosim potkošulju.
+N | der Bademantel | die Bademäntel | bademantil | Der Bademantel hängt im Bad. | Bademantil visi u kupatilu.
+N | der Bikini | die Bikinis | bikini | Sie kauft einen neuen Bikini. | Ona kupuje novi bikini.
+N | der Absatz | die Absätze | štikla, peta (cipele); pasus | Die Schuhe haben hohe Absätze. | Cipele imaju visoke štikle.
+N | die Weste | die Westen | prsluk | Er trägt eine warme Weste. | On nosi topao prsluk.
+N | die Shorts | (samo mn.) | šorc | Im Sommer trage ich Shorts. | Leti nosim šorc.
+V | nähen | hat genäht | šiti | Meine Oma näht den Knopf an. | Moja baka prišiva dugme.
+
+## Stan i kuća
+V | aufheben | hat aufgehoben | podići (sa poda); sačuvati | Heb bitte das Papier auf. | Podigni papir, molim te.
+V | aufbewahren | hat aufbewahrt | čuvati (stvari) | Bewahren Sie die Quittung gut auf. | Dobro čuvajte račun.
+V | räumen | hat geräumt | raskloniti, isprazniti | Wir räumen den Keller. | Raščišćavamo podrum.
+V | schmücken | hat geschmückt | ukrasiti, okititi | Wir schmücken den Weihnachtsbaum. | Kitimo jelku.
+V | anzünden | hat angezündet | zapaliti | Er zündet eine Kerze an. | On pali sveću.
+V | leeren | hat geleert | isprazniti | Ich leere den Mülleimer. | Praznim kantu za smeće.
+N | die Mülltrennung | — | razvrstavanje otpada | In Deutschland ist Mülltrennung wichtig. | U Nemačkoj je razvrstavanje otpada važno.
+N | das Altpapier | — | stari papir | Das Altpapier kommt in die blaue Tonne. | Stari papir ide u plavu kantu.
+N | der Biomüll | — | organski otpad | Obstreste gehören in den Biomüll. | Ostaci voća spadaju u organski otpad.
+W | nebenan | | odmah pored, u susedstvu | Die Familie Müller wohnt nebenan. | Porodica Miler stanuje pored.
+W | drüben | | preko, tamo (na drugoj strani) | Die Bäckerei ist da drüben. | Pekara je tamo preko.
+
+## Grad, saobraćaj i putovanje
+N | der Zebrastreifen | die Zebrastreifen | pešački prelaz | Geh bitte über den Zebrastreifen. | Pređi preko pešačkog prelaza, molim te.
+N | der Bürgersteig | die Bürgersteige | trotoar | Fahrräder dürfen nicht auf dem Bürgersteig fahren. | Bicikli ne smeju da voze trotoarom.
+N | die Hinfahrt | die Hinfahrten | vožnja u odlasku | Die Hinfahrt dauert zwei Stunden. | Vožnja u odlasku traje dva sata.
+N | die Rückfahrt | die Rückfahrten | povratna vožnja | Die Rückfahrt ist am Sonntag. | Povratak je u nedelju.
+W | hin und zurück | | u oba smera (povratna karta) | Einmal München hin und zurück, bitte. | Jednu povratnu do Minhena, molim.
+N | das Abteil | die Abteile | kupe | In diesem Abteil ist noch Platz. | U ovom kupeu još ima mesta.
+N | der Speisewagen | die Speisewagen | vagon-restoran | Der Speisewagen ist in der Mitte des Zuges. | Vagon-restoran je u sredini voza.
+N | die Ausfahrt | die Ausfahrten | izlaz (za vozila) | Nehmen Sie die nächste Ausfahrt. | Izađite na sledećem izlazu.
+N | die Einfahrt | die Einfahrten | ulaz (za vozila) | Bitte die Einfahrt freihalten! | Molimo ne parkirati ispred ulaza!
+N | der Tunnel | die Tunnel | tunel | Der Zug fährt durch einen Tunnel. | Voz prolazi kroz tunel.
+N | die Fähre | die Fähren | trajekt | Wir nehmen die Fähre nach Griechenland. | Idemo trajektom u Grčku.
+V | abfliegen | ist abgeflogen | poleteti (otputovati avionom) | Wir fliegen um zehn Uhr ab. | Polećemo u deset sati.
+N | das Handgepäck | — | ručni prtljag | Ich habe nur Handgepäck. | Imam samo ručni prtljag.
+N | die Sicherheitskontrolle | die Sicherheitskontrollen | bezbednosna kontrola | Die Sicherheitskontrolle dauert lange. | Bezbednosna kontrola dugo traje.
+N | die Bordkarte | die Bordkarten | karta za ukrcavanje | Zeigen Sie bitte Ihre Bordkarte. | Pokažite kartu za ukrcavanje, molim.
+N | der Fensterplatz | die Fensterplätze | mesto do prozora | Ich möchte einen Fensterplatz. | Želim mesto do prozora.
+N | der Gangplatz | die Gangplätze | mesto do prolaza | Ist ein Gangplatz frei? | Ima li slobodno mesto do prolaza?
+N | die Buchung | die Buchungen | rezervacija | Ihre Buchung ist bestätigt. | Vaša rezervacija je potvrđena.
+N | der Reiseführer | die Reiseführer | turistički vodič | Im Reiseführer steht viel über Wien. | U vodiču piše mnogo o Beču.
+N | die Rundfahrt | die Rundfahrten | kružna vožnja, razgledanje | Wir machen eine Rundfahrt durch die Stadt. | Idemo na razgledanje grada.
+N | der Aufenthalt | die Aufenthalte | boravak; zadržavanje | Der Zug hat zehn Minuten Aufenthalt. | Voz se zadržava deset minuta.
+N | die Abreise | die Abreisen | odlazak (na put) | Die Abreise ist am Montag. | Odlazak je u ponedeljak.
+N | die Anreise | die Anreisen | dolazak (na odredište) | Die Anreise ist ab 14 Uhr möglich. | Dolazak je moguć od 14 časova.
+V | verreisen | ist verreist | otputovati | Im August verreisen wir. | U avgustu putujemo.
+N | das Souvenir | die Souvenirs | suvenir | Ich bringe dir ein Souvenir mit. | Doneću ti suvenir.
+V | zelten | hat gezeltet | kampovati (pod šatorom) | Wir zelten am See. | Kampujemo pored jezera.
+N | der Campingplatz | die Campingplätze | kamp | Der Campingplatz liegt am Meer. | Kamp se nalazi na moru.
+N | der Schlafsack | die Schlafsäcke | vreća za spavanje | Vergiss deinen Schlafsack nicht. | Ne zaboravi vreću za spavanje.
+N | der Sonnenschirm | die Sonnenschirme | suncobran | Wir sitzen unter dem Sonnenschirm. | Sedimo pod suncobranom.
+N | die Sonnencreme | die Sonnencremes | krema za sunčanje | Nimm Sonnencreme mit! | Ponesi kremu za sunčanje!
+N | der Sonnenbrand | die Sonnenbrände | opekotine od sunca | Ich habe einen Sonnenbrand. | Izgoreo sam na suncu.
+N | die Taschenlampe | die Taschenlampen | baterijska lampa | Hast du eine Taschenlampe? | Imaš li baterijsku lampu?
+N | der Dom | die Dome | katedrala | Der Kölner Dom ist berühmt. | Kelnska katedrala je čuvena.
+N | die Moschee | die Moscheen | džamija | Die Moschee steht im Zentrum. | Džamija je u centru.
+N | die Burg | die Burgen | tvrđava, zamak | Wir besichtigen eine alte Burg. | Obilazimo staru tvrđavu.
+N | der Brunnen | die Brunnen | fontana, bunar | Wir treffen uns am Brunnen. | Nalazimo se kod fontane.
+N | der Friedhof | die Friedhöfe | groblje | Der Friedhof liegt am Stadtrand. | Groblje je na periferiji.
+N | die Bücherei | die Büchereien | gradska biblioteka | Ich leihe Bücher in der Bücherei aus. | Pozajmljujem knjige u biblioteci.
+N | die Kneipe | die Kneipen | kafana, pivnica | Abends gehen wir in die Kneipe. | Uveče idemo u kafanu.
+N | die Disko | die Diskos | diskoteka | Am Samstag gehen sie in die Disko. | U subotu idu u diskoteku.
+N | der Club | die Clubs | klub | Der Club öffnet um elf. | Klub se otvara u jedanaest.
+N | der Friseursalon | die Friseursalons | frizerski salon | Sie arbeitet in einem Friseursalon. | Ona radi u frizerskom salonu.
+N | die Wäscherei | die Wäschereien | perionica | Ich bringe die Hemden in die Wäscherei. | Nosim košulje u perionicu.
+N | die Sparkasse | die Sparkassen | štedionica | Ich habe ein Konto bei der Sparkasse. | Imam račun u štedionici.
+N | die Polizeiwache | die Polizeiwachen | policijska stanica | Die Polizeiwache ist um die Ecke. | Policijska stanica je iza ugla.
+N | der Lkw | die Lkws | kamion | Der Lkw blockiert die Straße. | Kamion blokira ulicu.
+N | der Lieferwagen | die Lieferwagen | dostavno vozilo, kombi | Ich fahre einen Lieferwagen. | Vozim dostavno vozilo.
+V | anhalten | hat angehalten | zaustaviti (se) | Der Bus hält hier nicht an. | Autobus se ovde ne zaustavlja.
+
+## Telo i zdravlje
+N | der Nacken | die Nacken | potiljak, vrat (zadnji deo) | Mein Nacken ist verspannt. | Ukočen mi je vrat.
+N | der Ellbogen | die Ellbogen | lakat | Ich habe mir den Ellbogen gestoßen. | Udario sam lakat.
+N | das Handgelenk | die Handgelenke | ručni zglob | Mein Handgelenk tut weh. | Boli me ručni zglob.
+N | der Fingernagel | die Fingernägel | nokat | Sie schneidet sich die Fingernägel. | Ona seče nokte.
+N | die Hüfte | die Hüften | kuk | Oma hat Probleme mit der Hüfte. | Baka ima problema sa kukom.
+N | der Knöchel | die Knöchel | članak (na nozi) | Ich habe mir den Knöchel verstaucht. | Uganuo sam članak.
+N | die Ferse | die Fersen | peta | Die neuen Schuhe drücken an der Ferse. | Nove cipele žuljaju petu.
+N | die Rückenschmerzen | (samo mn.) | bol u leđima | Nach der Arbeit habe ich Rückenschmerzen. | Posle posla me bole leđa.
+N | der Augenarzt | die Augenärzte | očni lekar | Ich brauche einen Termin beim Augenarzt. | Treba mi termin kod očnog lekara.
+N | der Frauenarzt | die Frauenärzte | ginekolog | Sie hat einen Termin beim Frauenarzt. | Ona ima termin kod ginekologa.
+N | die Patientin | die Patientinnen | pacijentkinja | Die Patientin wartet im Wartezimmer. | Pacijentkinja čeka u čekaonici.
+N | die Versichertenkarte | die Versichertenkarten | zdravstvena kartica | Haben Sie Ihre Versichertenkarte dabei? | Imate li zdravstvenu karticu kod sebe?
+V | niesen | hat geniest | kijati | Ich muss ständig niesen. | Stalno moram da kijam.
+A | allergisch | | alergičan | Ich bin allergisch gegen Nüsse. | Alergičan sam na orašaste plodove.
+V | jucken | hat gejuckt | svrbeti | Mein Arm juckt. | Svrbi me ruka.
+N | der Durchfall | die Durchfälle | proliv | Das Kind hat Durchfall. | Dete ima proliv.
+A | schwindelig | | ošamućen, sa vrtoglavicom | Mir ist schwindelig. | Vrti mi se u glavi.
+N | das Schmerzmittel | die Schmerzmittel | lek protiv bolova | Ich nehme ein Schmerzmittel. | Uzimam lek protiv bolova.
+A | blass | | bled | Du siehst blass aus. | Izgledaš bledo.
+V | schwitzen | hat geschwitzt | znojiti se | Beim Sport schwitze ich viel. | Na treningu se mnogo znojim.
+V | zittern | hat gezittert | drhtati | Sie zittert vor Kälte. | Ona drhti od hladnoće.
+V | gähnen | hat gegähnt | zevati | Er gähnt, weil er müde ist. | On zeva jer je umoran.
+V | schnarchen | hat geschnarcht | hrkati | Mein Mann schnarcht laut. | Moj muž glasno hrče.
+V | wecken | hat geweckt | probuditi (nekoga) | Kannst du mich um sieben wecken? | Možeš li da me probudiš u sedam?
+V | ausschlafen | hat ausgeschlafen | naspavati se | Am Sonntag schlafe ich aus. | U nedelju se naspavam.
+N | der Albtraum | die Albträume | noćna mora | Ich hatte einen Albtraum. | Imao sam noćnu moru.
+V | wiegen | hat gewogen | težiti; izmeriti (težinu) | Das Paket wiegt zwei Kilo. | Paket je težak dva kilograma.
+N | der Raucher | die Raucher | pušač | Er ist starker Raucher. | On je strastveni pušač.
+N | der Nichtraucher | die Nichtraucher | nepušač | Ich bin Nichtraucher. | Ja sam nepušač.
+N | der Alkohol | — | alkohol | Ich trinke keinen Alkohol. | Ne pijem alkohol.
+A | betrunken | | pijan | Er war gestern betrunken. | Juče je bio pijan.
+N | die Massage | die Massagen | masaža | Die Massage tut meinem Rücken gut. | Masaža prija mojim leđima.
+A | blind | | slep | Der Mann ist blind. | Čovek je slep.
+A | taub | | gluv | Mein Opa ist fast taub. | Moj deda je skoro gluv.
+V | sich rasieren | hat sich rasiert | brijati se | Ich rasiere mich jeden Morgen. | Brijem se svakog jutra.
+V | sich schminken | hat sich geschminkt | šminkati se | Sie schminkt sich vor dem Spiegel. | Ona se šminka ispred ogledala.
+V | sich kämmen | hat sich gekämmt | češljati se | Das Kind kämmt sich allein. | Dete se samo češlja.
+N | das Parfüm | die Parfüms | parfem | Das Parfüm riecht gut. | Parfem lepo miriše.
+N | der Lippenstift | die Lippenstifte | karmin | Sie benutzt roten Lippenstift. | Ona koristi crveni karmin.
+V | föhnen | hat geföhnt | fenirati | Ich föhne mir die Haare. | Feniram kosu.
+V | färben | hat gefärbt | farbati | Sie färbt sich die Haare blond. | Ona farba kosu u plavo.
+N | das Thermometer | die Thermometer | termometar, toplomer | Das Thermometer zeigt 38 Grad. | Toplomer pokazuje 38 stepeni.

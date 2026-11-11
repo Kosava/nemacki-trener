@@ -1,0 +1,148 @@
+# Nivo B2 — deo 9 (dopuna)
+
+## Mišljenje i apstraktni pojmovi
+N | der Anlass | die Anlässe | povod | Aus diesem Anlass feiern wir. | Tim povodom slavimo.
+N | die Annahme | die Annahmen | pretpostavka; prijem | Deine Annahme ist falsch. | Tvoja pretpostavka je pogrešna.
+N | die Vermutung | die Vermutungen | nagađanje, pretpostavka | Das ist nur eine Vermutung. | To je samo pretpostavka.
+N | die Übereinstimmung | die Übereinstimmungen | saglasnost, podudarnost | Es gibt keine Übereinstimmung zwischen den Aussagen. | Izjave se ne podudaraju.
+N | die Vorsicht | — | oprez | Hier ist Vorsicht geboten. | Ovde je potreban oprez.
+N | das Misstrauen | — | nepoverenje | Zwischen den Kollegen herrscht Misstrauen. | Među kolegama vlada nepoverenje.
+N | die Zuversicht | — | pouzdanje, optimizam | Ich blicke mit Zuversicht in die Zukunft. | Sa optimizmom gledam u budućnost.
+N | das Schicksal | die Schicksale | sudbina | Das Schicksal der Familie hat mich berührt. | Sudbina te porodice me je dirnula.
+N | die Tugend | die Tugenden | vrlina | Geduld ist eine Tugend. | Strpljenje je vrlina.
+N | das Gewissen | — | savest | Ich habe ein schlechtes Gewissen. | Grize me savest.
+N | die Moral | — | moral | Die Moral im Team ist gut. | Moral u timu je dobar.
+N | der Grundsatz | die Grundsätze | načelo | Das widerspricht meinen Grundsätzen. | To se kosi sa mojim načelima.
+V | ahnen | hat geahnt | slutiti | Das konnte ich nicht ahnen. | To nisam mogao da naslutim.
+V | anzweifeln | hat angezweifelt | dovoditi u sumnju | Niemand zweifelt seine Aussage an. | Niko ne dovodi u sumnju njegovu izjavu.
+V | beabsichtigen | hat beabsichtigt | nameravati | Ich beabsichtige, die Stelle zu wechseln. | Nameravam da promenim posao.
+V | befürworten | hat befürwortet | zalagati se za, podržavati | Die Mehrheit befürwortet den Plan. | Većina podržava plan.
+V | bestreiten | hat bestritten | osporavati, poricati | Er bestreitet die Vorwürfe. | On poriče optužbe.
+V | bevorzugen | hat bevorzugt | davati prednost | Ich bevorzuge öffentliche Verkehrsmittel. | Dajem prednost javnom prevozu.
+V | bezeichnen | hat bezeichnet | označiti, nazvati | Man bezeichnet ihn als Experten. | Nazivaju ga stručnjakom.
+V | einwenden | hat eingewendet | prigovoriti | Dagegen ist nichts einzuwenden. | Tome se nema šta prigovoriti.
+V | folgern | hat gefolgert | zaključiti | Daraus kann man folgern, dass er recht hat. | Iz toga se može zaključiti da je u pravu.
+V | hinterfragen | hat hinterfragt | preispitivati | Man sollte alles kritisch hinterfragen. | Sve treba kritički preispitivati.
+V | nachvollziehen | hat nachvollzogen | razumeti, pratiti (tok misli) | Ich kann deine Entscheidung nachvollziehen. | Mogu da razumem tvoju odluku.
+V | übereinstimmen | hat übereingestimmt | slagati se, podudarati se | In diesem Punkt stimmen wir überein. | U ovoj tački se slažemo.
+V | unterschätzen | hat unterschätzt | potceniti | Ich habe die Aufgabe unterschätzt. | Potcenio sam zadatak.
+V | überschätzen | hat überschätzt | preceniti | Er überschätzt seine Kräfte. | On precenjuje svoje snage.
+V | vermuten | hat vermutet | pretpostavljati | Ich vermute, dass er krank ist. | Pretpostavljam da je bolestan.
+V | voraussetzen | hat vorausgesetzt | pretpostavljati, podrazumevati | Die Stelle setzt gute Deutschkenntnisse voraus. | Posao podrazumeva dobro znanje nemačkog.
+V | vorwerfen | hat vorgeworfen | prebacivati, zamerati | Sie wirft ihm vor, nie zuzuhören. | Ona mu zamera što nikad ne sluša.
+V | vorziehen | hat vorgezogen | više voleti; pomeriti ranije | Ich ziehe es vor, zu Hause zu bleiben. | Više volim da ostanem kod kuće.
+V | wahrnehmen | hat wahrgenommen | opaziti; iskoristiti | Ich habe das Geräusch kaum wahrgenommen. | Jedva sam primetio taj zvuk.
+V | einsehen | hat eingesehen | uvideti | Er sieht seinen Fehler nicht ein. | On ne uviđa svoju grešku.
+V | schildern | hat geschildert | opisati, izložiti | Schildern Sie bitte, was passiert ist. | Opišite šta se dogodilo, molim.
+V | verknüpfen | hat verknüpft | povezati | Die Aufgabe verknüpft Theorie und Praxis. | Zadatak povezuje teoriju i praksu.
+
+## Društvo, država i praznici
+N | die Regelung | die Regelungen | propis, uređenje | Die neue Regelung gilt ab Januar. | Novi propis važi od januara.
+N | die Einbürgerung | die Einbürgerungen | prijem u državljanstvo | Er hat die Einbürgerung beantragt. | Podneo je zahtev za državljanstvo.
+N | der Wohnsitz | die Wohnsitze | prebivalište | Mein Wohnsitz ist in München. | Moje prebivalište je u Minhenu.
+N | der Täter | die Täter | počinilac | Die Polizei sucht den Täter. | Policija traži počinioca.
+N | der Verdacht | — | sumnja | Er steht unter Verdacht. | On je pod sumnjom.
+N | das Verbrechen | die Verbrechen | zločin | Das Verbrechen wurde aufgeklärt. | Zločin je rasvetljen.
+N | der Betrug | — | prevara | Das ist Betrug! | To je prevara!
+N | die Bedrohung | die Bedrohungen | pretnja | Der Klimawandel ist eine Bedrohung für alle. | Klimatske promene su pretnja za sve.
+N | die Verhandlung | die Verhandlungen | pregovori; ročište | Die Verhandlungen dauern noch an. | Pregovori još traju.
+N | der Beschluss | die Beschlüsse | odluka (zvanična) | Der Beschluss wurde einstimmig gefasst. | Odluka je doneta jednoglasno.
+N | der Wahlkampf | die Wahlkämpfe | predizborna kampanja | Der Wahlkampf hat begonnen. | Predizborna kampanja je počela.
+N | die Krise | die Krisen | kriza | Die Firma steckt in einer Krise. | Firma je u krizi.
+N | der Aufschwung | die Aufschwünge | uspon, polet (privrede) | Die Wirtschaft erlebt einen Aufschwung. | Privreda doživljava uspon.
+N | die Zuwanderung | — | doseljavanje | Die Zuwanderung hat zugenommen. | Doseljavanje se povećalo.
+N | das Asyl | — | azil | Er hat Asyl beantragt. | Zatražio je azil.
+N | die Erderwärmung | — | globalno zagrevanje | Die Erderwärmung schreitet voran. | Globalno zagrevanje napreduje.
+N | die Artenvielfalt | — | raznovrsnost vrsta | Die Artenvielfalt muss geschützt werden. | Raznovrsnost vrsta mora da se zaštiti.
+N | die Arbeitslosenversicherung | die Arbeitslosenversicherungen | osiguranje za slučaj nezaposlenosti | Die Arbeitslosenversicherung ist Pflicht. | Osiguranje za slučaj nezaposlenosti je obavezno.
+N | der Freiberufler | die Freiberufler | slobodnjak (samostalna profesija) | Als Freiberufler schreibt er selbst Rechnungen. | Kao slobodnjak sam piše račune.
+N | der Bankkaufmann | die Bankkaufleute | bankarski službenik | Er hat Bankkaufmann gelernt. | Izučio je za bankarskog službenika.
+V | angehören | hat angehört | pripadati (+ Dat) | Er gehört keiner Partei an. | On ne pripada nijednoj stranci.
+V | aufklären | hat aufgeklärt | rasvetliti; prosvetiti | Die Polizei hat den Fall aufgeklärt. | Policija je rasvetlila slučaj.
+V | ausbeuten | hat ausgebeutet | izrabljivati | Die Arbeiter wurden ausgebeutet. | Radnici su izrabljivani.
+V | ausschließen | hat ausgeschlossen | isključiti | Ich kann das nicht ausschließen. | To ne mogu da isključim.
+V | bekämpfen | hat bekämpft | boriti se protiv | Die Regierung bekämpft die Arbeitslosigkeit. | Vlada se bori protiv nezaposlenosti.
+V | berechtigen | hat berechtigt | ovlastiti, davati pravo | Der Ausweis berechtigt zum Eintritt. | Legitimacija daje pravo na ulaz.
+V | beschränken | hat beschränkt | ograničiti | Die Teilnehmerzahl ist beschränkt. | Broj učesnika je ograničen.
+V | einschränken | hat eingeschränkt | suziti, ograničiti | Wir müssen unsere Ausgaben einschränken. | Moramo da ograničimo troškove.
+V | eingreifen | hat eingegriffen | intervenisati | Die Polizei musste eingreifen. | Policija je morala da interveniše.
+V | ermitteln | hat ermittelt | istraživati, utvrditi | Die Polizei ermittelt gegen ihn. | Policija vodi istragu protiv njega.
+V | gefährden | hat gefährdet | ugroziti | Rauchen gefährdet die Gesundheit. | Pušenje ugrožava zdravlje.
+V | herrschen | hat geherrscht | vladati | Im Land herrscht Frieden. | U zemlji vlada mir.
+V | verstoßen | hat verstoßen | prekršiti (gegen + Akk) | Er hat gegen das Gesetz verstoßen. | Prekršio je zakon.
+V | verteidigen | hat verteidigt | braniti | Der Anwalt verteidigt den Angeklagten. | Advokat brani optuženog.
+V | verweigern | hat verweigert | uskratiti, odbiti | Er verweigert die Aussage. | On odbija da da izjavu.
+V | sich weigern | hat sich geweigert | odbijati (da nešto uradi) | Sie weigert sich, das zu unterschreiben. | Ona odbija da to potpiše.
+V | sich wehren | hat sich gewehrt | braniti se, opirati se | Man muss sich gegen Unrecht wehren. | Protiv nepravde se treba boriti.
+V | werben | hat geworben | reklamirati; vrbovati | Die Firma wirbt für ihr neues Produkt. | Firma reklamira svoj novi proizvod.
+
+## Posao i zanimanja
+V | anstreben | hat angestrebt | težiti (nečemu) | Sie strebt eine Führungsposition an. | Ona teži rukovodećem položaju.
+V | anwenden | hat angewendet | primeniti | Jetzt kann ich das Gelernte anwenden. | Sada mogu da primenim naučeno.
+V | ankündigen | hat angekündigt | najaviti | Der Chef hat Änderungen angekündigt. | Šef je najavio promene.
+V | aufweisen | hat aufgewiesen | pokazivati, imati | Der Bericht weist einige Fehler auf. | Izveštaj ima nekoliko grešaka.
+V | ausgleichen | hat ausgeglichen | izjednačiti, nadoknaditi | Überstunden kann man mit Freizeit ausgleichen. | Prekovremeni rad se može nadoknaditi slobodnim danima.
+V | beanspruchen | hat beansprucht | zahtevati; opteretiti | Die Arbeit beansprucht viel Zeit. | Posao zahteva mnogo vremena.
+V | beherrschen | hat beherrscht | vladati (veštinom, jezikom) | Sie beherrscht drei Sprachen. | Ona vlada sa tri jezika.
+V | belegen | hat belegt | dokazati; zauzeti; upisati (kurs) | Können Sie das mit Zahlen belegen? | Možete li to da potkrepite brojkama?
+V | bemängeln | hat bemängelt | zameriti, prigovoriti na | Der Kunde bemängelt die Qualität. | Kupac ima primedbe na kvalitet.
+V | beschleunigen | hat beschleunigt | ubrzati | Wir müssen das Verfahren beschleunigen. | Moramo da ubrzamo postupak.
+V | bewirken | hat bewirkt | prouzrokovati, postići | Die Beschwerde hat nichts bewirkt. | Žalba nije ništa postigla.
+V | entgegenkommen | ist entgegengekommen | izaći u susret (+ Dat) | Der Chef ist mir beim Urlaub entgegengekommen. | Šef mi je izašao u susret oko odmora.
+V | entlasten | hat entlastet | rasteretiti | Ein neuer Kollege soll uns entlasten. | Novi kolega treba da nas rastereti.
+V | entwerfen | hat entworfen | osmisliti, nacrtati (nacrt) | Sie entwirft Möbel. | Ona dizajnira nameštaj.
+V | erfassen | hat erfasst | evidentirati; obuhvatiti | Alle Daten werden elektronisch erfasst. | Svi podaci se evidentiraju elektronski.
+V | erzielen | hat erzielt | postići | Wir haben ein gutes Ergebnis erzielt. | Postigli smo dobar rezultat.
+V | festhalten | hat festgehalten | čvrsto držati; zabeležiti | Wir halten das Ergebnis im Protokoll fest. | Rezultat beležimo u zapisnik.
+V | festlegen | hat festgelegt | utvrditi, odrediti | Der Termin wurde noch nicht festgelegt. | Termin još nije određen.
+V | fortsetzen | hat fortgesetzt | nastaviti | Wir setzen die Besprechung morgen fort. | Sastanak nastavljamo sutra.
+V | gestalten | hat gestaltet | oblikovati, urediti | Wir gestalten den Raum neu. | Preuređujemo prostoriju.
+V | kennzeichnen | hat gekennzeichnet | obeležiti | Gefährliche Stoffe müssen gekennzeichnet sein. | Opasne materije moraju biti obeležene.
+V | nachlassen | hat nachgelassen | popustiti, oslabiti | Die Konzentration lässt am Nachmittag nach. | Koncentracija popodne popušta.
+V | scheitern | ist gescheitert | propasti, ne uspeti | Das Projekt ist gescheitert. | Projekat je propao.
+V | überfordern | hat überfordert | preopteretiti (tražiti previše) | Die Aufgabe überfordert mich. | Zadatak je pretežak za mene.
+V | veranlassen | hat veranlasst | podstaći; naložiti | Ich werde alles Nötige veranlassen. | Preduzeću sve što je potrebno.
+V | vereinfachen | hat vereinfacht | pojednostaviti | Das neue Programm vereinfacht die Arbeit. | Novi program pojednostavljuje rad.
+V | vernachlässigen | hat vernachlässigt | zanemariti | Er vernachlässigt seine Pflichten. | On zanemaruje svoje obaveze.
+V | verschärfen | hat verschärft | pooštriti | Die Kontrollen wurden verschärft. | Kontrole su pooštrene.
+V | verwirklichen | hat verwirklicht | ostvariti | Sie hat ihren Traum verwirklicht. | Ostvarila je svoj san.
+V | zuweisen | hat zugewiesen | dodeliti | Mir wurde eine neue Aufgabe zugewiesen. | Dodeljen mi je novi zadatak.
+V | sich widmen | hat sich gewidmet | posvetiti se (+ Dat) | Er widmet sich ganz seiner Arbeit. | On se potpuno posvećuje poslu.
+
+## Opšti glagoli
+V | anregen | hat angeregt | podstaći; predložiti | Kaffee regt den Kreislauf an. | Kafa podstiče cirkulaciju.
+V | auflösen | hat aufgelöst | rastvoriti; raspustiti | Lösen Sie die Tablette in Wasser auf. | Rastvorite tabletu u vodi.
+V | aufrechterhalten | hat aufrechterhalten | održati | Wir wollen den Kontakt aufrechterhalten. | Želimo da održimo kontakt.
+V | bedauern | hat bedauert | žaliti | Ich bedauere den Vorfall sehr. | Veoma žalim zbog tog događaja.
+V | beeinträchtigen | hat beeinträchtigt | narušiti, umanjiti | Lärm beeinträchtigt die Konzentration. | Buka narušava koncentraciju.
+V | begünstigen | hat begünstigt | pogodovati | Das warme Wetter begünstigt das Wachstum. | Toplo vreme pogoduje rastu.
+V | beharren | hat beharrt | insistirati (auf + Dat) | Er beharrt auf seiner Meinung. | On insistira na svom mišljenju.
+V | sich beklagen | hat sich beklagt | žaliti se | Sie beklagt sich über den Lärm. | Ona se žali na buku.
+V | empfinden | hat empfunden | osećati, doživljavati | Ich empfinde das als ungerecht. | To doživljavam kao nepravdu.
+V | entsprechen | hat entsprochen | odgovarati (+ Dat) | Das entspricht nicht der Wahrheit. | To ne odgovara istini.
+V | enthüllen | hat enthüllt | otkriti, razotkriti | Die Zeitung hat den Skandal enthüllt. | Novine su razotkrile skandal.
+V | fällen | hat gefällt | oboriti (drvo); doneti (odluku) | Der Baum muss gefällt werden. | Drvo mora da se poseče.
+V | geraten | ist geraten | dospeti, zapasti | Wir sind in einen Stau geraten. | Upali smo u gužvu.
+V | gleichen | hat geglichen | ličiti (+ Dat) | Er gleicht seinem Vater. | On liči na oca.
+V | hindern | hat gehindert | sprečavati | Niemand hindert dich daran. | Niko te u tome ne sprečava.
+V | kneifen | hat gekniffen | uštinuti | Er kneift mich in den Arm. | On me štipa za ruku.
+V | kriechen | ist gekrochen | puzati | Das Baby kriecht über den Boden. | Beba puzi po podu.
+V | quälen | hat gequält | mučiti | Die Schmerzen quälen ihn seit Tagen. | Bolovi ga muče danima.
+V | schleichen | ist geschlichen | šunjati se | Die Katze schleicht durch den Garten. | Mačka se šunja po bašti.
+V | schwören | hat geschworen | zakleti se | Ich schwöre, dass es wahr ist. | Kunem se da je istina.
+V | seufzen | hat geseufzt | uzdahnuti | Sie seufzt tief. | Ona duboko uzdiše.
+V | starren | hat gestarrt | zuriti | Er starrt auf den Bildschirm. | On zuri u ekran.
+V | täuschen | hat getäuscht | prevariti, zavarati | Der erste Eindruck kann täuschen. | Prvi utisak može da prevari.
+V | umgehen | ist umgegangen | ophoditi se, rukovati (mit + Dat) | Er kann gut mit Kindern umgehen. | On ume sa decom.
+V | überwinden | hat überwunden | savladati, prevazići | Sie hat ihre Angst überwunden. | Savladala je strah.
+V | verraten | hat verraten | odati, izdati | Verrate mir dein Geheimnis. | Odaj mi svoju tajnu.
+
+## Opšti pridevi
+A | grausam | | okrutan, svirep | Das war eine grausame Tat. | To je bio svirep čin.
+A | lahm | | hrom; trom, mlitav | Die Party war ziemlich lahm. | Žurka je bila prilično mlitava.
+A | trüb | | mutan; tmuran | Das Wetter ist heute trüb. | Vreme je danas tmurno.
+A | zäh | | žilav | Das Fleisch ist zäh. | Meso je žilavo.
+
+## Male reči
+W | einst | | nekada, jednom davno | Einst stand hier eine Burg. | Nekada je ovde stajala tvrđava.
+W | wiederum | | opet; s druge strane | Das wiederum ist eine andere Frage. | To je pak drugo pitanje.

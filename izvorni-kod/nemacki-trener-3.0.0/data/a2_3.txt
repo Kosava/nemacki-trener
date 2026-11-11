@@ -1,0 +1,368 @@
+# Nivo A2 — deo 3
+
+## Slobodno vreme i sport
+N | die Mannschaft | die Mannschaften | tim, ekipa | Unsere Mannschaft hat gewonnen. | Naš tim je pobedio.
+N | der Spieler | die Spieler | igrač | Der Spieler schießt ein Tor. | Igrač daje gol.
+N | das Tor | die Tore | gol; kapija | Er hat zwei Tore geschossen. | Dao je dva gola.
+N | der Ball | die Bälle | lopta | Wirf mir den Ball! | Baci mi loptu!
+N | das Training | die Trainings | trening | Das Training ist am Dienstag. | Trening je u utorak.
+N | der Verein | die Vereine | klub, udruženje | Ich bin Mitglied in einem Sportverein. | Član sam sportskog kluba.
+N | das Mitglied | die Mitglieder | član | Der Verein hat hundert Mitglieder. | Klub ima sto članova.
+N | das Stadion | die Stadien | stadion | Das Stadion ist voll. | Stadion je pun.
+N | der Wettkampf | die Wettkämpfe | takmičenje | Morgen ist ein wichtiger Wettkampf. | Sutra je važno takmičenje.
+N | der Sieg | die Siege | pobeda | Das war ein schöner Sieg. | To je bila lepa pobeda.
+N | das Fitnessstudio | die Fitnessstudios | teretana | Ich gehe dreimal pro Woche ins Fitnessstudio. | Idem u teretanu tri puta nedeljno.
+N | das Theater | die Theater | pozorište | Wir gehen heute ins Theater. | Danas idemo u pozorište.
+N | die Ausstellung | die Ausstellungen | izložba | Die Ausstellung ist sehr interessant. | Izložba je veoma zanimljiva.
+N | die Eintrittskarte | die Eintrittskarten | ulaznica | Ich habe zwei Eintrittskarten. | Imam dve ulaznice.
+N | der Eintritt | die Eintritte | ulaz (cena) | Der Eintritt kostet zehn Euro. | Ulaz košta deset evra.
+N | die Veranstaltung | die Veranstaltungen | događaj, priredba | Die Veranstaltung beginnt um acht. | Priredba počinje u osam.
+N | das Instrument | die Instrumente | instrument | Spielst du ein Instrument? | Sviraš li neki instrument?
+N | die Gitarre | die Gitarren | gitara | Er spielt Gitarre. | On svira gitaru.
+N | das Klavier | die Klaviere | klavir | Sie spielt seit Jahren Klavier. | Ona godinama svira klavir.
+N | die Band | die Bands | bend | Die Band spielt Rockmusik. | Bend svira rok.
+N | der Roman | die Romane | roman | Ich lese einen spannenden Roman. | Čitam napet roman.
+N | die Geschichte | die Geschichten | priča; istorija | Erzähl mir eine Geschichte. | Ispričaj mi priču.
+N | das Bild | die Bilder | slika | Das Bild hängt im Museum. | Slika visi u muzeju.
+N | das Spielzeug | die Spielzeuge | igračka | Das Spielzeug liegt überall. | Igračke su svuda.
+N | das Picknick | die Picknicks | piknik | Wir machen ein Picknick im Park. | Pravimo piknik u parku.
+N | das Camping | — | kampovanje | Im Sommer machen wir Camping. | Leti idemo na kampovanje.
+N | das Zelt | die Zelte | šator | Wir schlafen im Zelt. | Spavamo u šatoru.
+N | die Wanderung | die Wanderungen | planinarenje, pešačka tura | Die Wanderung dauert vier Stunden. | Tura traje četiri sata.
+V | wandern | ist gewandert | planinariti, pešačiti | Am Wochenende wandern wir in den Bergen. | Vikendom planinarimo.
+V | Rad fahren | ist Rad gefahren | voziti bicikl | Ich fahre jeden Tag Rad. | Svaki dan vozim bicikl.
+V | Ski fahren | ist Ski gefahren | skijati | Im Winter fahren wir Ski. | Zimi skijamo.
+V | trainieren | hat trainiert | trenirati | Er trainiert jeden Tag. | On trenira svaki dan.
+V | gewinnen | hat gewonnen | pobediti, dobiti | Wer hat das Spiel gewonnen? | Ko je pobedio na utakmici?
+V | malen | hat gemalt | slikati | Das Kind malt ein Bild. | Dete slika sliku.
+V | zeichnen | hat gezeichnet | crtati | Sie zeichnet sehr gut. | Ona veoma dobro crta.
+V | sammeln | hat gesammelt | skupljati | Er sammelt Briefmarken. | On skuplja marke.
+V | sich treffen | hat sich getroffen | naći se | Wir treffen uns um acht. | Nalazimo se u osam.
+V | sich interessieren | hat sich interessiert | interesovati se | Ich interessiere mich für Fußball. | Interesuje me fudbal.
+V | sich langweilen | hat sich gelangweilt | dosađivati se | Die Kinder langweilen sich. | Deca se dosađuju.
+V | sich amüsieren | hat sich amüsiert | zabavljati se | Wir haben uns gut amüsiert. | Lepo smo se zabavili.
+V | vorhaben | hat vorgehabt | planirati | Was hast du am Wochenende vor? | Šta planiraš za vikend?
+V | teilnehmen | hat teilgenommen | učestvovati | Ich nehme an dem Kurs teil. | Učestvujem u kursu.
+A | spannend | | napet, uzbudljiv | Der Film ist sehr spannend. | Film je veoma napet.
+A | sportlich | | sportski | Er ist sehr sportlich. | On je veoma sportski tip.
+A | aktiv | | aktivan | Mein Opa ist noch sehr aktiv. | Moj deda je još veoma aktivan.
+S | Was hast du am Wochenende vor? | Šta planiraš za vikend?
+S | Hast du Lust, mitzukommen? | Hoćeš li da pođeš sa nama?
+S | Wer hat gewonnen? | Ko je pobedio?
+S | Ich interessiere mich für Musik. | Interesuje me muzika.
+
+## Priroda, životinje i vreme
+N | die Natur | — | priroda | Ich bin gern in der Natur. | Rado sam u prirodi.
+N | die Umwelt | — | životna sredina | Wir müssen die Umwelt schützen. | Moramo da čuvamo životnu sredinu.
+N | das Gewitter | die Gewitter | oluja sa grmljavinom | Heute Abend gibt es ein Gewitter. | Večeras će biti oluja.
+N | der Nebel | die Nebel | magla | Am Morgen ist viel Nebel. | Ujutru je gusta magla.
+N | die Hitze | — | vrućina | Bei dieser Hitze kann ich nicht schlafen. | Na ovoj vrućini ne mogu da spavam.
+N | die Kälte | — | hladnoća | Die Kälte ist schlimm. | Hladnoća je strašna.
+N | der Wetterbericht | die Wetterberichte | vremenska prognoza | Laut Wetterbericht regnet es morgen. | Po prognozi sutra pada kiša.
+N | der Strand | die Strände | plaža | Wir liegen am Strand. | Ležimo na plaži.
+N | die Insel | die Inseln | ostrvo | Die Insel ist sehr klein. | Ostrvo je veoma malo.
+N | das Ufer | die Ufer | obala (reke) | Wir sitzen am Ufer. | Sedimo na obali.
+N | die Küste | die Küsten | obala (mora) | Wir fahren an die Küste. | Idemo na obalu.
+N | das Tal | die Täler | dolina | Das Dorf liegt im Tal. | Selo je u dolini.
+N | das Feld | die Felder | polje, njiva | Der Bauer arbeitet auf dem Feld. | Seljak radi na njivi.
+N | die Wiese | die Wiesen | livada | Die Kühe stehen auf der Wiese. | Krave su na livadi.
+N | der Stein | die Steine | kamen | Das Haus ist aus Stein. | Kuća je od kamena.
+N | die Pflanze | die Pflanzen | biljka | Die Pflanze braucht Wasser. | Biljci treba voda.
+N | das Gras | die Gräser | trava | Das Gras ist grün. | Trava je zelena.
+N | das Blatt | die Blätter | list | Im Herbst fallen die Blätter. | U jesen opada lišće.
+N | die Erde | — | zemlja; Zemlja | Die Erde ist rund. | Zemlja je okrugla.
+N | die Luft | — | vazduh | Die Luft in den Bergen ist frisch. | Vazduh u planinama je svež.
+N | der Mond | die Monde | mesec (na nebu) | Heute ist Vollmond. | Danas je pun mesec.
+N | der Stern | die Sterne | zvezda | Am Himmel sind viele Sterne. | Na nebu ima mnogo zvezda.
+N | das Schwein | die Schweine | svinja | Der Bauer hat zehn Schweine. | Seljak ima deset svinja.
+N | das Schaf | die Schafe | ovca | Die Schafe sind auf der Wiese. | Ovce su na livadi.
+N | die Ziege | die Ziegen | koza | Die Ziege gibt Milch. | Koza daje mleko.
+N | das Huhn | die Hühner | kokoška | Das Huhn legt Eier. | Kokoška nosi jaja.
+N | die Ente | die Enten | patka | Die Enten schwimmen auf dem See. | Patke plivaju po jezeru.
+N | die Maus | die Mäuse | miš | Die Katze fängt eine Maus. | Mačka hvata miša.
+N | das Haustier | die Haustiere | kućni ljubimac | Habt ihr ein Haustier? | Imate li kućnog ljubimca?
+N | der Zoo | die Zoos | zoološki vrt | Die Kinder wollen in den Zoo. | Deca žele u zoološki vrt.
+N | der Bär | die Bären | medved | Im Wald lebt ein Bär. | U šumi živi medved.
+N | der Affe | die Affen | majmun | Der Affe klettert auf den Baum. | Majmun se penje na drvo.
+V | wachsen | ist gewachsen | rasti | Die Blumen wachsen schnell. | Cveće brzo raste.
+V | blühen | hat geblüht | cvetati | Im Mai blühen die Bäume. | U maju drveće cveta.
+V | schützen | hat geschützt | štititi | Wir schützen die Natur. | Štitimo prirodu.
+V | trennen | hat getrennt | razdvajati | Wir trennen den Müll. | Razdvajamo otpad.
+V | frieren | hat gefroren | smrzavati se | Ich friere. | Smrzavam se.
+A | nass | | mokar | Meine Schuhe sind nass. | Cipele su mi mokre.
+A | trocken | | suv | Die Wäsche ist trocken. | Veš je suv.
+A | bewölkt | | oblačan | Heute ist es bewölkt. | Danas je oblačno.
+A | neblig | | maglovit | Am Morgen ist es neblig. | Ujutru je maglovito.
+A | wild | | divlji | Im Wald leben wilde Tiere. | U šumi žive divlje životinje.
+S | Morgen soll es regnen. | Sutra bi trebalo da pada kiša.
+S | Es sind minus fünf Grad. | Minus je pet stepeni.
+S | Wir trennen den Müll. | Razdvajamo otpad.
+
+## Mediji, tehnika i komunikacija
+N | der Laptop | die Laptops | laptop | Mein Laptop ist zu langsam. | Moj laptop je prespor.
+N | der Bildschirm | die Bildschirme | ekran | Der Bildschirm ist zu klein. | Ekran je premali.
+N | die Tastatur | die Tastaturen | tastatura | Die Tastatur ist kaputt. | Tastatura je pokvarena.
+N | der Drucker | die Drucker | štampač | Der Drucker hat kein Papier. | Štampač nema papira.
+N | das Programm | die Programme | program | Welches Programm benutzt du? | Koji program koristiš?
+N | die App | die Apps | aplikacija | Ich habe eine neue App. | Imam novu aplikaciju.
+N | die Datei | die Dateien | datoteka, fajl | Ich schicke dir die Datei. | Šaljem ti fajl.
+N | das Passwort | die Passwörter | lozinka | Ich habe mein Passwort vergessen. | Zaboravio sam lozinku.
+N | die Webseite | die Webseiten | veb-stranica | Die Informationen stehen auf der Webseite. | Informacije su na veb-stranici.
+N | das Gerät | die Geräte | uređaj | Das Gerät funktioniert nicht. | Uređaj ne radi.
+N | der Akku | die Akkus | baterija (punjiva) | Der Akku ist leer. | Baterija je prazna.
+N | das Ladegerät | die Ladegeräte | punjač | Hast du ein Ladegerät? | Imaš li punjač?
+N | die Kamera | die Kameras | kamera, fotoaparat | Die Kamera macht gute Fotos. | Kamera pravi dobre fotografije.
+N | die Sendung | die Sendungen | emisija; pošiljka | Die Sendung beginnt um acht. | Emisija počinje u osam.
+N | die Werbung | — | reklama | Im Fernsehen gibt es zu viel Werbung. | Na televiziji ima previše reklama.
+N | die Zeitschrift | die Zeitschriften | časopis | Ich lese eine Zeitschrift. | Čitam časopis.
+N | der Artikel | die Artikel | članak | Hast du den Artikel gelesen? | Jesi li pročitao članak?
+N | die Anzeige | die Anzeigen | oglas; prijava (policiji) | Ich habe eine Anzeige in der Zeitung gelesen. | Pročitao sam oglas u novinama.
+N | der Anrufbeantworter | die Anrufbeantworter | telefonska sekretarica | Sprich auf den Anrufbeantworter. | Ostavi poruku na sekretarici.
+N | das Gespräch | die Gespräche | razgovor | Das Gespräch war sehr nett. | Razgovor je bio veoma prijatan.
+N | die Einladung | die Einladungen | pozivnica, poziv | Danke für die Einladung! | Hvala na pozivu!
+V | drucken | hat gedruckt | štampati | Ich drucke das Formular. | Štampam obrazac.
+V | herunterladen | hat heruntergeladen | preuzeti (sa interneta) | Ich lade die App herunter. | Preuzimam aplikaciju.
+V | speichern | hat gespeichert | sačuvati (podatke) | Hast du die Datei gespeichert? | Jesi li sačuvao fajl?
+V | löschen | hat gelöscht | obrisati | Ich lösche die alten Fotos. | Brišem stare fotografije.
+V | klicken | hat geklickt | kliknuti | Klicken Sie hier. | Kliknite ovde.
+V | einschalten | hat eingeschaltet | uključiti | Schalte bitte den Fernseher ein. | Uključi televizor, molim.
+V | ausschalten | hat ausgeschaltet | isključiti | Schalte das Licht aus. | Isključi svetlo.
+V | funktionieren | hat funktioniert | funkcionisati, raditi | Das Internet funktioniert nicht. | Internet ne radi.
+V | aufladen | hat aufgeladen | napuniti (bateriju) | Ich muss mein Handy aufladen. | Moram da napunim mobilni.
+V | chatten | hat gechattet | dopisivati se (čet) | Wir chatten jeden Abend. | Dopisujemo se svako veče.
+V | erzählen | hat erzählt | pričati | Erzähl mal, wie war der Urlaub? | Pričaj, kako je bilo na odmoru?
+V | diskutieren | hat diskutiert | raspravljati | Wir diskutieren über Politik. | Raspravljamo o politici.
+V | sich unterhalten | hat sich unterhalten | razgovarati | Wir haben uns lange unterhalten. | Dugo smo razgovarali.
+A | digital | | digitalni | Die Fahrkarte ist digital. | Karta je digitalna.
+A | online | | onlajn | Ich kaufe viel online. | Mnogo kupujem onlajn.
+A | aktuell | | aktuelan | Das sind die aktuellen Nachrichten. | To su aktuelne vesti.
+S | Mein Akku ist leer. | Baterija mi je prazna.
+S | Das Internet funktioniert nicht. | Internet ne radi.
+S | Ich schicke dir den Link. | Šaljem ti link.
+S | Ich melde mich später. | Javiću se kasnije.
+
+## Osećanja i osobine
+N | die Freude | die Freuden | radost | Das Kind hüpft vor Freude. | Dete skače od radosti.
+N | das Glück | — | sreća | Viel Glück bei der Prüfung! | Srećno na ispitu!
+N | die Angst | die Ängste | strah | Ich habe Angst vor Hunden. | Bojim se pasa.
+N | die Sorge | die Sorgen | briga | Mach dir keine Sorgen! | Ne brini!
+N | der Ärger | — | ljutnja, nevolja | Ich habe Ärger mit dem Chef. | Imam problema sa šefom.
+N | die Überraschung | die Überraschungen | iznenađenje | Das ist eine schöne Überraschung! | To je lepo iznenađenje!
+N | das Gefühl | die Gefühle | osećaj | Ich habe ein gutes Gefühl. | Imam dobar osećaj.
+N | der Charakter | die Charaktere | karakter | Er hat einen guten Charakter. | On ima dobar karakter.
+N | die Geduld | — | strpljenje | Du brauchst mehr Geduld. | Treba ti više strpljenja.
+V | sich freuen | hat sich gefreut | radovati se | Ich freue mich auf den Urlaub. | Radujem se odmoru.
+V | sich ärgern | hat sich geärgert | ljutiti se | Ärgere dich nicht! | Ne ljuti se!
+V | sich Sorgen machen | hat sich Sorgen gemacht | brinuti se | Meine Mutter macht sich Sorgen. | Moja majka se brine.
+V | weinen | hat geweint | plakati | Das Baby weint. | Beba plače.
+V | lächeln | hat gelächelt | smešiti se | Sie lächelt immer. | Ona se uvek smeši.
+V | hoffen | hat gehofft | nadati se | Ich hoffe, es geht dir gut. | Nadam se da si dobro.
+V | vermissen | hat vermisst | nedostajati (nekome) | Ich vermisse dich. | Nedostaješ mi.
+V | sich wohlfühlen | hat sich wohlgefühlt | osećati se prijatno | Ich fühle mich hier wohl. | Osećam se ovde prijatno.
+V | sich aufregen | hat sich aufgeregt | uzrujati se | Reg dich nicht so auf! | Ne uzrujavaj se toliko!
+A | froh | | srećan, radostan | Ich bin froh, dass du da bist. | Drago mi je što si tu.
+A | nervös | | nervozan | Vor der Prüfung bin ich nervös. | Pred ispit sam nervozan.
+A | ängstlich | | plašljiv | Der Hund ist sehr ängstlich. | Pas je veoma plašljiv.
+A | wütend | | besan | Er ist wütend auf mich. | Besan je na mene.
+A | enttäuscht | | razočaran | Ich bin enttäuscht von dir. | Razočaran sam tobom.
+A | überrascht | | iznenađen | Ich bin sehr überrascht. | Veoma sam iznenađen.
+A | verliebt | | zaljubljen | Sie ist verliebt. | Ona je zaljubljena.
+A | einsam | | usamljen | Ohne Freunde fühlt er sich einsam. | Bez prijatelja se oseća usamljeno.
+A | ehrlich | | iskren | Sei bitte ehrlich! | Budi iskren, molim te!
+A | geduldig | | strpljiv | Die Lehrerin ist sehr geduldig. | Nastavnica je veoma strpljiva.
+A | ungeduldig | | nestrpljiv | Sei nicht so ungeduldig! | Ne budi tako nestrpljiv!
+A | faul | | lenj | Heute bin ich faul. | Danas sam lenj.
+A | klug | | pametan | Sie ist ein kluges Mädchen. | Ona je pametna devojčica.
+A | dumm | | glup | Das war eine dumme Idee. | To je bila glupa ideja.
+A | lieb | | drag, mio | Du bist so lieb! | Tako si drag!
+A | hübsch | | lep, zgodan | Deine Schwester ist hübsch. | Tvoja sestra je zgodna.
+A | sympathisch | | simpatičan | Der neue Kollege ist sympathisch. | Novi kolega je simpatičan.
+A | streng | | strog | Der Lehrer ist streng. | Nastavnik je strog.
+A | witzig | | duhovit | Er ist sehr witzig. | On je veoma duhovit.
+A | schüchtern | | stidljiv | Das Kind ist schüchtern. | Dete je stidljivo.
+S | Ich freue mich auf dich. | Radujem se što ću te videti.
+S | Mach dir keine Sorgen! | Ne brini!
+S | Das ärgert mich. | To me ljuti.
+S | Ich vermisse meine Familie. | Nedostaje mi porodica.
+
+## Društvo, država i praznici
+N | der Staat | die Staaten | država | Der Staat zahlt das Kindergeld. | Država plaća dečiji dodatak.
+N | die Regierung | die Regierungen | vlada | Die Regierung plant neue Gesetze. | Vlada planira nove zakone.
+N | die Politik | — | politika | Ich interessiere mich nicht für Politik. | Ne interesuje me politika.
+N | die Wahl | die Wahlen | izbor; izbori | Im Herbst sind Wahlen. | U jesen su izbori.
+N | das Gesetz | die Gesetze | zakon | Das ist gegen das Gesetz. | To je protiv zakona.
+N | der Bürger | die Bürger | građanin | Die Bürger wählen den Bürgermeister. | Građani biraju gradonačelnika.
+N | der Bürgermeister | die Bürgermeister | gradonačelnik | Der Bürgermeister eröffnet das Fest. | Gradonačelnik otvara proslavu.
+N | die Hauptstadt | die Hauptstädte | glavni grad | Berlin ist die Hauptstadt von Deutschland. | Berlin je glavni grad Nemačke.
+N | das Ausland | — | inostranstvo | Er arbeitet im Ausland. | On radi u inostranstvu.
+N | der Ausländer | die Ausländer | stranac | In der Stadt leben viele Ausländer. | U gradu živi mnogo stranaca.
+N | die Heimat | — | domovina, zavičaj | Serbien ist meine Heimat. | Srbija je moja domovina.
+N | die Religion | die Religionen | religija | Welche Religion hast du? | Koje si vere?
+N | die Kultur | die Kulturen | kultura | Ich interessiere mich für die deutsche Kultur. | Interesuje me nemačka kultura.
+N | die Tradition | die Traditionen | tradicija | Das ist eine alte Tradition. | To je stara tradicija.
+W | Weihnachten | | Božić | Frohe Weihnachten! | Srećan Božić!
+W | Ostern | | Uskrs | Zu Ostern färben wir Eier. | Za Uskrs farbamo jaja.
+W | Silvester | | Silvestar (doček Nove godine) | An Silvester feiern wir mit Freunden. | Novu godinu dočekujemo sa prijateljima.
+N | das Neujahr | — | Nova godina | Prost Neujahr! | Srećna Nova godina!
+N | der Gast | die Gäste | gost | Wir haben heute Gäste. | Danas imamo goste.
+N | die Feier | die Feiern | proslava | Die Feier war sehr schön. | Proslava je bila veoma lepa.
+N | die Kerze | die Kerzen | sveća | Auf dem Kuchen sind zehn Kerzen. | Na torti je deset sveća.
+N | der Krieg | die Kriege | rat | Der Krieg dauerte fünf Jahre. | Rat je trajao pet godina.
+N | der Frieden | — | mir | Alle wünschen sich Frieden. | Svi žele mir.
+V | wählen | hat gewählt | birati, glasati | Am Sonntag wählen wir. | U nedelju glasamo.
+V | gratulieren | hat gratuliert | čestitati | Ich gratuliere dir zum Geburtstag! | Čestitam ti rođendan!
+V | schenken | hat geschenkt | pokloniti | Was schenkst du deiner Mutter? | Šta ćeš pokloniti majci?
+V | sich verabreden | hat sich verabredet | dogovoriti se (za susret) | Wir haben uns für Freitag verabredet. | Dogovorili smo se za petak.
+A | ausländisch | | strani | Hier gibt es viele ausländische Restaurants. | Ovde ima mnogo stranih restorana.
+A | deutsch | | nemački | Ich mag das deutsche Brot. | Volim nemački hleb.
+A | serbisch | | srpski | Das ist ein serbisches Lied. | To je srpska pesma.
+A | politisch | | politički | Das ist eine politische Frage. | To je političko pitanje.
+A | religiös | | religiozan | Meine Oma ist sehr religiös. | Moja baka je veoma religiozna.
+S | Frohe Weihnachten! | Srećan Božić!
+S | Frohe Ostern! | Srećan Uskrs!
+S | Ein gutes neues Jahr! | Srećna Nova godina!
+S | Herzlichen Glückwunsch zum Geburtstag! | Srećan rođendan!
+
+## Usluge i ustanove
+N | das Konto | die Konten | bankovni račun | Ich habe ein Konto bei dieser Bank. | Imam račun u ovoj banci.
+N | die Überweisung | die Überweisungen | uplata (prenos); lekarski uput | Die Überweisung dauert zwei Tage. | Prenos traje dva dana.
+N | der Geldautomat | die Geldautomaten | bankomat | Wo ist der nächste Geldautomat? | Gde je najbliži bankomat?
+N | die Geheimzahl | die Geheimzahlen | PIN | Geben Sie Ihre Geheimzahl ein. | Unesite svoj PIN.
+N | die Gebühr | die Gebühren | taksa, naknada | Die Gebühr beträgt fünf Euro. | Taksa iznosi pet evra.
+N | die Versicherung | die Versicherungen | osiguranje | Ich brauche eine Versicherung für das Auto. | Treba mi osiguranje za auto.
+N | die Behörde | die Behörden | nadležni organ, ustanova | Ich muss zur Behörde. | Moram u nadležnu službu.
+N | das Bürgeramt | die Bürgerämter | opštinska služba | Im Bürgeramt melde ich meine Adresse an. | U opštinskoj službi prijavljujem adresu.
+N | der Antrag | die Anträge | zahtev | Ich stelle einen Antrag. | Podnosim zahtev.
+N | das Dokument | die Dokumente | dokument | Bringen Sie alle Dokumente mit. | Ponesite sva dokumenta.
+N | die Bescheinigung | die Bescheinigungen | potvrda | Ich brauche eine Bescheinigung vom Arbeitgeber. | Treba mi potvrda od poslodavca.
+N | die Wartenummer | die Wartenummern | redni broj (čekanje) | Ziehen Sie bitte eine Wartenummer. | Uzmite redni broj, molim.
+N | der Absender | die Absender | pošiljalac | Der Absender steht oben links. | Pošiljalac piše gore levo.
+N | der Empfänger | die Empfänger | primalac | Schreiben Sie den Empfänger auf das Paket. | Napišite primaoca na paket.
+N | die Feuerwehr | die Feuerwehren | vatrogasci | Die Feuerwehr kommt sofort. | Vatrogasci dolaze odmah.
+N | der Notruf | die Notrufe | hitni poziv | Der Notruf ist 112. | Broj za hitne slučajeve je 112.
+N | die Reparatur | die Reparaturen | popravka | Die Reparatur kostet hundert Euro. | Popravka košta sto evra.
+V | überweisen | hat überwiesen | uplatiti (prenosom) | Ich überweise die Miete. | Uplaćujem kiriju.
+V | abheben | hat abgehoben | podići (novac) | Ich hebe Geld am Automaten ab. | Podižem novac na bankomatu.
+V | beantragen | hat beantragt | podneti zahtev za | Ich beantrage einen neuen Pass. | Podnosim zahtev za novi pasoš.
+V | eröffnen | hat eröffnet | otvoriti (račun, radnju) | Ich möchte ein Konto eröffnen. | Želim da otvorim račun.
+V | abgeben | hat abgegeben | predati | Geben Sie das Formular am Schalter ab. | Predajte obrazac na šalteru.
+V | erhalten | hat erhalten | primiti, dobiti | Sie erhalten die Karte per Post. | Karticu ćete dobiti poštom.
+V | verlängern | hat verlängert | produžiti | Ich muss meinen Pass verlängern. | Moram da produžim pasoš.
+A | gültig | | važeći | Der Pass ist noch gültig. | Pasoš je još važeći.
+A | ungültig | | nevažeći | Die Fahrkarte ist ungültig. | Karta je nevažeća.
+A | dringend | | hitan | Es ist dringend! | Hitno je!
+S | Ich möchte Geld abheben. | Želim da podignem novac.
+S | Welche Dokumente brauche ich? | Koja dokumenta su mi potrebna?
+S | Wie lange dauert das? | Koliko to traje?
+S | Ich möchte mich anmelden. | Želim da se prijavim.
+
+## Opšti glagoli
+V | lassen | hat gelassen | ostaviti; pustiti | Lass mich in Ruhe! | Ostavi me na miru!
+V | versuchen | hat versucht | pokušati | Ich versuche es noch einmal. | Pokušaću još jednom.
+V | entscheiden | hat entschieden | odlučiti | Du musst dich entscheiden. | Moraš da odlučiš.
+V | erlauben | hat erlaubt | dozvoliti | Rauchen ist hier nicht erlaubt. | Pušenje ovde nije dozvoljeno.
+V | verbieten | hat verboten | zabraniti | Das ist verboten. | To je zabranjeno.
+V | erinnern | hat erinnert | podsetiti | Erinnere mich bitte an den Termin. | Podseti me na termin, molim.
+V | sich erinnern | hat sich erinnert | sećati se | Ich erinnere mich gut an ihn. | Dobro ga se sećam.
+V | passieren | ist passiert | desiti se | Was ist passiert? | Šta se desilo?
+V | ändern | hat geändert | promeniti | Wir müssen den Plan ändern. | Moramo da promenimo plan.
+V | sich ändern | hat sich geändert | promeniti se | Das Wetter ändert sich schnell. | Vreme se brzo menja.
+V | beschreiben | hat beschrieben | opisati | Beschreiben Sie das Bild. | Opišite sliku.
+V | berichten | hat berichtet | izvestiti | Die Zeitung berichtet über den Unfall. | Novine izveštavaju o nesreći.
+V | erreichen | hat erreicht | stići; dobiti (nekoga) | Ich kann ihn nicht erreichen. | Ne mogu da ga dobijem.
+V | fallen | ist gefallen | pasti | Das Glas ist auf den Boden gefallen. | Čaša je pala na pod.
+V | fehlen | hat gefehlt | nedostajati | Wer fehlt heute? | Ko danas nedostaje?
+V | folgen | ist gefolgt | pratiti, slediti | Folgen Sie mir bitte. | Pratite me, molim.
+V | führen | hat geführt | voditi | Der Weg führt zum See. | Put vodi do jezera.
+V | klingeln | hat geklingelt | zvoniti | Es klingelt an der Tür. | Zvoni na vratima.
+V | kümmern | hat gekümmert | brinuti (o nekome) | Ich kümmere mich um die Kinder. | Brinem o deci.
+V | lösen | hat gelöst | rešiti | Wir lösen das Problem zusammen. | Rešavamo problem zajedno.
+V | mitbringen | hat mitgebracht | doneti (sa sobom) | Bring bitte Brot mit. | Donesi hleb, molim.
+V | mitnehmen | hat mitgenommen | poneti | Nimm einen Regenschirm mit. | Ponesi kišobran.
+V | nennen | hat genannt | nazvati, navesti | Nennen Sie drei Beispiele. | Navedite tri primera.
+V | planen | hat geplant | planirati | Wir planen eine Reise. | Planiramo putovanje.
+V | prüfen | hat geprüft | proveriti | Bitte prüfen Sie die Rechnung. | Molim proverite račun.
+V | rufen | hat gerufen | zvati, vikati | Die Mutter ruft die Kinder. | Majka zove decu.
+V | schauen | hat geschaut | gledati | Schau mal! | Pogledaj!
+V | setzen | hat gesetzt | posaditi; staviti | Setz dich bitte. | Sedi, molim te.
+V | sich setzen | hat sich gesetzt | sesti | Setzen Sie sich bitte. | Sedite, molim.
+V | tun | hat getan | činiti, raditi | Was kann ich für Sie tun? | Šta mogu da učinim za vas?
+V | verbinden | hat verbunden | povezati | Ich verbinde Sie mit dem Chef. | Povezujem vas sa šefom.
+V | vorbereiten | hat vorbereitet | pripremiti | Ich bereite das Essen vor. | Pripremam hranu.
+V | werfen | hat geworfen | baciti | Wirf das nicht weg! | Ne bacaj to!
+V | ziehen | hat gezogen | vući | Ziehen Sie die Tür auf. | Povucite vrata.
+V | drücken | hat gedrückt | pritisnuti, gurnuti | Drücken Sie den Knopf. | Pritisnite dugme.
+V | zählen | hat gezählt | brojati | Das Kind kann bis zehn zählen. | Dete ume da broji do deset.
+V | sich beeilen | hat sich beeilt | žuriti | Beeil dich, der Bus kommt! | Požuri, autobus dolazi!
+
+## Opšti pridevi
+A | letzte | | poslednji; prošli | Letzte Woche war ich krank. | Prošle nedelje sam bio bolestan.
+A | nächste | | sledeći | Nächste Woche habe ich Urlaub. | Sledeće nedelje sam na odmoru.
+A | normal | | normalan | Das ist ganz normal. | To je sasvim normalno.
+A | praktisch | | praktičan | Die Tasche ist sehr praktisch. | Torba je veoma praktična.
+A | nützlich | | koristan | Das Wörterbuch ist nützlich. | Rečnik je koristan.
+A | sicher | | siguran, bezbedan | Ist es hier sicher? | Da li je ovde bezbedno?
+A | schwach | | slab | Ich fühle mich schwach. | Osećam se slabo.
+A | weich | | mek | Das Kissen ist weich. | Jastuk je mek.
+A | hart | | tvrd | Das Brot ist hart. | Hleb je tvrd.
+A | leise | | tih | Sprich bitte leise. | Govori tiho, molim.
+A | schlank | | vitak | Sie ist groß und schlank. | Ona je visoka i vitka.
+A | blond | | plav (kosa) | Sie hat blonde Haare. | Ona ima plavu kosu.
+A | furchtbar | | užasan | Das Wetter ist furchtbar. | Vreme je užasno.
+A | wunderbar | | divan | Das ist eine wunderbare Idee. | To je divna ideja.
+A | herrlich | | predivan | Heute ist herrliches Wetter. | Danas je predivno vreme.
+A | ähnlich | | sličan | Die Schwestern sehen sich ähnlich. | Sestre liče jedna na drugu.
+A | verschieden | | različit | Wir haben verschiedene Meinungen. | Imamo različita mišljenja.
+A | bereit | | spreman | Bist du bereit? | Jesi li spreman?
+A | besonderer | | poseban, naročit | Das ist ein besonderer Tag. | Ovo je poseban dan.
+A | typisch | | tipičan | Das ist typisch deutsch. | To je tipično nemačko.
+A | privat | | privatan | Das ist eine private Frage. | To je privatno pitanje.
+A | öffentlich | | javni | Das ist ein öffentlicher Park. | To je javni park.
+A | beliebt | | omiljen, popularan | Der Park ist sehr beliebt. | Park je veoma popularan.
+A | berühmt | | slavan | Er ist ein berühmter Sänger. | On je slavni pevač.
+
+## Male reči
+W | deshalb | | zato | Ich bin krank, deshalb bleibe ich zu Hause. | Bolestan sam, zato ostajem kod kuće.
+W | trotzdem | | ipak, uprkos tome | Es regnet, trotzdem gehen wir spazieren. | Pada kiša, ipak idemo u šetnju.
+W | weil | | zato što | Ich lerne Deutsch, weil ich in Deutschland arbeite. | Učim nemački zato što radim u Nemačkoj.
+W | dass | | da (veznik) | Ich weiß, dass du recht hast. | Znam da si u pravu.
+W | wenn | | ako; kada (ponavljanje) | Wenn es regnet, bleiben wir zu Hause. | Ako pada kiša, ostajemo kod kuće.
+W | als | | kada (jednom u prošlosti); nego | Als ich klein war, wohnten wir in Novi Sad. | Kada sam bio mali, živeli smo u Novom Sadu.
+W | ob | | da li | Ich weiß nicht, ob er kommt. | Ne znam da li dolazi.
+W | sondern | | nego, već | Nicht heute, sondern morgen. | Ne danas, nego sutra.
+W | sowohl … als auch | | i … i | Er spricht sowohl Deutsch als auch Englisch. | On govori i nemački i engleski.
+W | entweder … oder | | ili … ili | Entweder heute oder morgen. | Ili danas ili sutra.
+W | weder … noch | | ni … ni | Ich habe weder Zeit noch Geld. | Nemam ni vremena ni novca.
+W | jemand | | neko | Ist jemand zu Hause? | Je li neko kod kuće?
+W | niemand | | niko | Niemand hat angerufen. | Niko nije zvao.
+W | jeder | | svaki | Jeder Tag ist anders. | Svaki dan je drugačiji.
+W | alle | | svi | Alle sind da. | Svi su tu.
+W | einige | | neki, nekoliko | Einige Leute warten noch. | Neki ljudi još čekaju.
+W | mehrere | | više njih | Ich habe mehrere Fragen. | Imam više pitanja.
+W | beide | | oba, obe | Beide Kinder sind krank. | Oba deteta su bolesna.
+W | selbst | | sam (lično) | Das mache ich selbst. | To ću sam da uradim.
+W | gegen | | protiv; oko (vreme) | Ich komme gegen acht. | Doći ću oko osam.
+W | durch | | kroz | Wir gehen durch den Park. | Idemo kroz park.
+W | über | | preko; iznad; o | Das Bild hängt über dem Sofa. | Slika visi iznad sofe.
+W | unter | | ispod | Die Katze liegt unter dem Tisch. | Mačka leži ispod stola.
+W | vor | | ispred; pre | Das Auto steht vor dem Haus. | Auto stoji ispred kuće.
+W | hinter | | iza | Der Garten ist hinter dem Haus. | Bašta je iza kuće.
+W | neben | | pored | Ich sitze neben meiner Schwester. | Sedim pored sestre.
+W | zwischen | | između | Die Bank ist zwischen der Post und dem Café. | Banka je između pošte i kafića.
+W | gegenüber | | preko puta | Die Apotheke ist gegenüber. | Apoteka je preko puta.
+W | außer | | osim | Alle außer ihm sind gekommen. | Svi osim njega su došli.
+W | wegen | | zbog | Wegen des Regens bleiben wir zu Hause. | Zbog kiše ostajemo kod kuće.
+W | statt | | umesto | Statt Kaffee trinke ich Tee. | Umesto kafe pijem čaj.
+W | ziemlich | | prilično | Das ist ziemlich teuer. | To je prilično skupo.
+W | fast | | skoro | Ich bin fast fertig. | Skoro sam gotov.
+W | genug | | dovoljno | Ich habe genug Geld. | Imam dovoljno novca.
+W | besonders | | naročito | Das Essen ist besonders gut. | Hrana je naročito dobra.
+W | überall | | svuda | Ich habe überall gesucht. | Svuda sam tražio.
+W | irgendwo | | negde | Mein Schlüssel ist irgendwo hier. | Moj ključ je negde ovde.
+W | nirgends | | nigde | Ich finde ihn nirgends. | Ne mogu nigde da ga nađem.
+W | woanders | | negde drugde | Lass uns woanders essen. | Hajde da jedemo negde drugde.
+W | wohl | | verovatno | Er ist wohl krank. | Verovatno je bolestan.
+W | sogar | | čak | Er spricht sogar Japanisch. | On čak govori japanski.
+W | zum Beispiel | | na primer | Ich mag Obst, zum Beispiel Äpfel. | Volim voće, na primer jabuke.
+W | außerdem | | osim toga | Außerdem habe ich keine Zeit. | Osim toga, nemam vremena.
+W | also | | dakle | Also, gehen wir! | Dakle, idemo!

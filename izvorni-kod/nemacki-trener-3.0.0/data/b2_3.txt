@@ -1,0 +1,205 @@
+# Nivo B2 — deo 3
+
+## Škola i učenje
+N | das Bildungssystem | die Bildungssysteme | obrazovni sistem | Das deutsche Bildungssystem ist kompliziert. | Nemački obrazovni sistem je komplikovan.
+N | die Chancengleichheit | — | jednake šanse | Chancengleichheit in der Bildung ist wichtig. | Jednake šanse u obrazovanju su važne.
+N | der Bildungsweg | die Bildungswege | obrazovni put | Er hat einen ungewöhnlichen Bildungsweg. | Ima neobičan obrazovni put.
+N | die Lehre | die Lehren | zanatsko obrazovanje; pouka | Er macht eine Lehre als Mechaniker. | Uči zanat za mehaničara.
+N | der Auszubildende | die Auszubildenden | šegrt, pripravnik | Die Firma sucht Auszubildende. | Firma traži pripravnike.
+N | die Fachrichtung | die Fachrichtungen | smer, oblast studija | Welche Fachrichtung studierst du? | Koji smer studiraš?
+N | das Studienfach | die Studienfächer | studijski predmet | Ihr Studienfach ist Informatik. | Njen predmet studija je informatika.
+N | die Abschlussarbeit | die Abschlussarbeiten | završni rad | Ich schreibe meine Abschlussarbeit. | Pišem završni rad.
+N | die Forschung | die Forschungen | istraživanje | Die Forschung braucht mehr Geld. | Istraživanju treba više novca.
+N | die Wissenschaft | die Wissenschaften | nauka | Die Wissenschaft macht große Fortschritte. | Nauka pravi veliki napredak.
+N | der Wissenschaftler | die Wissenschaftler | naučnik | Der Wissenschaftler untersucht das Klima. | Naučnik istražuje klimu.
+N | die Studie | die Studien | studija | Eine neue Studie zeigt, dass … | Nova studija pokazuje da …
+N | die These | die Thesen | teza | Er vertritt eine interessante These. | Zastupa zanimljivu tezu.
+N | die Quelle | die Quellen | izvor | Bitte geben Sie die Quellen an. | Molim navedite izvore.
+N | das Fachwissen | — | stručno znanje | Für den Job braucht man viel Fachwissen. | Za posao je potrebno mnogo stručnog znanja.
+N | die Lernmethode | die Lernmethoden | metoda učenja | Jeder hat seine eigene Lernmethode. | Svako ima svoju metodu učenja.
+N | der Lernerfolg | die Lernerfolge | uspeh u učenju | Regelmäßiges Üben verbessert den Lernerfolg. | Redovno vežbanje poboljšava uspeh.
+N | die Motivation | — | motivacija | Mir fehlt die Motivation. | Nedostaje mi motivacija.
+N | die Konzentration | — | koncentracija | Die Konzentration lässt am Abend nach. | Koncentracija uveče popušta.
+N | das Gedächtnis | die Gedächtnisse | pamćenje | Sie hat ein gutes Gedächtnis. | Ona ima dobro pamćenje.
+N | die Fremdsprache | die Fremdsprachen | strani jezik | Er spricht drei Fremdsprachen. | Govori tri strana jezika.
+N | die Muttersprache | die Muttersprachen | maternji jezik | Meine Muttersprache ist Serbisch. | Moj maternji jezik je srpski.
+N | der Wortschatz | — | vokabular, fond reči | Ich will meinen Wortschatz erweitern. | Želim da proširim vokabular.
+N | der Ausdruck | die Ausdrücke | izraz | Diesen Ausdruck kenne ich nicht. | Ne znam ovaj izraz.
+N | die Redewendung | die Redewendungen | idiom, izreka | Das ist eine typische Redewendung. | To je tipičan idiom.
+N | die Gliederung | die Gliederungen | struktura, raspored | Der Text hat eine klare Gliederung. | Tekst ima jasnu strukturu.
+N | die Stellungnahme | die Stellungnahmen | stav, mišljenje (pismeno) | Schreiben Sie eine Stellungnahme. | Napišite svoje mišljenje.
+N | die Erörterung | die Erörterungen | argumentativni sastav | Die Erörterung ist Teil der Prüfung. | Argumentativni sastav je deo ispita.
+V | erweitern | hat erweitert | proširiti | Ich erweitere meine Kenntnisse. | Proširujem svoja znanja.
+V | sich aneignen | hat sich angeeignet | usvojiti (znanje) | Er hat sich viel Wissen angeeignet. | Usvojio je mnogo znanja.
+V | forschen | hat geforscht | istraživati | Sie forscht an der Universität. | Ona istražuje na univerzitetu.
+V | analysieren | hat analysiert | analizirati | Wir analysieren die Daten. | Analiziramo podatke.
+V | zitieren | hat zitiert | citirati | Sie zitiert einen bekannten Autor. | Ona citira poznatog autora.
+V | sich auseinandersetzen mit | hat sich auseinandergesetzt | baviti se (temeljno) (+ Dat) | Wir setzen uns mit dem Thema auseinander. | Temeljno se bavimo temom.
+V | sich befassen mit | hat sich befasst | baviti se (+ Dat) | Der Kurs befasst sich mit Geschichte. | Kurs se bavi istorijom.
+V | nachdenken über | hat nachgedacht | razmišljati o (+ Akk) | Ich denke über deinen Vorschlag nach. | Razmišljam o tvom predlogu.
+V | abschreiben | hat abgeschrieben | prepisati | Er hat bei der Prüfung abgeschrieben. | Prepisivao je na ispitu.
+V | abbrechen | hat abgebrochen | prekinuti | Sie hat ihr Studium abgebrochen. | Prekinula je studije.
+V | absolvieren | hat absolviert | završiti, apsolvirati | Er hat die Ausbildung erfolgreich absolviert. | Uspešno je završio obuku.
+V | fördern | hat gefördert | podsticati, podržati | Die Schule fördert talentierte Schüler. | Škola podstiče talentovane učenike.
+V | sich steigern | hat sich gesteigert | poboljšati se, porasti | Seine Leistungen haben sich gesteigert. | Njegov učinak se poboljšao.
+A | wissenschaftlich | | naučni | Das ist wissenschaftlich bewiesen. | To je naučno dokazano.
+A | theoretisch | | teorijski | Theoretisch ist das möglich. | Teorijski je to moguće.
+A | begabt | | nadaren | Das Kind ist musikalisch begabt. | Dete je muzički nadareno.
+A | lernfähig | | sposoban za učenje | Er ist sehr lernfähig. | On veoma brzo uči.
+A | fließend | | tečan | Sie spricht fließend Deutsch. | Ona tečno govori nemački.
+A | anschaulich | | slikovit, jasan | Der Lehrer erklärt sehr anschaulich. | Nastavnik objašnjava veoma slikovito.
+A | umfangreich | | obiman | Das Material ist sehr umfangreich. | Materijal je veoma obiman.
+S | Ich möchte meine Deutschkenntnisse vertiefen. | Želim da produbim znanje nemačkog.
+S | Laut einer Studie … | Prema jednoj studiji …
+S | Das Thema hat mich schon immer interessiert. | Ta tema me je oduvek zanimala.
+
+## Telo i zdravlje
+N | das Gesundheitswesen | — | zdravstvo | Das Gesundheitswesen ist teuer. | Zdravstvo je skupo.
+N | die Vorsorge | — | prevencija | Vorsorge ist besser als Nachsorge. | Bolje sprečiti nego lečiti.
+N | die Vorsorgeuntersuchung | die Vorsorgeuntersuchungen | preventivni pregled | Gehen Sie regelmäßig zur Vorsorgeuntersuchung. | Redovno idite na preventivni pregled.
+N | die Diagnose | die Diagnosen | dijagnoza | Die Diagnose war ein Schock. | Dijagnoza je bila šok.
+N | die Beschwerden | (samo mn.) | tegobe | Haben Sie Beschwerden beim Atmen? | Imate li tegoba sa disanjem?
+N | die Entzündung | die Entzündungen | upala | Er hat eine Entzündung im Hals. | Ima upalu grla.
+N | die Infektion | die Infektionen | infekcija | Die Infektion ist ansteckend. | Infekcija je zarazna.
+N | der Virus | die Viren | virus | Das Virus verbreitet sich schnell. | Virus se brzo širi.
+N | die Bakterie | die Bakterien | bakterija | Antibiotika wirken gegen Bakterien. | Antibiotici deluju protiv bakterija.
+N | das Antibiotikum | die Antibiotika | antibiotik | Der Arzt verschreibt ein Antibiotikum. | Lekar prepisuje antibiotik.
+N | die Dosis | die Dosen | doza | Nehmen Sie nicht mehr als die empfohlene Dosis. | Ne uzimajte više od preporučene doze.
+N | der Beipackzettel | die Beipackzettel | uputstvo uz lek | Lesen Sie den Beipackzettel. | Pročitajte uputstvo uz lek.
+N | die Wechselwirkung | die Wechselwirkungen | interakcija (lekova) | Es gibt Wechselwirkungen mit anderen Medikamenten. | Postoje interakcije sa drugim lekovima.
+N | der Eingriff | die Eingriffe | zahvat | Der Eingriff dauert nur eine Stunde. | Zahvat traje samo sat vremena.
+N | die Narkose | die Narkosen | anestezija | Die Operation findet unter Narkose statt. | Operacija se izvodi pod anestezijom.
+N | die Reha | die Rehas | rehabilitacija | Nach der Operation macht er eine Reha. | Posle operacije ide na rehabilitaciju.
+N | die Genesung | — | oporavak | Ich wünsche Ihnen eine schnelle Genesung. | Želim vam brz oporavak.
+N | die Krankschreibung | die Krankschreibungen | bolovanje (potvrda) | Der Arzt gibt mir eine Krankschreibung. | Lekar mi daje bolovanje.
+N | die Arbeitsunfähigkeit | — | nesposobnost za rad | Die Arbeitsunfähigkeit dauert zwei Wochen. | Nesposobnost za rad traje dve nedelje.
+N | die Pflegekraft | die Pflegekräfte | negovatelj(ica) | Es fehlen Pflegekräfte. | Nedostaje negovatelja.
+N | die Sucht | die Süchte | zavisnost | Rauchen kann zur Sucht werden. | Pušenje može postati zavisnost.
+N | das Übergewicht | — | prekomerna težina | Übergewicht ist ungesund. | Prekomerna težina je nezdrava.
+N | die Schlafstörung | die Schlafstörungen | poremećaj sna | Stress führt oft zu Schlafstörungen. | Stres često dovodi do poremećaja sna.
+N | das Immunsystem | die Immunsysteme | imuni sistem | Sport stärkt das Immunsystem. | Sport jača imuni sistem.
+N | die Wirbelsäule | die Wirbelsäulen | kičma | Er hat Probleme mit der Wirbelsäule. | Ima problema sa kičmom.
+N | das Gelenk | die Gelenke | zglob | Meine Gelenke tun weh. | Bole me zglobovi.
+N | die Niere | die Nieren | bubreg | Die Nieren filtern das Blut. | Bubrezi filtriraju krv.
+N | die Leber | die Lebern | jetra | Alkohol schadet der Leber. | Alkohol šteti jetri.
+V | vorbeugen | hat vorgebeugt | sprečiti (preventivno) (+ Dat) | Sport beugt vielen Krankheiten vor. | Sport sprečava mnoge bolesti.
+V | diagnostizieren | hat diagnostiziert | dijagnostikovati | Der Arzt diagnostiziert eine Grippe. | Lekar dijagnostikuje grip.
+V | sich anstecken | hat sich angesteckt | zaraziti se | Ich habe mich bei meinem Kollegen angesteckt. | Zarazio sam se od kolege.
+V | sich verbreiten | hat sich verbreitet | širiti se | Die Krankheit verbreitet sich schnell. | Bolest se brzo širi.
+V | lindern | hat gelindert | ublažiti | Die Tabletten lindern den Schmerz. | Tablete ublažavaju bol.
+V | wirken | hat gewirkt | delovati | Das Medikament wirkt schnell. | Lek brzo deluje.
+V | sich krankmelden | hat sich krankgemeldet | javiti se na bolovanje | Ich muss mich heute krankmelden. | Danas moram da se javim na bolovanje.
+V | genesen | ist genesen | ozdraviti | Er ist vollständig genesen. | Potpuno je ozdravio.
+V | leiden an | hat gelitten | bolovati od (+ Dat) | Sie leidet an Diabetes. | Ona boluje od dijabetesa.
+V | stärken | hat gestärkt | ojačati | Vitamine stärken das Immunsystem. | Vitamini jačaju imuni sistem.
+V | sich schonen | hat sich geschont | štedeti se, čuvati se | Nach der Grippe sollten Sie sich schonen. | Posle gripa treba da se čuvate.
+V | überweisen an | hat überwiesen | uputiti (lekaru) (+ Akk) | Der Hausarzt überweist mich an einen Facharzt. | Lekar opšte prakse me upućuje specijalisti.
+A | akut | | akutan | Er hat akute Schmerzen. | Ima akutne bolove.
+A | harmlos | | bezopasan | Die Erkältung ist harmlos. | Prehlada je bezopasna.
+A | unheilbar | | neizlečiv | Die Krankheit ist leider unheilbar. | Bolest je nažalost neizlečiva.
+A | rezeptpflichtig | | na recept | Das Medikament ist rezeptpflichtig. | Lek se izdaje na recept.
+A | arbeitsunfähig | | nesposoban za rad | Er ist zwei Wochen arbeitsunfähig. | On je dve nedelje nesposoban za rad.
+A | süchtig | | zavisan | Er ist süchtig nach seinem Handy. | Zavisan je od mobilnog telefona.
+A | übergewichtig | | gojazan | Viele Kinder sind übergewichtig. | Mnoga deca su gojazna.
+A | vorbeugend | | preventivan | Vorbeugende Maßnahmen sind wichtig. | Preventivne mere su važne.
+S | Ich wünsche Ihnen gute Besserung. | Želim vam brz oporavak.
+S | Ich bin krankgeschrieben. | Na bolovanju sam.
+S | Gibt es Nebenwirkungen? | Postoje li neželjena dejstva?
+
+## Odeća
+N | die Bekleidung | — | odeća (opšti pojam) | Wir verkaufen Bekleidung für Damen und Herren. | Prodajemo odeću za žene i muškarce.
+N | die Arbeitskleidung | — | radna odeća | Die Firma stellt die Arbeitskleidung. | Firma obezbeđuje radnu odeću.
+N | die Schutzkleidung | — | zaštitna odeća | Bei der Arbeit müssen wir Schutzkleidung tragen. | Na poslu moramo da nosimo zaštitnu odeću.
+N | die Warnweste | die Warnwesten | reflektujući prsluk | An den Gleisen trägt man eine Warnweste. | Kod koloseka se nosi reflektujući prsluk.
+N | der Stoff | die Stoffe | tkanina; materija | Der Stoff ist sehr weich. | Tkanina je veoma meka.
+N | das Material | die Materialien | materijal | Aus welchem Material ist die Jacke? | Od kog materijala je jakna?
+N | die Kunstfaser | die Kunstfasern | sintetičko vlakno | Der Pullover ist aus Kunstfaser. | Džemper je od sintetike.
+N | der Trend | die Trends | trend | Das ist der neueste Trend. | To je najnoviji trend.
+N | der Geschmack | die Geschmäcker | ukus | Sie hat einen guten Geschmack. | Ona ima dobar ukus.
+N | das Outfit | die Outfits | odevna kombinacija | Das Outfit passt gut zur Feier. | Kombinacija dobro odgovara za proslavu.
+N | die Reinigung | die Reinigungen | hemijsko čišćenje | Ich bringe den Anzug in die Reinigung. | Nosim odelo na hemijsko čišćenje.
+V | zusammenpassen | hat zusammengepasst | slagati se (uz nešto) | Die Farben passen gut zusammen. | Boje se dobro slažu.
+V | kombinieren | hat kombiniert | kombinovati | Sie kombiniert Jeans mit einer Bluse. | Ona kombinuje farmerke sa bluzom.
+V | ändern lassen | hat ändern lassen | dati na prepravku | Ich lasse die Hose kürzen. | Dajem pantalone da se skrate.
+V | auftragen | hat aufgetragen | nositi do kraja (odeću) | Er trägt die Kleidung seines Bruders auf. | Nosi odeću od brata.
+A | schick | | šik, elegantan | Du siehst sehr schick aus. | Izgledaš veoma šik.
+A | lässig | | ležeran | Er kleidet sich gern lässig. | Rado se ležerno oblači.
+A | altmodisch | | staromodan | Der Mantel ist altmodisch. | Kaput je staromodan.
+A | atmungsaktiv | | prozračan | Das Material ist atmungsaktiv. | Materijal je prozračan.
+A | wasserdicht | | vodootporan | Die Jacke ist wasserdicht. | Jakna je vodootporna.
+A | maßgeschneidert | | po meri | Er trägt einen maßgeschneiderten Anzug. | Nosi odelo po meri.
+S | Das steht dir ausgezeichnet. | To ti odlično stoji.
+
+## Slobodno vreme i sport
+N | der Breitensport | — | masovni (rekreativni) sport | Der Verein fördert den Breitensport. | Klub podstiče rekreativni sport.
+N | der Leistungssport | — | vrhunski sport | Leistungssport ist sehr anstrengend. | Vrhunski sport je veoma naporan.
+N | die Ausdauer | — | izdržljivost | Für den Marathon braucht man viel Ausdauer. | Za maraton je potrebna velika izdržljivost.
+N | die Kondition | — | kondicija | Er hat eine gute Kondition. | On ima dobru kondiciju.
+N | die Verletzungsgefahr | — | opasnost od povrede | Beim Skifahren ist die Verletzungsgefahr hoch. | Na skijanju je opasnost od povrede velika.
+N | der Wettbewerb | die Wettbewerbe | takmičenje | Sie hat den Wettbewerb gewonnen. | Pobedila je na takmičenju.
+N | der Rekord | die Rekorde | rekord | Er hat einen neuen Rekord aufgestellt. | Postavio je novi rekord.
+N | der Gegner | die Gegner | protivnik | Der Gegner war sehr stark. | Protivnik je bio veoma jak.
+N | die Niederlage | die Niederlagen | poraz | Die Niederlage war bitter. | Poraz je bio gorak.
+N | die Freizeitgestaltung | — | organizovanje slobodnog vremena | Die Freizeitgestaltung ist heute vielfältig. | Organizovanje slobodnog vremena je danas raznoliko.
+N | die Leidenschaft | die Leidenschaften | strast | Fotografie ist meine Leidenschaft. | Fotografija je moja strast.
+N | der Zeitvertreib | — | razonoda | Lesen ist mein liebster Zeitvertreib. | Čitanje je moja omiljena razonoda.
+N | die Uraufführung | die Uraufführungen | premijera (predstave) | Die Uraufführung war ein großer Erfolg. | Premijera je bila veliki uspeh.
+N | die Inszenierung | die Inszenierungen | postavka (predstave) | Die Inszenierung war modern. | Postavka je bila moderna.
+N | die Kritik | die Kritiken | kritika | Der Film hat gute Kritiken bekommen. | Film je dobio dobre kritike.
+N | das Werk | die Werke | delo | Das ist sein bekanntestes Werk. | To je njegovo najpoznatije delo.
+N | die Handlung | die Handlungen | radnja (u priči) | Die Handlung des Films ist spannend. | Radnja filma je napeta.
+N | die Hauptfigur | die Hauptfiguren | glavni lik | Die Hauptfigur ist ein junger Arzt. | Glavni lik je mladi lekar.
+V | sich begeistern für | hat sich begeistert | oduševljavati se (+ Akk) | Er begeistert sich für Oldtimer. | Oduševljava se starim automobilima.
+V | sich auspowern | hat sich ausgepowert | ispucati energiju | Beim Sport kann ich mich auspowern. | Na sportu mogu da ispucam energiju.
+V | aufstellen | hat aufgestellt | postaviti (rekord) | Sie hat einen Weltrekord aufgestellt. | Postavila je svetski rekord.
+V | antreten gegen | ist angetreten | igrati protiv (+ Akk) | Morgen treten wir gegen Bayern an. | Sutra igramo protiv Bajerna.
+V | ausüben | hat ausgeübt | baviti se (sportom, zanimanjem) | Welchen Sport üben Sie aus? | Kojim sportom se bavite?
+V | sich verabreden mit | hat sich verabredet | dogovoriti se sa (+ Dat) | Ich habe mich mit Freunden verabredet. | Dogovorio sam se sa prijateljima.
+V | handeln von | hat gehandelt | govoriti o (+ Dat) | Der Roman handelt von einer Familie. | Roman govori o jednoj porodici.
+A | anstrengend | | naporan | Die Wanderung war sehr anstrengend. | Planinarenje je bilo veoma naporno.
+A | abwechslungsreich | | raznovrstan | Das Programm ist sehr abwechslungsreich. | Program je veoma raznovrstan.
+A | sehenswert | | vredan gledanja | Der Film ist sehr sehenswert. | Film je vredan gledanja.
+A | lesenswert | | vredan čitanja | Das Buch ist lesenswert. | Knjiga je vredna čitanja.
+A | ausgebucht | | popunjen (rezervacije) | Der Kurs ist leider ausgebucht. | Kurs je nažalost popunjen.
+S | Der Film hat mich sehr beeindruckt. | Film me je mnogo impresionirao.
+S | Worum geht es in dem Buch? | O čemu se radi u knjizi?
+S | Sport ist für mich ein Ausgleich zur Arbeit. | Sport mi je protivteža poslu.
+
+## Priroda, životinje i vreme
+N | der Treibhauseffekt | — | efekat staklene bašte | Der Treibhauseffekt erwärmt die Erde. | Efekat staklene bašte zagreva Zemlju.
+N | das Kohlendioxid | — | ugljen-dioksid | Autos stoßen viel Kohlendioxid aus. | Automobili ispuštaju mnogo ugljen-dioksida.
+N | die Emission | die Emissionen | emisija (gasova) | Die Emissionen müssen sinken. | Emisije moraju da se smanje.
+N | die erneuerbare Energie | die erneuerbaren Energien | obnovljiva energija | Wir setzen auf erneuerbare Energien. | Oslanjamo se na obnovljive izvore energije.
+N | die Windkraft | — | energija vetra | Windkraft ist eine saubere Energie. | Energija vetra je čista energija.
+N | das Kraftwerk | die Kraftwerke | elektrana | Das Kraftwerk wird abgeschaltet. | Elektrana se gasi.
+N | der Rohstoff | die Rohstoffe | sirovina | Rohstoffe werden immer teurer. | Sirovine su sve skuplje.
+N | die Ressource | die Ressourcen | resurs | Wir müssen Ressourcen schonen. | Moramo da štedimo resurse.
+N | die Nachhaltigkeit | — | održivost | Nachhaltigkeit ist ein wichtiges Thema. | Održivost je važna tema.
+N | der Artenschutz | — | zaštita vrsta | Der Artenschutz ist wichtig für die Natur. | Zaštita vrsta je važna za prirodu.
+N | das Aussterben | — | izumiranje | Viele Tiere sind vom Aussterben bedroht. | Mnoge životinje su ugrožene izumiranjem.
+N | der Lebensraum | die Lebensräume | stanište | Der Lebensraum der Tiere wird kleiner. | Stanište životinja se smanjuje.
+N | das Naturschutzgebiet | die Naturschutzgebiete | zaštićeno područje | Das ist ein Naturschutzgebiet. | Ovo je zaštićeno područje.
+N | die Dürre | die Dürren | suša | Die Dürre hat die Ernte zerstört. | Suša je uništila letinu.
+N | das Hochwasser | die Hochwasser | visok vodostaj, poplava | Nach dem Regen gab es Hochwasser. | Posle kiše je bilo poplava.
+N | das Unwetter | die Unwetter | nevreme | Das Unwetter hat große Schäden verursacht. | Nevreme je izazvalo veliku štetu.
+N | der Hagel | — | grad (padavina) | Der Hagel hat die Autos beschädigt. | Grad je oštetio automobile.
+N | die Umweltverschmutzung | — | zagađenje životne sredine | Die Umweltverschmutzung nimmt zu. | Zagađenje životne sredine raste.
+N | der Müllberg | die Müllberge | gomila otpada | Die Müllberge wachsen. | Gomile otpada rastu.
+N | die Verpackung | die Verpackungen | ambalaža | Wir sollten weniger Verpackung verwenden. | Trebalo bi da koristimo manje ambalaže.
+N | der Fußabdruck | die Fußabdrücke | otisak (ekološki) | Jeder hat einen ökologischen Fußabdruck. | Svako ima ekološki otisak.
+V | ausstoßen | hat ausgestoßen | ispuštati | Die Fabrik stößt viel CO2 aus. | Fabrika ispušta mnogo CO2.
+V | aussterben | ist ausgestorben | izumreti | Die Dinosaurier sind ausgestorben. | Dinosaurusi su izumrli.
+V | schonen | hat geschont | štedeti, čuvati | Wir schonen die Umwelt. | Čuvamo životnu sredinu.
+V | belasten | hat belastet | opterećivati, zagađivati | Der Verkehr belastet die Umwelt. | Saobraćaj opterećuje životnu sredinu.
+V | sich auswirken auf | hat sich ausgewirkt | uticati na (+ Akk) | Der Klimawandel wirkt sich auf die Landwirtschaft aus. | Klimatske promene utiču na poljoprivredu.
+V | abschalten | hat abgeschaltet | isključiti, ugasiti | Das Atomkraftwerk wurde abgeschaltet. | Nuklearna elektrana je ugašena.
+V | umsteigen auf | ist umgestiegen | preći na (+ Akk) | Viele steigen auf das Fahrrad um. | Mnogi prelaze na bicikl.
+V | reduzieren | hat reduziert | smanjiti | Wir müssen den Energieverbrauch reduzieren. | Moramo da smanjimo potrošnju energije.
+A | ökologisch | | ekološki | Wir kaufen ökologische Produkte. | Kupujemo ekološke proizvode.
+A | erneuerbar | | obnovljiv | Wind ist eine erneuerbare Energiequelle. | Vetar je obnovljiv izvor energije.
+A | schädlich | | štetan | Plastik ist schädlich für das Meer. | Plastika je štetna za more.
+A | klimaneutral | | klimatski neutralan | Die Firma will klimaneutral werden. | Firma želi da postane klimatski neutralna.
+A | vom Aussterben bedroht | | ugrožen izumiranjem | Der Luchs ist vom Aussterben bedroht. | Ris je ugrožen izumiranjem.
+A | extrem | | ekstreman | Extreme Wetterereignisse nehmen zu. | Ekstremne vremenske pojave su sve češće.
+S | Jeder kann einen Beitrag zum Umweltschutz leisten. | Svako može da doprinese zaštiti životne sredine.
+S | Wir sollten auf Plastik verzichten. | Trebalo bi da se odreknemo plastike.

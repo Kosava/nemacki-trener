@@ -1,0 +1,308 @@
+import { LineEdit, ListView } from "std-widgets.slint";
+import { Theme } from "theme.slint";
+import { Badge, Btn, Card, Label, Muted } from "widgets.slint";
+
+export struct NavItem {
+    label: string,
+    count: int,
+    is-level: bool,
+    level: string,
+    expanded: bool,
+    selected: bool,
+}
+
+export struct WordItem {
+    id: int,
+    de: string,
+    sr: string,
+    pron: string,
+    level: string,
+    topic: string,
+    forms: string,
+    example-de: string,
+    example-sr: string,
+}
+
+export global Browse {
+    in property <bool> sentences;
+    in property <[NavItem]> nav;
+    in property <[WordItem]> rows;
+    in property <string> count-text;
+    in-out property <string> search;
+    in property <int> selected-id: -1;
+    in property <WordItem> selected;
+
+    callback nav-clicked(index: int);
+    callback search-edited(text: string);
+    callback row-clicked(index: int);
+    callback add-clicked();
+    callback edit-clicked();
+    callback delete-clicked();
+}
+
+component NavRow inherits Rectangle {
+    in property <NavItem> item;
+    callback clicked();
+    height: item.is-level ? 36px : 30px;
+    border-radius: 6px;
+    background: item.selected ? Theme.selection : (ta.has-hover ? Theme.hover : transparent);
+
+    if item.is-level && item.level != "*": Text {
+        x: 8px;
+        width: 14px;
+        text: item.expanded ? "▾" : "▸";
+        color: Theme.muted;
+        font-size: 13px;
+        vertical-alignment: center;
+    }
+    if item.is-level && item.level != "*": Rectangle {
+        x: 26px;
+        y: (parent.height - 10px) / 2;
+        width: 10px;
+        height: 10px;
+        border-radius: 5px;
+        background: Theme.level-color(item.level);
+    }
+    Text {
+        x: item.is-level ? (item.level == "*" ? 12px : 44px) : 44px;
+        width: parent.width - self.x - 50px;
+        text: item.label;
+        color: Theme.text;
+        font-size: item.is-level ? 14px : 13px;
+        font-weight: item.is-level ? 600 : 400;
+        overflow: elide;
+        vertical-alignment: center;
+    }
+    Text {
+        x: parent.width - 48px;
+        width: 40px;
+        text: item.count;
+        color: Theme.muted;
+        font-size: 12px;
+        horizontal-alignment: right;
+        vertical-alignment: center;
+    }
+    ta := TouchArea {
+        mouse-cursor: pointer;
+        clicked => { root.clicked(); }
+    }
+}
+
+component WordRow inherits Rectangle {
+    in property <WordItem> item;
+    in property <int> index;
+    in property <bool> sentences;
+    callback clicked();
+    callback double-clicked();
+
+    property <length> inner: self.width - 70px;
+    property <float> f-de: sentences ? 0.42 : 0.30;
+    property <float> f-sr: sentences ? 0.36 : 0.28;
+
+    height: 38px;
+    background: item.id == Browse.selected-id ? Theme.selection
+        : ta.has-hover ? Theme.hover
+        : (Math.mod(index, 2) == 0 ? Theme.surface : Theme.surface-alt);
+
+    Badge {
+        x: 10px;
+        y: (parent.height - self.height) / 2;
+        level: item.level;
+    }
+    Text {
+        x: 62px;
+        width: root.inner * root.f-de - 10px;
+        text: item.de;
+        color: Theme.text;
+        font-size: 14px;
+        font-weight: 600;
+        overflow: elide;
+        vertical-alignment: center;
+    }
+    Text {
+        x: 62px + root.inner * root.f-de;
+        width: root.inner * root.f-sr - 10px;
+        text: item.sr;
+        color: Theme.text;
+        font-size: 14px;
+        overflow: elide;
+        vertical-alignment: center;
+    }
+    Text {
+        x: 62px + root.inner * (root.f-de + root.f-sr);
+        width: root.inner * (1 - root.f-de - root.f-sr) - 6px;
+        text: sentences ? item.pron : (item.forms != "" ? item.forms : item.pron);
+        color: Theme.muted;
+        font-size: 13px;
+        font-italic: sentences || item.forms == "";
+        overflow: elide;
+        vertical-alignment: center;
+    }
+    ta := TouchArea {
+        clicked => { root.clicked(); }
+        double-clicked => { root.double-clicked(); }
+    }
+}
+
+export component BrowsePage inherits Rectangle {
+    background: Theme.bg;
+
+    HorizontalLayout {
+        padding: Theme.pad;
+        spacing: Theme.pad;
+
+        // ---- nivoi i teme ----
+        Card {
+            width: 270px;
+            VerticalLayout {
+                padding: 6px;
+                Text {
+                    text: "Nivoi i teme";
+                    color: Theme.muted;
+                    font-size: 12px;
+                    font-weight: 700;
+                    height: 26px;
+                    vertical-alignment: center;
+                    x: 10px;
+                }
+                ListView {
+                    for item[i] in Browse.nav: NavRow {
+                        item: item;
+                        clicked => { Browse.nav-clicked(i); }
+                    }
+                }
+            }
+        }
+
+        // ---- lista ----
+        VerticalLayout {
+            spacing: 10px;
+
+            HorizontalLayout {
+                spacing: 10px;
+                height: 36px;
+                search := LineEdit {
+                    horizontal-stretch: 1;
+                    placeholder-text: Browse.sentences
+                        ? "Pretraga rečenica (srpski ili nemački) …"
+                        : "Pretraga reči (srpski, nemački, izgovor, primer) …";
+                    text <=> Browse.search;
+                    edited(t) => { Browse.search-edited(t); }
+                }
+                Muted {
+                    text: Browse.count-text;
+                    horizontal-stretch: 0;
+                }
+                Btn {
+                    text: Browse.sentences ? "+ Nova rečenica" : "+ Nova reč";
+                    kind: "primary";
+                    clicked => { Browse.add-clicked(); }
+                }
+            }
+
+            Card {
+                vertical-stretch: 1;
+                clip: true;
+                VerticalLayout {
+                    padding: 1px;
+                    // zaglavlje
+                    header := Rectangle {
+                        height: 30px;
+                        background: Theme.surface-alt;
+                        property <length> inner: self.width - 70px;
+                        property <float> f-de: Browse.sentences ? 0.42 : 0.30;
+                        property <float> f-sr: Browse.sentences ? 0.36 : 0.28;
+                        Text {
+                            x: 10px; text: "Nivo"; color: Theme.muted;
+                            font-size: 12px; font-weight: 700; vertical-alignment: center;
+                        }
+                        Text {
+                            x: 62px; text: "Nemački"; color: Theme.muted;
+                            font-size: 12px; font-weight: 700; vertical-alignment: center;
+                        }
+                        Text {
+                            x: 62px + header.inner * header.f-de; text: "Srpski"; color: Theme.muted;
+                            font-size: 12px; font-weight: 700; vertical-alignment: center;
+                        }
+                        Text {
+                            x: 62px + header.inner * (header.f-de + header.f-sr);
+                            text: Browse.sentences ? "Izgovor" : "Množina / Perfekt / izgovor";
+                            color: Theme.muted;
+                            font-size: 12px; font-weight: 700; vertical-alignment: center;
+                        }
+                    }
+                    Rectangle { height: 1px; background: Theme.border; }
+                    ListView {
+                        for item[i] in Browse.rows: WordRow {
+                            item: item;
+                            index: i;
+                            sentences: Browse.sentences;
+                            clicked => { Browse.row-clicked(i); }
+                            double-clicked => {
+                                Browse.row-clicked(i);
+                                Browse.edit-clicked();
+                            }
+                        }
+                    }
+                }
+            }
+
+            // ---- detalji izabranog zapisa ----
+            if Browse.selected-id >= 0: Card {
+                height: details.preferred-height;
+                details := VerticalLayout {
+                    padding: 14px;
+                    spacing: 6px;
+                    HorizontalLayout {
+                        spacing: 10px;
+                        Badge {
+                            level: Browse.selected.level;
+                            y: 4px;
+                        }
+                        Text {
+                            horizontal-stretch: 1;
+                            text: Browse.selected.de;
+                            color: Theme.text;
+                            font-size: 20px;
+                            font-weight: 700;
+                            wrap: word-wrap;
+                        }
+                        Btn {
+                            text: "Izmeni";
+                            clicked => { Browse.edit-clicked(); }
+                        }
+                        Btn {
+                            text: "Obriši";
+                            clicked => { Browse.delete-clicked(); }
+                        }
+                    }
+                    Text {
+                        text: "[" + Browse.selected.pron + "]"
+                            + (Browse.selected.forms != "" ? "    ·    " + Browse.selected.forms : "");
+                        color: Theme.muted;
+                        font-size: 14px;
+                        font-italic: true;
+                        wrap: word-wrap;
+                    }
+                    Text {
+                        text: Browse.selected.sr;
+                        color: Theme.text;
+                        font-size: 16px;
+                        wrap: word-wrap;
+                    }
+                    if Browse.selected.example-de != "": Text {
+                        text: "„" + Browse.selected.example-de + "”"
+                            + (Browse.selected.example-sr != "" ? "  —  " + Browse.selected.example-sr : "");
+                        color: Theme.accent;
+                        font-size: 14px;
+                        wrap: word-wrap;
+                    }
+                    Muted {
+                        text: Browse.selected.topic;
+                        font-size: 12px;
+                    }
+                }
+            }
+        }
+    }
+}

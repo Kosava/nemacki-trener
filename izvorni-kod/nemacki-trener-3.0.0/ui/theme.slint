@@ -1,0 +1,43 @@
+// Boje i zajedničke mere — svetla i tamna tema.
+export global Theme {
+    in-out property <bool> dark: false;
+
+    out property <color> bg: dark ? #1b1c1f : #f3f4f7;
+    out property <color> surface: dark ? #25272b : #ffffff;
+    out property <color> surface-alt: dark ? #2b2e33 : #f7f8fa;
+    out property <color> border: dark ? #3b3e45 : #d3d8e0;
+    out property <color> text: dark ? #e8e9eb : #1a1e26;
+    out property <color> muted: dark ? #a2a8b3 : #56606e;
+    out property <color> accent: dark ? #6d9bff : #1d4ed8;
+    out property <color> accent-bg: dark ? #2b50c8 : #1d4ed8;
+    out property <color> accent-text: #ffffff;
+    out property <color> ok: dark ? #4ade80 : #15803d;
+    out property <color> ok-bg: dark ? #1f7a3d : #15803d;
+    out property <color> bad: dark ? #ff8a80 : #b42318;
+    out property <color> bad-bg: dark ? #b3372c : #b42318;
+    out property <color> selection: dark ? #2f4170 : #d9e6ff;
+    out property <color> hover: dark ? #30343b : #edf2fa;
+    out property <color> der: dark ? #7db0ff : #1d4ed8;
+    out property <color> die: dark ? #ff8fab : #be185d;
+    out property <color> das: dark ? #5fdc92 : #15803d;
+    out property <color> shade: dark ? #000000a0 : #1a1e2680;
+
+    out property <length> radius: 8px;
+    out property <length> pad: 12px;
+
+    pure public function level-color(level: string) -> color {
+        if (level == "A1") { return #16a34a; }
+        if (level == "A2") { return #b7860b; }
+        if (level == "B1") { return #ea580c; }
+        if (level == "B2") { return #dc2626; }
+        if (level == "X") { return #2563eb; }
+        return #7b8492;
+    }
+
+    pure public function article-color(article: string) -> color {
+        if (article == "der") { return self.der; }
+        if (article == "die") { return self.die; }
+        if (article == "das") { return self.das; }
+        return self.text;
+    }
+}

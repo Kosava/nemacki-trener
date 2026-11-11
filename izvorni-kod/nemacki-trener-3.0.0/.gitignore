@@ -1,0 +1,25 @@
+/target/
+# Rust/Cargo
+**/*.rs.bk
+*.rmeta
+
+# Arhive i heševi lokalnog pakovanja
+*.tar.gz
+*.sha256
+*.sha1
+*.md5
+
+# IDE i editori
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS fajlovi
+.DS_Store
+Thumbs.db
+
+# Lokalna baza podataka u toku rada (da ne kačiš svoj lični napredak)
+*.db
+*.db-wal
+*.db-shm

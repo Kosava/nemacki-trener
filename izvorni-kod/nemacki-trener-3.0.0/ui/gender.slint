@@ -1,0 +1,226 @@
+import { ComboBox } from "std-widgets.slint";
+import { Theme } from "theme.slint";
+import { Btn, Card, Label, Muted } from "widgets.slint";
+
+export global Gender {
+    in property <[string]> filters;
+    in-out property <int> filter-index;
+    in-out property <int> mode-index: 1;
+    in property <string> stats-text;
+
+    in property <bool> active;
+    in property <string> progress-text;
+    in property <string> score-text;
+    in property <string> noun;
+    in property <string> sr;
+    in property <bool> answered;
+    in property <string> article;      // tačan član (prikazuje se posle odgovora)
+    in property <string> chosen;
+    in property <string> result-text;
+    in property <bool> result-ok;
+    in property <string> hint;
+    in property <string> plural;
+
+    callback filter-changed();
+    callback start();
+    callback stop();
+    callback answer(article: string);
+    callback next();
+    callback reset-progress();
+}
+
+component ArticleBtn inherits Rectangle {
+    in property <string> article;
+    in property <string> key;
+    callback clicked();
+
+    property <color> base: Theme.article-color(article);
+    property <bool> is-correct: Gender.answered && Gender.article == article;
+    property <bool> is-wrong: Gender.answered && Gender.chosen == article && Gender.article != article;
+
+    width: 170px;
+    height: 64px;
+    border-radius: 12px;
+    border-width: 2px;
+    border-color: base;
+    background: is-correct ? base
+        : is-wrong ? Theme.bad-bg
+        : (ta.has-hover && !Gender.answered ? base.with-alpha(0.18) : Theme.surface);
+    opacity: Gender.answered && !is-correct && !is-wrong ? 0.45 : 1;
+    animate background { duration: 120ms; }
+
+    VerticalLayout {
+        alignment: center;
+        Text {
+            text: root.article;
+            color: root.is-correct || root.is-wrong ? white : root.base;
+            font-size: 24px;
+            font-weight: 700;
+            horizontal-alignment: center;
+        }
+        Text {
+            text: "[" + root.key + "]";
+            color: root.is-correct || root.is-wrong ? white : Theme.muted;
+            font-size: 11px;
+            horizontal-alignment: center;
+        }
+    }
+    ta := TouchArea {
+        enabled: Gender.active && !Gender.answered;
+        mouse-cursor: pointer;
+        clicked => { root.clicked(); }
+    }
+}
+
+export component GenderPage inherits Rectangle {
+    background: Theme.bg;
+
+    public function focus-card() {
+        keys.focus();
+    }
+
+    keys := FocusScope {
+        key-pressed(event) => {
+            if (!Gender.active) {
+                if (event.text == Key.Return) { Gender.start(); return accept; }
+                return reject;
+            }
+            if (Gender.answered) {
+                if (event.text == Key.Return || event.text == " " || event.text == Key.RightArrow) {
+                    Gender.next();
+                    return accept;
+                }
+                return reject;
+            }
+            if (event.text == "1" || event.text == "d") { Gender.answer("der"); return accept; }
+            if (event.text == "2" || event.text == "i") { Gender.answer("die"); return accept; }
+            if (event.text == "3" || event.text == "a") { Gender.answer("das"); return accept; }
+            return reject;
+        }
+
+        VerticalLayout {
+            padding: Theme.pad;
+            spacing: 10px;
+
+            HorizontalLayout {
+                spacing: 8px;
+                height: 36px;
+                ComboBox {
+                    horizontal-stretch: 3;
+                    model: Gender.filters;
+                    current-index <=> Gender.filter-index;
+                    selected => { Gender.filter-changed(); }
+                }
+                ComboBox {
+                    horizontal-stretch: 1;
+                    model: ["Za ponavljanje danas", "Nove (20)", "Sve (nasumično)"];
+                    current-index <=> Gender.mode-index;
+                }
+                Btn {
+                    text: Gender.active ? "■ Prekini" : "▶ Započni";
+                    kind: Gender.active ? "plain" : "primary";
+                    clicked => {
+                        if (Gender.active) { Gender.stop(); } else { Gender.start(); }
+                        root.focus-card();
+                    }
+                }
+            }
+
+            HorizontalLayout {
+                height: 22px;
+                Muted { text: Gender.stats-text; horizontal-stretch: 1; }
+                Muted { text: Gender.progress-text; }
+                Rectangle { width: 18px; }
+                Muted { text: Gender.score-text; }
+            }
+
+            Card {
+                vertical-stretch: 1;
+                VerticalLayout {
+                    padding: 28px;
+                    spacing: 12px;
+                    alignment: center;
+
+                    if !Gender.active: Text {
+                        text: "Koji je član — der, die ili das?\nIzaberi nivo ili temu i klikni „Započni”.";
+                        color: Theme.muted;
+                        font-size: 18px;
+                        horizontal-alignment: center;
+                        wrap: word-wrap;
+                    }
+                    if Gender.active: HorizontalLayout {
+                        alignment: center;
+                        spacing: 12px;
+                        Text {
+                            text: Gender.answered ? Gender.article : "___";
+                            color: Gender.answered ? Theme.article-color(Gender.article) : Theme.muted;
+                            font-size: 40px;
+                            font-weight: 700;
+                            vertical-alignment: center;
+                        }
+                        Text {
+                            text: Gender.noun;
+                            color: Theme.text;
+                            font-size: 40px;
+                            font-weight: 700;
+                            vertical-alignment: center;
+                        }
+                    }
+                    if Gender.active: Text {
+                        text: Gender.sr;
+                        color: Theme.muted;
+                        font-size: 18px;
+                        horizontal-alignment: center;
+                        wrap: word-wrap;
+                    }
+                    if Gender.active: HorizontalLayout {
+                        alignment: center;
+                        spacing: 16px;
+                        padding-top: 16px;
+                        ArticleBtn { article: "der"; key: "1"; clicked => { Gender.answer("der"); root.focus-card(); } }
+                        ArticleBtn { article: "die"; key: "2"; clicked => { Gender.answer("die"); root.focus-card(); } }
+                        ArticleBtn { article: "das"; key: "3"; clicked => { Gender.answer("das"); root.focus-card(); } }
+                    }
+                    if Gender.active && Gender.answered: Text {
+                        text: Gender.result-text;
+                        color: Gender.result-ok ? Theme.ok : Theme.bad;
+                        font-size: 18px;
+                        font-weight: 700;
+                        horizontal-alignment: center;
+                        wrap: word-wrap;
+                    }
+                    if Gender.active && Gender.answered && Gender.plural != "": Text {
+                        text: Gender.plural;
+                        color: Theme.muted;
+                        font-size: 14px;
+                        horizontal-alignment: center;
+                    }
+                    if Gender.active && Gender.answered && Gender.hint != "": Text {
+                        text: Gender.hint;
+                        color: Theme.accent;
+                        font-size: 14px;
+                        horizontal-alignment: center;
+                        wrap: word-wrap;
+                    }
+                }
+            }
+
+            HorizontalLayout {
+                spacing: 10px;
+                height: 42px;
+                if Gender.active && Gender.answered: Btn {
+                    text: "Dalje   [Enter]";
+                    kind: "primary";
+                    height: 42px;
+                    clicked => { Gender.next(); root.focus-card(); }
+                }
+                Rectangle { horizontal-stretch: 1; }
+                Btn {
+                    text: "Resetuj napredak";
+                    height: 42px;
+                    clicked => { Gender.reset-progress(); }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,48 @@
+# Maintainer: Alen
+#
+# Pravljenje i instalacija:   makepkg -si      (u ovom folderu)
+
+pkgname=nemacki-trener
+pkgver=3.0.0
+pkgrel=1
+pkgdesc="Srpsko-nemački rečnik i vežbe po nivoima A1–B2 (Rust + Slint)"
+arch=('x86_64' 'aarch64')
+license=('GPL-3.0-or-later')
+depends=('gcc-libs' 'glibc' 'fontconfig' 'freetype2' 'libxkbcommon')
+makedepends=('cargo')
+optdepends=('wayland: rad pod Waylandom (labwc, sway, KDE, GNOME)'
+            'libx11: rad pod X11'
+            'libxcursor: kursori pod X11'
+            'mesa: ubrzano iscrtavanje (OpenGL)')
+source=("$pkgname-$pkgver.tar.gz")
+sha256sums=('83af79f179c5acf8af840dbb261ce59c953a2e18091b9699f92f1a4472d580bb')
+
+prepare() {
+  cd "$pkgname-$pkgver"
+  export RUSTUP_TOOLCHAIN=stable
+  cargo fetch --locked --target "$(rustc -vV | sed -n 's/host: //p')"
+}
+
+build() {
+  cd "$pkgname-$pkgver"
+  export RUSTUP_TOOLCHAIN=stable
+  export CARGO_TARGET_DIR=target
+  cargo build --frozen --release
+}
+
+check() {
+  cd "$pkgname-$pkgver"
+  export RUSTUP_TOOLCHAIN=stable
+  export CARGO_TARGET_DIR=target
+  cargo test --frozen --release
+}
+
+package() {
+  cd "$pkgname-$pkgver"
+  install -Dm755 "target/release/$pkgname" "$pkgdir/usr/bin/$pkgname"
+  install -Dm644 packaging/nemacki-trener.desktop "$pkgdir/usr/share/applications/$pkgname.desktop"
+  install -Dm644 packaging/nemacki-trener.png "$pkgdir/usr/share/icons/hicolor/256x256/apps/$pkgname.png"
+  install -Dm644 README.md "$pkgdir/usr/share/doc/$pkgname/README.md"
+  install -Dm644 CHANGELOG.md "$pkgdir/usr/share/doc/$pkgname/CHANGELOG.md"
+  install -Dm644 LICENSE "$pkgdir/usr/share/licenses/$pkgname/LICENSE"
+}

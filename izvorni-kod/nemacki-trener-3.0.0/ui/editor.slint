@@ -1,0 +1,189 @@
+import { LineEdit, ComboBox, CheckBox } from "std-widgets.slint";
+import { Theme } from "theme.slint";
+import { Btn, Card, Label, Muted } from "widgets.slint";
+
+export global Editor {
+    in-out property <bool> visible: false;
+    in property <string> title;
+    in property <[string]> levels: ["A1", "A2", "B1", "B2", "Dodatno (stručno)", "Bez nivoa"];
+    in-out property <int> level-index;
+    in property <[string]> topics;
+    in-out property <int> topic-index: -1;
+    in-out property <string> topic;
+    in-out property <bool> sentence;
+    in property <[string]> kinds: ["imenica", "glagol", "pridev", "ostalo"];
+    in-out property <int> pos-index;
+    in-out property <string> de;
+    in-out property <string> sr;
+    in-out property <string> pron;
+    in-out property <string> forms;
+    in-out property <string> example-de;
+    in-out property <string> example-sr;
+    in property <string> error;
+
+    callback save();
+    callback cancel();
+    callback auto-pron();
+}
+
+component Field inherits HorizontalLayout {
+    in property <string> label;
+    spacing: 10px;
+    height: 34px;
+    Text {
+        width: 130px;
+        text: root.label;
+        color: Theme.muted;
+        font-size: 13px;
+        horizontal-alignment: right;
+        vertical-alignment: center;
+    }
+    @children
+}
+
+export component EditorDialog inherits Rectangle {
+    background: Theme.shade;
+    TouchArea { }   // blokira klikove ispod
+
+    public function focus-first() {
+        de-edit.focus();
+    }
+
+    Card {
+        width: min(660px, parent.width - 40px);
+        height: form.preferred-height;
+        x: (parent.width - self.width) / 2;
+        y: max(10px, (parent.height - self.height) / 2);
+        drop-shadow-blur: 24px;
+        drop-shadow-color: #00000050;
+
+        form := VerticalLayout {
+            padding: 20px;
+            spacing: 9px;
+
+            Text {
+                text: Editor.title;
+                color: Theme.text;
+                font-size: 18px;
+                font-weight: 700;
+                height: 30px;
+            }
+
+            Field {
+                label: "Nivo";
+                ComboBox {
+                    width: 200px;
+                    model: Editor.levels;
+                    current-index <=> Editor.level-index;
+                }
+                Rectangle { horizontal-stretch: 1; }
+                CheckBox {
+                    text: "Rečenica / fraza";
+                    checked <=> Editor.sentence;
+                }
+            }
+            Field {
+                label: "Tema";
+                ComboBox {
+                    width: 200px;
+                    model: Editor.topics;
+                    current-index <=> Editor.topic-index;
+                    selected(v) => { Editor.topic = v; }
+                }
+                LineEdit {
+                    horizontal-stretch: 1;
+                    placeholder-text: "… ili upiši novu temu";
+                    text <=> Editor.topic;
+                }
+            }
+            Field {
+                label: "Nemački";
+                de-edit := LineEdit {
+                    horizontal-stretch: 1;
+                    placeholder-text: Editor.sentence ? "Wie geht es dir?" : "der Tisch";
+                    text <=> Editor.de;
+                    accepted => { Editor.save(); }
+                }
+            }
+            Field {
+                label: "Srpski";
+                LineEdit {
+                    horizontal-stretch: 1;
+                    placeholder-text: Editor.sentence ? "Kako si?" : "sto";
+                    text <=> Editor.sr;
+                    accepted => { Editor.save(); }
+                }
+            }
+            Field {
+                label: "Izgovor";
+                LineEdit {
+                    horizontal-stretch: 1;
+                    placeholder-text: "ostavi prazno — računa se sam";
+                    text <=> Editor.pron;
+                }
+                Btn {
+                    text: "⟳ Automatski";
+                    height: 32px;
+                    clicked => { Editor.auto-pron(); }
+                }
+            }
+            if !Editor.sentence: Field {
+                label: "Vrsta reči";
+                ComboBox {
+                    width: 200px;
+                    model: Editor.kinds;
+                    current-index <=> Editor.pos-index;
+                }
+                Rectangle { horizontal-stretch: 1; }
+            }
+            if !Editor.sentence && Editor.pos-index < 2: Field {
+                label: Editor.pos-index == 0 ? "Množina" : "Perfekt";
+                LineEdit {
+                    horizontal-stretch: 1;
+                    placeholder-text: Editor.pos-index == 0 ? "die Tische   (— ako je nema)" : "ist gegangen / hat gemacht";
+                    text <=> Editor.forms;
+                }
+            }
+            if !Editor.sentence: Field {
+                label: "Primer (nemački)";
+                LineEdit {
+                    horizontal-stretch: 1;
+                    placeholder-text: "Der Tisch ist neu.";
+                    text <=> Editor.example-de;
+                }
+            }
+            if !Editor.sentence: Field {
+                label: "Primer (srpski)";
+                LineEdit {
+                    horizontal-stretch: 1;
+                    placeholder-text: "Sto je nov.";
+                    text <=> Editor.example-sr;
+                    accepted => { Editor.save(); }
+                }
+            }
+
+            if Editor.error != "": Text {
+                text: Editor.error;
+                color: Theme.bad;
+                font-size: 13px;
+                wrap: word-wrap;
+            }
+
+            HorizontalLayout {
+                spacing: 10px;
+                height: 40px;
+                padding-top: 4px;
+                Rectangle { horizontal-stretch: 1; }
+                Btn {
+                    text: "Otkaži";
+                    clicked => { Editor.cancel(); }
+                }
+                Btn {
+                    text: "Sačuvaj";
+                    kind: "primary";
+                    clicked => { Editor.save(); }
+                }
+            }
+        }
+    }
+}
